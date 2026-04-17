@@ -1,0 +1,2847 @@
+id,project_id,keyword
+1,1,Vocabulary
+2,2,Vocabulary
+3,3,Vocabulary
+4,4,Vocabulary
+5,5,Vocabulary
+6,8,Vocabulary
+7,10,Vocabulary
+8,11,Vocabulary
+9,12,Keywords Access Infrastructure Instructor attitudes OER
+10,13,Vocabulary
+11,14,Vocabulary
+12,16,Vocabulary
+13,17,Keywords School leadership School management Literacy School performance
+14,18,Keywords Early childhood development Early learning centres
+15,20,Vocabulary
+16,21,Keywords Labour and Employment [3] Education [6] Health [8] Housing and Land Use Planning [10] Transport
+17,21,Travel and Mobility [11] Demography and Population [14] Social Welfare Policy and Systems [15]
+18,22,Keywords Household Services Income Expenditure
+19,25,Keywords Early child development Early learning
+20,26,Vocabulary
+21,27,Keywords media goods ownership
+22,28,Keywords media goods ownership
+23,29,Keywords media goods ownership
+24,30,Keywords media goods ownership
+25,31,Keywords media goods ownership
+26,33,Vocabulary
+27,34,Vocabulary
+28,35,Vocabulary
+29,36,Vocabulary
+30,38,Vocabulary
+31,39,Vocabulary
+32,40,Vocabulary
+33,41,Vocabulary
+34,42,Vocabulary
+35,43,Vocabulary
+36,44,Vocabulary
+37,45,Vocabulary
+38,46,Vocabulary
+39,48,Vocabulary
+40,49,Vocabulary
+41,52,Vocabulary
+42,53,Keywords labour employment wages occupation work
+43,59,Vocabulary
+44,62,Keywords agriculture consumption demography education expenditure fertility health housing income land use literacy numeracy poverty
+45,63,Keywords Fertility Migration Mortality
+46,64,Keywords Niger public health
+47,65,Keywords agriculture consumption demography education expenditure fertility health housing income land use literacy numeracy poverty
+48,71,Keywords housing family life and marriage gender and gender roles censuses migration religion and values employment unemployment Education
+49,73,Vocabulary
+50,75,Keywords civic participation democracy elections mass media political attitudes voting behaviour
+51,76,Keywords civic participation democracy elections mass media political attitudes Political parties Values Voting behaviour
+52,79,Keywords Agriculture Shocks Demography Intra-household allocation Health Education Migration Remittances Integration Credit Assets Social networks Social cohesion
+53,82,Keywords electrical household load data domestic electrification power quality electricity consumption energy rural residential appliance
+54,84,Keywords income expenditure
+55,85,Keywords labour market employment income informal sector
+56,87,Vocabulary
+57,92,Keywords current voltage power real reactive frequency South Africa rural electrification power quality load data time-of-use electrical household consumption energy electricity domestic residential
+58,93,Keywords electrical household load data domestic electrification power quality electricity consumption energy rural residential appliance
+59,94,Social Sciences
+60,94,learning strategies
+61,94,physics education
+62,94,digital teaching
+63,94,digitalization
+64,94,Covid-19
+65,94,Remote teaching
+66,94,Semi-structured interviews
+67,94,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+68,95,Social Sciences
+69,95,learning strategies
+70,95,physics education
+71,95,digital teaching
+72,95,digitalization
+73,95,Covid-19
+74,95,Remote teaching
+75,95,Semi-structured interviews
+76,95,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+77,96,Social Sciences
+78,96,learning strategies
+79,96,physics education
+80,96,digital teaching
+81,96,digitalization
+82,96,Covid-19
+83,96,Remote teaching
+84,96,Semi-structured interviews
+85,96,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+86,97,Social Sciences
+87,97,learning strategies
+88,97,physics education
+89,97,digital teaching
+90,97,digitalization
+91,97,Covid-19
+92,97,Remote teaching
+93,97,Semi-structured interviews
+94,97,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+95,98,Social Sciences
+96,98,learning strategies
+97,98,physics education
+98,98,digital teaching
+99,98,digitalization
+100,98,Covid-19
+101,98,Remote teaching
+102,98,Semi-structured interviews
+103,98,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+104,99,Social Sciences
+105,99,learning strategies
+106,99,physics education
+107,99,digital teaching
+108,99,digitalization
+109,99,Covid-19
+110,99,Remote teaching
+111,99,Semi-structured interviews
+112,99,learning strategies physics education digital teaching digitalization Covid-19 (Human Disease Ontology) http://purl.obolibrary.org/obo/DOID_0080600 Remote teaching Semi-structured interviews
+113,100,Other
+114,100,AI
+115,100,ChatGPT
+116,100,Technology acceptance
+117,100,Students' perceived usefulness of chatbots
+118,100,Students use of chatbots
+119,100,Large Language Models (LLMs)
+120,100,Accounting education
+121,100,AI ChatGPT Technology acceptance Students' perceived usefulness of chatbots Students use of chatbots Large Language Models (LLMs) Accounting education
+122,101,Other
+123,101,AI
+124,101,ChatGPT
+125,101,Technology acceptance
+126,101,Students' perceived usefulness of chatbots
+127,101,Students use of chatbots
+128,101,Large Language Models (LLMs)
+129,101,Accounting education
+130,101,AI ChatGPT Technology acceptance Students' perceived usefulness of chatbots Students use of chatbots Large Language Models (LLMs) Accounting education
+131,102,Medicine
+132,102,Health and Life Sciences
+133,102,Mathematical Sciences
+134,102,Statistics
+135,102,Education
+136,102,Adaptive education
+137,102,Personality types
+138,102,Statistics Education Adaptive education Personality types
+139,103,Medicine
+140,103,Health and Life Sciences
+141,103,Mathematical Sciences
+142,103,Statistics
+143,103,Education
+144,103,Adaptive education
+145,103,Personality types
+146,103,Statistics Education Adaptive education Personality types
+147,104,Other
+148,104,Nursing -- Study and teaching
+149,104,Multilingual nursing students
+150,104,Scoping review
+151,104,Nursing education
+152,104,Nursing -- Study and teaching Multilingual nursing students Scoping review Nursing education
+153,105,Other
+154,105,Nursing -- Study and teaching
+155,105,Multilingual nursing students
+156,105,Scoping review
+157,105,Nursing education
+158,105,Nursing -- Study and teaching Multilingual nursing students Scoping review Nursing education
+159,106,Other
+160,106,Nursing -- Study and teaching
+161,106,Multilingual nursing students
+162,106,Scoping review
+163,106,Nursing education
+164,106,Nursing -- Study and teaching Multilingual nursing students Scoping review Nursing education
+165,107,Arts and Humanities
+166,107,Social Sciences
+167,107,Bullying
+168,107,Prevention
+169,107,Measures
+170,107,Students´ recommendations
+171,107,Higher education
+172,107,Bullying Prevention Measures Students´ recommendations Higher education
+173,108,Arts and Humanities
+174,108,Social Sciences
+175,108,Bullying
+176,108,Prevention
+177,108,Measures
+178,108,Students´ recommendations
+179,108,Higher education
+180,108,Bullying Prevention Measures Students´ recommendations Higher education
+181,109,Arts and Humanities
+182,109,Social Sciences
+183,109,Bullying
+184,109,Prevention
+185,109,Measures
+186,109,Students´ recommendations
+187,109,Higher education
+188,109,Bullying Prevention Measures Students´ recommendations Higher education
+189,110,Arts and Humanities
+190,110,Social Sciences
+191,110,Bullying
+192,110,Prevention
+193,110,Measures
+194,110,Students´ recommendations
+195,110,Higher education
+196,110,Bullying Prevention Measures Students´ recommendations Higher education
+197,111,Arts and Humanities
+198,111,Social Sciences
+199,111,Bullying
+200,111,Prevention
+201,111,Measures
+202,111,Students´ recommendations
+203,111,Higher education
+204,111,Bullying Prevention Measures Students´ recommendations Higher education
+205,112,Arts and Humanities
+206,112,Social Sciences
+207,112,Bullying
+208,112,Prevention
+209,112,Measures
+210,112,Students´ recommendations
+211,112,Higher education
+212,112,Bullying Prevention Measures Students´ recommendations Higher education
+213,113,Arts and Humanities
+214,113,Social Sciences
+215,113,Bullying
+216,113,Prevention
+217,113,Measures
+218,113,Students´ recommendations
+219,113,Higher education
+220,113,Bullying Prevention Measures Students´ recommendations Higher education
+221,114,Medicine
+222,114,Health and Life Sciences
+223,114,attrition
+224,114,dropout
+225,114,research participation
+226,114,attrition dropout research participation
+227,115,Medicine
+228,115,Health and Life Sciences
+229,115,attrition
+230,115,dropout
+231,115,research participation
+232,115,attrition dropout research participation
+233,116,Other
+234,116,PDC
+235,116,PfDK
+236,116,Pre-service teacher
+237,116,student teacher
+238,116,teacher education
+239,116,PDC PfDK Pre-service teacher student teacher teacher education
+240,117,Other
+241,117,PDC
+242,117,PfDK
+243,117,Pre-service teacher
+244,117,student teacher
+245,117,teacher education
+246,117,PDC PfDK Pre-service teacher student teacher teacher education
+247,118,Medicine
+248,118,Health and Life Sciences
+249,118,collaborative
+250,118,educational guide
+251,118,midwifery education
+252,118,newborn resuscitation
+253,118,simplified guidance
+254,118,stimulate
+255,118,ventilate
+256,118,collaborative educational guide midwifery education newborn resuscitation simplified guidance stimulate ventilate
+257,119,Medicine
+258,119,Health and Life Sciences
+259,119,collaborative
+260,119,educational guide
+261,119,midwifery education
+262,119,newborn resuscitation
+263,119,simplified guidance
+264,119,stimulate
+265,119,ventilate
+266,119,collaborative educational guide midwifery education newborn resuscitation simplified guidance stimulate ventilate
+267,120,Social Sciences
+268,120,Other
+269,120,Education
+270,120,Science Education
+271,120,Mathematics Education
+272,120,Socioscientific issues
+273,120,Argumentation
+274,120,Dialogue
+275,120,Classroom
+276,120,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+277,121,Social Sciences
+278,121,Other
+279,121,Education
+280,121,Science Education
+281,121,Mathematics Education
+282,121,Socioscientific issues
+283,121,Argumentation
+284,121,Dialogue
+285,121,Classroom
+286,121,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+287,122,Social Sciences
+288,122,Other
+289,122,Education
+290,122,Science Education
+291,122,Mathematics Education
+292,122,Socioscientific issues
+293,122,Argumentation
+294,122,Dialogue
+295,122,Classroom
+296,122,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+297,123,Social Sciences
+298,123,Other
+299,123,Education
+300,123,Science Education
+301,123,Mathematics Education
+302,123,Socioscientific issues
+303,123,Argumentation
+304,123,Dialogue
+305,123,Classroom
+306,123,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+307,124,Social Sciences
+308,124,Other
+309,124,Education
+310,124,Science Education
+311,124,Mathematics Education
+312,124,Socioscientific issues
+313,124,Argumentation
+314,124,Dialogue
+315,124,Classroom
+316,124,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+317,125,Social Sciences
+318,125,Other
+319,125,Education
+320,125,Science Education
+321,125,Mathematics Education
+322,125,Socioscientific issues
+323,125,Argumentation
+324,125,Dialogue
+325,125,Classroom
+326,125,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+327,126,Social Sciences
+328,126,Other
+329,126,Education
+330,126,Science Education
+331,126,Mathematics Education
+332,126,Socioscientific issues
+333,126,Argumentation
+334,126,Dialogue
+335,126,Classroom
+336,126,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+337,127,Social Sciences
+338,127,Other
+339,127,Education
+340,127,Science Education
+341,127,Mathematics Education
+342,127,Socioscientific issues
+343,127,Argumentation
+344,127,Dialogue
+345,127,Classroom
+346,127,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+347,128,Social Sciences
+348,128,Other
+349,128,Education
+350,128,Science Education
+351,128,Mathematics Education
+352,128,Socioscientific issues
+353,128,Argumentation
+354,128,Dialogue
+355,128,Classroom
+356,128,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+357,129,Social Sciences
+358,129,Other
+359,129,Education
+360,129,Science Education
+361,129,Mathematics Education
+362,129,Socioscientific issues
+363,129,Argumentation
+364,129,Dialogue
+365,129,Classroom
+366,129,Education Science Education Mathematics Education Socioscientific issues Argumentation Dialogue Classroom
+367,130,Social Sciences
+368,130,flipped classroom
+369,130,active learning
+370,130,meta-analysis
+371,130,systematic review
+372,130,flipped classroom active learning meta-analysis systematic review
+373,131,Social Sciences
+374,131,flipped classroom
+375,131,active learning
+376,131,meta-analysis
+377,131,systematic review
+378,131,flipped classroom active learning meta-analysis systematic review
+379,132,Social Sciences
+380,132,flipped classroom
+381,132,active learning
+382,132,meta-analysis
+383,132,systematic review
+384,132,flipped classroom active learning meta-analysis systematic review
+385,133,Social Sciences
+386,133,flipped classroom
+387,133,active learning
+388,133,meta-analysis
+389,133,systematic review
+390,133,flipped classroom active learning meta-analysis systematic review
+391,134,Social Sciences
+392,134,flipped classroom
+393,134,active learning
+394,134,meta-analysis
+395,134,systematic review
+396,134,flipped classroom active learning meta-analysis systematic review
+397,135,Social Sciences
+398,135,Psychology
+399,135,Gender
+400,135,Vocational Interest
+401,135,Self-Efficacy
+402,135,Social Belonging
+403,135,Adolescents
+404,135,Occupational segregation
+405,135,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+406,136,Social Sciences
+407,136,Psychology
+408,136,Gender
+409,136,Vocational Interest
+410,136,Self-Efficacy
+411,136,Social Belonging
+412,136,Adolescents
+413,136,Occupational segregation
+414,136,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+415,137,Social Sciences
+416,137,Psychology
+417,137,Gender
+418,137,Vocational Interest
+419,137,Self-Efficacy
+420,137,Social Belonging
+421,137,Adolescents
+422,137,Occupational segregation
+423,137,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+424,138,Social Sciences
+425,138,Psychology
+426,138,Gender
+427,138,Vocational Interest
+428,138,Self-Efficacy
+429,138,Social Belonging
+430,138,Adolescents
+431,138,Occupational segregation
+432,138,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+433,139,Social Sciences
+434,139,Psychology
+435,139,Gender
+436,139,Vocational Interest
+437,139,Self-Efficacy
+438,139,Social Belonging
+439,139,Adolescents
+440,139,Occupational segregation
+441,139,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+442,140,Social Sciences
+443,140,Psychology
+444,140,Gender
+445,140,Vocational Interest
+446,140,Self-Efficacy
+447,140,Social Belonging
+448,140,Adolescents
+449,140,Occupational segregation
+450,140,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+451,141,Social Sciences
+452,141,Psychology
+453,141,Gender
+454,141,Vocational Interest
+455,141,Self-Efficacy
+456,141,Social Belonging
+457,141,Adolescents
+458,141,Occupational segregation
+459,141,Psychology Gender Vocational Interest Self-Efficacy Social Belonging Adolescents Occupational segregation
+460,142,Medicine
+461,142,Health and Life Sciences
+462,142,Computer and Information Science
+463,142,Other
+464,142,Mobile apps
+465,142,Evidence-based practice
+466,142,Healthcare education
+467,142,Mobile apps Evidence-based practice Healthcare education
+468,143,Medicine
+469,143,Health and Life Sciences
+470,143,Computer and Information Science
+471,143,Other
+472,143,Mobile apps
+473,143,Evidence-based practice
+474,143,Healthcare education
+475,143,Mobile apps Evidence-based practice Healthcare education
+476,144,Medicine
+477,144,Health and Life Sciences
+478,144,Computer and Information Science
+479,144,Other
+480,144,Mobile apps
+481,144,Evidence-based practice
+482,144,Healthcare education
+483,144,Mobile apps Evidence-based practice Healthcare education
+484,145,Social Sciences
+485,145,Higher education
+486,145,Learning approaches
+487,145,Educational dropout
+488,145,Academic achievement
+489,145,Procrastination
+490,145,Higher education Learning approaches Educational dropout Academic achievement Procrastination
+491,146,Social Sciences
+492,146,Higher education
+493,146,Learning approaches
+494,146,Educational dropout
+495,146,Academic achievement
+496,146,Procrastination
+497,146,Higher education Learning approaches Educational dropout Academic achievement Procrastination
+498,147,Social Sciences
+499,147,Higher education
+500,147,Learning approaches
+501,147,Educational dropout
+502,147,Academic achievement
+503,147,Procrastination
+504,147,Higher education Learning approaches Educational dropout Academic achievement Procrastination
+505,148,Social Sciences
+506,148,Higher education
+507,148,Learning approaches
+508,148,Educational dropout
+509,148,Academic achievement
+510,148,Procrastination
+511,148,Higher education Learning approaches Educational dropout Academic achievement Procrastination
+512,149,Other
+513,149,mental health nursing
+514,149,virtual reality
+515,149,learning
+516,149,mental health nursing virtual reality learning
+517,150,Other
+518,150,mental health nursing
+519,150,virtual reality
+520,150,learning
+521,150,mental health nursing virtual reality learning
+522,151,Other
+523,151,mental health nursing
+524,151,virtual reality
+525,151,learning
+526,151,mental health nursing virtual reality learning
+527,152,Other
+528,152,mental health nursing
+529,152,virtual reality
+530,152,learning
+531,152,mental health nursing virtual reality learning
+532,153,Other
+533,153,mental health nursing
+534,153,virtual reality
+535,153,learning
+536,153,mental health nursing virtual reality learning
+537,154,Social Sciences
+538,154,Other
+539,154,Science Education
+540,154,Education
+541,154,upper secondary school
+542,154,Language
+543,154,practical work
+544,154,sense-making
+545,154,læring
+546,154,dialog
+547,154,naturfag 11. trinn
+548,154,praktisk arbeid
+549,154,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+550,155,Social Sciences
+551,155,Other
+552,155,Science Education
+553,155,Education
+554,155,upper secondary school
+555,155,Language
+556,155,practical work
+557,155,sense-making
+558,155,læring
+559,155,dialog
+560,155,naturfag 11. trinn
+561,155,praktisk arbeid
+562,155,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+563,156,Social Sciences
+564,156,Other
+565,156,Science Education
+566,156,Education
+567,156,upper secondary school
+568,156,Language
+569,156,practical work
+570,156,sense-making
+571,156,læring
+572,156,dialog
+573,156,naturfag 11. trinn
+574,156,praktisk arbeid
+575,156,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+576,157,Social Sciences
+577,157,Other
+578,157,Science Education
+579,157,Education
+580,157,upper secondary school
+581,157,Language
+582,157,practical work
+583,157,sense-making
+584,157,læring
+585,157,dialog
+586,157,naturfag 11. trinn
+587,157,praktisk arbeid
+588,157,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+589,158,Social Sciences
+590,158,Other
+591,158,Science Education
+592,158,Education
+593,158,upper secondary school
+594,158,Language
+595,158,practical work
+596,158,sense-making
+597,158,læring
+598,158,dialog
+599,158,naturfag 11. trinn
+600,158,praktisk arbeid
+601,158,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+602,159,Social Sciences
+603,159,Other
+604,159,Science Education
+605,159,Education
+606,159,upper secondary school
+607,159,Language
+608,159,practical work
+609,159,sense-making
+610,159,læring
+611,159,dialog
+612,159,naturfag 11. trinn
+613,159,praktisk arbeid
+614,159,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+615,160,Social Sciences
+616,160,Other
+617,160,Science Education
+618,160,Education
+619,160,upper secondary school
+620,160,Language
+621,160,practical work
+622,160,sense-making
+623,160,læring
+624,160,dialog
+625,160,naturfag 11. trinn
+626,160,praktisk arbeid
+627,160,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+628,161,Social Sciences
+629,161,Other
+630,161,Science Education
+631,161,Education
+632,161,upper secondary school
+633,161,Language
+634,161,practical work
+635,161,sense-making
+636,161,læring
+637,161,dialog
+638,161,naturfag 11. trinn
+639,161,praktisk arbeid
+640,161,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+641,162,Social Sciences
+642,162,Other
+643,162,Science Education
+644,162,Education
+645,162,upper secondary school
+646,162,Language
+647,162,practical work
+648,162,sense-making
+649,162,læring
+650,162,dialog
+651,162,naturfag 11. trinn
+652,162,praktisk arbeid
+653,162,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+654,163,Social Sciences
+655,163,Other
+656,163,Science Education
+657,163,Education
+658,163,upper secondary school
+659,163,Language
+660,163,practical work
+661,163,sense-making
+662,163,læring
+663,163,dialog
+664,163,naturfag 11. trinn
+665,163,praktisk arbeid
+666,163,Education upper secondary school Language practical work sense-making læring dialog naturfag 11. trinn praktisk arbeid
+667,164,Computer and Information Science
+668,164,Social Sciences
+669,164,Other
+670,164,computer science education
+671,164,computing education
+672,164,self reports
+673,164,computer science education computing education self reports
+674,165,Computer and Information Science
+675,165,Social Sciences
+676,165,Other
+677,165,computer science education
+678,165,computing education
+679,165,self reports
+680,165,computer science education computing education self reports
+681,166,Computer and Information Science
+682,166,Social Sciences
+683,166,Other
+684,166,computer science education
+685,166,computing education
+686,166,self reports
+687,166,computer science education computing education self reports
+688,167,Computer and Information Science
+689,167,Social Sciences
+690,167,Other
+691,167,computer science education
+692,167,computing education
+693,167,self reports
+694,167,computer science education computing education self reports
+695,168,Medicine
+696,168,Health and Life Sciences
+697,168,Social Sciences
+698,168,school dropout
+699,168,mental health
+700,168,general health
+701,168,academic performance
+702,168,upper secondary education
+703,168,school dropout mental health general health academic performance upper secondary education
+704,169,Medicine
+705,169,Health and Life Sciences
+706,169,Social Sciences
+707,169,school dropout
+708,169,mental health
+709,169,general health
+710,169,academic performance
+711,169,upper secondary education
+712,169,school dropout mental health general health academic performance upper secondary education
+713,170,Computer and Information Science
+714,170,Social Sciences
+715,170,Other
+716,170,computer science education
+717,170,computing education
+718,170,mixed method research
+719,170,questionnaires
+720,170,computer science education computing education mixed method research questionnaires
+721,171,Computer and Information Science
+722,171,Social Sciences
+723,171,Other
+724,171,computer science education
+725,171,computing education
+726,171,mixed method research
+727,171,questionnaires
+728,171,computer science education computing education mixed method research questionnaires
+729,172,Medicine
+730,172,Health and Life Sciences
+731,172,Medical education
+732,172,Medical students
+733,172,Extracurricular work
+734,172,Emergency medicine
+735,172,Practical procedures
+736,172,Independent samples t-tests
+737,172,Correlational analyses
+738,172,Cronbach's alpha
+739,172,ANCOVA
+740,172,Mixed models
+741,172,Medical education Medical students Extracurricular work Emergency medicine Practical procedures Independent samples t-tests Correlational analyses Cronbach's alpha ANCOVA Mixed models
+742,173,Medicine
+743,173,Health and Life Sciences
+744,173,Medical education
+745,173,Medical students
+746,173,Extracurricular work
+747,173,Emergency medicine
+748,173,Practical procedures
+749,173,Independent samples t-tests
+750,173,Correlational analyses
+751,173,Cronbach's alpha
+752,173,ANCOVA
+753,173,Mixed models
+754,173,Medical education Medical students Extracurricular work Emergency medicine Practical procedures Independent samples t-tests Correlational analyses Cronbach's alpha ANCOVA Mixed models
+755,174,Medicine
+756,174,Health and Life Sciences
+757,174,Medical education
+758,174,Medical students
+759,174,Extracurricular work
+760,174,Emergency medicine
+761,174,Practical procedures
+762,174,Independent samples t-tests
+763,174,Correlational analyses
+764,174,Cronbach's alpha
+765,174,ANCOVA
+766,174,Mixed models
+767,174,Medical education Medical students Extracurricular work Emergency medicine Practical procedures Independent samples t-tests Correlational analyses Cronbach's alpha ANCOVA Mixed models
+768,175,Medicine
+769,175,Health and Life Sciences
+770,175,Medical education
+771,175,Medical students
+772,175,Extracurricular work
+773,175,Emergency medicine
+774,175,Practical procedures
+775,175,Independent samples t-tests
+776,175,Correlational analyses
+777,175,Cronbach's alpha
+778,175,ANCOVA
+779,175,Mixed models
+780,175,Medical education Medical students Extracurricular work Emergency medicine Practical procedures Independent samples t-tests Correlational analyses Cronbach's alpha ANCOVA Mixed models
+781,176,Social Sciences
+782,176,information literacy
+783,176,quantitative assessment
+784,176,knowing and doing
+785,176,higher education
+786,176,library and information science
+787,176,information literacy quantitative assessment knowing and doing higher education library and information science
+788,177,Social Sciences
+789,177,information literacy
+790,177,quantitative assessment
+791,177,knowing and doing
+792,177,higher education
+793,177,library and information science
+794,177,information literacy quantitative assessment knowing and doing higher education library and information science
+795,178,Social Sciences
+796,178,information literacy
+797,178,quantitative assessment
+798,178,knowing and doing
+799,178,higher education
+800,178,library and information science
+801,178,information literacy quantitative assessment knowing and doing higher education library and information science
+802,179,Social Sciences
+803,179,information literacy
+804,179,quantitative assessment
+805,179,knowing and doing
+806,179,higher education
+807,179,library and information science
+808,179,information literacy quantitative assessment knowing and doing higher education library and information science
+809,180,Social Sciences
+810,180,information literacy
+811,180,quantitative assessment
+812,180,knowing and doing
+813,180,higher education
+814,180,library and information science
+815,180,information literacy quantitative assessment knowing and doing higher education library and information science
+816,181,Other
+817,181,psychometric tests
+818,181,Simultation Design Scale
+819,181,Questionaries
+820,181,Nursing
+821,181,Nursing not elsewhere classified
+822,181,psychometric tests Simultation Design Scale Questionaries Nursing Nursing not elsewhere classified
+823,182,Other
+824,182,psychometric tests
+825,182,Simultation Design Scale
+826,182,Questionaries
+827,182,Nursing
+828,182,Nursing not elsewhere classified
+829,182,psychometric tests Simultation Design Scale Questionaries Nursing Nursing not elsewhere classified
+830,183,Other
+831,183,psychometric tests
+832,183,Simultation Design Scale
+833,183,Questionaries
+834,183,Nursing
+835,183,Nursing not elsewhere classified
+836,183,psychometric tests Simultation Design Scale Questionaries Nursing Nursing not elsewhere classified
+837,184,Medicine
+838,184,Health and Life Sciences
+839,184,Health care professionals
+840,184,Health care students
+841,184,Virtual reality
+842,184,Training
+843,184,Mental health
+844,184,Knowledge
+845,184,Skills
+846,184,Attitudes
+847,184,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+848,185,Medicine
+849,185,Health and Life Sciences
+850,185,Health care professionals
+851,185,Health care students
+852,185,Virtual reality
+853,185,Training
+854,185,Mental health
+855,185,Knowledge
+856,185,Skills
+857,185,Attitudes
+858,185,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+859,186,Medicine
+860,186,Health and Life Sciences
+861,186,Health care professionals
+862,186,Health care students
+863,186,Virtual reality
+864,186,Training
+865,186,Mental health
+866,186,Knowledge
+867,186,Skills
+868,186,Attitudes
+869,186,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+870,187,Medicine
+871,187,Health and Life Sciences
+872,187,Health care professionals
+873,187,Health care students
+874,187,Virtual reality
+875,187,Training
+876,187,Mental health
+877,187,Knowledge
+878,187,Skills
+879,187,Attitudes
+880,187,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+881,188,Medicine
+882,188,Health and Life Sciences
+883,188,Health care professionals
+884,188,Health care students
+885,188,Virtual reality
+886,188,Training
+887,188,Mental health
+888,188,Knowledge
+889,188,Skills
+890,188,Attitudes
+891,188,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+892,189,Medicine
+893,189,Health and Life Sciences
+894,189,Health care professionals
+895,189,Health care students
+896,189,Virtual reality
+897,189,Training
+898,189,Mental health
+899,189,Knowledge
+900,189,Skills
+901,189,Attitudes
+902,189,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+903,190,Medicine
+904,190,Health and Life Sciences
+905,190,Health care professionals
+906,190,Health care students
+907,190,Virtual reality
+908,190,Training
+909,190,Mental health
+910,190,Knowledge
+911,190,Skills
+912,190,Attitudes
+913,190,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+914,191,Medicine
+915,191,Health and Life Sciences
+916,191,Health care professionals
+917,191,Health care students
+918,191,Virtual reality
+919,191,Training
+920,191,Mental health
+921,191,Knowledge
+922,191,Skills
+923,191,Attitudes
+924,191,Health care professionals Health care students Virtual reality Training Mental health Knowledge Skills Attitudes
+925,192,Social Sciences
+926,192,information literacy
+927,192,interest development
+928,192,source evaluation
+929,192,source use
+930,192,information seeking
+931,192,higher education
+932,192,information literacy interest development source evaluation source use information seeking higher education
+933,193,Social Sciences
+934,193,information literacy
+935,193,interest development
+936,193,source evaluation
+937,193,source use
+938,193,information seeking
+939,193,higher education
+940,193,information literacy interest development source evaluation source use information seeking higher education
+941,194,Social Sciences
+942,194,information literacy
+943,194,interest development
+944,194,source evaluation
+945,194,source use
+946,194,information seeking
+947,194,higher education
+948,194,information literacy interest development source evaluation source use information seeking higher education
+949,195,Social Sciences
+950,195,information literacy
+951,195,interest development
+952,195,source evaluation
+953,195,source use
+954,195,information seeking
+955,195,higher education
+956,195,information literacy interest development source evaluation source use information seeking higher education
+957,196,Social Sciences
+958,196,information literacy
+959,196,interest development
+960,196,source evaluation
+961,196,source use
+962,196,information seeking
+963,196,higher education
+964,196,information literacy interest development source evaluation source use information seeking higher education
+965,197,Social Sciences
+966,197,information literacy
+967,197,interest development
+968,197,source evaluation
+969,197,source use
+970,197,information seeking
+971,197,higher education
+972,197,information literacy interest development source evaluation source use information seeking higher education
+973,198,Social Sciences
+974,198,information literacy
+975,198,interest development
+976,198,source evaluation
+977,198,source use
+978,198,information seeking
+979,198,higher education
+980,198,information literacy interest development source evaluation source use information seeking higher education
+981,199,Social Sciences
+982,199,information literacy
+983,199,interest development
+984,199,source evaluation
+985,199,source use
+986,199,information seeking
+987,199,higher education
+988,199,information literacy interest development source evaluation source use information seeking higher education
+989,200,Social Sciences
+990,200,information literacy
+991,200,interest development
+992,200,source evaluation
+993,200,source use
+994,200,information seeking
+995,200,higher education
+996,200,information literacy interest development source evaluation source use information seeking higher education
+997,201,Social Sciences
+998,201,information literacy
+999,201,interest development
+1000,201,source evaluation
+1001,201,source use
+1002,201,information seeking
+1003,201,higher education
+1004,201,information literacy interest development source evaluation source use information seeking higher education
+1005,202,Other
+1006,202,Industry master
+1007,202,Experiential learning
+1008,202,Accounting
+1009,202,Auditing
+1010,202,Lifelong learning
+1011,202,Learning activities
+1012,202,Critical thinking
+1013,202,Business Partners
+1014,202,Professionally oriented training program
+1015,202,Industry master Experiential learning Accounting Auditing Lifelong learning Learning activities Critical thinking Business Partners Professionally oriented training program
+1016,203,Other
+1017,203,Industry master
+1018,203,Experiential learning
+1019,203,Accounting
+1020,203,Auditing
+1021,203,Lifelong learning
+1022,203,Learning activities
+1023,203,Critical thinking
+1024,203,Business Partners
+1025,203,Professionally oriented training program
+1026,203,Industry master Experiential learning Accounting Auditing Lifelong learning Learning activities Critical thinking Business Partners Professionally oriented training program
+1027,204,Social Sciences
+1028,204,information literacy
+1029,204,higher education
+1030,204,metacognition
+1031,204,Dunning-Kruger effect
+1032,204,interest
+1033,204,testing
+1034,204,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1035,205,Social Sciences
+1036,205,information literacy
+1037,205,higher education
+1038,205,metacognition
+1039,205,Dunning-Kruger effect
+1040,205,interest
+1041,205,testing
+1042,205,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1043,206,Social Sciences
+1044,206,information literacy
+1045,206,higher education
+1046,206,metacognition
+1047,206,Dunning-Kruger effect
+1048,206,interest
+1049,206,testing
+1050,206,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1051,207,Social Sciences
+1052,207,information literacy
+1053,207,higher education
+1054,207,metacognition
+1055,207,Dunning-Kruger effect
+1056,207,interest
+1057,207,testing
+1058,207,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1059,208,Social Sciences
+1060,208,information literacy
+1061,208,higher education
+1062,208,metacognition
+1063,208,Dunning-Kruger effect
+1064,208,interest
+1065,208,testing
+1066,208,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1067,209,Social Sciences
+1068,209,information literacy
+1069,209,higher education
+1070,209,metacognition
+1071,209,Dunning-Kruger effect
+1072,209,interest
+1073,209,testing
+1074,209,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1075,210,Social Sciences
+1076,210,information literacy
+1077,210,higher education
+1078,210,metacognition
+1079,210,Dunning-Kruger effect
+1080,210,interest
+1081,210,testing
+1082,210,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1083,211,Social Sciences
+1084,211,information literacy
+1085,211,higher education
+1086,211,metacognition
+1087,211,Dunning-Kruger effect
+1088,211,interest
+1089,211,testing
+1090,211,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1091,212,Social Sciences
+1092,212,information literacy
+1093,212,higher education
+1094,212,metacognition
+1095,212,Dunning-Kruger effect
+1096,212,interest
+1097,212,testing
+1098,212,information literacy higher education metacognition Dunning-Kruger effect interest testing
+1099,213,Computer and Information Science
+1100,213,Social Sciences
+1101,213,Other
+1102,213,computer science education
+1103,213,computing education
+1104,213,educational design
+1105,213,systematic mapping
+1106,213,computer science education computing education educational design systematic mapping
+1107,214,Computer and Information Science
+1108,214,Social Sciences
+1109,214,Other
+1110,214,computer science education
+1111,214,computing education
+1112,214,educational design
+1113,214,systematic mapping
+1114,214,computer science education computing education educational design systematic mapping
+1115,215,Other
+1116,215,Simulation based learning
+1117,215,Nursing Education
+1118,215,Multiple choise questions
+1119,215,Nursing not elsewhere classified
+1120,215,Simulation based learning Nursing Education Multiple choise questions Nursing not elsewhere classified
+1121,216,Other
+1122,216,Simulation based learning
+1123,216,Nursing Education
+1124,216,Multiple choise questions
+1125,216,Nursing not elsewhere classified
+1126,216,Simulation based learning Nursing Education Multiple choise questions Nursing not elsewhere classified
+1127,217,Other
+1128,217,Simulation based learning
+1129,217,Nursing Education
+1130,217,Multiple choise questions
+1131,217,Nursing not elsewhere classified
+1132,217,Simulation based learning Nursing Education Multiple choise questions Nursing not elsewhere classified
+1133,218,Other
+1134,218,Simulation based learning
+1135,218,Nursing Education
+1136,218,Multiple choise questions
+1137,218,Nursing not elsewhere classified
+1138,218,Simulation based learning Nursing Education Multiple choise questions Nursing not elsewhere classified
+1139,219,Social Sciences
+1140,219,Self-efficacy
+1141,219,performance
+1142,219,quantitative
+1143,219,mathematics education
+1144,219,mathematics
+1145,219,gender
+1146,219,Self-efficacy performance quantitative mathematics education mathematics gender
+1147,220,Social Sciences
+1148,220,Self-efficacy
+1149,220,performance
+1150,220,quantitative
+1151,220,mathematics education
+1152,220,mathematics
+1153,220,gender
+1154,220,Self-efficacy performance quantitative mathematics education mathematics gender
+1155,221,Social Sciences
+1156,221,Self-efficacy
+1157,221,performance
+1158,221,quantitative
+1159,221,mathematics education
+1160,221,mathematics
+1161,221,gender
+1162,221,Self-efficacy performance quantitative mathematics education mathematics gender
+1163,222,Social Sciences
+1164,222,Self-efficacy
+1165,222,performance
+1166,222,quantitative
+1167,222,mathematics education
+1168,222,mathematics
+1169,222,gender
+1170,222,Self-efficacy performance quantitative mathematics education mathematics gender
+1171,223,Social Sciences
+1172,223,Self-efficacy
+1173,223,performance
+1174,223,quantitative
+1175,223,mathematics education
+1176,223,mathematics
+1177,223,gender
+1178,223,Self-efficacy performance quantitative mathematics education mathematics gender
+1179,224,Social Sciences
+1180,224,Self-efficacy
+1181,224,performance
+1182,224,quantitative
+1183,224,mathematics education
+1184,224,mathematics
+1185,224,gender
+1186,224,Self-efficacy performance quantitative mathematics education mathematics gender
+1187,225,Other
+1188,225,i-MASTER project
+1189,225,Maritime education and training
+1190,225,Simulators
+1191,225,Nautical training
+1192,225,Intelligent Tutoring System (ITS)
+1193,225,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1194,226,Other
+1195,226,i-MASTER project
+1196,226,Maritime education and training
+1197,226,Simulators
+1198,226,Nautical training
+1199,226,Intelligent Tutoring System (ITS)
+1200,226,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1201,227,Other
+1202,227,i-MASTER project
+1203,227,Maritime education and training
+1204,227,Simulators
+1205,227,Nautical training
+1206,227,Intelligent Tutoring System (ITS)
+1207,227,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1208,228,Other
+1209,228,i-MASTER project
+1210,228,Maritime education and training
+1211,228,Simulators
+1212,228,Nautical training
+1213,228,Intelligent Tutoring System (ITS)
+1214,228,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1215,229,Other
+1216,229,i-MASTER project
+1217,229,Maritime education and training
+1218,229,Simulators
+1219,229,Nautical training
+1220,229,Intelligent Tutoring System (ITS)
+1221,229,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1222,230,Other
+1223,230,i-MASTER project
+1224,230,Maritime education and training
+1225,230,Simulators
+1226,230,Nautical training
+1227,230,Intelligent Tutoring System (ITS)
+1228,230,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1229,231,Other
+1230,231,i-MASTER project
+1231,231,Maritime education and training
+1232,231,Simulators
+1233,231,Nautical training
+1234,231,Intelligent Tutoring System (ITS)
+1235,231,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1236,232,Other
+1237,232,i-MASTER project
+1238,232,Maritime education and training
+1239,232,Simulators
+1240,232,Nautical training
+1241,232,Intelligent Tutoring System (ITS)
+1242,232,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1243,233,Other
+1244,233,i-MASTER project
+1245,233,Maritime education and training
+1246,233,Simulators
+1247,233,Nautical training
+1248,233,Intelligent Tutoring System (ITS)
+1249,233,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1250,234,Other
+1251,234,i-MASTER project
+1252,234,Maritime education and training
+1253,234,Simulators
+1254,234,Nautical training
+1255,234,Intelligent Tutoring System (ITS)
+1256,234,i-MASTER project Maritime education and training Simulators Nautical training Intelligent Tutoring System (ITS)
+1257,235,Arts and Humanities
+1258,235,phonology
+1259,235,Norwegian
+1260,235,French
+1261,235,plosives
+1262,235,L3 acquisition
+1263,235,voicing
+1264,235,aspiration
+1265,235,Voice Onset Time (VOT)
+1266,235,Interphonologie du français contemporain (IPFC)
+1267,235,phonology Norwegian French plosives L3 acquisition voicing aspiration Voice Onset Time (VOT) Interphonologie du français contemporain (IPFC)
+1268,236,Arts and Humanities
+1269,236,phonology
+1270,236,Norwegian
+1271,236,French
+1272,236,plosives
+1273,236,L3 acquisition
+1274,236,voicing
+1275,236,aspiration
+1276,236,Voice Onset Time (VOT)
+1277,236,Interphonologie du français contemporain (IPFC)
+1278,236,phonology Norwegian French plosives L3 acquisition voicing aspiration Voice Onset Time (VOT) Interphonologie du français contemporain (IPFC)
+1279,237,Arts and Humanities
+1280,237,phonology
+1281,237,Norwegian
+1282,237,French
+1283,237,plosives
+1284,237,L3 acquisition
+1285,237,voicing
+1286,237,aspiration
+1287,237,Voice Onset Time (VOT)
+1288,237,Interphonologie du français contemporain (IPFC)
+1289,237,phonology Norwegian French plosives L3 acquisition voicing aspiration Voice Onset Time (VOT) Interphonologie du français contemporain (IPFC)
+1290,238,Arts and Humanities
+1291,238,phonology
+1292,238,Norwegian
+1293,238,French
+1294,238,plosives
+1295,238,L3 acquisition
+1296,238,voicing
+1297,238,aspiration
+1298,238,Voice Onset Time (VOT)
+1299,238,Interphonologie du français contemporain (IPFC)
+1300,238,phonology Norwegian French plosives L3 acquisition voicing aspiration Voice Onset Time (VOT) Interphonologie du français contemporain (IPFC)
+1301,239,Computer and Information Science
+1302,239,Social Sciences
+1303,239,Other
+1304,239,computer science education
+1305,239,teaching assistants
+1306,239,reflection essays
+1307,239,computer science education teaching assistants reflection essays
+1308,240,Computer and Information Science
+1309,240,Social Sciences
+1310,240,Other
+1311,240,computer science education
+1312,240,teaching assistants
+1313,240,reflection essays
+1314,240,computer science education teaching assistants reflection essays
+1315,241,Computer and Information Science
+1316,241,Social Sciences
+1317,241,Other
+1318,241,computer science education
+1319,241,teaching assistants
+1320,241,reflection essays
+1321,241,computer science education teaching assistants reflection essays
+1322,242,Arts and Humanities
+1323,242,Traditional Games
+1324,242,Children's games
+1325,242,Leik
+1326,242,Lek
+1327,242,Traditional Games Children's games Leik Lek
+1328,243,Arts and Humanities
+1329,243,Traditional Games
+1330,243,Children's games
+1331,243,Leik
+1332,243,Lek
+1333,243,Traditional Games Children's games Leik Lek
+1334,244,Arts and Humanities
+1335,244,Traditional Games
+1336,244,Children's games
+1337,244,Leik
+1338,244,Lek
+1339,244,Traditional Games Children's games Leik Lek
+1340,245,Business and Management
+1341,245,International business
+1342,245,internships abroad
+1343,245,problem-based learning
+1344,245,higher education
+1345,245,internationalization
+1346,245,International business internships abroad problem-based learning higher education internationalization
+1347,246,Business and Management
+1348,246,International business
+1349,246,internships abroad
+1350,246,problem-based learning
+1351,246,higher education
+1352,246,internationalization
+1353,246,International business internships abroad problem-based learning higher education internationalization
+1354,247,Computer and Information Science
+1355,247,Social Sciences
+1356,247,Other
+1357,247,computer science education
+1358,247,computing education
+1359,247,study behavior
+1360,247,systematic literature review
+1361,247,computer science education computing education study behavior systematic literature review
+1362,248,Computer and Information Science
+1363,248,Social Sciences
+1364,248,Other
+1365,248,computer science education
+1366,248,computing education
+1367,248,study behavior
+1368,248,systematic literature review
+1369,248,computer science education computing education study behavior systematic literature review
+1370,249,Arts and Humanities
+1371,249,metaphor
+1372,249,student
+1373,249,translator
+1374,249,translation
+1375,249,horoscopes
+1376,249,learner language
+1377,249,metaphor student translator translation horoscopes learner language
+1378,250,Arts and Humanities
+1379,250,metaphor
+1380,250,student
+1381,250,translator
+1382,250,translation
+1383,250,horoscopes
+1384,250,learner language
+1385,250,metaphor student translator translation horoscopes learner language
+1386,251,Arts and Humanities
+1387,251,metaphor
+1388,251,student
+1389,251,translator
+1390,251,translation
+1391,251,horoscopes
+1392,251,learner language
+1393,251,metaphor student translator translation horoscopes learner language
+1394,252,Arts and Humanities
+1395,252,metaphor
+1396,252,student
+1397,252,translator
+1398,252,translation
+1399,252,horoscopes
+1400,252,learner language
+1401,252,metaphor student translator translation horoscopes learner language
+1402,253,Arts and Humanities
+1403,253,metaphor
+1404,253,student
+1405,253,translator
+1406,253,translation
+1407,253,horoscopes
+1408,253,learner language
+1409,253,metaphor student translator translation horoscopes learner language
+1410,254,Arts and Humanities
+1411,254,metaphor
+1412,254,student
+1413,254,translator
+1414,254,translation
+1415,254,horoscopes
+1416,254,learner language
+1417,254,metaphor student translator translation horoscopes learner language
+1418,255,Arts and Humanities
+1419,255,Business and Management
+1420,255,Social Sciences
+1421,255,sustainability education
+1422,255,action-research
+1423,255,post-oil
+1424,255,higher education
+1425,255,entrepreneurship education
+1426,255,problem based learning
+1427,255,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1428,256,Arts and Humanities
+1429,256,Business and Management
+1430,256,Social Sciences
+1431,256,sustainability education
+1432,256,action-research
+1433,256,post-oil
+1434,256,higher education
+1435,256,entrepreneurship education
+1436,256,problem based learning
+1437,256,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1438,257,Arts and Humanities
+1439,257,Business and Management
+1440,257,Social Sciences
+1441,257,sustainability education
+1442,257,action-research
+1443,257,post-oil
+1444,257,higher education
+1445,257,entrepreneurship education
+1446,257,problem based learning
+1447,257,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1448,258,Arts and Humanities
+1449,258,Business and Management
+1450,258,Social Sciences
+1451,258,sustainability education
+1452,258,action-research
+1453,258,post-oil
+1454,258,higher education
+1455,258,entrepreneurship education
+1456,258,problem based learning
+1457,258,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1458,259,Arts and Humanities
+1459,259,Business and Management
+1460,259,Social Sciences
+1461,259,sustainability education
+1462,259,action-research
+1463,259,post-oil
+1464,259,higher education
+1465,259,entrepreneurship education
+1466,259,problem based learning
+1467,259,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1468,260,Arts and Humanities
+1469,260,Business and Management
+1470,260,Social Sciences
+1471,260,sustainability education
+1472,260,action-research
+1473,260,post-oil
+1474,260,higher education
+1475,260,entrepreneurship education
+1476,260,problem based learning
+1477,260,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1478,261,Arts and Humanities
+1479,261,Business and Management
+1480,261,Social Sciences
+1481,261,sustainability education
+1482,261,action-research
+1483,261,post-oil
+1484,261,higher education
+1485,261,entrepreneurship education
+1486,261,problem based learning
+1487,261,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1488,262,Arts and Humanities
+1489,262,Business and Management
+1490,262,Social Sciences
+1491,262,sustainability education
+1492,262,action-research
+1493,262,post-oil
+1494,262,higher education
+1495,262,entrepreneurship education
+1496,262,problem based learning
+1497,262,sustainability education action-research post-oil higher education entrepreneurship education problem based learning
+1498,263,Other
+1499,263,Excercise
+1500,263,Physical activity
+1501,263,Sleep
+1502,263,Students
+1503,263,Excercise Physical activity Sleep Students
+1504,264,Other
+1505,264,Excercise
+1506,264,Physical activity
+1507,264,Sleep
+1508,264,Students
+1509,264,Excercise Physical activity Sleep Students
+1510,265,Other
+1511,265,Excercise
+1512,265,Physical activity
+1513,265,Sleep
+1514,265,Students
+1515,265,Excercise Physical activity Sleep Students
+1516,266,Other
+1517,266,Non-technical skills assessments
+1518,266,Nurse Anesthesia Program.
+1519,266,Educating Health Professionals
+1520,266,Clinical Nursing: Secondary (Acute Care)
+1521,266,Anaesthesiology
+1522,266,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1523,267,Other
+1524,267,Non-technical skills assessments
+1525,267,Nurse Anesthesia Program.
+1526,267,Educating Health Professionals
+1527,267,Clinical Nursing: Secondary (Acute Care)
+1528,267,Anaesthesiology
+1529,267,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1530,268,Other
+1531,268,Non-technical skills assessments
+1532,268,Nurse Anesthesia Program.
+1533,268,Educating Health Professionals
+1534,268,Clinical Nursing: Secondary (Acute Care)
+1535,268,Anaesthesiology
+1536,268,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1537,269,Other
+1538,269,Non-technical skills assessments
+1539,269,Nurse Anesthesia Program.
+1540,269,Educating Health Professionals
+1541,269,Clinical Nursing: Secondary (Acute Care)
+1542,269,Anaesthesiology
+1543,269,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1544,270,Other
+1545,270,Non-technical skills assessments
+1546,270,Nurse Anesthesia Program.
+1547,270,Educating Health Professionals
+1548,270,Clinical Nursing: Secondary (Acute Care)
+1549,270,Anaesthesiology
+1550,270,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1551,271,Other
+1552,271,Non-technical skills assessments
+1553,271,Nurse Anesthesia Program.
+1554,271,Educating Health Professionals
+1555,271,Clinical Nursing: Secondary (Acute Care)
+1556,271,Anaesthesiology
+1557,271,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1558,272,Other
+1559,272,Non-technical skills assessments
+1560,272,Nurse Anesthesia Program.
+1561,272,Educating Health Professionals
+1562,272,Clinical Nursing: Secondary (Acute Care)
+1563,272,Anaesthesiology
+1564,272,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1565,273,Other
+1566,273,Non-technical skills assessments
+1567,273,Nurse Anesthesia Program.
+1568,273,Educating Health Professionals
+1569,273,Clinical Nursing: Secondary (Acute Care)
+1570,273,Anaesthesiology
+1571,273,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1572,274,Other
+1573,274,Non-technical skills assessments
+1574,274,Nurse Anesthesia Program.
+1575,274,Educating Health Professionals
+1576,274,Clinical Nursing: Secondary (Acute Care)
+1577,274,Anaesthesiology
+1578,274,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1579,275,Other
+1580,275,Non-technical skills assessments
+1581,275,Nurse Anesthesia Program.
+1582,275,Educating Health Professionals
+1583,275,Clinical Nursing: Secondary (Acute Care)
+1584,275,Anaesthesiology
+1585,275,Non-technical skills assessments Nurse Anesthesia Program. Educating Health Professionals Clinical Nursing: Secondary (Acute Care) Anaesthesiology
+1586,276,Arts and Humanities
+1587,276,teaching methods
+1588,276,phonemic transcription
+1589,276,evaluation
+1590,276,TEFL
+1591,276,Teaching English as a Foreign Language
+1592,276,tertiary education
+1593,276,phonetics
+1594,276,phonology
+1595,276,quasi-experimental study
+1596,276,English
+1597,276,L1 German
+1598,276,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1599,277,Arts and Humanities
+1600,277,teaching methods
+1601,277,phonemic transcription
+1602,277,evaluation
+1603,277,TEFL
+1604,277,Teaching English as a Foreign Language
+1605,277,tertiary education
+1606,277,phonetics
+1607,277,phonology
+1608,277,quasi-experimental study
+1609,277,English
+1610,277,L1 German
+1611,277,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1612,278,Arts and Humanities
+1613,278,teaching methods
+1614,278,phonemic transcription
+1615,278,evaluation
+1616,278,TEFL
+1617,278,Teaching English as a Foreign Language
+1618,278,tertiary education
+1619,278,phonetics
+1620,278,phonology
+1621,278,quasi-experimental study
+1622,278,English
+1623,278,L1 German
+1624,278,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1625,279,Arts and Humanities
+1626,279,teaching methods
+1627,279,phonemic transcription
+1628,279,evaluation
+1629,279,TEFL
+1630,279,Teaching English as a Foreign Language
+1631,279,tertiary education
+1632,279,phonetics
+1633,279,phonology
+1634,279,quasi-experimental study
+1635,279,English
+1636,279,L1 German
+1637,279,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1638,280,Arts and Humanities
+1639,280,teaching methods
+1640,280,phonemic transcription
+1641,280,evaluation
+1642,280,TEFL
+1643,280,Teaching English as a Foreign Language
+1644,280,tertiary education
+1645,280,phonetics
+1646,280,phonology
+1647,280,quasi-experimental study
+1648,280,English
+1649,280,L1 German
+1650,280,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1651,281,Arts and Humanities
+1652,281,teaching methods
+1653,281,phonemic transcription
+1654,281,evaluation
+1655,281,TEFL
+1656,281,Teaching English as a Foreign Language
+1657,281,tertiary education
+1658,281,phonetics
+1659,281,phonology
+1660,281,quasi-experimental study
+1661,281,English
+1662,281,L1 German
+1663,281,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1664,282,Arts and Humanities
+1665,282,teaching methods
+1666,282,phonemic transcription
+1667,282,evaluation
+1668,282,TEFL
+1669,282,Teaching English as a Foreign Language
+1670,282,tertiary education
+1671,282,phonetics
+1672,282,phonology
+1673,282,quasi-experimental study
+1674,282,English
+1675,282,L1 German
+1676,282,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1677,283,Arts and Humanities
+1678,283,teaching methods
+1679,283,phonemic transcription
+1680,283,evaluation
+1681,283,TEFL
+1682,283,Teaching English as a Foreign Language
+1683,283,tertiary education
+1684,283,phonetics
+1685,283,phonology
+1686,283,quasi-experimental study
+1687,283,English
+1688,283,L1 German
+1689,283,teaching methods phonemic transcription evaluation TEFL Teaching English as a Foreign Language tertiary education phonetics phonology quasi-experimental study English L1 German
+1690,284,Other
+1691,284,Virtual Reality
+1692,284,Virtual environment
+1693,284,training simulators
+1694,284,Second Life
+1695,284,marine engineer education
+1696,284,knowledge
+1697,284,memory
+1698,284,raw-tlx
+1699,284,NASA-TLX
+1700,284,FLOW scales
+1701,284,Maritime
+1702,284,Simulator training
+1703,284,Simulator assessment
+1704,284,Educational Technology and Computing
+1705,284,Marine Engineering
+1706,284,Second Life marine engineer education knowledge memory raw-tlx NASA-TLX FLOW scales Maritime Simulator training Simulator assessment Educational Technology and Computing Marine Engineering
+1707,285,Other
+1708,285,Virtual Reality
+1709,285,Virtual environment
+1710,285,training simulators
+1711,285,Second Life
+1712,285,marine engineer education
+1713,285,knowledge
+1714,285,memory
+1715,285,raw-tlx
+1716,285,NASA-TLX
+1717,285,FLOW scales
+1718,285,Maritime
+1719,285,Simulator training
+1720,285,Simulator assessment
+1721,285,Educational Technology and Computing
+1722,285,Marine Engineering
+1723,285,Second Life marine engineer education knowledge memory raw-tlx NASA-TLX FLOW scales Maritime Simulator training Simulator assessment Educational Technology and Computing Marine Engineering
+1724,286,Arts and Humanities
+1725,286,metaphor
+1726,286,elicitation
+1727,286,Norwegian L2 English
+1728,286,Finnish L2 English
+1729,286,Coronavirus pandemic
+1730,286,language learning
+1731,286,metaphor elicitation Norwegian L2 English Finnish L2 English Coronavirus pandemic language learning
+1732,287,Arts and Humanities
+1733,287,metaphor
+1734,287,elicitation
+1735,287,Norwegian L2 English
+1736,287,Finnish L2 English
+1737,287,Coronavirus pandemic
+1738,287,language learning
+1739,287,metaphor elicitation Norwegian L2 English Finnish L2 English Coronavirus pandemic language learning
+1740,288,Arts and Humanities
+1741,288,metaphor
+1742,288,elicitation
+1743,288,Norwegian L2 English
+1744,288,Finnish L2 English
+1745,288,Coronavirus pandemic
+1746,288,language learning
+1747,288,metaphor elicitation Norwegian L2 English Finnish L2 English Coronavirus pandemic language learning
+1748,289,Arts and Humanities
+1749,289,metaphor
+1750,289,elicitation
+1751,289,Norwegian L2 English
+1752,289,Finnish L2 English
+1753,289,Coronavirus pandemic
+1754,289,language learning
+1755,289,metaphor elicitation Norwegian L2 English Finnish L2 English Coronavirus pandemic language learning
+1756,290,Arts and Humanities
+1757,290,metaphor
+1758,290,elicitation
+1759,290,Norwegian L2 English
+1760,290,Finnish L2 English
+1761,290,Coronavirus pandemic
+1762,290,language learning
+1763,290,metaphor elicitation Norwegian L2 English Finnish L2 English Coronavirus pandemic language learning
+1764,291,Social Sciences
+1765,291,Psychology
+1766,291,Psycholinguistics
+1767,291,Gender Ratio
+1768,291,Role Nouns
+1769,291,Norms
+1770,291,Gender Associations
+1771,291,Gender Stereotypes
+1772,291,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1773,292,Social Sciences
+1774,292,Psychology
+1775,292,Psycholinguistics
+1776,292,Gender Ratio
+1777,292,Role Nouns
+1778,292,Norms
+1779,292,Gender Associations
+1780,292,Gender Stereotypes
+1781,292,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1782,293,Social Sciences
+1783,293,Psychology
+1784,293,Psycholinguistics
+1785,293,Gender Ratio
+1786,293,Role Nouns
+1787,293,Norms
+1788,293,Gender Associations
+1789,293,Gender Stereotypes
+1790,293,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1791,294,Social Sciences
+1792,294,Psychology
+1793,294,Psycholinguistics
+1794,294,Gender Ratio
+1795,294,Role Nouns
+1796,294,Norms
+1797,294,Gender Associations
+1798,294,Gender Stereotypes
+1799,294,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1800,295,Social Sciences
+1801,295,Psychology
+1802,295,Psycholinguistics
+1803,295,Gender Ratio
+1804,295,Role Nouns
+1805,295,Norms
+1806,295,Gender Associations
+1807,295,Gender Stereotypes
+1808,295,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1809,296,Social Sciences
+1810,296,Psychology
+1811,296,Psycholinguistics
+1812,296,Gender Ratio
+1813,296,Role Nouns
+1814,296,Norms
+1815,296,Gender Associations
+1816,296,Gender Stereotypes
+1817,296,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1818,297,Social Sciences
+1819,297,Psychology
+1820,297,Psycholinguistics
+1821,297,Gender Ratio
+1822,297,Role Nouns
+1823,297,Norms
+1824,297,Gender Associations
+1825,297,Gender Stereotypes
+1826,297,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1827,298,Social Sciences
+1828,298,Psychology
+1829,298,Psycholinguistics
+1830,298,Gender Ratio
+1831,298,Role Nouns
+1832,298,Norms
+1833,298,Gender Associations
+1834,298,Gender Stereotypes
+1835,298,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1836,299,Social Sciences
+1837,299,Psychology
+1838,299,Psycholinguistics
+1839,299,Gender Ratio
+1840,299,Role Nouns
+1841,299,Norms
+1842,299,Gender Associations
+1843,299,Gender Stereotypes
+1844,299,Psychology Psycholinguistics Gender Ratio Role Nouns Norms Gender Associations Gender Stereotypes
+1845,300,Other
+1846,300,Descriptive statistics
+1847,300,survey data
+1848,300,interview guides
+1849,300,coding procedure
+1850,300,transcript
+1851,300,Education
+1852,300,Primary Education (excl. Maori)
+1853,300,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1854,301,Other
+1855,301,Descriptive statistics
+1856,301,survey data
+1857,301,interview guides
+1858,301,coding procedure
+1859,301,transcript
+1860,301,Education
+1861,301,Primary Education (excl. Maori)
+1862,301,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1863,302,Other
+1864,302,Descriptive statistics
+1865,302,survey data
+1866,302,interview guides
+1867,302,coding procedure
+1868,302,transcript
+1869,302,Education
+1870,302,Primary Education (excl. Maori)
+1871,302,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1872,303,Other
+1873,303,Descriptive statistics
+1874,303,survey data
+1875,303,interview guides
+1876,303,coding procedure
+1877,303,transcript
+1878,303,Education
+1879,303,Primary Education (excl. Maori)
+1880,303,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1881,304,Other
+1882,304,Descriptive statistics
+1883,304,survey data
+1884,304,interview guides
+1885,304,coding procedure
+1886,304,transcript
+1887,304,Education
+1888,304,Primary Education (excl. Maori)
+1889,304,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1890,305,Other
+1891,305,Descriptive statistics
+1892,305,survey data
+1893,305,interview guides
+1894,305,coding procedure
+1895,305,transcript
+1896,305,Education
+1897,305,Primary Education (excl. Maori)
+1898,305,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1899,306,Other
+1900,306,Descriptive statistics
+1901,306,survey data
+1902,306,interview guides
+1903,306,coding procedure
+1904,306,transcript
+1905,306,Education
+1906,306,Primary Education (excl. Maori)
+1907,306,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1908,307,Other
+1909,307,Descriptive statistics
+1910,307,survey data
+1911,307,interview guides
+1912,307,coding procedure
+1913,307,transcript
+1914,307,Education
+1915,307,Primary Education (excl. Maori)
+1916,307,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1917,308,Other
+1918,308,Descriptive statistics
+1919,308,survey data
+1920,308,interview guides
+1921,308,coding procedure
+1922,308,transcript
+1923,308,Education
+1924,308,Primary Education (excl. Maori)
+1925,308,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1926,309,Other
+1927,309,Descriptive statistics
+1928,309,survey data
+1929,309,interview guides
+1930,309,coding procedure
+1931,309,transcript
+1932,309,Education
+1933,309,Primary Education (excl. Maori)
+1934,309,Descriptive statistics survey data interview guides coding procedure transcript Education Primary Education (excl. Maori)
+1935,310,Social Sciences
+1936,310,Other
+1937,310,education policy
+1938,310,PISA
+1939,310,international comparative research
+1940,310,system-specific factors
+1941,310,gender equality
+1942,310,human development
+1943,310,context
+1944,310,culture
+1945,310,Qualitative Comparative Analysis (QCA)
+1946,310,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+1947,311,Social Sciences
+1948,311,Other
+1949,311,education policy
+1950,311,PISA
+1951,311,international comparative research
+1952,311,system-specific factors
+1953,311,gender equality
+1954,311,human development
+1955,311,context
+1956,311,culture
+1957,311,Qualitative Comparative Analysis (QCA)
+1958,311,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+1959,312,Social Sciences
+1960,312,Other
+1961,312,education policy
+1962,312,PISA
+1963,312,international comparative research
+1964,312,system-specific factors
+1965,312,gender equality
+1966,312,human development
+1967,312,context
+1968,312,culture
+1969,312,Qualitative Comparative Analysis (QCA)
+1970,312,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+1971,313,Social Sciences
+1972,313,Other
+1973,313,education policy
+1974,313,PISA
+1975,313,international comparative research
+1976,313,system-specific factors
+1977,313,gender equality
+1978,313,human development
+1979,313,context
+1980,313,culture
+1981,313,Qualitative Comparative Analysis (QCA)
+1982,313,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+1983,314,Social Sciences
+1984,314,Other
+1985,314,education policy
+1986,314,PISA
+1987,314,international comparative research
+1988,314,system-specific factors
+1989,314,gender equality
+1990,314,human development
+1991,314,context
+1992,314,culture
+1993,314,Qualitative Comparative Analysis (QCA)
+1994,314,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+1995,315,Social Sciences
+1996,315,Other
+1997,315,education policy
+1998,315,PISA
+1999,315,international comparative research
+2000,315,system-specific factors
+2001,315,gender equality
+2002,315,human development
+2003,315,context
+2004,315,culture
+2005,315,Qualitative Comparative Analysis (QCA)
+2006,315,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+2007,316,Social Sciences
+2008,316,Other
+2009,316,education policy
+2010,316,PISA
+2011,316,international comparative research
+2012,316,system-specific factors
+2013,316,gender equality
+2014,316,human development
+2015,316,context
+2016,316,culture
+2017,316,Qualitative Comparative Analysis (QCA)
+2018,316,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+2019,317,Social Sciences
+2020,317,Other
+2021,317,education policy
+2022,317,PISA
+2023,317,international comparative research
+2024,317,system-specific factors
+2025,317,gender equality
+2026,317,human development
+2027,317,context
+2028,317,culture
+2029,317,Qualitative Comparative Analysis (QCA)
+2030,317,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+2031,318,Social Sciences
+2032,318,Other
+2033,318,education policy
+2034,318,PISA
+2035,318,international comparative research
+2036,318,system-specific factors
+2037,318,gender equality
+2038,318,human development
+2039,318,context
+2040,318,culture
+2041,318,Qualitative Comparative Analysis (QCA)
+2042,318,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+2043,319,Social Sciences
+2044,319,Other
+2045,319,education policy
+2046,319,PISA
+2047,319,international comparative research
+2048,319,system-specific factors
+2049,319,gender equality
+2050,319,human development
+2051,319,context
+2052,319,culture
+2053,319,Qualitative Comparative Analysis (QCA)
+2054,319,education policy PISA international comparative research system-specific factors gender equality human development context culture Qualitative Comparative Analysis (QCA)
+2055,320,Arts and Humanities
+2056,320,Russian
+2057,320,corpus
+2058,320,Mobile vowel
+2059,320,Preposition
+2060,320,yer vowel
+2061,320,machine learning
+2062,320,Russian corpus Mobile vowel Preposition yer vowel machine learning
+2063,321,Arts and Humanities
+2064,321,Russian
+2065,321,corpus
+2066,321,Mobile vowel
+2067,321,Preposition
+2068,321,yer vowel
+2069,321,machine learning
+2070,321,Russian corpus Mobile vowel Preposition yer vowel machine learning
+2071,322,Social Sciences
+2072,322,Maker centered learning
+2073,322,Education
+2074,322,Creativity
+2075,322,Embodied learning
+2076,322,Makerspace
+2077,322,Maker centered learning Education Creativity Embodied learning Makerspace
+2078,323,Social Sciences
+2079,323,Maker centered learning
+2080,323,Education
+2081,323,Creativity
+2082,323,Embodied learning
+2083,323,Makerspace
+2084,323,Maker centered learning Education Creativity Embodied learning Makerspace
+2085,324,Social Sciences
+2086,324,Maker centered learning
+2087,324,Education
+2088,324,Creativity
+2089,324,Embodied learning
+2090,324,Makerspace
+2091,324,Maker centered learning Education Creativity Embodied learning Makerspace
+2092,325,Social Sciences
+2093,325,Maker centered learning
+2094,325,Education
+2095,325,Creativity
+2096,325,Embodied learning
+2097,325,Makerspace
+2098,325,Maker centered learning Education Creativity Embodied learning Makerspace
+2099,326,Social Sciences
+2100,326,Maker centered learning
+2101,326,Education
+2102,326,Creativity
+2103,326,Embodied learning
+2104,326,Makerspace
+2105,326,Maker centered learning Education Creativity Embodied learning Makerspace
+2106,327,Social Sciences
+2107,327,Maker centered learning
+2108,327,Education
+2109,327,Creativity
+2110,327,Embodied learning
+2111,327,Makerspace
+2112,327,Maker centered learning Education Creativity Embodied learning Makerspace
+2113,328,Social Sciences
+2114,328,Maker centered learning
+2115,328,Education
+2116,328,Creativity
+2117,328,Embodied learning
+2118,328,Makerspace
+2119,328,Maker centered learning Education Creativity Embodied learning Makerspace
+2120,329,Social Sciences
+2121,329,Maker centered learning
+2122,329,Education
+2123,329,Creativity
+2124,329,Embodied learning
+2125,329,Makerspace
+2126,329,Maker centered learning Education Creativity Embodied learning Makerspace
+2127,330,Social Sciences
+2128,330,Maker centered learning
+2129,330,Education
+2130,330,Creativity
+2131,330,Embodied learning
+2132,330,Makerspace
+2133,330,Maker centered learning Education Creativity Embodied learning Makerspace
+2134,331,Social Sciences
+2135,331,Maker centered learning
+2136,331,Education
+2137,331,Creativity
+2138,331,Embodied learning
+2139,331,Makerspace
+2140,331,Maker centered learning Education Creativity Embodied learning Makerspace
+2141,332,Arts and Humanities
+2142,332,causal subordinators
+2143,332,"""because"""
+2144,332,"""since"""
+2145,332,contextual features
+2146,332,argumentative essays
+2147,332,syntax
+2148,332,English
+2149,332,"causal subordinators ""because"" ""since"" contextual features argumentative essays syntax English"
+2150,333,Arts and Humanities
+2151,333,causal subordinators
+2152,333,"""because"""
+2153,333,"""since"""
+2154,333,contextual features
+2155,333,argumentative essays
+2156,333,syntax
+2157,333,English
+2158,333,"causal subordinators ""because"" ""since"" contextual features argumentative essays syntax English"
+2159,334,Arts and Humanities
+2160,334,causal subordinators
+2161,334,"""because"""
+2162,334,"""since"""
+2163,334,contextual features
+2164,334,argumentative essays
+2165,334,syntax
+2166,334,English
+2167,334,"causal subordinators ""because"" ""since"" contextual features argumentative essays syntax English"
+2168,335,Arts and Humanities
+2169,335,causal subordinators
+2170,335,"""because"""
+2171,335,"""since"""
+2172,335,contextual features
+2173,335,argumentative essays
+2174,335,syntax
+2175,335,English
+2176,335,"causal subordinators ""because"" ""since"" contextual features argumentative essays syntax English"
+2177,336,Arts and Humanities
+2178,336,causal subordinators
+2179,336,"""because"""
+2180,336,"""since"""
+2181,336,contextual features
+2182,336,argumentative essays
+2183,336,syntax
+2184,336,English
+2185,336,"causal subordinators ""because"" ""since"" contextual features argumentative essays syntax English"
+2186,337,Earth and Environmental Sciences
+2187,337,Physics
+2188,337,EISCAT
+2189,337,European Incoherent SCATter Scientific Association
+2190,337,History of Science
+2191,337,Universitetet i Tromsø – Norges arktiske universitet
+2192,337,University of Tromsø – The Arctic University of Norway
+2193,337,Tromsø
+2194,337,Ramfjordmoen
+2195,337,EISCAT European Incoherent SCATter Scientific Association History of Science Universitetet i Tromsø – Norges arktiske universitet University of Tromsø – The Arctic University of Norway Tromsø Ramfjordmoen
+2196,338,Earth and Environmental Sciences
+2197,338,Physics
+2198,338,EISCAT
+2199,338,European Incoherent SCATter Scientific Association
+2200,338,History of Science
+2201,338,Universitetet i Tromsø – Norges arktiske universitet
+2202,338,University of Tromsø – The Arctic University of Norway
+2203,338,Tromsø
+2204,338,Ramfjordmoen
+2205,338,EISCAT European Incoherent SCATter Scientific Association History of Science Universitetet i Tromsø – Norges arktiske universitet University of Tromsø – The Arctic University of Norway Tromsø Ramfjordmoen
+2206,339,Earth and Environmental Sciences
+2207,339,Physics
+2208,339,EISCAT
+2209,339,European Incoherent SCATter Scientific Association
+2210,339,History of Science
+2211,339,Universitetet i Tromsø – Norges arktiske universitet
+2212,339,University of Tromsø – The Arctic University of Norway
+2213,339,Tromsø
+2214,339,Ramfjordmoen
+2215,339,EISCAT European Incoherent SCATter Scientific Association History of Science Universitetet i Tromsø – Norges arktiske universitet University of Tromsø – The Arctic University of Norway Tromsø Ramfjordmoen
+2216,340,Arts and Humanities
+2217,340,L2 acquisition
+2218,340,German learner English
+2219,340,rhotics
+2220,340,linking-r
+2221,340,rhoticity
+2222,340,phonetics & phonology
+2223,340,auditory data
+2224,340,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2225,341,Arts and Humanities
+2226,341,L2 acquisition
+2227,341,German learner English
+2228,341,rhotics
+2229,341,linking-r
+2230,341,rhoticity
+2231,341,phonetics & phonology
+2232,341,auditory data
+2233,341,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2234,342,Arts and Humanities
+2235,342,L2 acquisition
+2236,342,German learner English
+2237,342,rhotics
+2238,342,linking-r
+2239,342,rhoticity
+2240,342,phonetics & phonology
+2241,342,auditory data
+2242,342,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2243,343,Arts and Humanities
+2244,343,L2 acquisition
+2245,343,German learner English
+2246,343,rhotics
+2247,343,linking-r
+2248,343,rhoticity
+2249,343,phonetics & phonology
+2250,343,auditory data
+2251,343,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2252,344,Arts and Humanities
+2253,344,L2 acquisition
+2254,344,German learner English
+2255,344,rhotics
+2256,344,linking-r
+2257,344,rhoticity
+2258,344,phonetics & phonology
+2259,344,auditory data
+2260,344,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2261,345,Arts and Humanities
+2262,345,L2 acquisition
+2263,345,German learner English
+2264,345,rhotics
+2265,345,linking-r
+2266,345,rhoticity
+2267,345,phonetics & phonology
+2268,345,auditory data
+2269,345,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2270,346,Arts and Humanities
+2271,346,L2 acquisition
+2272,346,German learner English
+2273,346,rhotics
+2274,346,linking-r
+2275,346,rhoticity
+2276,346,phonetics & phonology
+2277,346,auditory data
+2278,346,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2279,347,Arts and Humanities
+2280,347,L2 acquisition
+2281,347,German learner English
+2282,347,rhotics
+2283,347,linking-r
+2284,347,rhoticity
+2285,347,phonetics & phonology
+2286,347,auditory data
+2287,347,L2 acquisition German learner English rhotics linking-r rhoticity phonetics & phonology auditory data
+2288,348,Other
+2289,348,Maritime Education and Training
+2290,348,Big Five personality traits
+2291,348,Motivated Strategies for Learning Questionnaire
+2292,348,Simulator training
+2293,348,Marine engineering
+2294,348,Nautical Science
+2295,348,Education
+2296,348,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2297,349,Other
+2298,349,Maritime Education and Training
+2299,349,Big Five personality traits
+2300,349,Motivated Strategies for Learning Questionnaire
+2301,349,Simulator training
+2302,349,Marine engineering
+2303,349,Nautical Science
+2304,349,Education
+2305,349,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2306,350,Other
+2307,350,Maritime Education and Training
+2308,350,Big Five personality traits
+2309,350,Motivated Strategies for Learning Questionnaire
+2310,350,Simulator training
+2311,350,Marine engineering
+2312,350,Nautical Science
+2313,350,Education
+2314,350,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2315,351,Other
+2316,351,Maritime Education and Training
+2317,351,Big Five personality traits
+2318,351,Motivated Strategies for Learning Questionnaire
+2319,351,Simulator training
+2320,351,Marine engineering
+2321,351,Nautical Science
+2322,351,Education
+2323,351,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2324,352,Other
+2325,352,Maritime Education and Training
+2326,352,Big Five personality traits
+2327,352,Motivated Strategies for Learning Questionnaire
+2328,352,Simulator training
+2329,352,Marine engineering
+2330,352,Nautical Science
+2331,352,Education
+2332,352,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2333,353,Other
+2334,353,Maritime Education and Training
+2335,353,Big Five personality traits
+2336,353,Motivated Strategies for Learning Questionnaire
+2337,353,Simulator training
+2338,353,Marine engineering
+2339,353,Nautical Science
+2340,353,Education
+2341,353,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2342,354,Other
+2343,354,Maritime Education and Training
+2344,354,Big Five personality traits
+2345,354,Motivated Strategies for Learning Questionnaire
+2346,354,Simulator training
+2347,354,Marine engineering
+2348,354,Nautical Science
+2349,354,Education
+2350,354,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2351,355,Other
+2352,355,Maritime Education and Training
+2353,355,Big Five personality traits
+2354,355,Motivated Strategies for Learning Questionnaire
+2355,355,Simulator training
+2356,355,Marine engineering
+2357,355,Nautical Science
+2358,355,Education
+2359,355,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2360,356,Other
+2361,356,Maritime Education and Training
+2362,356,Big Five personality traits
+2363,356,Motivated Strategies for Learning Questionnaire
+2364,356,Simulator training
+2365,356,Marine engineering
+2366,356,Nautical Science
+2367,356,Education
+2368,356,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2369,357,Other
+2370,357,Maritime Education and Training
+2371,357,Big Five personality traits
+2372,357,Motivated Strategies for Learning Questionnaire
+2373,357,Simulator training
+2374,357,Marine engineering
+2375,357,Nautical Science
+2376,357,Education
+2377,357,Maritime Education and Training Big Five personality traits Motivated Strategies for Learning Questionnaire Simulator training Marine engineering Nautical Science Education
+2378,358,Engineering
+2379,358,PermUniCompTemp
+2380,358,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2381,359,Engineering
+2382,359,PermUniCompTemp
+2383,359,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2384,360,Engineering
+2385,360,PermUniCompTemp
+2386,360,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2387,361,Engineering
+2388,361,PermUniCompTemp
+2389,361,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2390,362,Engineering
+2391,362,PermUniCompTemp
+2392,362,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2393,363,Engineering
+2394,363,PermUniCompTemp
+2395,363,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2396,364,Engineering
+2397,364,PermUniCompTemp
+2398,364,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2399,365,Engineering
+2400,365,PermUniCompTemp
+2401,365,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2402,366,Engineering
+2403,366,PermUniCompTemp
+2404,366,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2405,367,Engineering
+2406,367,PermUniCompTemp
+2407,367,PermUniCompTemp (Permafrost uniaxial compression for different tempertures)
+2408,368,Arts and Humanities
+2409,368,Social Sciences
+2410,368,early-learned verbs
+2411,368,body parts
+2412,368,lexico-semantic categories
+2413,368,associations
+2414,368,body maps
+2415,368,Hebrew
+2416,368,American English
+2417,368,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2418,369,Arts and Humanities
+2419,369,Social Sciences
+2420,369,early-learned verbs
+2421,369,body parts
+2422,369,lexico-semantic categories
+2423,369,associations
+2424,369,body maps
+2425,369,Hebrew
+2426,369,American English
+2427,369,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2428,370,Arts and Humanities
+2429,370,Social Sciences
+2430,370,early-learned verbs
+2431,370,body parts
+2432,370,lexico-semantic categories
+2433,370,associations
+2434,370,body maps
+2435,370,Hebrew
+2436,370,American English
+2437,370,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2438,371,Arts and Humanities
+2439,371,Social Sciences
+2440,371,early-learned verbs
+2441,371,body parts
+2442,371,lexico-semantic categories
+2443,371,associations
+2444,371,body maps
+2445,371,Hebrew
+2446,371,American English
+2447,371,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2448,372,Arts and Humanities
+2449,372,Social Sciences
+2450,372,early-learned verbs
+2451,372,body parts
+2452,372,lexico-semantic categories
+2453,372,associations
+2454,372,body maps
+2455,372,Hebrew
+2456,372,American English
+2457,372,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2458,373,Arts and Humanities
+2459,373,Social Sciences
+2460,373,early-learned verbs
+2461,373,body parts
+2462,373,lexico-semantic categories
+2463,373,associations
+2464,373,body maps
+2465,373,Hebrew
+2466,373,American English
+2467,373,early-learned verbs body parts lexico-semantic categories associations body maps Hebrew American English
+2468,374,Arts and Humanities
+2469,374,Scottish English
+2470,374,questionnaire data
+2471,374,morpho-syntax
+2472,374,epistemic mustn't
+2473,374,yous(e)
+2474,374,extended use of the progressive
+2475,374,quotative like
+2476,374,World Englishes
+2477,374,language variation
+2478,374,Standard Scottish English
+2479,374,Standard Southern British English
+2480,374,eWAVE
+2481,374,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2482,375,Arts and Humanities
+2483,375,Scottish English
+2484,375,questionnaire data
+2485,375,morpho-syntax
+2486,375,epistemic mustn't
+2487,375,yous(e)
+2488,375,extended use of the progressive
+2489,375,quotative like
+2490,375,World Englishes
+2491,375,language variation
+2492,375,Standard Scottish English
+2493,375,Standard Southern British English
+2494,375,eWAVE
+2495,375,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2496,376,Arts and Humanities
+2497,376,Scottish English
+2498,376,questionnaire data
+2499,376,morpho-syntax
+2500,376,epistemic mustn't
+2501,376,yous(e)
+2502,376,extended use of the progressive
+2503,376,quotative like
+2504,376,World Englishes
+2505,376,language variation
+2506,376,Standard Scottish English
+2507,376,Standard Southern British English
+2508,376,eWAVE
+2509,376,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2510,377,Arts and Humanities
+2511,377,Scottish English
+2512,377,questionnaire data
+2513,377,morpho-syntax
+2514,377,epistemic mustn't
+2515,377,yous(e)
+2516,377,extended use of the progressive
+2517,377,quotative like
+2518,377,World Englishes
+2519,377,language variation
+2520,377,Standard Scottish English
+2521,377,Standard Southern British English
+2522,377,eWAVE
+2523,377,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2524,378,Arts and Humanities
+2525,378,Scottish English
+2526,378,questionnaire data
+2527,378,morpho-syntax
+2528,378,epistemic mustn't
+2529,378,yous(e)
+2530,378,extended use of the progressive
+2531,378,quotative like
+2532,378,World Englishes
+2533,378,language variation
+2534,378,Standard Scottish English
+2535,378,Standard Southern British English
+2536,378,eWAVE
+2537,378,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2538,379,Arts and Humanities
+2539,379,Scottish English
+2540,379,questionnaire data
+2541,379,morpho-syntax
+2542,379,epistemic mustn't
+2543,379,yous(e)
+2544,379,extended use of the progressive
+2545,379,quotative like
+2546,379,World Englishes
+2547,379,language variation
+2548,379,Standard Scottish English
+2549,379,Standard Southern British English
+2550,379,eWAVE
+2551,379,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2552,380,Arts and Humanities
+2553,380,Scottish English
+2554,380,questionnaire data
+2555,380,morpho-syntax
+2556,380,epistemic mustn't
+2557,380,yous(e)
+2558,380,extended use of the progressive
+2559,380,quotative like
+2560,380,World Englishes
+2561,380,language variation
+2562,380,Standard Scottish English
+2563,380,Standard Southern British English
+2564,380,eWAVE
+2565,380,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2566,381,Arts and Humanities
+2567,381,Scottish English
+2568,381,questionnaire data
+2569,381,morpho-syntax
+2570,381,epistemic mustn't
+2571,381,yous(e)
+2572,381,extended use of the progressive
+2573,381,quotative like
+2574,381,World Englishes
+2575,381,language variation
+2576,381,Standard Scottish English
+2577,381,Standard Southern British English
+2578,381,eWAVE
+2579,381,Scottish English questionnaire data morpho-syntax epistemic mustn't yous(e) extended use of the progressive quotative like World Englishes language variation Standard Scottish English Standard Southern British English eWAVE
+2580,382,Arts and Humanities
+2581,382,English
+2582,382,Russian
+2583,382,dative alternation
+2584,382,transfer
+2585,382,Processibility Theory
+2586,382,grammaticality judgement task
+2587,382,100-split task
+2588,382,Double Object Construction
+2589,382,to-dative construction
+2590,382,Theme
+2591,382,Recipient
+2592,382,accusative
+2593,382,dative
+2594,382,rating experiment
+2595,382,Foreign Language Acquisition
+2596,382,English as a foreign language
+2597,382,preposition
+2598,382,case
+2599,382,object order
+2600,382,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2601,383,Arts and Humanities
+2602,383,English
+2603,383,Russian
+2604,383,dative alternation
+2605,383,transfer
+2606,383,Processibility Theory
+2607,383,grammaticality judgement task
+2608,383,100-split task
+2609,383,Double Object Construction
+2610,383,to-dative construction
+2611,383,Theme
+2612,383,Recipient
+2613,383,accusative
+2614,383,dative
+2615,383,rating experiment
+2616,383,Foreign Language Acquisition
+2617,383,English as a foreign language
+2618,383,preposition
+2619,383,case
+2620,383,object order
+2621,383,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2622,384,Arts and Humanities
+2623,384,English
+2624,384,Russian
+2625,384,dative alternation
+2626,384,transfer
+2627,384,Processibility Theory
+2628,384,grammaticality judgement task
+2629,384,100-split task
+2630,384,Double Object Construction
+2631,384,to-dative construction
+2632,384,Theme
+2633,384,Recipient
+2634,384,accusative
+2635,384,dative
+2636,384,rating experiment
+2637,384,Foreign Language Acquisition
+2638,384,English as a foreign language
+2639,384,preposition
+2640,384,case
+2641,384,object order
+2642,384,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2643,385,Arts and Humanities
+2644,385,English
+2645,385,Russian
+2646,385,dative alternation
+2647,385,transfer
+2648,385,Processibility Theory
+2649,385,grammaticality judgement task
+2650,385,100-split task
+2651,385,Double Object Construction
+2652,385,to-dative construction
+2653,385,Theme
+2654,385,Recipient
+2655,385,accusative
+2656,385,dative
+2657,385,rating experiment
+2658,385,Foreign Language Acquisition
+2659,385,English as a foreign language
+2660,385,preposition
+2661,385,case
+2662,385,object order
+2663,385,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2664,386,Arts and Humanities
+2665,386,English
+2666,386,Russian
+2667,386,dative alternation
+2668,386,transfer
+2669,386,Processibility Theory
+2670,386,grammaticality judgement task
+2671,386,100-split task
+2672,386,Double Object Construction
+2673,386,to-dative construction
+2674,386,Theme
+2675,386,Recipient
+2676,386,accusative
+2677,386,dative
+2678,386,rating experiment
+2679,386,Foreign Language Acquisition
+2680,386,English as a foreign language
+2681,386,preposition
+2682,386,case
+2683,386,object order
+2684,386,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2685,387,Arts and Humanities
+2686,387,English
+2687,387,Russian
+2688,387,dative alternation
+2689,387,transfer
+2690,387,Processibility Theory
+2691,387,grammaticality judgement task
+2692,387,100-split task
+2693,387,Double Object Construction
+2694,387,to-dative construction
+2695,387,Theme
+2696,387,Recipient
+2697,387,accusative
+2698,387,dative
+2699,387,rating experiment
+2700,387,Foreign Language Acquisition
+2701,387,English as a foreign language
+2702,387,preposition
+2703,387,case
+2704,387,object order
+2705,387,English Russian dative alternation transfer Processibility Theory grammaticality judgement task 100-split task Double Object Construction to-dative construction Theme Recipient accusative dative rating experiment Foreign Language Acquisition English as a foreign language preposition case object order
+2706,388,Arts and Humanities
+2707,388,Russian
+2708,388,aspect
+2709,388,prefixes
+2710,388,classifiers
+2711,388,Russian aspect prefixes classifiers
+2712,388,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2713,389,Arts and Humanities
+2714,389,Russian
+2715,389,aspect
+2716,389,prefixes
+2717,389,classifiers
+2718,389,Russian aspect prefixes classifiers
+2719,389,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2720,390,Arts and Humanities
+2721,390,Russian
+2722,390,aspect
+2723,390,prefixes
+2724,390,classifiers
+2725,390,Russian aspect prefixes classifiers
+2726,390,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2727,391,Arts and Humanities
+2728,391,Russian
+2729,391,aspect
+2730,391,prefixes
+2731,391,classifiers
+2732,391,Russian aspect prefixes classifiers
+2733,391,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2734,392,Arts and Humanities
+2735,392,Russian
+2736,392,aspect
+2737,392,prefixes
+2738,392,classifiers
+2739,392,Russian aspect prefixes classifiers
+2740,392,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2741,393,Arts and Humanities
+2742,393,Russian
+2743,393,aspect
+2744,393,prefixes
+2745,393,classifiers
+2746,393,Russian aspect prefixes classifiers
+2747,393,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2748,394,Arts and Humanities
+2749,394,Russian
+2750,394,aspect
+2751,394,prefixes
+2752,394,classifiers
+2753,394,Russian aspect prefixes classifiers
+2754,394,Field: Morphology () Time-depth: synchronic () Topic: aspect () Topic: affixes
+2755,395,Arts and Humanities
+2756,395,Motion verbs
+2757,395,Prepositions
+2758,395,Brazilian Portuguese
+2759,395,constructional variation
+2760,395,Cognitive Grammar
+2761,395,Motion verbs Prepositions Brazilian Portuguese constructional variation Cognitive Grammar
+2762,396,Arts and Humanities
+2763,396,Motion verbs
+2764,396,Prepositions
+2765,396,Brazilian Portuguese
+2766,396,constructional variation
+2767,396,Cognitive Grammar
+2768,396,Motion verbs Prepositions Brazilian Portuguese constructional variation Cognitive Grammar
+2769,397,Arts and Humanities
+2770,397,Motion verbs
+2771,397,Prepositions
+2772,397,Brazilian Portuguese
+2773,397,constructional variation
+2774,397,Cognitive Grammar
+2775,397,Motion verbs Prepositions Brazilian Portuguese constructional variation Cognitive Grammar
+2776,398,Arts and Humanities
+2777,398,expressivity
+2778,398,regularity
+2779,398,language evolution
+2780,398,horizontal transmission
+2781,398,vertical transmission
+2782,398,compositionality
+2783,398,expressivity regularity language evolution horizontal transmission vertical transmission compositionality
+2784,398,Field: other () Time-depth: diachronic () Time-depth: synchronic Topic: others ()
+2785,399,Medicine
+2786,399,Health and Life Sciences
+2787,399,Decorin
+2788,399,Exercise
+2789,399,Obesity
+2790,399,Skeletal muscle
+2791,399,Decorin Exercise Obesity Skeletal muscle
+2792,400,Medicine
+2793,400,Health and Life Sciences
+2794,400,Decorin
+2795,400,Exercise
+2796,400,Obesity
+2797,400,Skeletal muscle
+2798,400,Decorin Exercise Obesity Skeletal muscle
+2799,401,Medicine
+2800,401,Health and Life Sciences
+2801,401,Decorin
+2802,401,Exercise
+2803,401,Obesity
+2804,401,Skeletal muscle
+2805,401,Decorin Exercise Obesity Skeletal muscle
+2806,402,Medicine
+2807,402,Health and Life Sciences
+2808,402,Decorin
+2809,402,Exercise
+2810,402,Obesity
+2811,402,Skeletal muscle
+2812,402,Decorin Exercise Obesity Skeletal muscle
+2813,403,Medicine
+2814,403,Health and Life Sciences
+2815,403,Decorin
+2816,403,Exercise
+2817,403,Obesity
+2818,403,Skeletal muscle
+2819,403,Decorin Exercise Obesity Skeletal muscle
+2820,404,Arts and Humanities
+2821,404,metaphor
+2822,404,corpus linguistics
+2823,404,Norwegian language
+2824,404,Second language acquisition
+2825,404,L2 learner
+2826,404,Metaphor Identification Procedure Vrije Universiteit (MIPVU)
+2827,404,The Norwegian Second Language Corpus (ASK)
+2828,404,metaphor corpus linguistics Norwegian language Second language acquisition L2 learner Metaphor Identification Procedure Vrije Universiteit (MIPVU) The Norwegian Second Language Corpus (ASK)
+2829,405,Arts and Humanities
+2830,405,metaphor
+2831,405,corpus linguistics
+2832,405,Norwegian language
+2833,405,Second language acquisition
+2834,405,L2 learner
+2835,405,Metaphor Identification Procedure Vrije Universiteit (MIPVU)
+2836,405,The Norwegian Second Language Corpus (ASK)
+2837,405,metaphor corpus linguistics Norwegian language Second language acquisition L2 learner Metaphor Identification Procedure Vrije Universiteit (MIPVU) The Norwegian Second Language Corpus (ASK)
+2838,406,Arts and Humanities
+2839,406,metaphor
+2840,406,corpus linguistics
+2841,406,Norwegian language
+2842,406,Second language acquisition
+2843,406,L2 learner
+2844,406,Metaphor Identification Procedure Vrije Universiteit (MIPVU)
+2845,406,The Norwegian Second Language Corpus (ASK)
+2846,406,metaphor corpus linguistics Norwegian language Second language acquisition L2 learner Metaphor Identification Procedure Vrije Universiteit (MIPVU) The Norwegian Second Language Corpus (ASK)
