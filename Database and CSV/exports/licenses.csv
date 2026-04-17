@@ -243,56 +243,56 @@ id,project_id,license
 242,329,CC0 1.0
 243,330,CC0 1.0
 244,331,CC0 1.0
-245,332,CC BY-NC 4.0
-246,333,CC BY-NC 4.0
-247,334,CC BY-NC 4.0
-248,335,CC BY-NC 4.0
-249,336,CC BY-NC 4.0
+245,332,CC0 1.0
+246,333,CC0 1.0
+247,334,CC0 1.0
+248,335,CC0 1.0
+249,336,CC0 1.0
 250,337,CC0 1.0
 251,338,CC0 1.0
 252,339,CC0 1.0
-253,340,CC BY 4.0
-254,340,https://creativecommons.org/share-your-work/public-domain/pdm/
-255,340,https://creativecommons.org/licenses/by/4.0/
-256,341,CC BY 4.0
-257,341,https://creativecommons.org/share-your-work/public-domain/pdm/
-258,341,https://creativecommons.org/licenses/by/4.0/
-259,342,CC BY 4.0
-260,342,https://creativecommons.org/share-your-work/public-domain/pdm/
-261,342,https://creativecommons.org/licenses/by/4.0/
-262,343,CC BY 4.0
-263,343,https://creativecommons.org/share-your-work/public-domain/pdm/
-264,343,https://creativecommons.org/licenses/by/4.0/
-265,344,CC BY 4.0
-266,344,https://creativecommons.org/share-your-work/public-domain/pdm/
-267,344,https://creativecommons.org/licenses/by/4.0/
-268,345,CC BY 4.0
-269,345,https://creativecommons.org/share-your-work/public-domain/pdm/
-270,345,https://creativecommons.org/licenses/by/4.0/
-271,346,CC BY 4.0
-272,346,https://creativecommons.org/share-your-work/public-domain/pdm/
-273,346,https://creativecommons.org/licenses/by/4.0/
-274,347,CC BY 4.0
-275,347,https://creativecommons.org/share-your-work/public-domain/pdm/
-276,347,https://creativecommons.org/licenses/by/4.0/
-277,348,CC BY 4.0
-278,349,CC BY 4.0
-279,350,CC BY 4.0
-280,351,CC BY 4.0
-281,352,CC BY 4.0
-282,353,CC BY 4.0
-283,354,CC BY 4.0
-284,355,CC BY 4.0
+253,340,CC BY-NC 4.0
+254,341,CC BY-NC 4.0
+255,342,CC BY-NC 4.0
+256,343,CC BY-NC 4.0
+257,344,CC BY-NC 4.0
+258,345,CC0 1.0
+259,346,CC0 1.0
+260,347,CC0 1.0
+261,348,CC BY 4.0
+262,348,https://creativecommons.org/share-your-work/public-domain/pdm/
+263,348,https://creativecommons.org/licenses/by/4.0/
+264,349,CC BY 4.0
+265,349,https://creativecommons.org/share-your-work/public-domain/pdm/
+266,349,https://creativecommons.org/licenses/by/4.0/
+267,350,CC BY 4.0
+268,350,https://creativecommons.org/share-your-work/public-domain/pdm/
+269,350,https://creativecommons.org/licenses/by/4.0/
+270,351,CC BY 4.0
+271,351,https://creativecommons.org/share-your-work/public-domain/pdm/
+272,351,https://creativecommons.org/licenses/by/4.0/
+273,352,CC BY 4.0
+274,352,https://creativecommons.org/share-your-work/public-domain/pdm/
+275,352,https://creativecommons.org/licenses/by/4.0/
+276,353,CC BY 4.0
+277,353,https://creativecommons.org/share-your-work/public-domain/pdm/
+278,353,https://creativecommons.org/licenses/by/4.0/
+279,354,CC BY 4.0
+280,354,https://creativecommons.org/share-your-work/public-domain/pdm/
+281,354,https://creativecommons.org/licenses/by/4.0/
+282,355,CC BY 4.0
+283,355,https://creativecommons.org/share-your-work/public-domain/pdm/
+284,355,https://creativecommons.org/licenses/by/4.0/
 285,356,CC BY 4.0
 286,357,CC BY 4.0
-287,358,CC0 1.0
-288,359,CC0 1.0
-289,360,CC0 1.0
-290,361,CC0 1.0
-291,362,CC0 1.0
-292,363,CC0 1.0
-293,364,CC0 1.0
-294,365,CC0 1.0
+287,358,CC BY 4.0
+288,359,CC BY 4.0
+289,360,CC BY 4.0
+290,361,CC BY 4.0
+291,362,CC BY 4.0
+292,363,CC BY 4.0
+293,364,CC BY 4.0
+294,365,CC BY 4.0
 295,366,CC0 1.0
 296,367,CC0 1.0
 297,368,CC0 1.0
@@ -301,34 +301,34 @@ id,project_id,license
 300,371,CC0 1.0
 301,372,CC0 1.0
 302,373,CC0 1.0
-303,374,CC BY-SA 4.0
-304,375,CC BY-SA 4.0
-305,376,CC BY-SA 4.0
-306,377,CC BY-SA 4.0
-307,378,CC BY-SA 4.0
-308,379,CC BY-SA 4.0
-309,380,CC BY-SA 4.0
-310,381,CC BY-SA 4.0
-311,382,Custom Dataset Terms
-312,382,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-313,383,Custom Dataset Terms
-314,383,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-315,384,Custom Dataset Terms
-316,384,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-317,385,Custom Dataset Terms
-318,385,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-319,386,Custom Dataset Terms
-320,386,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-321,387,Custom Dataset Terms
-322,387,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
-323,388,CC0 1.0
-324,389,CC0 1.0
-325,390,CC0 1.0
-326,391,CC0 1.0
-327,392,CC0 1.0
-328,393,CC0 1.0
-329,394,CC0 1.0
-330,395,CC0 1.0
+303,374,CC0 1.0
+304,375,CC0 1.0
+305,376,CC0 1.0
+306,377,CC0 1.0
+307,378,CC0 1.0
+308,379,CC0 1.0
+309,380,CC0 1.0
+310,381,CC0 1.0
+311,382,CC BY-SA 4.0
+312,383,CC BY-SA 4.0
+313,384,CC BY-SA 4.0
+314,385,CC BY-SA 4.0
+315,386,CC BY-SA 4.0
+316,387,CC BY-SA 4.0
+317,388,CC BY-SA 4.0
+318,389,CC BY-SA 4.0
+319,390,Custom Dataset Terms
+320,390,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
+321,391,Custom Dataset Terms
+322,391,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
+323,392,Custom Dataset Terms
+324,392,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
+325,393,Custom Dataset Terms
+326,393,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
+327,394,Custom Dataset Terms
+328,394,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
+329,395,Custom Dataset Terms
+330,395,BNCweb can be accessed via http://bncweb.lancs.ac.uk . Examples of usage taken from the British National Corpus (BNC) were obtained and are redistributed under the terms stated in the Terms section of this dataset.
 331,396,CC0 1.0
 332,397,CC0 1.0
 333,398,CC0 1.0
@@ -340,3 +340,11 @@ id,project_id,license
 339,404,CC0 1.0
 340,405,CC0 1.0
 341,406,CC0 1.0
+342,407,CC0 1.0
+343,408,CC0 1.0
+344,409,CC0 1.0
+345,410,CC0 1.0
+346,411,CC0 1.0
+347,412,CC0 1.0
+348,413,CC0 1.0
+349,414,CC0 1.0

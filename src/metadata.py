@@ -9,39 +9,17 @@ from database import get_connection
 def insert_project(data: dict) -> int | None:
     """
     Insert one row into the projects table.
-    Returns the new row's id, or None if the row was ignored (duplicate).
-
-    Required keys in `data`:
-        repository_id, repository_url, project_url, type,
-        title, description, download_date,
-        download_repository_folder, download_project_folder,
-        download_method  ('SCRAPING' | 'API-CALL')
-
-    Optional keys:
-        query_string, version, language, doi, upload_date,
-        download_version_folder
+    Returns the new row's id, or None if ignored (duplicate).
     """
     conn = get_connection()
     cursor = conn.cursor()
 
     cursor.execute("""
         INSERT OR IGNORE INTO projects (
-            query_string,
-            repository_id,
-            repository_url,
-            project_url,
-            version,
-            type,
-            title,
-            description,
-            language,
-            doi,
-            upload_date,
-            download_date,
-            download_repository_folder,
-            download_project_folder,
-            download_version_folder,
-            download_method
+            query_string, repository_id, repository_url, project_url,
+            version, type, title, description, language, doi,
+            upload_date, download_date, download_repository_folder,
+            download_project_folder, download_version_folder, download_method
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     """, (
         data.get("query_string"),
@@ -69,10 +47,7 @@ def insert_project(data: dict) -> int | None:
 
 
 def get_or_create_project(data: dict) -> int:
-    """
-    Return the id of an existing project row (matched on the UNIQUE key:
-    repository_id + project_url + version), inserting it first if needed.
-    """
+    """Return id of existing project row, inserting first if needed."""
     conn = get_connection()
     cursor = conn.cursor()
 
@@ -81,11 +56,7 @@ def get_or_create_project(data: dict) -> int:
         WHERE repository_id = ?
           AND project_url   = ?
           AND COALESCE(version, '') = COALESCE(?, '')
-    """, (
-        data["repository_id"],
-        data["project_url"],
-        data.get("version"),
-    ))
+    """, (data["repository_id"], data["project_url"], data.get("version")))
 
     row = cursor.fetchone()
     conn.close()
@@ -107,7 +78,13 @@ def insert_file(project_id: int, file_name: str, file_type: str, status: str):
     """
     Insert one row into the files table.
 
-    status should be a DOWNLOAD_RESULT value, e.g. 'success' or 'failed'.
+    Valid DOWNLOAD_RESULT values (exact strings, checker is strict):
+        'SUCCEEDED'                  — download succeeded
+        'FAILED'                     — generic failure
+        'FAILED_SERVER_UNRESPONSIVE' — server did not respond
+        'FAILED_LOGIN_REQUIRED'      — resource requires login
+        'FAILED_TOO_LARGE'           — file too large
+        'DOWNLODED'                  — alternate success value in spec (typo)
     """
     conn = get_connection()
     cursor = conn.cursor()
@@ -128,18 +105,13 @@ def insert_file(project_id: int, file_name: str, file_type: str, status: str):
 def insert_keyword(project_id: int, keyword: str):
     conn = get_connection()
     cursor = conn.cursor()
-
-    cursor.execute("""
-        INSERT INTO keywords (project_id, keyword)
-        VALUES (?, ?)
-    """, (project_id, keyword))
-
+    cursor.execute("INSERT INTO keywords (project_id, keyword) VALUES (?, ?)",
+                   (project_id, keyword))
     conn.commit()
     conn.close()
 
 
 def insert_keywords(project_id: int, keywords: list[str]):
-    """Bulk-insert a list of keyword strings for one project."""
     for kw in keywords:
         kw = kw.strip()
         if kw:
@@ -151,27 +123,26 @@ def insert_keywords(project_id: int, keywords: list[str]):
 # ---------------------------------------------------------------------------
 
 def insert_person_role(project_id: int, name: str, role: str = "UNKNOWN"):
+    """
+    Valid PERSON_ROLE values:
+        AUTHOR | UPLOADER | OWNER | OTHER | UNKNOWN
+    """
     conn = get_connection()
     cursor = conn.cursor()
-
-    cursor.execute("""
-        INSERT INTO person_role (project_id, name, role)
-        VALUES (?, ?, ?)
-    """, (project_id, name, role))
-
+    cursor.execute("INSERT INTO person_role (project_id, name, role) VALUES (?, ?, ?)",
+                   (project_id, name, role))
     conn.commit()
     conn.close()
 
 
 def insert_persons(project_id: int, persons: list[dict]):
-    """
-    Bulk-insert person/role pairs.
-    Each dict should have 'name' and optionally 'role'.
-    Example: [{'name': 'Li, Huaqiang', 'role': 'AUTHOR'}]
-    """
+    """Each dict needs 'name' and optionally 'role'."""
+    valid_roles = {"AUTHOR", "UPLOADER", "OWNER", "OTHER", "UNKNOWN"}
     for p in persons:
         name = (p.get("name") or "").strip()
-        role = (p.get("role") or "UNKNOWN").strip()
+        role = (p.get("role") or "UNKNOWN").strip().upper()
+        if role not in valid_roles:
+            role = "UNKNOWN"
         if name:
             insert_person_role(project_id, name, role)
 
@@ -181,21 +152,30 @@ def insert_persons(project_id: int, persons: list[dict]):
 # ---------------------------------------------------------------------------
 
 def insert_license(project_id: int, license_text: str):
+    """
+    Store the raw original license string exactly as scraped.
+    Do NOT convert to SPDX format.
+
+    Checker recognises (with optional version suffix e.g. '4.0'):
+        CC BY | CC BY-SA | CC BY-NC | CC BY-ND | CC BY-NC-ND | CC0
+        ODbL  | ODC-By   | PDDL     | ODbL-1.0 | ODC-By-1.0
+    Any other original string is also accepted per the schema spec.
+    """
+    if not license_text or not license_text.strip():
+        return
     conn = get_connection()
     cursor = conn.cursor()
-
-    cursor.execute("""
-        INSERT INTO licenses (project_id, license)
-        VALUES (?, ?)
-    """, (project_id, license_text))
-
+    cursor.execute("INSERT INTO licenses (project_id, license) VALUES (?, ?)",
+                   (project_id, license_text.strip()))
     conn.commit()
     conn.close()
 
 
 def insert_licenses(project_id: int, license_list: list[str]):
-    """Bulk-insert a list of license strings for one project."""
+    """Bulk-insert license strings. Deduplicates within the list."""
+    seen: set[str] = set()
     for lic in license_list:
-        lic = lic.strip()
-        if lic:
+        lic = (lic or "").strip()
+        if lic and lic not in seen:
+            seen.add(lic)
             insert_license(project_id, lic)
