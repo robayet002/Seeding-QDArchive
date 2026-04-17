@@ -1,8 +1,10 @@
 # QDArchive Seeder (Part I)
 ---
 **ID:** 23277555
+
 **Semester:** Winter 25/26 + Summer 26
-A research tool that discovers, downloads, and catalogues **Qualitative Data Analysis (QDA) project files** from traget repositories. It scrapes metadata and files from SADA (DataFirst UCT) and Dataverse Norway storing everything in a structured SQLite database across five normalised tables.
+
+A research tool that discovers, downloads, and catalogues **Qualitative Data Analysis (QDA) project files** from target repositories. It scrapes metadata and files from SADA (DataFirst UCT) and Dataverse Norway, storing everything in a structured SQLite database across five normalised tables.
 
 ---
 
