@@ -50,12 +50,7 @@ project-root/
 │   ├── scraper_dataverse.py   # Scraper for Dataverse Norway
 │   └── scraper_zenodo.py      # API client for Zenodo
 │
-└── data/
-    ├── downloads/             # Downloaded files, organised by repository/record
-    │   ├── sada/
-    │   ├── dataverse/
-    │   └── zenodo/
-    └── database/
+└──  Database and CSV/
         ├── qdarchive_part1.db # SQLite database
         └── exports/           # CSV exports (one file per table)
 ```
