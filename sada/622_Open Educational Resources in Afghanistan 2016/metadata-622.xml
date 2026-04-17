@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook version="1.2.2" ID="afg-roer4d-oera-2016-v1.1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+<docDscr>
+  <citation>
+    <titlStmt>
+      <IDNo></IDNo>
+    </titlStmt>
+    <prodStmt>
+      <producer abbr="" affiliation="University of Cape Town" role="Metadata producer">DataFirst</producer>
+      <producer abbr="" affiliation="University of Cape Town" role="Metadata producer">ROER4D</producer>
+      <prodDate date="2021-11-15">2021-11-15</prodDate>
+      <software version="v5">NADA</software>
+    </prodStmt>
+    <verStmt>
+      <version>Version 3</version>
+    </verStmt>
+  </citation>
+</docDscr>
+<stdyDscr>
+  <citation>
+    <titlStmt>
+      <titl>Open Educational Resources in Afghanistan 2016</titl>
+      <subTitl/>
+      <altTitl>OERA 2016</altTitl>
+      <parTitl/>
+      <IDNo>afg-roer4d-oera-2016-v1.1</IDNo>
+    </titlStmt>
+    <rspStmt>
+      <AuthEnty affiliation="University of Cape Town">Research on Open Educational Resources for Development</AuthEnty>
+    </rspStmt>
+    <prodStmt>
+      <copyright/>
+      <software version="5.0" date="2021-11-15">NADA</software>
+      <fundAg abbr="IDRC" role="funder">International Development Research Centre</fundAg>
+      <grantNo/>
+    </prodStmt>
+    <distStmt>
+      <contact affiliation="UCT" URI="www.support.data1st.org" email="support@data1st.org">DataFirst Support Site</contact>
+      <depDate date=""/>
+      <distDate date=""/>
+    </distStmt>
+    <serStmt>
+      <serName>Case Study</serName>
+      <serInfo>Research on Open Educational Resources for Development. Early stage impact study of localised OER in Afghanistan 2016 (ROER4D Sub-project 10.4) [dataset]. Version 1.1. Cape Town: ROER4D [producer], 2017. Cape Town: DataFirst [distributor], 2017. DOI: https://doi.org/10.25828/amzc-dy33</serInfo>
+    </serStmt>
+    <verStmt>
+      <version date="2017">v1.1: Edited, anonymised dataset for public distribution.</version>
+      <verResp/>
+      <notes/>
+    </verStmt>
+    <biblCit format=""/>
+    <notes/>
+  </citation>
+  <stdyInfo>
+    <studyBudget/>
+    <subject>
+      <keyword vocab="" vocabURI="">Open Educational Resources</keyword>
+      <keyword vocab="" vocabURI="">Digital library</keyword>
+      <keyword vocab="" vocabURI="">Secondary education</keyword>
+      <keyword vocab="" vocabURI="">Afghanistan</keyword>
+    </subject>
+    <abstract>The Darakht-e Danesh Library (DDL) is a young digital repository of Open Educational Resources (OER). Intended for use by school teachers in Afghanistan, it was developed on the premise that increased access to a growing collection of OER will improve teachers' subject matter knowledge as well as their teaching practice. This impact study sought to determine whether the OER accessed via the DDL would enable teachers' better use of supplementary educational content in their teaching practice; and, whether this content would positively impact the educators' subject knowledge and pedagogical practice. The study utilised a mixed methods approach in order to examine the behaviour and practices of a group of 51 secondary school teachers in the rural province of Parwan in Afghanistan. The study found that when the library was used, the OER in the DDL positively impacted teachers' knowledge and helped them in lesson preparation; however, many teachers stuck to using only the traditional textbook to prepare their lesson plans even after exposure to the DDL. Teachers also found the OER helpful in creating assessment activities for their students, but there was no observed improvement in teacher understanding or use of formative or summative assessments. There was limited understanding among the teachers  f the exact meaning of "open", with most viewing OER as learning materials obtained from the internet, libraries, or simply from outside of their school; teachers made little reference to licensing or to the accessibility characteristics of OER. 
+
+Thus, while teachers who used OER appeared to benefit from these resources, the concept was new to them, representing a disruption to the familiar way of preparing and delivering lessons. For further diffusion of OER as an innovation in teachers' learning and practice, concerted actions will be required, focused on building the collection of OER available in Afghan languages, explicit support in how to integrate OER into teaching, and on ensuring accessibility in the context of limited internet access in rural areas and a teacher population with widely varying levels of proficiency in using digital technology.</abstract>
+    <sumDscr>
+      <collDate date="2016-04" event="start" cycle=""/>
+      <collDate date="2016-05" event="end" cycle=""/>
+      <nation abbr="afg">Afghanistan</nation>
+      <geogCover>The interviews and survey data were conducted at four schools in one province in Afghanistan and are not representative of the country as a whole.</geogCover>
+      <geogUnit>The lowest level of geographic aggregation of the data is individual province.</geogUnit>
+      <anlyUnit>Individuals</anlyUnit>
+      <universe>The survey covered educators in the four institutions involved in the study.</universe>
+      <dataKind>Qualitative data [qul]</dataKind>
+    </sumDscr>
+    <!-- qualityStatement - ddi2.5 - complex type
+     
+     This structure consists of two parts, standardsCompliance and otherQualityStatements. 
+     In standardsCompliance list all specific standards complied with during the execution of this 
+     study. Note the standard name and producer and how the study complied with the standard. 
+     Enter any additional quality statements in otherQualityStatements.
+     
+     -->
+    <qualityStatement>
+      <standardsCompliance>
+        <standard>
+          <standardName/>
+          <producer/>
+        </standard>
+        <complianceDescription/>
+      </standardsCompliance>
+      <otherQualityStatement/>
+    </qualityStatement>
+    <notes/>
+    <!-- exPostEvaluation ddi2.5
+      Use this section to describe evaluation procedures not address in data evaluation processes. 
+      These may include issues such as timing of the study, sequencing issues, cost/budget issues, 
+      relevance, instituional or legal arrangments etc. of the study. 
+      
+      The completionDate attribute holds the date the evaluation was completed. 
+      The type attribute is an optional type to identify the type of evaluation with or without 
+      the use of a controlled vocabulary.
+    -->
+    <exPostEvaluation completionDate="" type="">
+      <evaluationProcess/>
+      <outcomes/>
+    </exPostEvaluation>
+  </stdyInfo>
+  <method>
+    <dataColl>
+      <timeMeth/>
+      <!-- collectorTraining - DDI2.5
+        
+        Collector Training
+
+        Describes the training provided to data collectors including internviewer training, process testing, 
+        compliance with standards etc. This is repeatable for language and to capture different aspects of the 
+        training process. The type attribute allows specification of the type of training being described.
+        
+        -->
+      <collectorTraining type=""/>
+      <frequenc/>
+      <sampProc/>
+      <sampleFrame>
+        <sampleFrameName/>
+        <custodian/>
+        <universe/>
+        <frameUnit isPrimary="">
+          <unitType numberOfUnits=""/>
+        </frameUnit>
+        <updateProcedure/>
+      </sampleFrame>
+      <deviat/>
+      <collMode>Face-to-face [f2f]</collMode>
+      <resInstru/>
+      <!-- instrumentDevelopment - DDI2.5             
+        Describe any development work on the data collection instrument. Type attribute allows for the optional use of a defined development type with or without use of a controlled vocabulary.
+        -->
+      <instrumentDevelopment type=""/>
+      <collSitu/>
+      <actMin/>
+      <ConOps/>
+      <weight/>
+      <cleanOps/>
+    </dataColl>
+    <notes/>
+    <anlyInfo>
+      <respRate/>
+      <EstSmpErr/>
+      <dataAppr/>
+    </anlyInfo>
+    <stdyClas/>
+    <dataProcessing type=""/>
+    <codingInstructions relatedProcesses="" type="">
+      <txt/>
+      <command formalLanguage=""/>
+    </codingInstructions>
+  </method>
+  <dataAccs>
+    <setAvail>
+      <accsPlac URI=""/>
+      <origArch/>
+      <avlStatus/>
+      <collSize/>
+      <complete/>
+      <fileQnty/>
+      <notes/>
+    </setAvail>
+    <useStmt>
+      <restrctn/>
+      <contact affiliation="University of Cape Town" URI="www.support.data1st.org" email="support@data1st.org">DataFirst</contact>
+      <citReq>Research on Open Educational Resources for Development. Open Educational Resources in Afghanistan 2016 (ROER4D Sub-project 10.4) [dataset]. Version 1.1. Cape Town: ROER4D [producer], 2017. Cape Town: DataFirst [distributor], 2017. DOI: https://doi.org/10.25828/amzc-dy33</citReq>
+      <deposReq/>
+      <conditions>Public use data, available to all under a Creative Commons Attribution (CC BY) 4.0 International licence.</conditions>
+      <disclaimer/>
+    </useStmt>
+    <notes/>
+  </dataAccs>
+  <notes/>
+</stdyDscr>
+<dataDscr>
+</dataDscr></codeBook>

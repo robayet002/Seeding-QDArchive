@@ -1,0 +1,1561 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="chl-roer4d-oerms-2014-2015-v1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          zaf-roer4d-oerms-2014-2015-v1
+        </titl>
+      </titlStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata producer">
+          DataFirst
+        </producer>
+        <prodDate date="2018-07-25">
+          2018-07-25
+        </prodDate>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 6
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          OER and Mathematics Skills 2014-2015
+        </titl>
+        <altTitl>
+          OERMS 2014-2015
+        </altTitl>
+        <IDNo>
+          chl-roer4d-oerms-2014-2015-v1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="University of Cape Town">
+          Research on Open Educational Resources for Development (ROER4D)
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer/>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+        <fundAg abbr="IDRC" role="Funder">
+          International Development Research Centre
+        </fundAg>
+      </prodStmt>
+      <distStmt>
+        <contact URI="support.data1st.org" email="support@data1st.org">
+          DataFirst helpdesk
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Case study
+        </serName>
+      </serStmt>
+      <verStmt>
+        <version date="2016">
+          v1: Edited, anonymised dataset for public distribution
+        </version>
+        <notes>
+          Version 1 of the dataset was deposited with DataFirst on 5 July 2016.
+        </notes>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword>
+          Open textbooks
+        </keyword>
+        <keyword>
+          Open Educational Resources
+        </keyword>
+        <keyword>
+          Mathematics
+        </keyword>
+        <keyword>
+          Open Data
+        </keyword>
+      </subject>
+      <abstract>
+        <![CDATA[This study examines the effect of the use of two Open Educational Resources (OER) (a Khan Academy online tutorial and an open textbook hosted on Wikibooks) on logical-mathematical outcomes for first and second-year students in higher education institutions in Chile. It also investigates perceptions of instructors and students about the use of OER, in order to understand how these resources are used and valued. Quantitative and qualitative methods were used to collect student performance data via a student survey, student focus groups, interviews with instructors, and sourcing institutional records. 
+
+Only the institutional records, focus group data and interview data are included in the final dataset. Student survey data is not made available for confidentiality reasons. Findings indicate that students in a contact-study mathematics course who used a Khan Academy online mathematics tutorial obtained better examination results than students who did not use any additional resources, or those who used the open textbook. Moreover, it was also found that instructors and students have positive perceptions about the use of Khan Academy and Wikibooks materials.This study is Sub-project 9 of the Research on Open Educational Resources for Development (ROER4D) project, hosted by the Centre for Innovation in Learning and Teaching (CILT) at the University of Cape Town, South Africa, and Wawasan Open University, Malaysia.]]>
+      </abstract>
+      <sumDscr>
+        <collDate date="2014-07" event="start"/>
+        <collDate date="2015-07" event="end"/>
+        <nation abbr="chl">
+          Chile
+        </nation>
+        <geogCover>
+          The interviews and survey data were conducted at one institution in Chile and are not representative of the country as a whole.
+        </geogCover>
+        <anlyUnit>
+          Individuals
+        </anlyUnit>
+        <universe>
+          The survey covered students and instructors in the single institution involved in the study.
+        </universe>
+        <dataKind>
+          Focus group and survey data
+        </dataKind>
+      </sumDscr>
+      <notes>
+        The data covers perceptions of students and instructors of the value of OER materials over traditional teaching and learning materials in Chile. This was supplemented by record data from the institution on student performance.
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <collMode>
+          Face-to-face and internet [f2f-int]
+        </collMode>
+        <sources/>
+        <collSitu>
+          The interviews were conducted with two instructors and three students, and comprised 20-30 (modal average 22) questions (1-1.5 hour interviews). An online survey was also administered to measure student perceptions of the use of OE (49 responses).
+        </collSitu>
+      </dataColl>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Research on Open Educational Resources for Development. OER and Mathematics Skills (ROER4D Sub-project 9) [dataset]. Version 1. Cape Town: ROER4D [producer], 2016. Cape Town: DataFirst [distributor], 2016. 10.25828/2z1s-rc06
+        </citReq>
+        <conditions>
+          Public use data, available to all
+        </conditions>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F6" URI="zaf-roer4d-oerms-2014-2015-v1.Nesstar?Index=0&amp;Name=oehems-2014-2015-blended">
+    <fileTxt>
+      <fileName>
+        oehems-2014-2015-blended.NSDstat
+      </fileName>
+      <dimensns>
+        <caseQnty>
+          62
+        </caseQnty>
+        <varQnty>
+          10
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F7" URI="zaf-roer4d-oerms-2014-2015-v1.Nesstar?Index=1&amp;Name=oehems-2014-2015-contact">
+    <fileTxt>
+      <fileName>
+        oehems-2014-2015-contact.NSDstat
+      </fileName>
+      <dimensns>
+        <caseQnty>
+          96
+        </caseQnty>
+        <varQnty>
+          13
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    <var ID="V156" name="id" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="1" EndPos="2" width="2" RecSegNo="1"/>
+      <labl>
+        Student ID
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="63"/>
+      </valrng>
+      <sumStat type="vald">
+        62
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        2
+      </sumStat>
+      <sumStat type="max">
+        63
+      </sumStat>
+      <sumStat type="mean">
+        32.5
+      </sumStat>
+      <sumStat type="stdev">
+        18.042
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V157" name="group" files="F6" dcml="0" intrvl="discrete">
+      <location StartPos="3" EndPos="3" width="1" RecSegNo="1"/>
+      <labl>
+        Comparison group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        62
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          KhanAcademy
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          None OER
+        </labl>
+        <catStat type="freq">
+          41
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          KhanAcademic
+        </labl>
+        <catStat type="freq">
+          21
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V158" name="gender" files="F6" dcml="0" intrvl="discrete">
+      <location StartPos="4" EndPos="4" width="1" RecSegNo="1"/>
+      <labl>
+        Gender
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        62
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Female
+        </labl>
+        <catStat type="freq">
+          45
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Male
+        </labl>
+        <catStat type="freq">
+          17
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V159" name="age" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="5" EndPos="6" width="2" RecSegNo="1"/>
+      <labl>
+        Age
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="19" max="65"/>
+      </valrng>
+      <sumStat type="vald">
+        62
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        19
+      </sumStat>
+      <sumStat type="max">
+        65
+      </sumStat>
+      <sumStat type="mean">
+        33.323
+      </sumStat>
+      <sumStat type="stdev">
+        10.083
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V160" name="p_m" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="7" EndPos="9" width="3" RecSegNo="1"/>
+      <labl>
+        Presentation mark - before the exam
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2.9" max="6.7"/>
+      </valrng>
+      <sumStat type="vald">
+        57
+      </sumStat>
+      <sumStat type="invd">
+        5
+      </sumStat>
+      <sumStat type="min">
+        2.9
+      </sumStat>
+      <sumStat type="max">
+        6.7
+      </sumStat>
+      <sumStat type="mean">
+        5.454
+      </sumStat>
+      <sumStat type="stdev">
+        0.871
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V161" name="exam" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="10" EndPos="12" width="3" RecSegNo="1"/>
+      <labl>
+        Exam mark
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1.6" max="7"/>
+      </valrng>
+      <sumStat type="vald">
+        57
+      </sumStat>
+      <sumStat type="invd">
+        5
+      </sumStat>
+      <sumStat type="min">
+        1.6
+      </sumStat>
+      <sumStat type="max">
+        7
+      </sumStat>
+      <sumStat type="mean">
+        5.611
+      </sumStat>
+      <sumStat type="stdev">
+        1.328
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V162" name="f_m" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="13" EndPos="15" width="3" RecSegNo="1"/>
+      <labl>
+        Final mark - after the exam
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2.7" max="6.6"/>
+      </valrng>
+      <sumStat type="vald">
+        57
+      </sumStat>
+      <sumStat type="invd">
+        5
+      </sumStat>
+      <sumStat type="min">
+        2.7
+      </sumStat>
+      <sumStat type="max">
+        6.6
+      </sumStat>
+      <sumStat type="mean">
+        5.507
+      </sumStat>
+      <sumStat type="stdev">
+        0.896
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V163" name="income" files="F6" dcml="0" intrvl="contin">
+      <location StartPos="16" EndPos="22" width="7" RecSegNo="1"/>
+      <labl>
+        student's household average monthly income (Chilean Pesos)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="80000" max="3000000"/>
+      </valrng>
+      <sumStat type="vald">
+        62
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        80000
+      </sumStat>
+      <sumStat type="max">
+        3000000
+      </sumStat>
+      <sumStat type="mean">
+        723741.935
+      </sumStat>
+      <sumStat type="stdev">
+        649457.224
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V164" name="mot_ed" files="F6" dcml="0" intrvl="discrete">
+      <location StartPos="23" EndPos="24" width="2" RecSegNo="1"/>
+      <labl>
+        Mother's education level
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="18"/>
+      </valrng>
+      <sumStat type="vald">
+        60
+      </sumStat>
+      <sumStat type="invd">
+        2
+      </sumStat>
+      <catgry>
+        <catValu>
+          0
+        </catValu>
+        <labl>
+          Did Not Study
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          1B: 1ST year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          2B: 2nd year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          3B: 3rd year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          4B: 4th year of primary education
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          5B: 5th year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          6B: 6th year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          7B: 7th year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          8B: 8th year of primary education
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          1M: 1st year of secondary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          2M: 2nd year of secondary education
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          3M: 3rd year of secondary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          4Mhc: Secondary Education Completed (Scientific-Humanistic).
+        </labl>
+        <catStat type="freq">
+          23
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          4Mtp: Secondary Education Completed (Technical-Professional).
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Incom_CFT_IP: Incomplete Technical Training Center or Professional Institute.
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          Com_CFT_IP: Complete Technical Training Center or Professional Institute.
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          Incom_Uni: Incomplete University.
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          Com_Uni: Complete University.
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          Com_ Uni
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V165" name="mot_ed_y" files="F6" dcml="0" intrvl="discrete">
+      <location StartPos="25" EndPos="26" width="2" RecSegNo="1"/>
+      <labl>
+        Mother's education years
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="4" max="17"/>
+      </valrng>
+      <sumStat type="vald">
+        60
+      </sumStat>
+      <sumStat type="invd">
+        2
+      </sumStat>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <catStat type="freq">
+          23
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V166" name="id" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="1" EndPos="3" width="3" RecSegNo="1"/>
+      <labl>
+        Student ID
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="106"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        1
+      </sumStat>
+      <sumStat type="max">
+        106
+      </sumStat>
+      <sumStat type="mean">
+        53.656
+      </sumStat>
+      <sumStat type="stdev">
+        30.334
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V167" name="group" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="4" EndPos="4" width="1" RecSegNo="1"/>
+      <labl>
+        Comparison group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Open Book
+        </labl>
+        <catStat type="freq">
+          35
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          KhanAcademy
+        </labl>
+        <catStat type="freq">
+          30
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          None OER
+        </labl>
+        <catStat type="freq">
+          31
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V168" name="gender" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="5" EndPos="5" width="1" RecSegNo="1"/>
+      <labl>
+        Gender
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Female
+        </labl>
+        <catStat type="freq">
+          94
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Male
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V169" name="age" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="6" EndPos="7" width="2" RecSegNo="1"/>
+      <labl>
+        Age
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="18" max="54"/>
+      </valrng>
+      <sumStat type="vald">
+        83
+      </sumStat>
+      <sumStat type="invd">
+        13
+      </sumStat>
+      <sumStat type="min">
+        18
+      </sumStat>
+      <sumStat type="max">
+        54
+      </sumStat>
+      <sumStat type="mean">
+        26.675
+      </sumStat>
+      <sumStat type="stdev">
+        8.166
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V170" name="region" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="8" EndPos="8" width="1" RecSegNo="1"/>
+      <labl>
+        Region of origin
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          RM: Metropolitan Region
+        </labl>
+        <catStat type="freq">
+          75
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          II: Region of Antofagasta
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          V: Region of ValparaÃ­so
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          VIII: Region of Bio Bio
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          IX: Region of AraucanÃ­a
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          XV: Region of Arica y Parinacota
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          .
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          III
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          XIV
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V171" name="attendance" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="9" EndPos="11" width="3" RecSegNo="1"/>
+      <labl>
+        Percentage of attendance of the student during the term
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="61" max="100"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        61
+      </sumStat>
+      <sumStat type="max">
+        100
+      </sumStat>
+      <sumStat type="mean">
+        84.51
+      </sumStat>
+      <sumStat type="stdev">
+        10.204
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V172" name="p_m" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="12" EndPos="14" width="3" RecSegNo="1"/>
+      <labl>
+        Presentation mark - before the exam
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2.8" max="6.8"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        2.8
+      </sumStat>
+      <sumStat type="max">
+        6.8
+      </sumStat>
+      <sumStat type="mean">
+        4.791
+      </sumStat>
+      <sumStat type="stdev">
+        0.859
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V173" name="exam" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="15" EndPos="15" width="1" RecSegNo="1"/>
+      <labl>
+        Exam mark
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        84
+      </sumStat>
+      <sumStat type="invd">
+        12
+      </sumStat>
+      <sumStat type="min">
+        1
+      </sumStat>
+      <sumStat type="max">
+        8
+      </sumStat>
+      <sumStat type="mean">
+        5.174
+      </sumStat>
+      <sumStat type="stdev">
+        1.187
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V174" name="f_m" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="16" EndPos="18" width="3" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Final mark  - after the exam]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2.5" max="6.8"/>
+      </valrng>
+      <sumStat type="vald">
+        96
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <sumStat type="min">
+        2.5
+      </sumStat>
+      <sumStat type="max">
+        6.8
+      </sumStat>
+      <sumStat type="mean">
+        4.961
+      </sumStat>
+      <sumStat type="stdev">
+        0.783
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V175" name="income" files="F7" dcml="0" intrvl="contin">
+      <location StartPos="19" EndPos="24" width="6" RecSegNo="1"/>
+      <labl>
+        Student's householderage monthly income (Chilean Pesos)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="50000" max="900000"/>
+      </valrng>
+      <sumStat type="vald">
+        83
+      </sumStat>
+      <sumStat type="invd">
+        13
+      </sumStat>
+      <sumStat type="min">
+        50000
+      </sumStat>
+      <sumStat type="max">
+        900000
+      </sumStat>
+      <sumStat type="mean">
+        364216.867
+      </sumStat>
+      <sumStat type="stdev">
+        171912.63
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V176" name="mot_ed" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="25" EndPos="26" width="2" RecSegNo="1"/>
+      <labl>
+        Mother's education level
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="18"/>
+      </valrng>
+      <sumStat type="vald">
+        80
+      </sumStat>
+      <sumStat type="invd">
+        16
+      </sumStat>
+      <catgry>
+        <catValu>
+          0
+        </catValu>
+        <labl>
+          Did Not Study
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          1B: 1ST year of primary education
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          2B: 2nd year of primary education
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          3B: 3rd year of primary education
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          4B: 4th year of primary education
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          5B: 5th year of primary education
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          6B: 6th year of primary education
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          7B: 7th year of primary education
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          8B: 8th year of primary education
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          1M: 1st year of secondary education
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          2M: 2nd year of secondary education
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          3M: 3rd year of secondary education
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          4Mhc: Secondary Education Completed (Scientific-Humanistic).
+        </labl>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          4Mtp: Secondary Education Completed (Technical-Professional).
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Incom_CFT_IP: Incomplete Technical Training Center or Professional Institute.
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          Com_CFT_IP: Complete Technical Training Center or Professional Institute.
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          Incom_Uni: Incomplete University.
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          Com_Uni: Complete University.
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          Com_ Uni
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V177" name="mot_ed_y" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="27" EndPos="28" width="2" RecSegNo="1"/>
+      <labl>
+        Mother's education years
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="17"/>
+      </valrng>
+      <sumStat type="vald">
+        80
+      </sumStat>
+      <sumStat type="invd">
+        16
+      </sumStat>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V178" name="reg_rec" files="F7" dcml="0" intrvl="discrete">
+      <location StartPos="29" EndPos="29" width="1" RecSegNo="1"/>
+      <labl>
+        Region of the student (recoded)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        83
+      </sumStat>
+      <sumStat type="invd">
+        13
+      </sumStat>
+      <catgry>
+        <catValu>
+          0
+        </catValu>
+        <labl>
+          Other Region
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Metropolitan Region
+        </labl>
+        <catStat type="freq">
+          75
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+  </dataDscr>
+</codeBook>

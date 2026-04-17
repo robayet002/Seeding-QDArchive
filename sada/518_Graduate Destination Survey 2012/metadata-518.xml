@@ -1,0 +1,3809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook version="1.2.2" ID="zaf-chec-gds-2012-v1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+<docDscr>
+  <citation>
+    <titlStmt>
+      <IDNo></IDNo>
+    </titlStmt>
+    <prodStmt>
+      <producer abbr="" affiliation="University of Cape Town" role="Metadata producer">DataFirst</producer>
+      <prodDate date="2020-07-28">2020-07-28</prodDate>
+      <software version="v5">NADA</software>
+    </prodStmt>
+    <verStmt>
+      <version>2</version>
+    </verStmt>
+  </citation>
+</docDscr>
+<stdyDscr>
+  <citation>
+    <titlStmt>
+      <titl>Graduate Destination Survey 2012</titl>
+      <subTitl/>
+      <altTitl>GDS 2012</altTitl>
+      <parTitl/>
+      <IDNo>zaf-chec-gds-2012-v1</IDNo>
+    </titlStmt>
+    <rspStmt>
+      <AuthEnty affiliation="">Cape Higher Education Consortium</AuthEnty>
+    </rspStmt>
+    <prodStmt>
+      <copyright/>
+      <software version="5.0" date="2021-07-19">NADA</software>
+      <grantNo/>
+    </prodStmt>
+    <distStmt>
+      <contact affiliation="" URI="support.data1st.org" email="support@data1st.org">DataFirst Support</contact>
+      <depDate date=""/>
+      <distDate date=""/>
+    </distStmt>
+    <serStmt>
+      <serName>Labor Force Survey [hh/lfs]</serName>
+      <serInfo>Cape Higher Education Consortium. Graduate Destination Survey 2012 [dataset]. Version 1. Cape Town: CHEC [producer], 2013. Cape Town: DataFirst [distributor], 2015. DOI: https://doi.org/10.25828/mdtp-9k07</serInfo>
+    </serStmt>
+    <verStmt>
+      <version date="2015-05-11">v.1: Edited, anonymised dataset for public distribution</version>
+      <verResp/>
+      <notes/>
+    </verStmt>
+    <biblCit format=""/>
+    <notes/>
+  </citation>
+  <stdyInfo>
+    <studyBudget/>
+    <subject>
+                  
+                  
+    </subject>
+    <abstract>The survey is a tracer survey of the 2010 cohort of graduates from the four public universities in the Western Cape. These are the Cape Peninsula University of Technology (CPUT), University of Cape Town (UCT), Stellenbosch University (US), and the University of the Western Cape (UWC). The Survey was initiated and overseen by a reference group of the Cape Higher Education Consortium (CHEC) (representing these universities) with input from the Western Cape Government (WCG), as part of CHEC's ongoing work on graduate attributes. The primary task of the survey was to determine levels of graduate employment and unemployment and to understand the differing pathways from higher education to work.  CHEC consultants conducted the survey between September to November 2012.</abstract>
+    <sumDscr>
+      <collDate date="2012-09" event="start" cycle=""/>
+      <collDate date="2012-11" event="end" cycle=""/>
+      <nation abbr="zaf">South Africa</nation>
+      <geogCover>The lowest level of geographic aggregation of the data is Province.</geogCover>
+      <geogUnit>The data is at the level of individual institution</geogUnit>
+      <anlyUnit>The survey was designed as a longitudinal survey of all students who graduated in 2010 from one of the four universities in the Western Cape. The survey was ‘longitudinal’ in that it was designed to trace graduates
+after two years of having obtained a qualification in 2010 and to possibly trace the same graduates further into the future.</anlyUnit>
+      <universe>The survey covered all graduates of 2010 at the four public Universities in the Western Cape</universe>
+      <dataKind>Sample survey data [ssd]</dataKind>
+    </sumDscr>
+    <!-- qualityStatement - ddi2.5 - complex type
+     
+     This structure consists of two parts, standardsCompliance and otherQualityStatements. 
+     In standardsCompliance list all specific standards complied with during the execution of this 
+     study. Note the standard name and producer and how the study complied with the standard. 
+     Enter any additional quality statements in otherQualityStatements.
+     
+     -->
+    <qualityStatement>
+      <standardsCompliance>
+        <standard>
+          <standardName/>
+          <producer/>
+        </standard>
+        <complianceDescription/>
+      </standardsCompliance>
+      <otherQualityStatement/>
+    </qualityStatement>
+    <notes>The survey collected data on graduate employment and unemployment as well as work placement and internships and the regional migration of skilled graduates in and out of the Western Cape.</notes>
+    <!-- exPostEvaluation ddi2.5
+      Use this section to describe evaluation procedures not address in data evaluation processes. 
+      These may include issues such as timing of the study, sequencing issues, cost/budget issues, 
+      relevance, instituional or legal arrangments etc. of the study. 
+      
+      The completionDate attribute holds the date the evaluation was completed. 
+      The type attribute is an optional type to identify the type of evaluation with or without 
+      the use of a controlled vocabulary.
+    -->
+    <exPostEvaluation completionDate="" type="">
+      <evaluationProcess/>
+      <outcomes/>
+    </exPostEvaluation>
+  </stdyInfo>
+  <method>
+    <dataColl>
+      <timeMeth/>
+      <dataCollector abbr="" affiliation="">South Africa Commercial Direct</dataCollector>
+      <!-- collectorTraining - DDI2.5
+        
+        Collector Training
+
+        Describes the training provided to data collectors including internviewer training, process testing, 
+        compliance with standards etc. This is repeatable for language and to capture different aspects of the 
+        training process. The type attribute allows specification of the type of training being described.
+        
+        -->
+      <collectorTraining type=""/>
+      <frequenc/>
+      <sampProc>The sample frame constituted a list of all graduates who received either a certificate, diploma or degree in 2010 at one of the four public universities in the Western Cape. The sample frame was compiled using Higher Education Management Information System (HEMIS) data from each of the four universities.</sampProc>
+      <sampleFrame>
+        <sampleFrameName/>
+        <custodian/>
+        <universe/>
+        <frameUnit isPrimary="">
+          <unitType numberOfUnits=""/>
+        </frameUnit>
+        <updateProcedure/>
+      </sampleFrame>
+      <deviat/>
+      <collMode>Internet [int]</collMode>
+      <resInstru>The survey questionnaire made use of chronological rather than thematic sections to systematically guide the respondent from past to present to future. These included:
+
+Section 1: At high school (which included questions about the graduate’s schooling background);
+Section 2: At university (which included questions about the graduate’s studies leading up to the qualification obtained in 2010);
+Section 3: Background, employment and relevance of qualification (which included questions about family background whilst studying, employment before and just after studying, employment as on 1 September
+2012, and various questions in relation to different forms of employment or occupation, including relevance of qualification in relation to current employment);
+Section 4: Current studies (which included questions about qualification type (if studying further), field, reasons for further study); 
+Section 5: Future plans (which included questions about possible future studies, current place of residence, emigration and reasons for emigration).</resInstru>
+      <!-- instrumentDevelopment - DDI2.5             
+        Describe any development work on the data collection instrument. Type attribute allows for the optional use of a defined development type with or without use of a controlled vocabulary.
+        -->
+      <instrumentDevelopment type=""/>
+      <collSitu>South Africa Commercial Direct, a call centre, was appointed to administer the questionnaire under the guidance of the research team. The survey was administered online and by telephone. Graduates could only access the online survey by logging in with their student numbers, which were provided to them in personalised emails and cellphone messages sent out by the call centre. The telephonic segment was intended as backup pending the response rate obtained from the online survey.  At the final count 2,873 responents were surveyed online and 2,687 respondents responded to telephonic interviews.</collSitu>
+      <actMin/>
+      <ConOps/>
+      <weight/>
+      <cleanOps/>
+    </dataColl>
+    <notes/>
+    <anlyInfo>
+      <respRate>There were a total of 5 560 responses – a response rate of 22.5% of the total of 24 710 graduates. Roughly half these responses were online (2 873 or about 52%) while the other half were from telephonic interviews (2 687 or about 48%). The aggregate response rates for institutions are as follow: CPUT – 21.8%, UCT – 21.9%, SU – 21.6% and UWC – 26.7%.</respRate>
+      <EstSmpErr/>
+      <dataAppr/>
+    </anlyInfo>
+    <stdyClas/>
+    <dataProcessing type=""/>
+    <codingInstructions relatedProcesses="" type="">
+      <txt/>
+      <command formalLanguage=""/>
+    </codingInstructions>
+  </method>
+  <dataAccs>
+    <setAvail>
+      <accsPlac URI=""/>
+      <origArch/>
+      <avlStatus/>
+      <collSize/>
+      <complete/>
+      <fileQnty/>
+      <notes/>
+    </setAvail>
+    <useStmt>
+      <restrctn/>
+      <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">DataFirst</contact>
+      <citReq>Cape Higher Education Consortium. Graduate Destination Survey 2012 [dataset]. Version 1. Cape Town: CHEC [producer], 2013. Cape Town: DataFirst [distributor], 2015. DOI: https://doi.org/10.25828/mdtp-9k07</citReq>
+      <deposReq/>
+      <conditions>Public use data, available to all</conditions>
+      <disclaimer/>
+    </useStmt>
+    <notes/>
+  </dataAccs>
+  <notes/>
+</stdyDscr>
+<fileDscr ID="F1">
+  <fileTxt>
+    <fileName>gds-2012-20130605</fileName>
+    <fileCont></fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>178</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<dataDscr>
+<var ID="V1" name="u_number" files="F1" intrvl="discrete">
+  <labl>Unique number</labl>
+  <imputation>Unique number</imputation>
+  <security>Unique number</security>
+  <embargo>Unique number</embargo>
+  <respUnit>Unique number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V2" name="mode" files="F1" intrvl="discrete">
+  <labl>Survey mode</labl>
+  <imputation>Survey mode</imputation>
+  <security>Survey mode</security>
+  <embargo>Survey mode</embargo>
+  <respUnit>Survey mode</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Online</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Telephonic</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V3" name="campus" files="F1" intrvl="discrete">
+  <labl>Institution</labl>
+  <imputation>Institution</imputation>
+  <security>Institution</security>
+  <embargo>Institution</embargo>
+  <respUnit>Institution</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>CPUT</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>UCT</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>US</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>UWC</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V4" name="weight1" files="F1" intrvl="contin">
+  <labl>Weight 1</labl>
+  <imputation>Weight 1</imputation>
+  <security>Weight 1</security>
+  <embargo>Weight 1</embargo>
+  <respUnit>Weight 1</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V5" name="weight2" files="F1" intrvl="contin">
+  <labl>Weight 2</labl>
+  <imputation>Weight 2</imputation>
+  <security>Weight 2</security>
+  <embargo>Weight 2</embargo>
+  <respUnit>Weight 2</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V6" name="weight1_s" files="F1" intrvl="contin">
+  <labl>Scaled weight 1</labl>
+  <imputation>Scaled weight 1</imputation>
+  <security>Scaled weight 1</security>
+  <embargo>Scaled weight 1</embargo>
+  <respUnit>Scaled weight 1</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V7" name="gender" files="F1" intrvl="discrete">
+  <labl>Gender</labl>
+  <imputation>Gender</imputation>
+  <security>Gender</security>
+  <embargo>Gender</embargo>
+  <respUnit>Gender</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Female</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Male</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V8" name="yob" files="F1" intrvl="contin">
+  <labl>Year of birth</labl>
+  <imputation>Year of birth</imputation>
+  <security>Year of birth</security>
+  <embargo>Year of birth</embargo>
+  <respUnit>Year of birth</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V9" name="age_r1" files="F1" intrvl="discrete">
+  <labl>Age during 2010</labl>
+  <imputation>Age during 2010</imputation>
+  <security>Age during 2010</security>
+  <embargo>Age during 2010</embargo>
+  <respUnit>Age during 2010</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>21 or younger</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>22 - 30</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>31 or older</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V10" name="age_r2" files="F1" intrvl="discrete">
+  <labl>Age during 2010</labl>
+  <imputation>Age during 2010</imputation>
+  <security>Age during 2010</security>
+  <embargo>Age during 2010</embargo>
+  <respUnit>Age during 2010</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>25 or younger</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>26 - 35</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>36 or older</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V11" name="age_r3" files="F1" intrvl="discrete">
+  <labl>Age during 2010</labl>
+  <imputation>Age during 2010</imputation>
+  <security>Age during 2010</security>
+  <embargo>Age during 2010</embargo>
+  <respUnit>Age during 2010</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>21 or younger</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>22 - 23 years old</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>24 or older</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V12" name="race" files="F1" intrvl="discrete">
+  <labl>Population group</labl>
+  <imputation>Population group</imputation>
+  <security>Population group</security>
+  <embargo>Population group</embargo>
+  <respUnit>Population group</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Black/African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Coloured</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Indian/Asian</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>White</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V13" name="race_r1" files="F1" intrvl="discrete">
+  <labl>Population group</labl>
+  <imputation>Population group</imputation>
+  <security>Population group</security>
+  <embargo>Population group</embargo>
+  <respUnit>Population group</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Black/African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Coloured</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Indian/Asian</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>White</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Other/unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V14" name="race_r2" files="F1" intrvl="discrete">
+  <labl>Population group</labl>
+  <imputation>Population group</imputation>
+  <security>Population group</security>
+  <embargo>Population group</embargo>
+  <respUnit>Population group</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Coloured</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Indian</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>White</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V15" name="nation" files="F1" intrvl="discrete">
+  <labl>Nationality</labl>
+  <imputation>Nationality</imputation>
+  <security>Nationality</security>
+  <embargo>Nationality</embargo>
+  <respUnit>Nationality</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>South African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Foreign</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V16" name="q_type" files="F1" intrvl="discrete">
+  <labl>Qualification type</labl>
+  <imputation>Qualification type</imputation>
+  <security>Qualification type</security>
+  <embargo>Qualification type</embargo>
+  <respUnit>Qualification type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V17" name="q_type_r1" files="F1" intrvl="discrete">
+  <labl>Qualification type</labl>
+  <imputation>Qualification type</imputation>
+  <security>Qualification type</security>
+  <embargo>Qualification type</embargo>
+  <respUnit>Qualification type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Certificate/diploma</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Postgraduate certificate/diploma/bachelor's</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Bachelor's</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Honours</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Master's</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Doctorate</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V18" name="q_type_r2" files="F1" intrvl="discrete">
+  <labl>Qualification type</labl>
+  <imputation>Qualification type</imputation>
+  <security>Qualification type</security>
+  <embargo>Qualification type</embargo>
+  <respUnit>Qualification type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Undergraduate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Postgraduate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V19" name="q_type_r3" files="F1" intrvl="discrete">
+  <labl>Qualification type</labl>
+  <imputation>Qualification type</imputation>
+  <security>Qualification type</security>
+  <embargo>Qualification type</embargo>
+  <respUnit>Qualification type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Certificates and diplomas</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Degrees</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V20" name="q_type_r4" files="F1" intrvl="discrete">
+  <labl>Qualification type</labl>
+  <imputation>Qualification type</imputation>
+  <security>Qualification type</security>
+  <embargo>Qualification type</embargo>
+  <respUnit>Qualification type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Certificates and diplomas</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Undergraduates</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Postgraduates</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V21" name="cesm" files="F1" intrvl="discrete">
+  <labl>CESM (Twenty categories)</labl>
+  <imputation>CESM (Twenty categories)</imputation>
+  <security>CESM (Twenty categories)</security>
+  <embargo>CESM (Twenty categories)</embargo>
+  <respUnit>CESM (Twenty categories)</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V22" name="cesm_r1" files="F1" intrvl="discrete">
+  <labl>CESM (Six categories)</labl>
+  <imputation>CESM (Six categories)</imputation>
+  <security>CESM (Six categories)</security>
+  <embargo>CESM (Six categories)</embargo>
+  <respUnit>CESM (Six categories)</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Science, engineering and technology</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Business and commerce</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Human and social sciences</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Health sciences</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Law</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Education</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V23" name="cesm_r2" files="F1" intrvl="discrete">
+  <labl>CESM (Four categories)</labl>
+  <imputation>CESM (Four categories)</imputation>
+  <security>CESM (Four categories)</security>
+  <embargo>CESM (Four categories)</embargo>
+  <respUnit>CESM (Four categories)</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>SET</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Business and commerce</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Education</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Other humanities</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V24" name="gpa" files="F1" intrvl="contin">
+  <labl>Undergraduate: Grade Point Average</labl>
+  <imputation>Undergraduate: Grade Point Average</imputation>
+  <security>Undergraduate: Grade Point Average</security>
+  <embargo>Undergraduate: Grade Point Average</embargo>
+  <respUnit>Undergraduate: Grade Point Average</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V25" name="gpa_r1" files="F1" intrvl="discrete">
+  <labl>Undergraduate: Grade Point Average</labl>
+  <imputation>Undergraduate: Grade Point Average</imputation>
+  <security>Undergraduate: Grade Point Average</security>
+  <embargo>Undergraduate: Grade Point Average</embargo>
+  <respUnit>Undergraduate: Grade Point Average</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Average (65%) and above</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Below average</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V26" name="bursary_n" files="F1" intrvl="discrete">
+  <labl>NSFAS bursary</labl>
+  <imputation>NSFAS bursary</imputation>
+  <security>NSFAS bursary</security>
+  <embargo>NSFAS bursary</embargo>
+  <respUnit>NSFAS bursary</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V27" name="bursary_o" files="F1" intrvl="discrete">
+  <labl>Other bursary</labl>
+  <imputation>Other bursary</imputation>
+  <security>Other bursary</security>
+  <embargo>Other bursary</embargo>
+  <respUnit>Other bursary</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V28" name="maths" files="F1" intrvl="discrete">
+  <labl>Maths level</labl>
+  <imputation>Maths level</imputation>
+  <security>Maths level</security>
+  <embargo>Maths level</embargo>
+  <respUnit>Maths level</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>HG</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>SG</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>LG</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V29" name="maths_r1" files="F1" intrvl="discrete">
+  <labl>Maths in Matric/Grade12</labl>
+  <imputation>Maths in Matric/Grade12</imputation>
+  <security>Maths in Matric/Grade12</security>
+  <embargo>Maths in Matric/Grade12</embargo>
+  <respUnit>Maths in Matric/Grade12</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V30" name="maths_r2" files="F1" intrvl="discrete">
+  <labl>Maths level</labl>
+  <imputation>Maths level</imputation>
+  <security>Maths level</security>
+  <embargo>Maths level</embargo>
+  <respUnit>Maths level</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>HG</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>SG/LG/Other</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V31" name="symbol_m" files="F1" intrvl="discrete">
+  <labl>Maths symbol</labl>
+  <imputation>Maths symbol</imputation>
+  <security>Maths symbol</security>
+  <embargo>Maths symbol</embargo>
+  <respUnit>Maths symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A (80-100%)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>B (70-79%)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>C (60-69%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>D (50-59%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>E (40-49%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>F (34-39%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>FF (30-33%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>G (20-29%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>H (0-19%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V32" name="s_m_r1" files="F1" intrvl="discrete">
+  <labl>Maths symbol</labl>
+  <imputation>Maths symbol</imputation>
+  <security>Maths symbol</security>
+  <embargo>Maths symbol</embargo>
+  <respUnit>Maths symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A (80-100%)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>B (70-79%)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>C (60-69%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>D (50-59%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>E-H (0-49%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V33" name="s_m_r2" files="F1" intrvl="discrete">
+  <labl>Maths symbol</labl>
+  <imputation>Maths symbol</imputation>
+  <security>Maths symbol</security>
+  <embargo>Maths symbol</embargo>
+  <respUnit>Maths symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A - B</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>C - D</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>E - H</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V34" name="science" files="F1" intrvl="discrete">
+  <labl>Physical science level</labl>
+  <imputation>Physical science level</imputation>
+  <security>Physical science level</security>
+  <embargo>Physical science level</embargo>
+  <respUnit>Physical science level</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>HG</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>SG</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>LG</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V35" name="science_r1" files="F1" intrvl="discrete">
+  <labl>Physical science in Matric/Grade12</labl>
+  <imputation>Physical science in Matric/Grade12</imputation>
+  <security>Physical science in Matric/Grade12</security>
+  <embargo>Physical science in Matric/Grade12</embargo>
+  <respUnit>Physical science in Matric/Grade12</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V36" name="science_r2" files="F1" intrvl="discrete">
+  <labl>Physical science level</labl>
+  <imputation>Physical science level</imputation>
+  <security>Physical science level</security>
+  <embargo>Physical science level</embargo>
+  <respUnit>Physical science level</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>HG</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>SG/LG/Other</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V37" name="symbol_s" files="F1" intrvl="discrete">
+  <labl>Physical science symbol</labl>
+  <imputation>Physical science symbol</imputation>
+  <security>Physical science symbol</security>
+  <embargo>Physical science symbol</embargo>
+  <respUnit>Physical science symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A (80-100%)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>B (70-79%)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>C (60-69%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>D (50-59%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>E (40-49%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>F (34-39%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>FF (30-33%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>G (20-29%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>H (0-19%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V38" name="s_s_r1" files="F1" intrvl="discrete">
+  <labl>Physical science symbol</labl>
+  <imputation>Physical science symbol</imputation>
+  <security>Physical science symbol</security>
+  <embargo>Physical science symbol</embargo>
+  <respUnit>Physical science symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A (80-100%)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>B (70-79%)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>C (60-69%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>D (50-59%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>E-H (0-49%)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V39" name="s_s_r2" files="F1" intrvl="discrete">
+  <labl>Physical science symbol</labl>
+  <imputation>Physical science symbol</imputation>
+  <security>Physical science symbol</security>
+  <embargo>Physical science symbol</embargo>
+  <respUnit>Physical science symbol</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A - B</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>C - D</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>E - H</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V40" name="q1_1" files="F1" intrvl="discrete">
+  <labl>Q1.1: Where did you mostly live while attending high school?</labl>
+  <imputation>Q1.1: Where did you mostly live while attending high school?</imputation>
+  <security>Q1.1: Where did you mostly live while attending high school?</security>
+  <embargo>Q1.1: Where did you mostly live while attending high school?</embargo>
+  <respUnit>Q1.1: Where did you mostly live while attending high school?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>In South Africa</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Elsewhere in Africa</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Elsewhere in the world</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V41" name="q1_1_1" files="F1" intrvl="discrete">
+  <labl>Q1.1.1 In which province did you mostly live while attending high school?</labl>
+  <imputation>Q1.1.1 In which province did you mostly live while attending high school?</imputation>
+  <security>Q1.1.1 In which province did you mostly live while attending high school?</security>
+  <embargo>Q1.1.1 In which province did you mostly live while attending high school?</embargo>
+  <respUnit>Q1.1.1 In which province did you mostly live while attending high school?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>EC</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>FS</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>GP</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>KZN</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>LP</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>MP</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>NC</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>NW</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>WC</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V42" name="q1_1_2" files="F1" intrvl="discrete">
+  <labl>Q1.1.2 What type of high school did you mostly attend?</labl>
+  <imputation>Q1.1.2 What type of high school did you mostly attend?</imputation>
+  <security>Q1.1.2 What type of high school did you mostly attend?</security>
+  <embargo>Q1.1.2 What type of high school did you mostly attend?</embargo>
+  <respUnit>Q1.1.2 What type of high school did you mostly attend?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Public</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Private/independent</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>N/A - I did home schooling</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V43" name="q1_1_2r1" files="F1" intrvl="discrete">
+  <labl>Q1.1.2 What type of high school did you mostly attend?</labl>
+  <imputation>Q1.1.2 What type of high school did you mostly attend?</imputation>
+  <security>Q1.1.2 What type of high school did you mostly attend?</security>
+  <embargo>Q1.1.2 What type of high school did you mostly attend?</embargo>
+  <respUnit>Q1.1.2 What type of high school did you mostly attend?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Public</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Private/independent</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V44" name="q1_1_3" files="F1" intrvl="discrete">
+  <labl>Q1.1.3 In what type of area was your high school located?</labl>
+  <imputation>Q1.1.3 In what type of area was your high school located?</imputation>
+  <security>Q1.1.3 In what type of area was your high school located?</security>
+  <embargo>Q1.1.3 In what type of area was your high school located?</embargo>
+  <respUnit>Q1.1.3 In what type of area was your high school located?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>In a suburb of a town or city</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>In a township or informal settlement of a town or city</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>In a village or on a farm in a rural area</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>N/A - I did home schooling</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V45" name="q1_1_3r1" files="F1" intrvl="discrete">
+  <labl>Q1.1.3 In what type of area was your high school located?</labl>
+  <imputation>Q1.1.3 In what type of area was your high school located?</imputation>
+  <security>Q1.1.3 In what type of area was your high school located?</security>
+  <embargo>Q1.1.3 In what type of area was your high school located?</embargo>
+  <respUnit>Q1.1.3 In what type of area was your high school located?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>In a suburb of a town or city</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>In a township or informal settlement of a town or city</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>In a village or on a farm in a rural area</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V46" name="q2_1" files="F1" intrvl="discrete">
+  <labl>Q2.1 While studying towards the qualification you obtained in 2010, were you mos</labl>
+  <imputation>Q2.1 While studying towards the qualification you obtained in 2010, were you mos</imputation>
+  <security>Q2.1 While studying towards the qualification you obtained in 2010, were you mos</security>
+  <embargo>Q2.1 While studying towards the qualification you obtained in 2010, were you mos</embargo>
+  <respUnit>Q2.1 While studying towards the qualification you obtained in 2010, were you mos</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Fulltime</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Part time</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V47" name="q2_1_1" files="F1" intrvl="discrete">
+  <labl>Q2.1.1 While studying towards the qualification you obtained in 2010, did you pa</labl>
+  <imputation>Q2.1.1 While studying towards the qualification you obtained in 2010, did you pa</imputation>
+  <security>Q2.1.1 While studying towards the qualification you obtained in 2010, did you pa</security>
+  <embargo>Q2.1.1 While studying towards the qualification you obtained in 2010, did you pa</embargo>
+  <respUnit>Q2.1.1 While studying towards the qualification you obtained in 2010, did you pa</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V48" name="q2_1_1_1a" files="F1" intrvl="discrete">
+  <labl>Faculty/academic societies</labl>
+  <imputation>Faculty/academic societies</imputation>
+  <security>Faculty/academic societies</security>
+  <embargo>Faculty/academic societies</embargo>
+  <respUnit>Faculty/academic societies</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V49" name="q2_1_1_1b" files="F1" intrvl="discrete">
+  <labl>Sports teams</labl>
+  <imputation>Sports teams</imputation>
+  <security>Sports teams</security>
+  <embargo>Sports teams</embargo>
+  <respUnit>Sports teams</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V50" name="q2_1_1_1c" files="F1" intrvl="discrete">
+  <labl>Cultural organisations</labl>
+  <imputation>Cultural organisations</imputation>
+  <security>Cultural organisations</security>
+  <embargo>Cultural organisations</embargo>
+  <respUnit>Cultural organisations</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V51" name="q2_1_1_1d" files="F1" intrvl="discrete">
+  <labl>Religious organisations</labl>
+  <imputation>Religious organisations</imputation>
+  <security>Religious organisations</security>
+  <embargo>Religious organisations</embargo>
+  <respUnit>Religious organisations</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V52" name="q2_1_1_1e" files="F1" intrvl="discrete">
+  <labl>Student governance</labl>
+  <imputation>Student governance</imputation>
+  <security>Student governance</security>
+  <embargo>Student governance</embargo>
+  <respUnit>Student governance</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V53" name="q2_1_1_1f" files="F1" intrvl="discrete">
+  <labl>Residence committees</labl>
+  <imputation>Residence committees</imputation>
+  <security>Residence committees</security>
+  <embargo>Residence committees</embargo>
+  <respUnit>Residence committees</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V54" name="q2_1_1_1g" files="F1" intrvl="discrete">
+  <labl>Tutor/teaching assistant</labl>
+  <imputation>Tutor/teaching assistant</imputation>
+  <security>Tutor/teaching assistant</security>
+  <embargo>Tutor/teaching assistant</embargo>
+  <respUnit>Tutor/teaching assistant</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V55" name="q2_1_1_1h" files="F1" intrvl="discrete">
+  <labl>Research/laboratory assistant</labl>
+  <imputation>Research/laboratory assistant</imputation>
+  <security>Research/laboratory assistant</security>
+  <embargo>Research/laboratory assistant</embargo>
+  <respUnit>Research/laboratory assistant</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V56" name="q2_1_1_1i" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V57" name="q2_1_2" files="F1" intrvl="discrete">
+  <labl>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</labl>
+  <imputation>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</imputation>
+  <security>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</security>
+  <embargo>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</embargo>
+  <respUnit>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V58" name="q2_1_2_r1" files="F1" intrvl="discrete">
+  <labl>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</labl>
+  <imputation>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</imputation>
+  <security>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</security>
+  <embargo>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</embargo>
+  <respUnit>Q2.1.2: While studying towards the qualification you obtained in 2010, did you r</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V59" name="q2_1_2_1a" files="F1" intrvl="discrete">
+  <labl>Aptitude tests</labl>
+  <imputation>Aptitude tests</imputation>
+  <security>Aptitude tests</security>
+  <embargo>Aptitude tests</embargo>
+  <respUnit>Aptitude tests</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V60" name="q2_1_2_1b" files="F1" intrvl="discrete">
+  <labl>Personal discussions with a lecturer</labl>
+  <imputation>Personal discussions with a lecturer</imputation>
+  <security>Personal discussions with a lecturer</security>
+  <embargo>Personal discussions with a lecturer</embargo>
+  <respUnit>Personal discussions with a lecturer</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V61" name="q2_1_2_1c" files="F1" intrvl="discrete">
+  <labl>Personal discussions with a career counsellor</labl>
+  <imputation>Personal discussions with a career counsellor</imputation>
+  <security>Personal discussions with a career counsellor</security>
+  <embargo>Personal discussions with a career counsellor</embargo>
+  <respUnit>Personal discussions with a career counsellor</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V62" name="q2_1_2_1d" files="F1" intrvl="discrete">
+  <labl>Visits to career expos</labl>
+  <imputation>Visits to career expos</imputation>
+  <security>Visits to career expos</security>
+  <embargo>Visits to career expos</embargo>
+  <respUnit>Visits to career expos</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V63" name="q2_1_2_1e" files="F1" intrvl="discrete">
+  <labl>Visits to or talks by private companies</labl>
+  <imputation>Visits to or talks by private companies</imputation>
+  <security>Visits to or talks by private companies</security>
+  <embargo>Visits to or talks by private companies</embargo>
+  <respUnit>Visits to or talks by private companies</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V64" name="q2_1_2_1f" files="F1" intrvl="discrete">
+  <labl>Work experience with private companies</labl>
+  <imputation>Work experience with private companies</imputation>
+  <security>Work experience with private companies</security>
+  <embargo>Work experience with private companies</embargo>
+  <respUnit>Work experience with private companies</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V65" name="q2_1_2_1g" files="F1" intrvl="discrete">
+  <labl>Information on further studies</labl>
+  <imputation>Information on further studies</imputation>
+  <security>Information on further studies</security>
+  <embargo>Information on further studies</embargo>
+  <respUnit>Information on further studies</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V66" name="q2_1_2_1h" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V67" name="q2_1_3" files="F1" intrvl="discrete">
+  <labl>Q2.1.3: While studying towards the qualification you obtained in 2010, did you u</labl>
+  <imputation>Q2.1.3: While studying towards the qualification you obtained in 2010, did you u</imputation>
+  <security>Q2.1.3: While studying towards the qualification you obtained in 2010, did you u</security>
+  <embargo>Q2.1.3: While studying towards the qualification you obtained in 2010, did you u</embargo>
+  <respUnit>Q2.1.3: While studying towards the qualification you obtained in 2010, did you u</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V68" name="q2_1_3_1" files="F1" intrvl="contin">
+  <labl>Q2.1.3.1: For approximately how many months did you undertake your internship or</labl>
+  <imputation>Q2.1.3.1: For approximately how many months did you undertake your internship or</imputation>
+  <security>Q2.1.3.1: For approximately how many months did you undertake your internship or</security>
+  <embargo>Q2.1.3.1: For approximately how many months did you undertake your internship or</embargo>
+  <respUnit>Q2.1.3.1: For approximately how many months did you undertake your internship or</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V69" name="q2_2" files="F1" intrvl="discrete">
+  <labl>Q2.2: Did you or your parent/guardian work for the university from which you obt</labl>
+  <imputation>Q2.2: Did you or your parent/guardian work for the university from which you obt</imputation>
+  <security>Q2.2: Did you or your parent/guardian work for the university from which you obt</security>
+  <embargo>Q2.2: Did you or your parent/guardian work for the university from which you obt</embargo>
+  <respUnit>Q2.2: Did you or your parent/guardian work for the university from which you obt</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V70" name="q2_2_1a" files="F1" intrvl="discrete">
+  <labl>My own funds</labl>
+  <imputation>My own funds</imputation>
+  <security>My own funds</security>
+  <embargo>My own funds</embargo>
+  <respUnit>My own funds</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V71" name="q2_2_1b" files="F1" intrvl="discrete">
+  <labl>Funds or loans from my parents/guardians</labl>
+  <imputation>Funds or loans from my parents/guardians</imputation>
+  <security>Funds or loans from my parents/guardians</security>
+  <embargo>Funds or loans from my parents/guardians</embargo>
+  <respUnit>Funds or loans from my parents/guardians</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V72" name="q2_2_1c" files="F1" intrvl="discrete">
+  <labl>Funds or loans from other family members or acquaintances</labl>
+  <imputation>Funds or loans from other family members or acquaintances</imputation>
+  <security>Funds or loans from other family members or acquaintances</security>
+  <embargo>Funds or loans from other family members or acquaintances</embargo>
+  <respUnit>Funds or loans from other family members or acquaintances</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V73" name="q2_2_1d" files="F1" intrvl="discrete">
+  <labl>Funds or loans from my employer</labl>
+  <imputation>Funds or loans from my employer</imputation>
+  <security>Funds or loans from my employer</security>
+  <embargo>Funds or loans from my employer</embargo>
+  <respUnit>Funds or loans from my employer</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V74" name="q2_2_1e" files="F1" intrvl="discrete">
+  <labl>NSFAS bursary/loan</labl>
+  <imputation>NSFAS bursary/loan</imputation>
+  <security>NSFAS bursary/loan</security>
+  <embargo>NSFAS bursary/loan</embargo>
+  <respUnit>NSFAS bursary/loan</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V75" name="q2_2_1f" files="F1" intrvl="discrete">
+  <labl>NRF bursary</labl>
+  <imputation>NRF bursary</imputation>
+  <security>NRF bursary</security>
+  <embargo>NRF bursary</embargo>
+  <respUnit>NRF bursary</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V76" name="q2_2_1g" files="F1" intrvl="discrete">
+  <labl>A bursary or scholarship from my university</labl>
+  <imputation>A bursary or scholarship from my university</imputation>
+  <security>A bursary or scholarship from my university</security>
+  <embargo>A bursary or scholarship from my university</embargo>
+  <respUnit>A bursary or scholarship from my university</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V77" name="q2_2_1h" files="F1" intrvl="discrete">
+  <labl>A private bursary or scholarship</labl>
+  <imputation>A private bursary or scholarship</imputation>
+  <security>A private bursary or scholarship</security>
+  <embargo>A private bursary or scholarship</embargo>
+  <respUnit>A private bursary or scholarship</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V78" name="q2_2_1i" files="F1" intrvl="discrete">
+  <labl>A bank loan</labl>
+  <imputation>A bank loan</imputation>
+  <security>A bank loan</security>
+  <embargo>A bank loan</embargo>
+  <respUnit>A bank loan</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V79" name="q2_2_1j" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V80" name="q2_3" files="F1" intrvl="discrete">
+  <labl>Q2.3: In which field did you graduate in 2010?</labl>
+  <imputation>Q2.3: In which field did you graduate in 2010?</imputation>
+  <security>Q2.3: In which field did you graduate in 2010?</security>
+  <embargo>Q2.3: In which field did you graduate in 2010?</embargo>
+  <respUnit>Q2.3: In which field did you graduate in 2010?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Science, engineering and technology</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Business and commerce</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Human and social sciences (including performing and fine arts)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Health sciences</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Law</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Education</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V81" name="q2_4" files="F1" intrvl="discrete">
+  <labl>Q2.4: Did you obtain a master’s or doctoral qualification in 2010?</labl>
+  <imputation>Q2.4: Did you obtain a master’s or doctoral qualification in 2010?</imputation>
+  <security>Q2.4: Did you obtain a master’s or doctoral qualification in 2010?</security>
+  <embargo>Q2.4: Did you obtain a master’s or doctoral qualification in 2010?</embargo>
+  <respUnit>Q2.4: Did you obtain a master’s or doctoral qualification in 2010?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V82" name="q2_4_1" files="F1" intrvl="discrete">
+  <labl>Q2.4.1: What type of qualification did you obtain in 2010?</labl>
+  <imputation>Q2.4.1: What type of qualification did you obtain in 2010?</imputation>
+  <security>Q2.4.1: What type of qualification did you obtain in 2010?</security>
+  <embargo>Q2.4.1: What type of qualification did you obtain in 2010?</embargo>
+  <respUnit>Q2.4.1: What type of qualification did you obtain in 2010?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A master's degree by course work and research</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>A master's degree by research only</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>A doctoral degree</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V83" name="q2_4_2a" files="F1" intrvl="discrete">
+  <labl>For personal fulfilment</labl>
+  <imputation>For personal fulfilment</imputation>
+  <security>For personal fulfilment</security>
+  <embargo>For personal fulfilment</embargo>
+  <respUnit>For personal fulfilment</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V84" name="q2_4_2b" files="F1" intrvl="discrete">
+  <labl>To improve my chances of getting a job as I have yet to find one</labl>
+  <imputation>To improve my chances of getting a job as I have yet to find one</imputation>
+  <security>To improve my chances of getting a job as I have yet to find one</security>
+  <embargo>To improve my chances of getting a job as I have yet to find one</embargo>
+  <respUnit>To improve my chances of getting a job as I have yet to find one</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V85" name="q2_4_2c" files="F1" intrvl="discrete">
+  <labl>To enable me to do my current job better</labl>
+  <imputation>To enable me to do my current job better</imputation>
+  <security>To enable me to do my current job better</security>
+  <embargo>To enable me to do my current job better</embargo>
+  <respUnit>To enable me to do my current job better</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V86" name="q2_4_2d" files="F1" intrvl="discrete">
+  <labl>To enable me to make more money or get promoted in my current job</labl>
+  <imputation>To enable me to make more money or get promoted in my current job</imputation>
+  <security>To enable me to make more money or get promoted in my current job</security>
+  <embargo>To enable me to make more money or get promoted in my current job</embargo>
+  <respUnit>To enable me to make more money or get promoted in my current job</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V87" name="q2_4_2e" files="F1" intrvl="discrete">
+  <labl>To enable me to get a better or higher paying job in the same field</labl>
+  <imputation>To enable me to get a better or higher paying job in the same field</imputation>
+  <security>To enable me to get a better or higher paying job in the same field</security>
+  <embargo>To enable me to get a better or higher paying job in the same field</embargo>
+  <respUnit>To enable me to get a better or higher paying job in the same field</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V88" name="q2_4_2f" files="F1" intrvl="discrete">
+  <labl>To enable me to change careers to a different field</labl>
+  <imputation>To enable me to change careers to a different field</imputation>
+  <security>To enable me to change careers to a different field</security>
+  <embargo>To enable me to change careers to a different field</embargo>
+  <respUnit>To enable me to change careers to a different field</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V89" name="q2_4_2g" files="F1" intrvl="discrete">
+  <labl>To enable me to become a researcher or an academic</labl>
+  <imputation>To enable me to become a researcher or an academic</imputation>
+  <security>To enable me to become a researcher or an academic</security>
+  <embargo>To enable me to become a researcher or an academic</embargo>
+  <respUnit>To enable me to become a researcher or an academic</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V90" name="q2_4_2h" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V91" name="q2_5" files="F1" intrvl="discrete">
+  <labl>Q2.5: By which month in 2010 did you complete your studies?</labl>
+  <imputation>Q2.5: By which month in 2010 did you complete your studies?</imputation>
+  <security>Q2.5: By which month in 2010 did you complete your studies?</security>
+  <embargo>Q2.5: By which month in 2010 did you complete your studies?</embargo>
+  <respUnit>Q2.5: By which month in 2010 did you complete your studies?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>January</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>February</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>March</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>April</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>May</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>June</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>July</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>August</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>September</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>October</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>November</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>December</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V92" name="q3_1_f" files="F1" intrvl="discrete">
+  <labl>Q3.1: What was the highest level of education that your mother/female guardian h</labl>
+  <imputation>Q3.1: What was the highest level of education that your mother/female guardian h</imputation>
+  <security>Q3.1: What was the highest level of education that your mother/female guardian h</security>
+  <embargo>Q3.1: What was the highest level of education that your mother/female guardian h</embargo>
+  <respUnit>Q3.1: What was the highest level of education that your mother/female guardian h</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>University postgraduate degree</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>University undergraduate degree</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Technikon/university of technology degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>University certificate or diploma</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Technikon/university of technology certificate or diploma</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Techinical college certificate, trade certificate or similar</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Matric/Grade 12</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Some formal schooling</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>No formal schooling</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>N/A - This parent/guardian was deceased at the time</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V93" name="q3_1_fr1" files="F1" intrvl="discrete">
+  <labl>Q3.1: What was the highest level of education that your mother/female guardian h</labl>
+  <imputation>Q3.1: What was the highest level of education that your mother/female guardian h</imputation>
+  <security>Q3.1: What was the highest level of education that your mother/female guardian h</security>
+  <embargo>Q3.1: What was the highest level of education that your mother/female guardian h</embargo>
+  <respUnit>Q3.1: What was the highest level of education that your mother/female guardian h</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Tertiary</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Matric/Grade12</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Some or no schooling</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V94" name="q3_1_m" files="F1" intrvl="discrete">
+  <labl>Q3.1: What was the highest level of education that your father/male guardian had</labl>
+  <imputation>Q3.1: What was the highest level of education that your father/male guardian had</imputation>
+  <security>Q3.1: What was the highest level of education that your father/male guardian had</security>
+  <embargo>Q3.1: What was the highest level of education that your father/male guardian had</embargo>
+  <respUnit>Q3.1: What was the highest level of education that your father/male guardian had</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>University postgraduate degree</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>University undergraduate degree</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Technikon/university of technology degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>University certificate or diploma</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Technikon/university of technology certificate or diploma</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Techinical college certificate, trade certificate or similar</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Matric/Grade 12</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Some formal schooling</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>No formal schooling</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>N/A - This parent/guardian was deceased at the time</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V95" name="q3_1_mr1" files="F1" intrvl="discrete">
+  <labl>Q3.1: What was the highest level of education that your father/male guardian had</labl>
+  <imputation>Q3.1: What was the highest level of education that your father/male guardian had</imputation>
+  <security>Q3.1: What was the highest level of education that your father/male guardian had</security>
+  <embargo>Q3.1: What was the highest level of education that your father/male guardian had</embargo>
+  <respUnit>Q3.1: What was the highest level of education that your father/male guardian had</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Tertiary</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Matric/Grade12</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Some or no schooling</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V96" name="q3_2" files="F1" intrvl="discrete">
+  <labl>Q3.2: Do you have any siblings?</labl>
+  <imputation>Q3.2: Do you have any siblings?</imputation>
+  <security>Q3.2: Do you have any siblings?</security>
+  <embargo>Q3.2: Do you have any siblings?</embargo>
+  <respUnit>Q3.2: Do you have any siblings?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V97" name="q3_2_1" files="F1" intrvl="discrete">
+  <labl>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</labl>
+  <imputation>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</imputation>
+  <security>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</security>
+  <embargo>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</embargo>
+  <respUnit>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V98" name="q3_2_1_r1" files="F1" intrvl="discrete">
+  <labl>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</labl>
+  <imputation>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</imputation>
+  <security>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</security>
+  <embargo>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</embargo>
+  <respUnit>Q3.2.1: Did any of your siblings obtain a degree, diploma or certificate from a</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V99" name="q3_3" files="F1" intrvl="discrete">
+  <labl>Q3.3: What was your employment status just before you started studying towards t</labl>
+  <imputation>Q3.3: What was your employment status just before you started studying towards t</imputation>
+  <security>Q3.3: What was your employment status just before you started studying towards t</security>
+  <embargo>Q3.3: What was your employment status just before you started studying towards t</embargo>
+  <respUnit>Q3.3: What was your employment status just before you started studying towards t</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>N/A - I was still in school</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>N/A - I was studying fulltime, not working and not looking for work at all</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Employed (part- or full-time) in the private sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Self-employed in the private sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Employed (part- or full-time) in the public sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Employed in the informal sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Unemployed and looking for work</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Unemployed, but not looking for work</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V100" name="q3_3_r1" files="F1" intrvl="discrete">
+  <labl>Q3.3: What was your employment status just before you started studying towards t</labl>
+  <imputation>Q3.3: What was your employment status just before you started studying towards t</imputation>
+  <security>Q3.3: What was your employment status just before you started studying towards t</security>
+  <embargo>Q3.3: What was your employment status just before you started studying towards t</embargo>
+  <respUnit>Q3.3: What was your employment status just before you started studying towards t</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>First time entrants (previously in school, studying fulltime or unemployed but n</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Mature graduates (previously employed formally)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Other (previously employed in informal sector or unemployed and looking for work</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V101" name="q3_3_1" files="F1" intrvl="discrete">
+  <labl>Q3.3.1: When did you start the job you had just before you started studying towa</labl>
+  <imputation>Q3.3.1: When did you start the job you had just before you started studying towa</imputation>
+  <security>Q3.3.1: When did you start the job you had just before you started studying towa</security>
+  <embargo>Q3.3.1: When did you start the job you had just before you started studying towa</embargo>
+  <respUnit>Q3.3.1: When did you start the job you had just before you started studying towa</respUnit>
+  <sumStat type="vald"/>
+  <varFormat type="character" formatname="Nesstar.date"/>
+</var>
+<var ID="V102" name="q3_3_2" files="F1" intrvl="discrete">
+  <labl>Q3.3.2: On the 1st of September 2012, did you still have the same job you had ju</labl>
+  <imputation>Q3.3.2: On the 1st of September 2012, did you still have the same job you had ju</imputation>
+  <security>Q3.3.2: On the 1st of September 2012, did you still have the same job you had ju</security>
+  <embargo>Q3.3.2: On the 1st of September 2012, did you still have the same job you had ju</embargo>
+  <respUnit>Q3.3.2: On the 1st of September 2012, did you still have the same job you had ju</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V103" name="q3_3_2_1" files="F1" intrvl="discrete">
+  <labl>Q3.3.2.1: When did you end the job you had just before you started studying towa</labl>
+  <imputation>Q3.3.2.1: When did you end the job you had just before you started studying towa</imputation>
+  <security>Q3.3.2.1: When did you end the job you had just before you started studying towa</security>
+  <embargo>Q3.3.2.1: When did you end the job you had just before you started studying towa</embargo>
+  <respUnit>Q3.3.2.1: When did you end the job you had just before you started studying towa</respUnit>
+  <sumStat type="vald"/>
+  <varFormat type="character" formatname="Nesstar.date"/>
+</var>
+<var ID="V104" name="q3_3_3" files="F1" intrvl="discrete">
+  <labl>Q3.3.3: On what basis were you employed in the job you had just before you start</labl>
+  <imputation>Q3.3.3: On what basis were you employed in the job you had just before you start</imputation>
+  <security>Q3.3.3: On what basis were you employed in the job you had just before you start</security>
+  <embargo>Q3.3.3: On what basis were you employed in the job you had just before you start</embargo>
+  <respUnit>Q3.3.3: On what basis were you employed in the job you had just before you start</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Permanent</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Contractual/temporary</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V105" name="q3_3_4" files="F1" intrvl="discrete">
+  <labl>Q3.3.4: Were you employed fulltime or part time in the job you had just before y</labl>
+  <imputation>Q3.3.4: Were you employed fulltime or part time in the job you had just before y</imputation>
+  <security>Q3.3.4: Were you employed fulltime or part time in the job you had just before y</security>
+  <embargo>Q3.3.4: Were you employed fulltime or part time in the job you had just before y</embargo>
+  <respUnit>Q3.3.4: Were you employed fulltime or part time in the job you had just before y</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Full-time (40 hours per week)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Part-time (less than 40 hours per week)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V106" name="q3_4" files="F1" intrvl="discrete">
+  <labl>Q3.4: What was your employment status on the 1st of September 2012?</labl>
+  <imputation>Q3.4: What was your employment status on the 1st of September 2012?</imputation>
+  <security>Q3.4: What was your employment status on the 1st of September 2012?</security>
+  <embargo>Q3.4: What was your employment status on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4: What was your employment status on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>N/A - I am studying fulltime, not working and not looking for work at all</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Employed (part- or full-time) in the private sector</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Self-employed in the private sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Employed (part- or full-time) in the public sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Employed in the informal sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Unemployed and looking for work</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Unemployed, but not looking for work</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V107" name="q3_4_r1" files="F1" intrvl="discrete">
+  <labl>Q3.4: What was your employment status on the 1st of September 2012?</labl>
+  <imputation>Q3.4: What was your employment status on the 1st of September 2012?</imputation>
+  <security>Q3.4: What was your employment status on the 1st of September 2012?</security>
+  <embargo>Q3.4: What was your employment status on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4: What was your employment status on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Employed in the private or public sector or self-employed in the private sector</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Unemployed and looking for work</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V108" name="q3_4_r1chaid" files="F1" intrvl="discrete">
+  <labl>Q3.4: What was your employment status on the 1st of September 2012?</labl>
+  <imputation>Q3.4: What was your employment status on the 1st of September 2012?</imputation>
+  <security>Q3.4: What was your employment status on the 1st of September 2012?</security>
+  <embargo>Q3.4: What was your employment status on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4: What was your employment status on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Employed in the private or public sector or self-employed in the private sector</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Unemployed and looking for work</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V109" name="q3_4_r2" files="F1" intrvl="discrete">
+  <labl>Q3.4: What was your employment status on the 1st of September 2012?</labl>
+  <imputation>Q3.4: What was your employment status on the 1st of September 2012?</imputation>
+  <security>Q3.4: What was your employment status on the 1st of September 2012?</security>
+  <embargo>Q3.4: What was your employment status on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4: What was your employment status on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Employed (in the public or private sector, or self-employed)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Unemployed and looking for work</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Other (studying further, employed in informal sector, or not looking for work)</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V110" name="q3_4_r3" files="F1" intrvl="discrete">
+  <labl>Q3.4: What was your employment status on the 1st of September 2012?</labl>
+  <imputation>Q3.4: What was your employment status on the 1st of September 2012?</imputation>
+  <security>Q3.4: What was your employment status on the 1st of September 2012?</security>
+  <embargo>Q3.4: What was your employment status on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4: What was your employment status on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Employed in the private or public sector or self-employed in the private sector</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Unemployed and looking for work</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Other (studying further, employed in the informal sector, not looking for work)</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V111" name="q3_4_1" files="F1" intrvl="discrete">
+  <labl>Q3.4.1: When did you start the job you had on the 1st of September 2012?</labl>
+  <imputation>Q3.4.1: When did you start the job you had on the 1st of September 2012?</imputation>
+  <security>Q3.4.1: When did you start the job you had on the 1st of September 2012?</security>
+  <embargo>Q3.4.1: When did you start the job you had on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4.1: When did you start the job you had on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <varFormat type="character" formatname="Nesstar.date"/>
+</var>
+<var ID="V112" name="q3_4_1_1" files="F1" intrvl="discrete">
+  <labl>Q3.4.1.1 What was your employment status mostly between graduating and starting</labl>
+  <imputation>Q3.4.1.1 What was your employment status mostly between graduating and starting</imputation>
+  <security>Q3.4.1.1 What was your employment status mostly between graduating and starting</security>
+  <embargo>Q3.4.1.1 What was your employment status mostly between graduating and starting</embargo>
+  <respUnit>Q3.4.1.1 What was your employment status mostly between graduating and starting</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>N/A - I am studying fulltime, not working and not looking for work at all</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Employed (part- or full-time) in the private sector</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Self-employed in the private sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Employed (part- or full-time) in the public sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Employed in the informal sector</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Unemployed and looking for work</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Unemployed, but not looking for work</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>N/A - The job I had on the 1st of September I started soon after studying</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V113" name="q3_4_1_1_1" files="F1" intrvl="discrete">
+  <labl>Q3.4.1.1.1: How many different jobs did you have between graduating and starting</labl>
+  <imputation>Q3.4.1.1.1: How many different jobs did you have between graduating and starting</imputation>
+  <security>Q3.4.1.1.1: How many different jobs did you have between graduating and starting</security>
+  <embargo>Q3.4.1.1.1: How many different jobs did you have between graduating and starting</embargo>
+  <respUnit>Q3.4.1.1.1: How many different jobs did you have between graduating and starting</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V114" name="q3_4_2" files="F1" intrvl="discrete">
+  <labl>Q3.4.2: In which sector did you work in the job you had on the 1st of September</labl>
+  <imputation>Q3.4.2: In which sector did you work in the job you had on the 1st of September</imputation>
+  <security>Q3.4.2: In which sector did you work in the job you had on the 1st of September</security>
+  <embargo>Q3.4.2: In which sector did you work in the job you had on the 1st of September</embargo>
+  <respUnit>Q3.4.2: In which sector did you work in the job you had on the 1st of September</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Agriculture, hunting, forestry and fishing</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Mining and quarrying</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Manufacturing</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Electricity, gas and water supply</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Construction (including building and design)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Wholesale and retail trade (including sale of products, tourism, hotels and rest</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Transport, storage and communication, tele-communications</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Finance, insurance, real estate, IT, and business services</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Community, social and personal services: Health and social work</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Community, social and personal services: Education and research</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>Community, social and personal services: Government and municipalities</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>Community, social and personal services: NGOs</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>Community, social and personal services: Entertainment, arts and culture, sport</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V115" name="q3_4_2r1" files="F1" intrvl="discrete">
+  <labl>Q3.4.2: In which sector did you work in the job you had on the 1st of September</labl>
+  <imputation>Q3.4.2: In which sector did you work in the job you had on the 1st of September</imputation>
+  <security>Q3.4.2: In which sector did you work in the job you had on the 1st of September</security>
+  <embargo>Q3.4.2: In which sector did you work in the job you had on the 1st of September</embargo>
+  <respUnit>Q3.4.2: In which sector did you work in the job you had on the 1st of September</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Agriculture, hunting, forestry and fishing</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Mining and quarrying</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Manufacturing</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Electricity, gas and water supply</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Construction (including building and design)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Wholesale and retail trade (including sale of products, tourism, hotels and rest</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Transport, storage and communication, tele-communications</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Finance, insurance, real estate, IT, and business services</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Community, social and personal services</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V116" name="q3_4_2_1" files="F1" intrvl="discrete">
+  <labl>Q3.4.2.1: Did you work as a scientist or researcher in the job you had on the 1s</labl>
+  <imputation>Q3.4.2.1: Did you work as a scientist or researcher in the job you had on the 1s</imputation>
+  <security>Q3.4.2.1: Did you work as a scientist or researcher in the job you had on the 1s</security>
+  <embargo>Q3.4.2.1: Did you work as a scientist or researcher in the job you had on the 1s</embargo>
+  <respUnit>Q3.4.2.1: Did you work as a scientist or researcher in the job you had on the 1s</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V117" name="q3_4_2_2" files="F1" intrvl="discrete">
+  <labl>Q3.4.2.2: In what type of institution did you work in the job you had on the 1st</labl>
+  <imputation>Q3.4.2.2: In what type of institution did you work in the job you had on the 1st</imputation>
+  <security>Q3.4.2.2: In what type of institution did you work in the job you had on the 1st</security>
+  <embargo>Q3.4.2.2: In what type of institution did you work in the job you had on the 1st</embargo>
+  <respUnit>Q3.4.2.2: In what type of institution did you work in the job you had on the 1st</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A university</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>A science/research council</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>A research and development NGO</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>A research and development unit in a government department</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>None of the above</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V118" name="q3_4_2_2_1" files="F1" intrvl="discrete">
+  <labl>Q3.4.2.2.1: What type of position did you have in the job you had on the 1st of</labl>
+  <imputation>Q3.4.2.2.1: What type of position did you have in the job you had on the 1st of</imputation>
+  <security>Q3.4.2.2.1: What type of position did you have in the job you had on the 1st of</security>
+  <embargo>Q3.4.2.2.1: What type of position did you have in the job you had on the 1st of</embargo>
+  <respUnit>Q3.4.2.2.1: What type of position did you have in the job you had on the 1st of</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Academic, scientist or (research) professional</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Other</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V119" name="q3_4_3" files="F1" intrvl="discrete">
+  <labl>Q3.4.3 What was your occupation in the job you had on the 1st of September 2012?</labl>
+  <imputation>Q3.4.3 What was your occupation in the job you had on the 1st of September 2012?</imputation>
+  <security>Q3.4.3 What was your occupation in the job you had on the 1st of September 2012?</security>
+  <embargo>Q3.4.3 What was your occupation in the job you had on the 1st of September 2012?</embargo>
+  <respUnit>Q3.4.3 What was your occupation in the job you had on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Elementary worker</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Plant or machinery operator and assembler</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Craft or related trade worker</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Skilled agricultural or fishery worker</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Service worker or shop and sales worker</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Clerk</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Technician or associated professional</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Professional</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Legislator, senior official or manager</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Armed forces</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V120" name="q3_4_4" files="F1" intrvl="discrete">
+  <labl>Q3.4.4: On what basis were you employed in the job you had on the 1st of Septemb</labl>
+  <imputation>Q3.4.4: On what basis were you employed in the job you had on the 1st of Septemb</imputation>
+  <security>Q3.4.4: On what basis were you employed in the job you had on the 1st of Septemb</security>
+  <embargo>Q3.4.4: On what basis were you employed in the job you had on the 1st of Septemb</embargo>
+  <respUnit>Q3.4.4: On what basis were you employed in the job you had on the 1st of Septemb</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Permanent</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Contractual/temporary</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V121" name="q3_4_5" files="F1" intrvl="discrete">
+  <labl>Q3.4.5: Were you employed fulltime or part time in the job you had on the 1st of</labl>
+  <imputation>Q3.4.5: Were you employed fulltime or part time in the job you had on the 1st of</imputation>
+  <security>Q3.4.5: Were you employed fulltime or part time in the job you had on the 1st of</security>
+  <embargo>Q3.4.5: Were you employed fulltime or part time in the job you had on the 1st of</embargo>
+  <respUnit>Q3.4.5: Were you employed fulltime or part time in the job you had on the 1st of</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Full-time (40 hours per week)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Part-time (less than 40 hours per week)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V122" name="q3_4_6" files="F1" intrvl="discrete">
+  <labl>Q3.4.6: What was the primary method of finding the job you had on the 1st of Sep</labl>
+  <imputation>Q3.4.6: What was the primary method of finding the job you had on the 1st of Sep</imputation>
+  <security>Q3.4.6: What was the primary method of finding the job you had on the 1st of Sep</security>
+  <embargo>Q3.4.6: What was the primary method of finding the job you had on the 1st of Sep</embargo>
+  <respUnit>Q3.4.6: What was the primary method of finding the job you had on the 1st of Sep</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>A holiday job or internship gave me access to this job</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Through help of a lecturer</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Through my university's career office</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>I initially offered to work for free</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>I had to work off a bursary I got from my employer</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>I simply sent in my CV or asked for work</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>I responded to a job ad in the printed media</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>I responded to a job ad on an employment website</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>I responded  to a job ad on a company website</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>I responded to a job ad in the Government Gazette</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>I placed ads or flyers advertising my services on notice boards or in post-boxes</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>I walked from door-to-door</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>Through one of the Department of Labour's employment centres</labl>
+  </catgry>
+  <catgry>
+    <catValu>14</catValu>
+    <labl>Through a recruitment agency or labour broker</labl>
+  </catgry>
+  <catgry>
+    <catValu>15</catValu>
+    <labl>Through family or friends</labl>
+  </catgry>
+  <catgry>
+    <catValu>16</catValu>
+    <labl>Through a social network</labl>
+  </catgry>
+  <catgry>
+    <catValu>17</catValu>
+    <labl>I was headhunted or asked to apply for the job</labl>
+  </catgry>
+  <catgry>
+    <catValu>18</catValu>
+    <labl>N/A - I was promoted internally to this position</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V123" name="q3_4_7" files="F1" intrvl="discrete">
+  <labl>Q3.4.7 What was the main reason for you being self-employed in the job you had o</labl>
+  <imputation>Q3.4.7 What was the main reason for you being self-employed in the job you had o</imputation>
+  <security>Q3.4.7 What was the main reason for you being self-employed in the job you had o</security>
+  <embargo>Q3.4.7 What was the main reason for you being self-employed in the job you had o</embargo>
+  <respUnit>Q3.4.7 What was the main reason for you being self-employed in the job you had o</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>I preferred to be my own boss or have my own business, company or practice</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>I took over a family business</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I wanted to work from home</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>I could make more money</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>I lost my job</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>I could not find a job</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V124" name="q3_4_8" files="F1" intrvl="discrete">
+  <labl>Q3.4.8: What kind of work did you do when you were self-employed in the job you</labl>
+  <imputation>Q3.4.8: What kind of work did you do when you were self-employed in the job you</imputation>
+  <security>Q3.4.8: What kind of work did you do when you were self-employed in the job you</security>
+  <embargo>Q3.4.8: What kind of work did you do when you were self-employed in the job you</embargo>
+  <respUnit>Q3.4.8: What kind of work did you do when you were self-employed in the job you</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>I produced goods and services to multiple clients</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>I worked as a sub-contractor producing goods and services for a limited number o</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I sold goods and services produced by other companies</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>I provided knowledge services as a consultant working on my own</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V125" name="q3_4_9" files="F1" intrvl="discrete">
+  <labl>Q3.4.9: In the job you had on the 1st of September 2012, how many people did you</labl>
+  <imputation>Q3.4.9: In the job you had on the 1st of September 2012, how many people did you</imputation>
+  <security>Q3.4.9: In the job you had on the 1st of September 2012, how many people did you</security>
+  <embargo>Q3.4.9: In the job you had on the 1st of September 2012, how many people did you</embargo>
+  <respUnit>Q3.4.9: In the job you had on the 1st of September 2012, how many people did you</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>1 - 5</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>6 - 10</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>11 - 15</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>16 - 20</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>21 or more</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V126" name="q3_4_10a" files="F1" intrvl="discrete">
+  <labl>Was the job that you did on the 1st of September 2012 related to the field in wh</labl>
+  <imputation>Was the job that you did on the 1st of September 2012 related to the field in wh</imputation>
+  <security>Was the job that you did on the 1st of September 2012 related to the field in wh</security>
+  <embargo>Was the job that you did on the 1st of September 2012 related to the field in wh</embargo>
+  <respUnit>Was the job that you did on the 1st of September 2012 related to the field in wh</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V127" name="q3_4_10b" files="F1" intrvl="discrete">
+  <labl>Were you able to apply what you learnt in your 2010 qualification in the job you</labl>
+  <imputation>Were you able to apply what you learnt in your 2010 qualification in the job you</imputation>
+  <security>Were you able to apply what you learnt in your 2010 qualification in the job you</security>
+  <embargo>Were you able to apply what you learnt in your 2010 qualification in the job you</embargo>
+  <respUnit>Were you able to apply what you learnt in your 2010 qualification in the job you</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V128" name="q3_4_10c" files="F1" intrvl="discrete">
+  <labl>Were you satisfied with your 2010 qualification in relation to the job you had o</labl>
+  <imputation>Were you satisfied with your 2010 qualification in relation to the job you had o</imputation>
+  <security>Were you satisfied with your 2010 qualification in relation to the job you had o</security>
+  <embargo>Were you satisfied with your 2010 qualification in relation to the job you had o</embargo>
+  <respUnit>Were you satisfied with your 2010 qualification in relation to the job you had o</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V129" name="q3_4_11a" files="F1" intrvl="discrete">
+  <labl>A promotion to a higher rank, position or level</labl>
+  <imputation>A promotion to a higher rank, position or level</imputation>
+  <security>A promotion to a higher rank, position or level</security>
+  <embargo>A promotion to a higher rank, position or level</embargo>
+  <respUnit>A promotion to a higher rank, position or level</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V130" name="q3_4_11b" files="F1" intrvl="discrete">
+  <labl>A pay increase</labl>
+  <imputation>A pay increase</imputation>
+  <security>A pay increase</security>
+  <embargo>A pay increase</embargo>
+  <respUnit>A pay increase</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V131" name="q3_4_11c" files="F1" intrvl="discrete">
+  <labl>Increased benefits</labl>
+  <imputation>Increased benefits</imputation>
+  <security>Increased benefits</security>
+  <embargo>Increased benefits</embargo>
+  <respUnit>Increased benefits</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V132" name="q3_4_11d" files="F1" intrvl="discrete">
+  <labl>Increased tasks and responsibilities</labl>
+  <imputation>Increased tasks and responsibilities</imputation>
+  <security>Increased tasks and responsibilities</security>
+  <embargo>Increased tasks and responsibilities</embargo>
+  <respUnit>Increased tasks and responsibilities</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V133" name="q3_4_11e" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V134" name="q3_4_11f" files="F1" intrvl="discrete">
+  <labl>None of the above</labl>
+  <imputation>None of the above</imputation>
+  <security>None of the above</security>
+  <embargo>None of the above</embargo>
+  <respUnit>None of the above</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V135" name="q3_4_12" files="F1" intrvl="discrete">
+  <labl>Q3.4.12: Since when have you been looking for work given your current unemployme</labl>
+  <imputation>Q3.4.12: Since when have you been looking for work given your current unemployme</imputation>
+  <security>Q3.4.12: Since when have you been looking for work given your current unemployme</security>
+  <embargo>Q3.4.12: Since when have you been looking for work given your current unemployme</embargo>
+  <respUnit>Q3.4.12: Since when have you been looking for work given your current unemployme</respUnit>
+  <sumStat type="vald"/>
+  <varFormat type="character" formatname="Nesstar.date"/>
+</var>
+<var ID="V136" name="q3_4_12r1" files="F1" intrvl="discrete">
+  <labl>Q3.4.12: Since when have you been looking for work given your current unemployme</labl>
+  <imputation>Q3.4.12: Since when have you been looking for work given your current unemployme</imputation>
+  <security>Q3.4.12: Since when have you been looking for work given your current unemployme</security>
+  <embargo>Q3.4.12: Since when have you been looking for work given your current unemployme</embargo>
+  <respUnit>Q3.4.12: Since when have you been looking for work given your current unemployme</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Sometime since 2012 (before 1 September)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Sometime since 2011</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Sometime since 2010 or before</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V137" name="q3_4_13a" files="F1" intrvl="discrete">
+  <labl>I approached a lecturer</labl>
+  <imputation>I approached a lecturer</imputation>
+  <security>I approached a lecturer</security>
+  <embargo>I approached a lecturer</embargo>
+  <respUnit>I approached a lecturer</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V138" name="q3_4_13b" files="F1" intrvl="discrete">
+  <labl>I approached my university’s career office</labl>
+  <imputation>I approached my university’s career office</imputation>
+  <security>I approached my university’s career office</security>
+  <embargo>I approached my university’s career office</embargo>
+  <respUnit>I approached my university’s career office</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V139" name="q3_4_13c" files="F1" intrvl="discrete">
+  <labl>I have offered to work for free</labl>
+  <imputation>I have offered to work for free</imputation>
+  <security>I have offered to work for free</security>
+  <embargo>I have offered to work for free</embargo>
+  <respUnit>I have offered to work for free</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V140" name="q3_4_13d" files="F1" intrvl="discrete">
+  <labl>I sent my CV or asked for jobs directly</labl>
+  <imputation>I sent my CV or asked for jobs directly</imputation>
+  <security>I sent my CV or asked for jobs directly</security>
+  <embargo>I sent my CV or asked for jobs directly</embargo>
+  <respUnit>I sent my CV or asked for jobs directly</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V141" name="q3_4_13e" files="F1" intrvl="discrete">
+  <labl>I responded to job ads in the printed media</labl>
+  <imputation>I responded to job ads in the printed media</imputation>
+  <security>I responded to job ads in the printed media</security>
+  <embargo>I responded to job ads in the printed media</embargo>
+  <respUnit>I responded to job ads in the printed media</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V142" name="q3_4_13f" files="F1" intrvl="discrete">
+  <labl>I responded to job ads on employment websites</labl>
+  <imputation>I responded to job ads on employment websites</imputation>
+  <security>I responded to job ads on employment websites</security>
+  <embargo>I responded to job ads on employment websites</embargo>
+  <respUnit>I responded to job ads on employment websites</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V143" name="q3_4_13g" files="F1" intrvl="discrete">
+  <labl>I responded to job ads on company websites</labl>
+  <imputation>I responded to job ads on company websites</imputation>
+  <security>I responded to job ads on company websites</security>
+  <embargo>I responded to job ads on company websites</embargo>
+  <respUnit>I responded to job ads on company websites</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V144" name="q3_4_13h" files="F1" intrvl="discrete">
+  <labl>I responded to job ads in the Government Gazette</labl>
+  <imputation>I responded to job ads in the Government Gazette</imputation>
+  <security>I responded to job ads in the Government Gazette</security>
+  <embargo>I responded to job ads in the Government Gazette</embargo>
+  <respUnit>I responded to job ads in the Government Gazette</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V145" name="q3_4_13i" files="F1" intrvl="discrete">
+  <labl>I placed ads or flyers advertising my services on notice boards or in post-boxes</labl>
+  <imputation>I placed ads or flyers advertising my services on notice boards or in post-boxes</imputation>
+  <security>I placed ads or flyers advertising my services on notice boards or in post-boxes</security>
+  <embargo>I placed ads or flyers advertising my services on notice boards or in post-boxes</embargo>
+  <respUnit>I placed ads or flyers advertising my services on notice boards or in post-boxes</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V146" name="q3_4_13j" files="F1" intrvl="discrete">
+  <labl>I walked from door-to-door asking for work</labl>
+  <imputation>I walked from door-to-door asking for work</imputation>
+  <security>I walked from door-to-door asking for work</security>
+  <embargo>I walked from door-to-door asking for work</embargo>
+  <respUnit>I walked from door-to-door asking for work</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V147" name="q3_4_13k" files="F1" intrvl="discrete">
+  <labl>I approached one of the Department of Labour’s employment centres</labl>
+  <imputation>I approached one of the Department of Labour’s employment centres</imputation>
+  <security>I approached one of the Department of Labour’s employment centres</security>
+  <embargo>I approached one of the Department of Labour’s employment centres</embargo>
+  <respUnit>I approached one of the Department of Labour’s employment centres</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V148" name="q3_4_13l" files="F1" intrvl="discrete">
+  <labl>I approached recruitment agencies or labour brokers</labl>
+  <imputation>I approached recruitment agencies or labour brokers</imputation>
+  <security>I approached recruitment agencies or labour brokers</security>
+  <embargo>I approached recruitment agencies or labour brokers</embargo>
+  <respUnit>I approached recruitment agencies or labour brokers</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V149" name="q3_4_13m" files="F1" intrvl="discrete">
+  <labl>I approached family or friends personally</labl>
+  <imputation>I approached family or friends personally</imputation>
+  <security>I approached family or friends personally</security>
+  <embargo>I approached family or friends personally</embargo>
+  <respUnit>I approached family or friends personally</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V150" name="q3_4_13n" files="F1" intrvl="discrete">
+  <labl>I used social networks</labl>
+  <imputation>I used social networks</imputation>
+  <security>I used social networks</security>
+  <embargo>I used social networks</embargo>
+  <respUnit>I used social networks</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V151" name="q3_4_13o" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V152" name="q4_1" files="F1" intrvl="discrete">
+  <labl>Q4.1: Were you registered for and studying towards another qualification at a un</labl>
+  <imputation>Q4.1: Were you registered for and studying towards another qualification at a un</imputation>
+  <security>Q4.1: Were you registered for and studying towards another qualification at a un</security>
+  <embargo>Q4.1: Were you registered for and studying towards another qualification at a un</embargo>
+  <respUnit>Q4.1: Were you registered for and studying towards another qualification at a un</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V153" name="q4_1_1" files="F1" intrvl="discrete">
+  <labl>Q4.1.1 Were you registered at a South African or foreign university on the 1st o</labl>
+  <imputation>Q4.1.1 Were you registered at a South African or foreign university on the 1st o</imputation>
+  <security>Q4.1.1 Were you registered at a South African or foreign university on the 1st o</security>
+  <embargo>Q4.1.1 Were you registered at a South African or foreign university on the 1st o</embargo>
+  <respUnit>Q4.1.1 Were you registered at a South African or foreign university on the 1st o</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>South African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Foreign</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V154" name="q4_1_2" files="F1" intrvl="discrete">
+  <labl>Q4.1.2: What qualification were you registered for on the 1st of September 2012?</labl>
+  <imputation>Q4.1.2: What qualification were you registered for on the 1st of September 2012?</imputation>
+  <security>Q4.1.2: What qualification were you registered for on the 1st of September 2012?</security>
+  <embargo>Q4.1.2: What qualification were you registered for on the 1st of September 2012?</embargo>
+  <respUnit>Q4.1.2: What qualification were you registered for on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Occasional studies (not for degree purposes)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>A certificate or diploma</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>A bachelor's degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>An honours degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>A master's degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>A doctoral degree</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V155" name="q4_1_3" files="F1" intrvl="discrete">
+  <labl>Q4.1.3 In which field were you studying on the 1st of September 2012?</labl>
+  <imputation>Q4.1.3 In which field were you studying on the 1st of September 2012?</imputation>
+  <security>Q4.1.3 In which field were you studying on the 1st of September 2012?</security>
+  <embargo>Q4.1.3 In which field were you studying on the 1st of September 2012?</embargo>
+  <respUnit>Q4.1.3 In which field were you studying on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Science, engineering and technology</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Business and commerce</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Human and social sciences (including performing and fine arts)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Health sciences</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Law</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Education</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V156" name="q4_1_4" files="F1" intrvl="discrete">
+  <labl>Q4.1.4 Were you registered for another qualification at a university between you</labl>
+  <imputation>Q4.1.4 Were you registered for another qualification at a university between you</imputation>
+  <security>Q4.1.4 Were you registered for another qualification at a university between you</security>
+  <embargo>Q4.1.4 Were you registered for another qualification at a university between you</embargo>
+  <respUnit>Q4.1.4 Were you registered for another qualification at a university between you</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V157" name="q4_1_4_1" files="F1" intrvl="discrete">
+  <labl>Q4.1.4.1 Were you registered at a South African or foreign university between yo</labl>
+  <imputation>Q4.1.4.1 Were you registered at a South African or foreign university between yo</imputation>
+  <security>Q4.1.4.1 Were you registered at a South African or foreign university between yo</security>
+  <embargo>Q4.1.4.1 Were you registered at a South African or foreign university between yo</embargo>
+  <respUnit>Q4.1.4.1 Were you registered at a South African or foreign university between yo</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>South African</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Foreign</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V158" name="q4_1_4_2" files="F1" intrvl="discrete">
+  <labl>Q4.1.4.2 What qualification were you registered for between your graduation in 2</labl>
+  <imputation>Q4.1.4.2 What qualification were you registered for between your graduation in 2</imputation>
+  <security>Q4.1.4.2 What qualification were you registered for between your graduation in 2</security>
+  <embargo>Q4.1.4.2 What qualification were you registered for between your graduation in 2</embargo>
+  <respUnit>Q4.1.4.2 What qualification were you registered for between your graduation in 2</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Occasional studies (not for degree purposes)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>A certificate or diploma</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>A bachelor's degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>An honours degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>A master's degree</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>A doctoral degree</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V159" name="q4_1_4_3" files="F1" intrvl="discrete">
+  <labl>Q4.1.4.3 In which field were you studying between your graduation in 2010 and th</labl>
+  <imputation>Q4.1.4.3 In which field were you studying between your graduation in 2010 and th</imputation>
+  <security>Q4.1.4.3 In which field were you studying between your graduation in 2010 and th</security>
+  <embargo>Q4.1.4.3 In which field were you studying between your graduation in 2010 and th</embargo>
+  <respUnit>Q4.1.4.3 In which field were you studying between your graduation in 2010 and th</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Science, engineering and technology</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Business and commerce</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Human and social sciences (including performing and fine arts)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Health sciences</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Law</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Education</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V160" name="q4_1_4_4" files="F1" intrvl="discrete">
+  <labl>Q4.1.4.4 Did you complete this qualification by the 1st of September 2012?</labl>
+  <imputation>Q4.1.4.4 Did you complete this qualification by the 1st of September 2012?</imputation>
+  <security>Q4.1.4.4 Did you complete this qualification by the 1st of September 2012?</security>
+  <embargo>Q4.1.4.4 Did you complete this qualification by the 1st of September 2012?</embargo>
+  <respUnit>Q4.1.4.4 Did you complete this qualification by the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No (I deregistered or discontinued this qualification)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V161" name="q4_1_5a" files="F1" intrvl="discrete">
+  <labl>For personal fulfilment</labl>
+  <imputation>For personal fulfilment</imputation>
+  <security>For personal fulfilment</security>
+  <embargo>For personal fulfilment</embargo>
+  <respUnit>For personal fulfilment</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V162" name="q4_1_5b" files="F1" intrvl="discrete">
+  <labl>To improve my chances of getting a job as I have yet to find one</labl>
+  <imputation>To improve my chances of getting a job as I have yet to find one</imputation>
+  <security>To improve my chances of getting a job as I have yet to find one</security>
+  <embargo>To improve my chances of getting a job as I have yet to find one</embargo>
+  <respUnit>To improve my chances of getting a job as I have yet to find one</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V163" name="q4_1_5c" files="F1" intrvl="discrete">
+  <labl>To enable me to do my current job better</labl>
+  <imputation>To enable me to do my current job better</imputation>
+  <security>To enable me to do my current job better</security>
+  <embargo>To enable me to do my current job better</embargo>
+  <respUnit>To enable me to do my current job better</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V164" name="q4_1_5d" files="F1" intrvl="discrete">
+  <labl>To enable me to make more money or get promoted in my current job</labl>
+  <imputation>To enable me to make more money or get promoted in my current job</imputation>
+  <security>To enable me to make more money or get promoted in my current job</security>
+  <embargo>To enable me to make more money or get promoted in my current job</embargo>
+  <respUnit>To enable me to make more money or get promoted in my current job</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V165" name="q4_1_5e" files="F1" intrvl="discrete">
+  <labl>To enable me to get a better or higher paying job in the same field</labl>
+  <imputation>To enable me to get a better or higher paying job in the same field</imputation>
+  <security>To enable me to get a better or higher paying job in the same field</security>
+  <embargo>To enable me to get a better or higher paying job in the same field</embargo>
+  <respUnit>To enable me to get a better or higher paying job in the same field</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V166" name="q4_1_5f" files="F1" intrvl="discrete">
+  <labl>To enable me to change careers to a different field</labl>
+  <imputation>To enable me to change careers to a different field</imputation>
+  <security>To enable me to change careers to a different field</security>
+  <embargo>To enable me to change careers to a different field</embargo>
+  <respUnit>To enable me to change careers to a different field</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V167" name="q4_1_5g" files="F1" intrvl="discrete">
+  <labl>To enable me to become a researcher or an academic</labl>
+  <imputation>To enable me to become a researcher or an academic</imputation>
+  <security>To enable me to become a researcher or an academic</security>
+  <embargo>To enable me to become a researcher or an academic</embargo>
+  <respUnit>To enable me to become a researcher or an academic</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V168" name="q4_1_5h" files="F1" intrvl="discrete">
+  <labl>Someone else me wanted me to study further</labl>
+  <imputation>Someone else me wanted me to study further</imputation>
+  <security>Someone else me wanted me to study further</security>
+  <embargo>Someone else me wanted me to study further</embargo>
+  <respUnit>Someone else me wanted me to study further</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V169" name="q4_1_5i" files="F1" intrvl="discrete">
+  <labl>Other</labl>
+  <imputation>Other</imputation>
+  <security>Other</security>
+  <embargo>Other</embargo>
+  <respUnit>Other</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V170" name="q4_1_6" files="F1" intrvl="discrete">
+  <labl>Q4.1.6: On a scale of 1 to 5, with “1” being “not at all” and “5” being “to a la</labl>
+  <imputation>Q4.1.6: On a scale of 1 to 5, with “1” being “not at all” and “5” being “to a la</imputation>
+  <security>Q4.1.6: On a scale of 1 to 5, with “1” being “not at all” and “5” being “to a la</security>
+  <embargo>Q4.1.6: On a scale of 1 to 5, with “1” being “not at all” and “5” being “to a la</embargo>
+  <respUnit>Q4.1.6: On a scale of 1 to 5, with “1” being “not at all” and “5” being “to a la</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V171" name="q5_1" files="F1" intrvl="discrete">
+  <labl>Q5.1: Apart from any qualification you may currently be registered for; do you t</labl>
+  <imputation>Q5.1: Apart from any qualification you may currently be registered for; do you t</imputation>
+  <security>Q5.1: Apart from any qualification you may currently be registered for; do you t</security>
+  <embargo>Q5.1: Apart from any qualification you may currently be registered for; do you t</embargo>
+  <respUnit>Q5.1: Apart from any qualification you may currently be registered for; do you t</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V172" name="q5_2" files="F1" intrvl="discrete">
+  <labl>Q5.2: Where did you live on the 1st of September 2012?</labl>
+  <imputation>Q5.2: Where did you live on the 1st of September 2012?</imputation>
+  <security>Q5.2: Where did you live on the 1st of September 2012?</security>
+  <embargo>Q5.2: Where did you live on the 1st of September 2012?</embargo>
+  <respUnit>Q5.2: Where did you live on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>In South Africa</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Elsewhere in Africa</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Elsewhere in the world</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V173" name="q5_2_1" files="F1" intrvl="discrete">
+  <labl>Q5.2.1: In which province did you live on the 1st of September 2012?</labl>
+  <imputation>Q5.2.1: In which province did you live on the 1st of September 2012?</imputation>
+  <security>Q5.2.1: In which province did you live on the 1st of September 2012?</security>
+  <embargo>Q5.2.1: In which province did you live on the 1st of September 2012?</embargo>
+  <respUnit>Q5.2.1: In which province did you live on the 1st of September 2012?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>EC</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>FS</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>GP</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>KZN</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>LP</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>MP</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>NC</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>NW</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>WC</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V174" name="q5_2_1_1" files="F1" intrvl="discrete">
+  <labl>Q5.2.1.1: Do you think you will move to the Western Cape in the near future?</labl>
+  <imputation>Q5.2.1.1: Do you think you will move to the Western Cape in the near future?</imputation>
+  <security>Q5.2.1.1: Do you think you will move to the Western Cape in the near future?</security>
+  <embargo>Q5.2.1.1: Do you think you will move to the Western Cape in the near future?</embargo>
+  <respUnit>Q5.2.1.1: Do you think you will move to the Western Cape in the near future?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V175" name="q5_2_1_2" files="F1" intrvl="discrete">
+  <labl>Q5.2.1.2: Do you think you will move from the Western Cape in the near future?</labl>
+  <imputation>Q5.2.1.2: Do you think you will move from the Western Cape in the near future?</imputation>
+  <security>Q5.2.1.2: Do you think you will move from the Western Cape in the near future?</security>
+  <embargo>Q5.2.1.2: Do you think you will move from the Western Cape in the near future?</embargo>
+  <respUnit>Q5.2.1.2: Do you think you will move from the Western Cape in the near future?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V176" name="q5_2_2" files="F1" intrvl="discrete">
+  <labl>Q5.2.2 Do you think you will leave South Africa in the near future?</labl>
+  <imputation>Q5.2.2 Do you think you will leave South Africa in the near future?</imputation>
+  <security>Q5.2.2 Do you think you will leave South Africa in the near future?</security>
+  <embargo>Q5.2.2 Do you think you will leave South Africa in the near future?</embargo>
+  <respUnit>Q5.2.2 Do you think you will leave South Africa in the near future?</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes - permanently</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Yes - temporarily</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>No</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>I am not sure</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V177" name="q5_2_2_1" files="F1" intrvl="discrete">
+  <labl>Q5.2.2.1 Please indicate the continent/region to which you intend moving to:</labl>
+  <imputation>Q5.2.2.1 Please indicate the continent/region to which you intend moving to:</imputation>
+  <security>Q5.2.2.1 Please indicate the continent/region to which you intend moving to:</security>
+  <embargo>Q5.2.2.1 Please indicate the continent/region to which you intend moving to:</embargo>
+  <respUnit>Q5.2.2.1 Please indicate the continent/region to which you intend moving to:</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Africa</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Latin America and the Caribbean</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>North America</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Asia</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Europe (including the UK)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Oceania</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V178" name="filter__" files="F1" intrvl="discrete">
+  <labl>nation = 1 &amp; q5_2 = 1 (FILTER)</labl>
+  <imputation>nation = 1 &amp; q5_2 = 1 (FILTER)</imputation>
+  <security>nation = 1 &amp; q5_2 = 1 (FILTER)</security>
+  <embargo>nation = 1 &amp; q5_2 = 1 (FILTER)</embargo>
+  <respUnit>nation = 1 &amp; q5_2 = 1 (FILTER)</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>Not Selected</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Selected</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+</dataDscr></codeBook>

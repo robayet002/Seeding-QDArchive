@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook version="1.2.2" ID="zaf-hsrc-srns-1996-v1.1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+<docDscr>
+  <citation>
+    <titlStmt>
+      <IDNo>ddi-zaf-datafirst-srns-1996-v2</IDNo>
+    </titlStmt>
+    <prodStmt>
+      <producer abbr="" affiliation="University of Cape Town" role="Metadata Producer">DataFirst</producer>
+      <prodDate date="2020-04-28">2020-04-28</prodDate>
+      <software version="v5">NADA</software>
+    </prodStmt>
+    <verStmt>
+      <version>Version 3</version>
+    </verStmt>
+  </citation>
+</docDscr>
+<stdyDscr>
+  <citation>
+    <titlStmt>
+      <titl>School Register of Needs Survey 1996</titl>
+      <subTitl/>
+      <altTitl>SRNS 1996</altTitl>
+      <parTitl/>
+      <IDNo>zaf-hsrc-srns-1996-v1.1</IDNo>
+    </titlStmt>
+    <rspStmt>
+      <AuthEnty affiliation="">Human Sciences Research Council</AuthEnty>
+    </rspStmt>
+    <prodStmt>
+      <copyright/>
+      <software version="5.0" date="2021-12-10">NADA</software>
+      <fundAg abbr="" role="">National Department of Education</fundAg>
+      <grantNo/>
+    </prodStmt>
+    <distStmt>
+      <contact affiliation="University of Cape Town" URI="http://support.data1st.org/" email="support@data1st.org">DataFirst Helpdesk</contact>
+      <depDate date=""/>
+      <distDate date=""/>
+    </distStmt>
+    <serStmt>
+      <serName>Education Survey [es]</serName>
+      <serInfo>National Department of Education. School Register of Needs Survey 1996 [dataset]. Version 1.1. Pretoria: National Department of Education [producers], 1997. Cape Town: DataFirst [distributor], 2014.DOI: https://doi.org/10.25828/62f9-9p72</serInfo>
+    </serStmt>
+    <verStmt>
+      <version date="1997">v1.1: Edited, anonymised dataset for licensed distribution</version>
+      <verResp/>
+      <notes>The original version of the School Register of Needs Survey was obtained by DataFirst at an unknown date between the original release and February 2012. 
+
+This version partially remedies anomalies in the original and represents a cleaner version of the data than the original, albeit with the imposition of a few assumptions. This version also adds value and variable labels where that information is available.
+
+Most of these assumptions were made to deal with the specification of certain variable values as strings instead of integrers representing categoricals defined in the questionnaire (which serves as the only source of information for the dataset - no complete metadata is obviously available). For example, certain schools were assigned the string value "Junior Primary (Sub A - Std Senior Primary (Std Primary (Sub A - Std Senior Secondary (Std 9 - Std 10)) - Std Senior Secondary (Std 9 - Std 10))Junior Secondary (Std Secondary (Std 6 - Std 10) - Std Combined (Sub A - Std 10))", which is nonsensical. It was assumed that these values were misspecified entries which should have read "Junior Primary (Sub A - Std 2)". As such, these responses were redefined as having a value of "1", which corresponds with "Junior Primary (Sub A - Std 2)" - information gleaned from the questionnaire.
+
+A full list of these changes is included in the the document "SRNS 1996 Variable Relabelling Process".</notes>
+    </verStmt>
+    <biblCit format=""/>
+    <notes/>
+  </citation>
+  <stdyInfo>
+    <studyBudget/>
+    <subject>
+      <topcClas vocab="CESSDA" vocabURI="http://www.nesstar.org/rdf/common">EDUCATION [6]</topcClas>
+    </subject>
+    <abstract>The Department of Education commissioned the Human Sciences Research Council (HSRC) to conduct a national survey on the locality and other information linked to all schools in South Africa.</abstract>
+    <sumDscr>
+      <collDate date="1996-03-01" event="start" cycle=""/>
+      <collDate date="1997-01-01" event="end" cycle=""/>
+      <nation abbr="zaf">South Africa</nation>
+      <geogCover>The survey has national coverage</geogCover>
+      <geogUnit>GPS coordinates</geogUnit>
+      <anlyUnit>Institutions</anlyUnit>
+      <universe>The universe of the survey was all schools in South Africa</universe>
+      <dataKind>Administrative records</dataKind>
+    </sumDscr>
+    <!-- qualityStatement - ddi2.5 - complex type
+     
+     This structure consists of two parts, standardsCompliance and otherQualityStatements. 
+     In standardsCompliance list all specific standards complied with during the execution of this 
+     study. Note the standard name and producer and how the study complied with the standard. 
+     Enter any additional quality statements in otherQualityStatements.
+     
+     -->
+    <qualityStatement>
+      <standardsCompliance>
+        <standard>
+          <standardName/>
+          <producer/>
+        </standard>
+        <complianceDescription/>
+      </standardsCompliance>
+      <otherQualityStatement/>
+    </qualityStatement>
+    <notes/>
+    <!-- exPostEvaluation ddi2.5
+      Use this section to describe evaluation procedures not address in data evaluation processes. 
+      These may include issues such as timing of the study, sequencing issues, cost/budget issues, 
+      relevance, instituional or legal arrangments etc. of the study. 
+      
+      The completionDate attribute holds the date the evaluation was completed. 
+      The type attribute is an optional type to identify the type of evaluation with or without 
+      the use of a controlled vocabulary.
+    -->
+    <exPostEvaluation completionDate="" type="">
+      <evaluationProcess/>
+      <outcomes/>
+    </exPostEvaluation>
+  </stdyInfo>
+  <method>
+    <dataColl>
+      <timeMeth/>
+      <!-- collectorTraining - DDI2.5
+        
+        Collector Training
+
+        Describes the training provided to data collectors including internviewer training, process testing, 
+        compliance with standards etc. This is repeatable for language and to capture different aspects of the 
+        training process. The type attribute allows specification of the type of training being described.
+        
+        -->
+      <collectorTraining type=""/>
+      <frequenc/>
+      <sampProc/>
+      <sampleFrame>
+        <sampleFrameName/>
+        <custodian/>
+        <universe/>
+        <frameUnit isPrimary="">
+          <unitType numberOfUnits=""/>
+        </frameUnit>
+        <updateProcedure/>
+      </sampleFrame>
+      <deviat/>
+      <collMode/>
+      <resInstru/>
+      <!-- instrumentDevelopment - DDI2.5             
+        Describe any development work on the data collection instrument. Type attribute allows for the optional use of a defined development type with or without use of a controlled vocabulary.
+        -->
+      <instrumentDevelopment type=""/>
+      <collSitu/>
+      <actMin/>
+      <ConOps/>
+      <weight/>
+      <cleanOps/>
+    </dataColl>
+    <notes/>
+    <anlyInfo>
+      <respRate/>
+      <EstSmpErr/>
+      <dataAppr/>
+    </anlyInfo>
+    <stdyClas/>
+    <dataProcessing type=""/>
+    <codingInstructions relatedProcesses="" type="">
+      <txt/>
+      <command formalLanguage=""/>
+    </codingInstructions>
+  </method>
+  <dataAccs>
+    <setAvail>
+      <accsPlac URI=""/>
+      <origArch/>
+      <avlStatus/>
+      <collSize/>
+      <complete/>
+      <fileQnty/>
+      <notes/>
+    </setAvail>
+    <useStmt>
+      <restrctn/>
+      <contact affiliation="University of Cape Town" URI="http://www.support.data1st.org" email="support@data1st.org">DataFirst</contact>
+      <citReq>National Department of Education. School Register of Needs Survey 1996 [dataset]. Version 1.1. Pretoria: National Department of Education [producers], 1997. Cape Town: DataFirst [distributor], 2014.DOI: https://doi.org/10.25828/62f9-9p72</citReq>
+      <deposReq/>
+      <conditions>Public use files, available to all</conditions>
+      <disclaimer/>
+    </useStmt>
+    <notes/>
+  </dataAccs>
+  <notes/>
+</stdyDscr>
+<fileDscr ID="F1">
+  <fileTxt>
+    <fileName>srns-1996-v1.1-20120221</fileName>
+    <fileCont></fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>93</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<dataDscr>
+<var ID="V1" name="contact" files="F1" intrvl="discrete">
+  <labl>Contact person at school</labl>
+  <imputation>Contact person at school</imputation>
+  <security>Contact person at school</security>
+  <embargo>Contact person at school</embargo>
+  <respUnit>Contact person at school</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V2" name="include_in_sample" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V3" name="school" files="F1" intrvl="discrete">
+  <labl>Name of school</labl>
+  <imputation>Name of school</imputation>
+  <security>Name of school</security>
+  <embargo>Name of school</embargo>
+  <respUnit>Name of school</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V4" name="post_1" files="F1" intrvl="discrete">
+  <labl>Street address</labl>
+  <imputation>Street address</imputation>
+  <security>Street address</security>
+  <embargo>Street address</embargo>
+  <respUnit>Street address</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V5" name="post_2" files="F1" intrvl="discrete">
+  <labl>Suburb</labl>
+  <imputation>Suburb</imputation>
+  <security>Suburb</security>
+  <embargo>Suburb</embargo>
+  <respUnit>Suburb</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V6" name="post_3" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V7" name="postcode" files="F1" intrvl="discrete">
+  <labl>Postal Code</labl>
+  <imputation>Postal Code</imputation>
+  <security>Postal Code</security>
+  <embargo>Postal Code</embargo>
+  <respUnit>Postal Code</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V8" name="phys_1" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V9" name="phys_2" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V10" name="phys_3" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V11" name="physcode" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V12" name="condit" files="F1" intrvl="discrete">
+  <labl>Condition of Buildings</labl>
+  <imputation>Condition of Buildings</imputation>
+  <security>Condition of Buildings</security>
+  <embargo>Condition of Buildings</embargo>
+  <respUnit>Condition of Buildings</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Very weak (not suitable for education)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Weak (structures need attention)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Needs paint and minor repairs</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Good condition</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Excellent, no forseeable repairs</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V13" name="rf_type" files="F1" intrvl="discrete">
+  <labl>Roof type</labl>
+  <imputation>Roof type</imputation>
+  <security>Roof type</security>
+  <embargo>Roof type</embargo>
+  <respUnit>Roof type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V14" name="rf_cond" files="F1" intrvl="discrete">
+  <labl>Roof condition</labl>
+  <imputation>Roof condition</imputation>
+  <security>Roof condition</security>
+  <embargo>Roof condition</embargo>
+  <respUnit>Roof condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V15" name="wd_cond" files="F1" intrvl="discrete">
+  <labl>Window condition</labl>
+  <imputation>Window condition</imputation>
+  <security>Window condition</security>
+  <embargo>Window condition</embargo>
+  <respUnit>Window condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V16" name="dr_cond" files="F1" intrvl="discrete">
+  <labl>Door condition</labl>
+  <imputation>Door condition</imputation>
+  <security>Door condition</security>
+  <embargo>Door condition</embargo>
+  <respUnit>Door condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V17" name="wl_type" files="F1" intrvl="discrete">
+  <labl>Wall type</labl>
+  <imputation>Wall type</imputation>
+  <security>Wall type</security>
+  <embargo>Wall type</embargo>
+  <respUnit>Wall type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V18" name="wl_cond" files="F1" intrvl="discrete">
+  <labl>Wall condition</labl>
+  <imputation>Wall condition</imputation>
+  <security>Wall condition</security>
+  <embargo>Wall condition</embargo>
+  <respUnit>Wall condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V19" name="fr_cond" files="F1" intrvl="discrete">
+  <labl>Furniture condition</labl>
+  <imputation>Furniture condition</imputation>
+  <security>Furniture condition</security>
+  <embargo>Furniture condition</embargo>
+  <respUnit>Furniture condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V20" name="fl_type" files="F1" intrvl="discrete">
+  <labl>Floor type</labl>
+  <imputation>Floor type</imputation>
+  <security>Floor type</security>
+  <embargo>Floor type</embargo>
+  <respUnit>Floor type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V21" name="fl_cond" files="F1" intrvl="discrete">
+  <labl>Floor condition</labl>
+  <imputation>Floor condition</imputation>
+  <security>Floor condition</security>
+  <embargo>Floor condition</embargo>
+  <respUnit>Floor condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V22" name="tl_type" files="F1" intrvl="discrete">
+  <labl>Toilet type</labl>
+  <imputation>Toilet type</imputation>
+  <security>Toilet type</security>
+  <embargo>Toilet type</embargo>
+  <respUnit>Toilet type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V23" name="tl_cond" files="F1" intrvl="discrete">
+  <labl>Toilet condition</labl>
+  <imputation>Toilet condition</imputation>
+  <security>Toilet condition</security>
+  <embargo>Toilet condition</embargo>
+  <respUnit>Toilet condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V24" name="ceiling" files="F1" intrvl="discrete">
+  <labl>Ceiling</labl>
+  <imputation>Ceiling</imputation>
+  <security>Ceiling</security>
+  <embargo>Ceiling</embargo>
+  <respUnit>Ceiling</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Fitted</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Non-fitted</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V25" name="o_type" files="F1" intrvl="discrete">
+  <labl>Other type</labl>
+  <imputation>Other type</imputation>
+  <security>Other type</security>
+  <embargo>Other type</embargo>
+  <respUnit>Other type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V26" name="o_cond" files="F1" intrvl="discrete">
+  <labl>Other condition</labl>
+  <imputation>Other condition</imputation>
+  <security>Other condition</security>
+  <embargo>Other condition</embargo>
+  <respUnit>Other condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No maintenance needed</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Need maintenance</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Need maintenance and structural repair</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Beyond repair</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V27" name="stdprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of student worktop/chair</labl>
+  <imputation>Adequacy of student worktop/chair</imputation>
+  <security>Adequacy of student worktop/chair</security>
+  <embargo>Adequacy of student worktop/chair</embargo>
+  <respUnit>Adequacy of student worktop/chair</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V28" name="stdshort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of student worktop/chair provision</labl>
+  <imputation>Estimated shortfall of student worktop/chair provision</imputation>
+  <security>Estimated shortfall of student worktop/chair provision</security>
+  <embargo>Estimated shortfall of student worktop/chair provision</embargo>
+  <respUnit>Estimated shortfall of student worktop/chair provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V29" name="eduprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of teach worktop/chair</labl>
+  <imputation>Adequacy of teach worktop/chair</imputation>
+  <security>Adequacy of teach worktop/chair</security>
+  <embargo>Adequacy of teach worktop/chair</embargo>
+  <respUnit>Adequacy of teach worktop/chair</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V30" name="edushort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of teacher worktop/chair provision</labl>
+  <imputation>Estimated shortfall of teacher worktop/chair provision</imputation>
+  <security>Estimated shortfall of teacher worktop/chair provision</security>
+  <embargo>Estimated shortfall of teacher worktop/chair provision</embargo>
+  <respUnit>Estimated shortfall of teacher worktop/chair provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V31" name="cupprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of cupboard/cabinet in areas of instruction</labl>
+  <imputation>Adequacy of cupboard/cabinet in areas of instruction</imputation>
+  <security>Adequacy of cupboard/cabinet in areas of instruction</security>
+  <embargo>Adequacy of cupboard/cabinet in areas of instruction</embargo>
+  <respUnit>Adequacy of cupboard/cabinet in areas of instruction</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V32" name="cupshort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of cupboard/cabinet provision in areas of instruction</labl>
+  <imputation>Estimated shortfall of cupboard/cabinet provision in areas of instruction</imputation>
+  <security>Estimated shortfall of cupboard/cabinet provision in areas of instruction</security>
+  <embargo>Estimated shortfall of cupboard/cabinet provision in areas of instruction</embargo>
+  <respUnit>Estimated shortfall of cupboard/cabinet provision in areas of instruction</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V33" name="dskprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of administrative desk provision</labl>
+  <imputation>Adequacy of administrative desk provision</imputation>
+  <security>Adequacy of administrative desk provision</security>
+  <embargo>Adequacy of administrative desk provision</embargo>
+  <respUnit>Adequacy of administrative desk provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V34" name="dskshort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of administrative desk provision</labl>
+  <imputation>Estimated shortfall of administrative desk provision</imputation>
+  <security>Estimated shortfall of administrative desk provision</security>
+  <embargo>Estimated shortfall of administrative desk provision</embargo>
+  <respUnit>Estimated shortfall of administrative desk provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V35" name="typprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of typewriter/computer provision for administrators</labl>
+  <imputation>Adequacy of typewriter/computer provision for administrators</imputation>
+  <security>Adequacy of typewriter/computer provision for administrators</security>
+  <embargo>Adequacy of typewriter/computer provision for administrators</embargo>
+  <respUnit>Adequacy of typewriter/computer provision for administrators</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V36" name="typshort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of typewriters/computers for administrators</labl>
+  <imputation>Estimated shortfall of typewriters/computers for administrators</imputation>
+  <security>Estimated shortfall of typewriters/computers for administrators</security>
+  <embargo>Estimated shortfall of typewriters/computers for administrators</embargo>
+  <respUnit>Estimated shortfall of typewriters/computers for administrators</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V37" name="cpaprov" files="F1" intrvl="discrete">
+  <labl>Adequacy of cupboard/cabinet in administrative areas</labl>
+  <imputation>Adequacy of cupboard/cabinet in administrative areas</imputation>
+  <security>Adequacy of cupboard/cabinet in administrative areas</security>
+  <embargo>Adequacy of cupboard/cabinet in administrative areas</embargo>
+  <respUnit>Adequacy of cupboard/cabinet in administrative areas</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V38" name="cpashort" files="F1" intrvl="contin">
+  <labl>Estimated shortfall of cupboard/cabinet provision in administrative areas</labl>
+  <imputation>Estimated shortfall of cupboard/cabinet provision in administrative areas</imputation>
+  <security>Estimated shortfall of cupboard/cabinet provision in administrative areas</security>
+  <embargo>Estimated shortfall of cupboard/cabinet provision in administrative areas</embargo>
+  <respUnit>Estimated shortfall of cupboard/cabinet provision in administrative areas</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V39" name="dupop" files="F1" intrvl="discrete">
+  <labl>Number of operational duplicators/photocopiers</labl>
+  <imputation>Number of operational duplicators/photocopiers</imputation>
+  <security>Number of operational duplicators/photocopiers</security>
+  <embargo>Number of operational duplicators/photocopiers</embargo>
+  <respUnit>Number of operational duplicators/photocopiers</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V40" name="dupnop" files="F1" intrvl="discrete">
+  <labl>Number of nonoperational duplicators/photocopiers</labl>
+  <imputation>Number of nonoperational duplicators/photocopiers</imputation>
+  <security>Number of nonoperational duplicators/photocopiers</security>
+  <embargo>Number of nonoperational duplicators/photocopiers</embargo>
+  <respUnit>Number of nonoperational duplicators/photocopiers</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V41" name="ovhop" files="F1" intrvl="contin">
+  <labl>Number of operational overhead projectors</labl>
+  <imputation>Number of operational overhead projectors</imputation>
+  <security>Number of operational overhead projectors</security>
+  <embargo>Number of operational overhead projectors</embargo>
+  <respUnit>Number of operational overhead projectors</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V42" name="ovhnop" files="F1" intrvl="contin">
+  <labl>Number of nonoperational overhead projectors</labl>
+  <imputation>Number of nonoperational overhead projectors</imputation>
+  <security>Number of nonoperational overhead projectors</security>
+  <embargo>Number of nonoperational overhead projectors</embargo>
+  <respUnit>Number of nonoperational overhead projectors</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V43" name="radop" files="F1" intrvl="contin">
+  <labl>Number of operational radios</labl>
+  <imputation>Number of operational radios</imputation>
+  <security>Number of operational radios</security>
+  <embargo>Number of operational radios</embargo>
+  <respUnit>Number of operational radios</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V44" name="radnop" files="F1" intrvl="contin">
+  <labl>Number of nonoperational radios</labl>
+  <imputation>Number of nonoperational radios</imputation>
+  <security>Number of nonoperational radios</security>
+  <embargo>Number of nonoperational radios</embargo>
+  <respUnit>Number of nonoperational radios</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V45" name="filop" files="F1" intrvl="contin">
+  <labl>Number of operational film projectors</labl>
+  <imputation>Number of operational film projectors</imputation>
+  <security>Number of operational film projectors</security>
+  <embargo>Number of operational film projectors</embargo>
+  <respUnit>Number of operational film projectors</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V46" name="filnop" files="F1" intrvl="discrete">
+  <labl>Number of operational film projectors</labl>
+  <imputation>Number of operational film projectors</imputation>
+  <security>Number of operational film projectors</security>
+  <embargo>Number of operational film projectors</embargo>
+  <respUnit>Number of operational film projectors</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V47" name="tvop" files="F1" intrvl="contin">
+  <labl>Number of operational television sets</labl>
+  <imputation>Number of operational television sets</imputation>
+  <security>Number of operational television sets</security>
+  <embargo>Number of operational television sets</embargo>
+  <respUnit>Number of operational television sets</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V48" name="tvnop" files="F1" intrvl="discrete">
+  <labl>Number of nonoperational television sets</labl>
+  <imputation>Number of nonoperational television sets</imputation>
+  <security>Number of nonoperational television sets</security>
+  <embargo>Number of nonoperational television sets</embargo>
+  <respUnit>Number of nonoperational television sets</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V49" name="tappop" files="F1" intrvl="contin">
+  <labl>Number of operational tape recorders</labl>
+  <imputation>Number of operational tape recorders</imputation>
+  <security>Number of operational tape recorders</security>
+  <embargo>Number of operational tape recorders</embargo>
+  <respUnit>Number of operational tape recorders</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V50" name="tapnop" files="F1" intrvl="discrete">
+  <labl>Number of nonoperational tape recorders</labl>
+  <imputation>Number of nonoperational tape recorders</imputation>
+  <security>Number of nonoperational tape recorders</security>
+  <embargo>Number of nonoperational tape recorders</embargo>
+  <respUnit>Number of nonoperational tape recorders</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V51" name="vcrop" files="F1" intrvl="contin">
+  <labl>Number of operational VCRs</labl>
+  <imputation>Number of operational VCRs</imputation>
+  <security>Number of operational VCRs</security>
+  <embargo>Number of operational VCRs</embargo>
+  <respUnit>Number of operational VCRs</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V52" name="vcrnop" files="F1" intrvl="discrete">
+  <labl>Number of nonoperational VCRs</labl>
+  <imputation>Number of nonoperational VCRs</imputation>
+  <security>Number of nonoperational VCRs</security>
+  <embargo>Number of nonoperational VCRs</embargo>
+  <respUnit>Number of nonoperational VCRs</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V53" name="compop" files="F1" intrvl="contin">
+  <labl>Number of operational computers</labl>
+  <imputation>Number of operational computers</imputation>
+  <security>Number of operational computers</security>
+  <embargo>Number of operational computers</embargo>
+  <respUnit>Number of operational computers</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V54" name="compnop" files="F1" intrvl="contin">
+  <labl>Number of nonoperational computers</labl>
+  <imputation>Number of nonoperational computers</imputation>
+  <security>Number of nonoperational computers</security>
+  <embargo>Number of nonoperational computers</embargo>
+  <respUnit>Number of nonoperational computers</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V55" name="othop" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V56" name="othnop" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V57" name="textbook" files="F1" intrvl="discrete">
+  <labl>Adequacy of textbook provision</labl>
+  <imputation>Adequacy of textbook provision</imputation>
+  <security>Adequacy of textbook provision</security>
+  <embargo>Adequacy of textbook provision</embargo>
+  <respUnit>Adequacy of textbook provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V58" name="stnary" files="F1" intrvl="discrete">
+  <labl>Adequacy of stationary provision</labl>
+  <imputation>Adequacy of stationary provision</imputation>
+  <security>Adequacy of stationary provision</security>
+  <embargo>Adequacy of stationary provision</embargo>
+  <respUnit>Adequacy of stationary provision</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V59" name="mater" files="F1" intrvl="discrete">
+  <labl>Adequacy of materials (used for science projects, experiments, etc.)</labl>
+  <imputation>Adequacy of materials (used for science projects, experiments, etc.)</imputation>
+  <security>Adequacy of materials (used for science projects, experiments, etc.)</security>
+  <embargo>Adequacy of materials (used for science projects, experiments, etc.)</embargo>
+  <respUnit>Adequacy of materials (used for science projects, experiments, etc.)</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V60" name="equip" files="F1" intrvl="discrete">
+  <labl>Adequacy of general equipment (scissors, science kits, musical instruments, etc.</labl>
+  <imputation>Adequacy of general equipment (scissors, science kits, musical instruments, etc.</imputation>
+  <security>Adequacy of general equipment (scissors, science kits, musical instruments, etc.</security>
+  <embargo>Adequacy of general equipment (scissors, science kits, musical instruments, etc.</embargo>
+  <respUnit>Adequacy of general equipment (scissors, science kits, musical instruments, etc.</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V61" name="mediac" files="F1" intrvl="discrete">
+  <labl>Adequacy of media collection (library books, journals, records, transparencies,</labl>
+  <imputation>Adequacy of media collection (library books, journals, records, transparencies,</imputation>
+  <security>Adequacy of media collection (library books, journals, records, transparencies,</security>
+  <embargo>Adequacy of media collection (library books, journals, records, transparencies,</embargo>
+  <respUnit>Adequacy of media collection (library books, journals, records, transparencies,</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V62" name="mediae" files="F1" intrvl="discrete">
+  <labl>Adequacy of equipment in media centre</labl>
+  <imputation>Adequacy of equipment in media centre</imputation>
+  <security>Adequacy of equipment in media centre</security>
+  <embargo>Adequacy of equipment in media centre</embargo>
+  <respUnit>Adequacy of equipment in media centre</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Adequate</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Inadequate</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V63" name="funding" files="F1" intrvl="discrete">
+  <labl>How the school is funded</labl>
+  <imputation>How the school is funded</imputation>
+  <security>How the school is funded</security>
+  <embargo>How the school is funded</embargo>
+  <respUnit>How the school is funded</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>State</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>State-aided</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Private</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V64" name="classp" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V65" name="fence" files="F1" intrvl="discrete">
+  <labl>School fence properties</labl>
+  <imputation>School fence properties</imputation>
+  <security>School fence properties</security>
+  <embargo>School fence properties</embargo>
+  <respUnit>School fence properties</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>High (± 3m); good condition</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>High (± 3m); bad condition</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Medium (± 1.5m); good condition</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Medium (± 1.5m); bad condition</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>No fence</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V66" name="tarroad" files="F1" intrvl="discrete">
+  <labl>Tar road condition</labl>
+  <imputation>Tar road condition</imputation>
+  <security>Tar road condition</security>
+  <embargo>Tar road condition</embargo>
+  <respUnit>Tar road condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Good</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Bad</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V67" name="dirtroad" files="F1" intrvl="discrete">
+  <labl>Dirt road condition</labl>
+  <imputation>Dirt road condition</imputation>
+  <security>Dirt road condition</security>
+  <embargo>Dirt road condition</embargo>
+  <respUnit>Dirt road condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Good</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Bad</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V68" name="noroad" files="F1" intrvl="discrete">
+  <labl>No road access</labl>
+  <imputation>No road access</imputation>
+  <security>No road access</security>
+  <embargo>No road access</embargo>
+  <respUnit>No road access</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Good</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Bad</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V69" name="footpath" files="F1" intrvl="discrete">
+  <labl>Footpath condition</labl>
+  <imputation>Footpath condition</imputation>
+  <security>Footpath condition</security>
+  <embargo>Footpath condition</embargo>
+  <respUnit>Footpath condition</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Good</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Bad</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V70" name="rural___urban" files="F1" intrvl="discrete">
+  <labl>Settlement type in which school is located</labl>
+  <imputation>Settlement type in which school is located</imputation>
+  <security>Settlement type in which school is located</security>
+  <embargo>Settlement type in which school is located</embargo>
+  <respUnit>Settlement type in which school is located</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V71" name="province" files="F1" intrvl="discrete">
+  <labl>Province</labl>
+  <imputation>Province</imputation>
+  <security>Province</security>
+  <embargo>Province</embargo>
+  <respUnit>Province</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V72" name="telcode" files="F1" intrvl="discrete">
+  <labl>Telephone code</labl>
+  <imputation>Telephone code</imputation>
+  <security>Telephone code</security>
+  <embargo>Telephone code</embargo>
+  <respUnit>Telephone code</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V73" name="telnum" files="F1" intrvl="discrete">
+  <labl>Telephone number</labl>
+  <imputation>Telephone number</imputation>
+  <security>Telephone number</security>
+  <embargo>Telephone number</embargo>
+  <respUnit>Telephone number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V74" name="faxcode" files="F1" intrvl="contin">
+  <labl>Fax code</labl>
+  <imputation>Fax code</imputation>
+  <security>Fax code</security>
+  <embargo>Fax code</embargo>
+  <respUnit>Fax code</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V75" name="faxnum" files="F1" intrvl="contin">
+  <labl>Fax number</labl>
+  <imputation>Fax number</imputation>
+  <security>Fax number</security>
+  <embargo>Fax number</embargo>
+  <respUnit>Fax number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V76" name="compn" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V77" name="compa" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V78" name="computers_1_" files="F1" intrvl="discrete">
+  <labl>Computers for teaching purposes</labl>
+  <imputation>Computers for teaching purposes</imputation>
+  <security>Computers for teaching purposes</security>
+  <embargo>Computers for teaching purposes</embargo>
+  <respUnit>Computers for teaching purposes</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V79" name="toteduc" files="F1" intrvl="contin">
+  <labl>Number of educators</labl>
+  <imputation>Number of educators</imputation>
+  <security>Number of educators</security>
+  <embargo>Number of educators</embargo>
+  <respUnit>Number of educators</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V80" name="register" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V81" name="totgirl" files="F1" intrvl="contin">
+  <labl>Number of girls</labl>
+  <imputation>Number of girls</imputation>
+  <security>Number of girls</security>
+  <embargo>Number of girls</embargo>
+  <respUnit>Number of girls</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V82" name="totboy" files="F1" intrvl="contin">
+  <labl>Number  of boys</labl>
+  <imputation>Number  of boys</imputation>
+  <security>Number  of boys</security>
+  <embargo>Number  of boys</embargo>
+  <respUnit>Number  of boys</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V83" name="total_student" files="F1" intrvl="contin">
+  <labl>Total number of students</labl>
+  <imputation>Total number of students</imputation>
+  <security>Total number of students</security>
+  <embargo>Total number of students</embargo>
+  <respUnit>Total number of students</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V84" name="student__comp" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V85" name="stud_teacher" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V86" name="totclass" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V87" name="avrclass" files="F1" intrvl="contin">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V88" name="stud_teacher__1_" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V89" name="medium" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>English</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Afrikaans</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>isiXhosa</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>isiZulu</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Sesotho sa Leboa</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Sesotho</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Setswana</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Xitsonga</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Tshivenda</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>SiSwati</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>isiNdebele</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>Afrikaans/English</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>Multiple African Languages</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V90" name="telcom" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Telephone</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>2-Way Radio</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Cell phone</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Fax</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Modem</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>None</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V91" name="owner" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Government</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Community</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Farm</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Mine</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Factory</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Church</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>School/Governing Body</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Welfare</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Hospital</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V92" name="power" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Wired and supplied with electricity</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Wired but not supplied with electricity</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Not wired and/or no electricity available</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Generators</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V93" name="type" files="F1" intrvl="discrete">
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Junior Primary (Sub A - Std 2)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Senior Primary (Std 3 - Std 5)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Primary (Sub A - Std 5)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Junior secondary (Std 5 - Std 8)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Senior secondary (Std 9  - Std 10)</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Secondary (Std 6 - Std 10)</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Intermediate (Std 5 - Std 7)</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Combined (Sub A - Std 10)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Technical colleges</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Teacher training colleges</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>Technikons</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>Universities</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>Other non-formal training institutions</labl>
+  </catgry>
+  <catgry>
+    <catValu>14</catValu>
+    <labl>Special schools</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+</dataDscr></codeBook>

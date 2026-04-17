@@ -1,0 +1,4541 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="zaf-ccs-sasgs-2003-v1.1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          South African Social Giving Survey 2003
+        </titl>
+        <IDNo>
+          ddi-zaf-datafirst-sasgs-2003-v1
+        </IDNo>
+      </titlStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata Producer">
+          DataFirst
+        </producer>
+        <prodDate date="2020-05-23">
+          2020-05-23
+        </prodDate>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 2
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          South African Social Giving Survey 2003
+        </titl>
+        <altTitl>
+          SASGS 2003
+        </altTitl>
+        <IDNo>
+          zaf-ccs-sasgs-2003-v1.1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="University of KwaZulu-Natal (UKZN)">
+          Centre for Civil Society (CCS)
+        </AuthEnty>
+        <AuthEnty>
+          Southern African Grantmakers’ Association (SAGA)
+        </AuthEnty>
+        <AuthEnty>
+          National Development Agency (NDA)
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+        <fundAg role="Funder">
+          Atlantic Philanthropies
+        </fundAg>
+        <fundAg role="Funder">
+          Charles Stewart Mott Foundation
+        </fundAg>
+        <fundAg role="Funder">
+          Ford Foundation
+        </fundAg>
+        <fundAg role="Funder">
+          National Development Agency
+        </fundAg>
+      </prodStmt>
+      <distStmt>
+        <contact affiliation="University of Cape Town" URI="http://support.data1st.org/" email="support@data1st.org">
+          DataFirst Helpdesk
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Socio-Economic/Monitoring Survey [hh/sems]
+        </serName>
+        <serInfo>
+          Centre for Civil Society. South African Social Giving Survey 2003 [dataset]. Version 1.1. Durban: Centre for Civil Society, University of Kwazulu-Natal [producer], 2005. Cape Town: DataFirst [distributor], 2012. DOI: https://doi.org/10.25828/a3qb-4h02
+        </serInfo>
+      </serStmt>
+      <verStmt>
+        <version date="2005">
+          v1.1: Edited, anonymised data for public distribution
+        </version>
+        <notes>
+          <![CDATA[Version 1 of the dataset was deposited with DataFirst in November 2011. 
+
+Version 1.1 has been labelled, and the final report, obtained from the Centre for Civil Society's website, has been included in the dataset. Variables from open-ended questions have not been labelled as there is no codebook available for this survey to confirm response codes.]]>
+        </notes>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <abstract>
+        <![CDATA[The State of Giving project, established by the Centre for Civil Society (CCS) at the University of KwaZulu-Natal (UKZN), the Southern African Grantmakers’ Association (SAGA) and the National Development Agency (NDA), was initiated to generate information on and analyse the resource flows to poverty alleviation and development in South Africa. One component of the broader project was a focus on individual-level giving, which involved the design, implementation and analysis of a national sample survey on individual level giving behaviour.  It thus speaks to both the urban and rural and the formal and informal dimensions of our social context. The survey collected data on who gives, why and how much they give, as well as what they give and the recipients of their giving.]]>
+      </abstract>
+      <sumDscr>
+        <collDate date="2003-10" event="start"/>
+        <collDate date="2003-11" event="end"/>
+        <nation abbr="zaf">
+          South Africa
+        </nation>
+        <geogCover>
+          The sample, a random stratified one comprising 3000 respondents, is representative of all South Africans aged 18 and above.
+        </geogCover>
+        <geogUnit>
+          The lowest level of geographic aggregation for the data is province.
+        </geogUnit>
+        <anlyUnit>
+          Individuals
+        </anlyUnit>
+        <universe>
+          The population of interest in the survey was all South Africans aged 18 and above.
+        </universe>
+        <dataKind>
+          Sample survey data
+        </dataKind>
+      </sumDscr>
+      <notes>
+        <![CDATA[This survey collected information on the demographic and household information of individual respondents, and information related to "giving": 
+
+-Who gives (and who doesn’t)?
+-How much do they give?
+-What do they give (money, goods, time)?
+-Who do they give to?
+-Why do they give?]]>
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <dataCollector>
+          Strategy &amp; Tactics (S&amp;T)
+        </dataCollector>
+        <dataCollector>
+          Dikarabong
+        </dataCollector>
+        <dataCollector>
+          Q&amp;A Research.
+        </dataCollector>
+        <sampProc>
+          <![CDATA[A random stratified survey sample was drawn by Ross Jennings at S&T. The sample was stratified by race and province at the first level, and then by area (rural/urban/etc.) at the second level. The sample frame comprised 3000 respondents, yielding an error bar of 1.8%. The results are representative of all South Africans aged 18 and above, in all parts of the country, including formal and informal dwellings. Unlike many surveys, the project partners ensured that the rural component of the sample (commonly the most expensive for logistical reasons) was large and did not require heavy weighting (where a small number of respondents have to represent the views of a far larger community).
+
+Randomness was built into the selection of starting points (from which fieldworkers begin their work) - every 5th dwelling was selected, after a randomly selected starting point had been identified - and into the selection of respondents, where the birthday rule was applied. That is, a household roster was completed, all those aged 18 and above were listed, and the householder whose birthday came next was identified as the respondent. Three call-backs were undertaken to interview the selected respondent; if s/he was unavailable, the household was substituted.
+
+A second sample was drawn, specifically to boost the minority religious groups – namely Hindus, Jews and Muslims. They are separately analysed and reported as part of the broader project, since area sampling was used, disallowing us from incorporating them into the national survey dataset.]]>
+        </sampProc>
+        <collMode>
+          Face-to-face [f2f]
+        </collMode>
+        <resInstru>
+          <![CDATA[A set of focus groups were staged across the country in order to inform questionnaire design. Groups were recruited across a range of criteria, including demographic and religious differences, in order to ensure a wide range of views were canvassed. Direct input from focus group participants informed a series of robust design sessions with all the project partners, from which a draft questionnaire was designed. The questionnaire was piloted in two provinces, involving urban and rural respondents and covering all four race groups. The pilot included testing specific questions, and the overall methodological approach, namely 
+our ability to quantify giving. After the pilot results had been assessed, the questionnaire was revised before going into field.]]>
+        </resInstru>
+        <sources/>
+      </dataColl>
+      <anlyInfo>
+        <EstSmpErr>
+          <![CDATA[1. "0" values in some variables
+Many of the variables have a "0" value in addition to the values for responses, e.g. variables with yes/no responses are coded "0" "1""2". There is no indication that the 0 represents "missing" (only Q75 specifies the use of "0" for none/nobody).  
+
+2. Variable Q9 (Question 9)
+ Q8 lists the number of resident children under the age of 18.  Q9 refers to this question with: "of these children aged below 16 living in your household". This should probably be "aged below 18", in line with Q8 The data only reflects children under 16, so the question should probably have been "of these children, how many below the age of 16 are (Q9A) children of the head of the household and (Q9B) children not born to the head of household, i.e. children born to others.  It seems though, that Q8 and Q9 should match, with Q8 identifying children and Q9 identifying children of the household head. If specifying 16 rather than 18 in Q9 is an error, then this has been reflected in the data. This means that household members 17-18 years are listed, but the data does not record whether they are children of the household head.  
+
+3. Variable Q21 (Question 21)
+“What do you think is the most deserving cause that you support or would support if you could?” There are 14 values for Q21 (1-14).According to the report (Everatt, D. and G. Solanki. 2005. A Nation of givers: Social giving amongst South Africans) this and other open-ended questions were later categorised and given numeric codes.  However, a codebook was not included with the documentation provided to DataFirst
+
+4. Variable Q22 (Question 22)
+“Is there one cause or charity or organisation you would definitely NOT give money to?” There are 14 values for Q22 (1-14). Again, this requires a code list for explanation.
+
+5.  Variable Q29 (Question 29)
+Q28 deals with the giving of goods/food/clothes.  Q29 provides a breakdown of these items, and Q28Q29L lists time/labour as one of these. It seems that Q29L is incorrectly listed as a sub-set of goods/food/clothes.  Also, giving time to causes is dealt with extensively in Q30A-Q and Q31A-Q, so this variable seems out of place.
+
+6. Variable Q39 (Question 36)
+This concerns the giving of food, goods, or other forms of help to beggars/street children/people asking for help, but the question text does not specifically mention these forms of help, so can be misleading. 
+
+7. Variable Q44 (Question 44)
+Q44 asks the respondent to complete the sentence "Help the poor because…." There are 8 values for this variable (0-7 and 11). Again, a  code list is required to explain these values.
+
+8. Variable Q59 (Question 59)
+This question has three coded responses (1-3) so should have three values (or 4, with a “missing” value). There are 12 values for this variable, though (59A-59L). It is possible that this variable has been swopped with Q60 (However, Q60 only has 11 options in the questionnaire)
+
+9. Variable Q60 (Question 60)
+The variable from this question only has 4 values, but there are 11 possible responses to this question (60A-60K).  This variable could have been swopped with Q59 (In which case, the extra value needs explanation, as Q59 only has 11 options in the questionnaire.
+
+10. Variables Q67 - Q82 
+From this point on the order of variables seems wrong, as the responses don't match the number of values listed in the questionnaire. The variables seem to refer to the next question along, e.g. Variable Q67 seems to have data emanating from Question 68, and so on. The data in the revised dataset has been corrected to reflect this.
+
+11. There is no variable Q83 in the dataset, although there is a question 83 in the questionnaire. This seems to support the above explanation. Data users are requested to provide any additional findings on this that come to light in their research.]]>
+        </EstSmpErr>
+      </anlyInfo>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="http://www.datafirst.uct.ac.za" email="info@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Centre for Civil Society. South African Social Giving Survey 2003 [dataset]. Version 1.1. Durban: Centre for Civil Society, University of Kwazulu-Natal [producer], 2005. Cape Town: DataFirst [distributor], 2012. DOI: https://doi.org/10.25828/a3qb-4h02
+        </citReq>
+        <conditions>
+          Public use files, available to all
+        </conditions>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F1" URI="zaf-ccs-sasgs-2003-v1.1.Nesstar?Index=0&amp;Name=SA Social Giving Survey Total_v1.1">
+    <fileTxt>
+      <fileName>
+        SA Social Giving Survey Total_v1.1.NSDstat
+      </fileName>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          274
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    <var ID="V1" name="quesno" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="1" EndPos="4" width="4" RecSegNo="1"/>
+      <labl>
+        Question number
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V2" name="Q1" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="5" EndPos="5" width="1" RecSegNo="1"/>
+      <labl>
+        Province
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V3" name="Q2" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="6" EndPos="6" width="1" RecSegNo="1"/>
+      <labl>
+        Metropolitan area and type of dwelling
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V4" name="Q3" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="7" EndPos="7" width="1" RecSegNo="1"/>
+      <labl>
+        Sex
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V5" name="Q4" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="8" EndPos="8" width="1" RecSegNo="1"/>
+      <labl>
+        Race
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V6" name="Q5" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="9" EndPos="10" width="2" RecSegNo="1"/>
+      <labl>
+        Age
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="95"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V7" name="Q6" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="11" EndPos="12" width="2" RecSegNo="1"/>
+      <labl>
+        Highest level of education completed
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="20"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V8" name="Q7" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="13" EndPos="14" width="2" RecSegNo="1"/>
+      <labl>
+        Household size
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="26"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V9" name="Q8" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="15" EndPos="16" width="2" RecSegNo="1"/>
+      <labl>
+        Household members under 18 years
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="17"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V10" name="Q9A" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="17" EndPos="18" width="2" RecSegNo="1"/>
+      <labl>
+        Children of household head (under 16 years)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="22"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V11" name="Q9B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="19" EndPos="20" width="2" RecSegNo="1"/>
+      <labl>
+        Children of others (under 16 years)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="15"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V12" name="Q10" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="21" EndPos="22" width="2" RecSegNo="1"/>
+      <labl>
+        Religion
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="22"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V13" name="Q11" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="23" EndPos="23" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of attendance at a place of worship
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V14" name="Q12" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="24" EndPos="24" width="1" RecSegNo="1"/>
+      <labl>
+        Religious requirement to give
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V15" name="Q13" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="25" EndPos="25" width="1" RecSegNo="1"/>
+      <labl>
+        Respondent gives
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V16" name="Q14A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="26" EndPos="26" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: my faith requires me to give to the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V17" name="Q14B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="27" EndPos="27" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: religions give to convert people
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V18" name="Q14C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="28" EndPos="28" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: religious people give more
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V19" name="Q14D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="29" EndPos="29" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: giving brings me closer to God
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V20" name="Q15" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="30" EndPos="30" width="1" RecSegNo="1"/>
+      <labl>
+        Wall material
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V21" name="Q16" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="31" EndPos="31" width="1" RecSegNo="1"/>
+      <labl>
+        Type of toilet
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V22" name="Q17" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="32" EndPos="32" width="1" RecSegNo="1"/>
+      <labl>
+        Main water source
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V23" name="Q18" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="33" EndPos="33" width="1" RecSegNo="1"/>
+      <labl>
+        Distance to telephone (in minutes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V24" name="Q19" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="34" EndPos="34" width="1" RecSegNo="1"/>
+      <labl>
+        Main energy source for lighting
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V25" name="Q20" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="35" EndPos="35" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of waste removal
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V26" name="Q21" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="36" EndPos="37" width="2" RecSegNo="1"/>
+      <labl>
+        Most deserving cause
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="14"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V27" name="Q22" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="38" EndPos="39" width="2" RecSegNo="1"/>
+      <labl>
+        Least deserving cause
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="14"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V28" name="Q23A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="40" EndPos="40" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to a charity/cause (previous month)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V29" name="Q23B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="41" EndPos="41" width="1" RecSegNo="1"/>
+      <labl>
+        Gave food/clothes to a charity/cause (previous month)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V30" name="Q23C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="42" EndPos="42" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to a charity/cause (previous month)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V31" name="Q23D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="43" EndPos="43" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to a beggar/street child/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V32" name="Q23E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="44" EndPos="44" width="1" RecSegNo="1"/>
+      <labl>
+        Gave food/goods/time to a beggar/street child/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V33" name="Q24A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="45" EndPos="45" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to a religious body
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V34" name="Q25A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="46" EndPos="46" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to a religious body (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V35" name="Q24B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="47" EndPos="47" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to the disabled
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V36" name="Q25B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="48" EndPos="48" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the disabled (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V37" name="Q24C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="49" EndPos="49" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to HIV/AIDS causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V38" name="Q25C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="50" EndPos="50" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to HIV/AIDS causes (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V39" name="Q24D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="51" EndPos="51" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V40" name="Q25D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="52" EndPos="52" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the poor (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V41" name="Q24E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="53" EndPos="53" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to environmental causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V42" name="Q25E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="54" EndPos="54" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to environmental causes (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V43" name="Q24F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="55" EndPos="55" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to causes related to children
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V44" name="Q25F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="56" EndPos="56" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to children(money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V45" name="Q24G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="57" EndPos="57" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to the aged
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V46" name="Q25G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="58" EndPos="58" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the aged (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V47" name="Q24H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="59" EndPos="59" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to the homeless
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V48" name="Q25H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="60" EndPos="60" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the homeless (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V49" name="Q24I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="61" EndPos="61" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to causes related to animals
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V50" name="Q25I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="62" EndPos="62" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to animals (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V51" name="Q24J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="63" EndPos="63" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to victims of violence
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V52" name="Q25J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="64" EndPos="64" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to victims of violence (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V53" name="Q24K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="65" EndPos="65" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to victims of emergencies
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V54" name="Q25K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="66" EndPos="66" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to victims of emergencies (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V55" name="Q24L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="67" EndPos="67" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to the unemployed
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V56" name="Q25L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="68" EndPos="68" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the unemployed (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V57" name="Q24M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="69" EndPos="69" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to international causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V58" name="Q25M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="70" EndPos="70" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to international causes (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V59" name="Q24N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="71" EndPos="71" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to causes related to sport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V60" name="Q25N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="72" EndPos="72" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to sport (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V61" name="Q24O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="73" EndPos="73" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to street vendors
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V62" name="Q25O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="74" EndPos="74" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to street vendors (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V63" name="Q24P" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="75" EndPos="75" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to car guards
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V64" name="Q25P" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="76" EndPos="76" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to car guards (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V65" name="Q24Q" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="77" EndPos="77" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to other causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V66" name="Q25Q" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="78" EndPos="78" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to other causes (money)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V67" name="Q26" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="79" EndPos="79" width="1" RecSegNo="1"/>
+      <labl>
+        Total amount given
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V68" name="Q27A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="80" EndPos="80" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to a religious body
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V69" name="Q28A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="81" EndPos="81" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to a religious body (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V70" name="Q27B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="82" EndPos="82" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to the disabled
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V71" name="Q28B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="83" EndPos="83" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the disabled (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V72" name="Q27C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="84" EndPos="84" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to HIV/AIDS causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V73" name="Q28C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="85" EndPos="85" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to HIV/AIDS causes  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V74" name="Q27D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="86" EndPos="86" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V75" name="Q28D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="87" EndPos="87" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to the poor  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V76" name="Q27E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="88" EndPos="88" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to environmental causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V77" name="Q28E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="89" EndPos="89" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to environmental causes (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V78" name="Q27F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="90" EndPos="90" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to causes related to children
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V79" name="Q28F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="91" EndPos="91" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to children (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V80" name="Q27G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="92" EndPos="92" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to the aged
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V81" name="Q28G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="93" EndPos="93" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to the aged  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V82" name="Q27H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="94" EndPos="94" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to the homeless
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V83" name="Q28H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="95" EndPos="95" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the homeless (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V84" name="Q27I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="96" EndPos="96" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to causes related to animals
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V85" name="Q28I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="97" EndPos="97" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to causes related to animals  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V86" name="Q27J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="98" EndPos="98" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to victims of violence
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V87" name="Q28J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="99" EndPos="99" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to victims of violence  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V88" name="Q27K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="100" EndPos="100" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to victims of emergencies
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V89" name="Q28K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="101" EndPos="101" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to victims of emergencies  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V90" name="Q27L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="102" EndPos="102" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to the unemployed
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V91" name="Q28L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="103" EndPos="103" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to the unemployed  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V92" name="Q27M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="104" EndPos="104" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to international causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V93" name="Q28M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="105" EndPos="105" width="1" RecSegNo="1"/>
+      <labl>
+        <![CDATA[Frequency of giving to international causes  (goods/food/clothes)]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V94" name="Q27N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="106" EndPos="106" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to causes related to sport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V95" name="Q28N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="107" EndPos="107" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to sport (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V96" name="Q27O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="108" EndPos="108" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods/food/clothes to other causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V97" name="Q28O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="109" EndPos="109" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to other causes (goods/food/clothes)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V98" name="Q29A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="110" EndPos="110" width="1" RecSegNo="1"/>
+      <labl>
+        Gave clothes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V99" name="Q29B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="111" EndPos="111" width="1" RecSegNo="1"/>
+      <labl>
+        Gave food/drink
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V100" name="Q29C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="112" EndPos="112" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods for recycling
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V101" name="Q29D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="113" EndPos="113" width="1" RecSegNo="1"/>
+      <labl>
+        Gave stationery
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V102" name="Q29E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="114" EndPos="114" width="1" RecSegNo="1"/>
+      <labl>
+        Gave blankets
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V103" name="Q29F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="115" EndPos="115" width="1" RecSegNo="1"/>
+      <labl>
+        Gave piece work
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V104" name="Q29G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="116" EndPos="116" width="1" RecSegNo="1"/>
+      <labl>
+        Gave books/educational materials
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V105" name="Q29H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="117" EndPos="117" width="1" RecSegNo="1"/>
+      <labl>
+        Gave toys
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V106" name="Q29I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="118" EndPos="118" width="1" RecSegNo="1"/>
+      <labl>
+        Gave medicine/medical supplies
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V107" name="Q29J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="119" EndPos="119" width="1" RecSegNo="1"/>
+      <labl>
+        Gave tools
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V108" name="Q29K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="120" EndPos="120" width="1" RecSegNo="1"/>
+      <labl>
+        Gave building materials
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V109" name="Q29L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="121" EndPos="121" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time/labour
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V110" name="Q29M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="122" EndPos="122" width="1" RecSegNo="1"/>
+      <labl>
+        Gave other goods
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V111" name="Q30A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="123" EndPos="123" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to a religious body
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V112" name="Q31A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="124" EndPos="124" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to a religious body (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V113" name="Q30B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="125" EndPos="125" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to the disabled
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V114" name="Q31B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="126" EndPos="126" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the disabled (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V115" name="Q30C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="127" EndPos="127" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to HIV/AIDS causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V116" name="Q31C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="128" EndPos="128" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to HIV/AIDS causes (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V117" name="Q30D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="129" EndPos="129" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V118" name="Q31D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="130" EndPos="130" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the poor (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V119" name="Q30E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="131" EndPos="131" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to environmental causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V120" name="Q31E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="132" EndPos="132" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to environmental causes (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V121" name="Q30F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="133" EndPos="133" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to causes related to children
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V122" name="Q31F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="134" EndPos="134" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to children(time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V123" name="Q30G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="135" EndPos="135" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to the aged
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V124" name="Q31G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="136" EndPos="136" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the aged (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V125" name="Q30H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="137" EndPos="137" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to the homeless
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V126" name="Q31H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="138" EndPos="138" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the homeless (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V127" name="Q30I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="139" EndPos="139" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to causes related to animals
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V128" name="Q31I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="140" EndPos="140" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to animals (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V129" name="Q30J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="141" EndPos="141" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to victims of violence
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V130" name="Q31J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="142" EndPos="142" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to victims of violence (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V131" name="Q30K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="143" EndPos="143" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to victims of emergencies
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V132" name="Q31K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="144" EndPos="144" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to victims of emergencies (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V133" name="Q30L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="145" EndPos="145" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to the unemployed
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V134" name="Q31L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="146" EndPos="146" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to the unemployed (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V135" name="Q30M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="147" EndPos="147" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to international causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V136" name="Q31M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="148" EndPos="148" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to international causes (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V137" name="Q30N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="149" EndPos="149" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to causes related to sport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V138" name="Q31N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="150" EndPos="150" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to causes related to sport (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V139" name="Q30O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="151" EndPos="151" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to street vendors
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V140" name="Q31O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="152" EndPos="152" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to street vendors (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V141" name="Q30P" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="153" EndPos="153" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to car guards
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V142" name="Q31P" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="154" EndPos="154" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to car guards (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V143" name="Q30Q" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="155" EndPos="155" width="1" RecSegNo="1"/>
+      <labl>
+        Gave time to other causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V144" name="Q31Q" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="156" EndPos="156" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to other causes (time)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V145" name="Q32" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="157" EndPos="157" width="1" RecSegNo="1"/>
+      <labl>
+        Total time given to causes (previous month)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V146" name="Q33" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="158" EndPos="158" width="1" RecSegNo="1"/>
+      <labl>
+        Total money given to beggars/street children/someone asking for help (pre
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V147" name="Q34" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="159" EndPos="159" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to beggars/street children/someone asking for help (m
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V148" name="Q35A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="160" EndPos="160" width="1" RecSegNo="1"/>
+      <labl>
+        Gave clothes to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V149" name="Q35B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="161" EndPos="161" width="1" RecSegNo="1"/>
+      <labl>
+        Gave food/drink to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V150" name="Q35C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="162" EndPos="162" width="1" RecSegNo="1"/>
+      <labl>
+        Gave goods for recycling to beggars/street children/someone asking for he
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V151" name="Q35D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="163" EndPos="163" width="1" RecSegNo="1"/>
+      <labl>
+        Gave stationery to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V152" name="Q35E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="164" EndPos="164" width="1" RecSegNo="1"/>
+      <labl>
+        Gave blankets to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V153" name="Q35F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="165" EndPos="165" width="1" RecSegNo="1"/>
+      <labl>
+        Gave piece work to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V154" name="Q35G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="166" EndPos="166" width="1" RecSegNo="1"/>
+      <labl>
+        Gave books/educational materials to beggars/street children/someone askin
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V155" name="Q35H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="167" EndPos="167" width="1" RecSegNo="1"/>
+      <labl>
+        Gave toys to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V156" name="Q35I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="168" EndPos="168" width="1" RecSegNo="1"/>
+      <labl>
+        Gave medicine/medical supplies to beggars/street children/someone asking
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V157" name="Q35J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="169" EndPos="169" width="1" RecSegNo="1"/>
+      <labl>
+        Gave tools to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V158" name="Q35K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="170" EndPos="170" width="1" RecSegNo="1"/>
+      <labl>
+        Gave building materials to beggars/street children/someone asking for hel
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V159" name="Q35L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="171" EndPos="171" width="1" RecSegNo="1"/>
+      <labl>
+        Gave clothes to beggars/street children/someone asking for help
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V160" name="Q36" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="172" EndPos="172" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of giving to beggars/street children/someone asking for help (f
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V161" name="Q37" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="173" EndPos="173" width="1" RecSegNo="1"/>
+      <labl>
+        Gave to non-resident family members (previous month)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V162" name="Q38A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="174" EndPos="174" width="1" RecSegNo="1"/>
+      <labl>
+        Gave to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V163" name="Q38B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="175" EndPos="175" width="1" RecSegNo="1"/>
+      <labl>
+        Gave money to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V164" name="Q38C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="176" EndPos="176" width="1" RecSegNo="1"/>
+      <labl>
+        Gave clothes to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V165" name="Q38D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="177" EndPos="177" width="1" RecSegNo="1"/>
+      <labl>
+        Gave stationary to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V166" name="Q38E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="178" EndPos="178" width="1" RecSegNo="1"/>
+      <labl>
+        Gave blankets to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V167" name="Q38F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="179" EndPos="179" width="1" RecSegNo="1"/>
+      <labl>
+        Gave books/educational materials/school fees to non-resident family membe
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V168" name="Q38G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="180" EndPos="180" width="1" RecSegNo="1"/>
+      <labl>
+        Gave toys non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V169" name="Q38H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="181" EndPos="181" width="1" RecSegNo="1"/>
+      <labl>
+        Gave medicine/medical supplies non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V170" name="Q38I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="182" EndPos="182" width="1" RecSegNo="1"/>
+      <labl>
+        Gave tools to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V171" name="Q38J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="183" EndPos="183" width="1" RecSegNo="1"/>
+      <labl>
+        Gave building materials to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V172" name="Q38K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="184" EndPos="184" width="1" RecSegNo="1"/>
+      <labl>
+        Gave other goods/food/items to non-resident family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V173" name="Q39" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="185" EndPos="185" width="1" RecSegNo="1"/>
+      <labl>
+        Attitude to giving to the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V174" name="Q40" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="186" EndPos="186" width="1" RecSegNo="1"/>
+      <labl>
+        Gave to an international cause
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V175" name="Q41" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="187" EndPos="187" width="1" RecSegNo="1"/>
+      <labl>
+        Attitude to local versus international causes
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V176" name="Q42" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="188" EndPos="188" width="1" RecSegNo="1"/>
+      <labl>
+        Donated via the internet
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V177" name="Q43" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="189" EndPos="189" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of donations via the internet
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V178" name="Q44" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="190" EndPos="191" width="2" RecSegNo="1"/>
+      <labl>
+        Response to statement: Help the poor because
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="11"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V179" name="Q45A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="192" EndPos="192" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I give because it makes me feel better
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V180" name="Q45B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="193" EndPos="193" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I give to make the country a better place
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V181" name="Q45C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="194" EndPos="194" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I give because I have more than I need
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V182" name="Q46" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="195" EndPos="196" width="2" RecSegNo="1"/>
+      <labl>
+        Best source of funding for community project
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="14"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V183" name="Q47A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="197" EndPos="197" width="1" RecSegNo="1"/>
+      <labl>
+        Household member supports AIDs orphans
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V184" name="Q47B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="198" EndPos="198" width="1" RecSegNo="1"/>
+      <labl>
+        Household member provides home-based care/counselling for HIV/AIDS
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V185" name="Q47C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="199" EndPos="199" width="1" RecSegNo="1"/>
+      <labl>
+        Household member receives home-based care/counselling for HIV/AIDS
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V186" name="Q48" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="200" EndPos="200" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of TV watching
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V187" name="Q49" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="201" EndPos="201" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of listening to the radio
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V188" name="Q50" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="202" EndPos="202" width="1" RecSegNo="1"/>
+      <labl>
+        Frequency of reading a newspaper/having one read
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V189" name="Q51" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="203" EndPos="203" width="1" RecSegNo="1"/>
+      <labl>
+        Attitude to giving to neighbours
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V190" name="Q52" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="204" EndPos="204" width="1" RecSegNo="1"/>
+      <labl>
+        Trust in other people
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V191" name="Q53" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="205" EndPos="205" width="1" RecSegNo="1"/>
+      <labl>
+        Belief in community concern
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V192" name="Q54" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="206" EndPos="206" width="1" RecSegNo="1"/>
+      <labl>
+        Trust in the community
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V193" name="Q55" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="207" EndPos="207" width="1" RecSegNo="1"/>
+      <labl>
+        Attitude to giving to family members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V194" name="Q56A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="208" EndPos="208" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: Helping the poor is an important part of building
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V195" name="Q56B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="209" EndPos="209" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: If we don't help the poor now we might lose everyt
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V196" name="Q56C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="210" EndPos="210" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: Buying a Lotto ticket is a way of helping the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V197" name="Q56D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="211" EndPos="211" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I believe you must help your own family, not stran
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V198" name="Q56E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="212" EndPos="212" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I only give money to black beggars, not white begg
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V199" name="Q56F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="213" EndPos="213" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: I will only help poor people who are trying to hel
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V200" name="Q56G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="214" EndPos="214" width="1" RecSegNo="1"/>
+      <labl>
+        Response to statement: It is government's responsibility to help the poor
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V201" name="Q57A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="215" EndPos="215" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a burial society
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V202" name="Q57B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="216" EndPos="216" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a book club
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V203" name="Q57C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="217" EndPos="217" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a civic association
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V204" name="Q57D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="218" EndPos="218" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a community policing forum
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V205" name="Q57E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="219" EndPos="219" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a community development committee/RDP forum
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V206" name="Q57F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="220" EndPos="220" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a cultural organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V207" name="Q57G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="221" EndPos="221" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a environmental organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V208" name="Q57H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="222" EndPos="222" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a political organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V209" name="Q57I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="223" EndPos="223" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a professional association
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V210" name="Q57J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="224" EndPos="224" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a religious organisation/church
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V211" name="Q57K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="225" EndPos="225" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a sports club
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V212" name="Q57L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="226" EndPos="226" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a residents association
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V213" name="Q57M" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="227" EndPos="227" width="1" RecSegNo="1"/>
+      <labl>
+        Member of Rotary
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V214" name="Q57N" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="228" EndPos="228" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a stokvel/savings club
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V215" name="Q57O" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="229" EndPos="229" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a student organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V216" name="Q57P" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="230" EndPos="230" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a trade union
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V217" name="Q57Q" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="231" EndPos="231" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a women's group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V218" name="Q57R" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="232" EndPos="232" width="1" RecSegNo="1"/>
+      <labl>
+        Member of a youth group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V219" name="Q57S" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="233" EndPos="233" width="1" RecSegNo="1"/>
+      <labl>
+        No memberships
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V220" name="Q57T" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="234" EndPos="234" width="1" RecSegNo="1"/>
+      <labl>
+        Member of another club/society/organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V221" name="Q58A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="235" EndPos="235" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a neighbourhood watch
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V222" name="Q58B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="236" EndPos="236" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a choir
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V223" name="Q58C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="237" EndPos="237" width="1" RecSegNo="1"/>
+      <labl>
+        Is a hospice volunteer
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V224" name="Q58D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="238" EndPos="238" width="1" RecSegNo="1"/>
+      <labl>
+        Is a care-giving/counselling volunteer
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V225" name="Q58E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="239" EndPos="239" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in communal food growing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V226" name="Q58F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="240" EndPos="240" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in communal/group purchasing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V227" name="Q58G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="241" EndPos="241" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a street committee
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V228" name="Q58H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="242" EndPos="242" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a block committee
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V229" name="Q58I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="243" EndPos="243" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a traditional structure/association
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V230" name="Q58J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="244" EndPos="244" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in a local sport team/club
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V231" name="Q58K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="245" EndPos="245" width="1" RecSegNo="1"/>
+      <labl>
+        Participates in another local organisation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V232" name="Q59A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="246" EndPos="246" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V233" name="Q59B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="247" EndPos="247" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V234" name="Q59C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="248" EndPos="248" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V235" name="Q59D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="249" EndPos="249" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V236" name="Q59E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="250" EndPos="250" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V237" name="Q59F" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="251" EndPos="251" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V238" name="Q59G" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="252" EndPos="252" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V239" name="Q59H" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="253" EndPos="253" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V240" name="Q59I" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="254" EndPos="254" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V241" name="Q59J" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="255" EndPos="255" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V242" name="Q59K" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="256" EndPos="256" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V243" name="Q59L" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="257" EndPos="257" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V244" name="Q60" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="258" EndPos="258" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V245" name="Q61" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="259" EndPos="259" width="1" RecSegNo="1"/>
+      <labl>
+        Community projects by NGOs
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V246" name="Q62" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="260" EndPos="260" width="1" RecSegNo="1"/>
+      <labl>
+        Community Projects by international organisations
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V247" name="Q63" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="261" EndPos="261" width="1" RecSegNo="1"/>
+      <labl>
+        Community Projects by religious organisations
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V248" name="Q64" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="262" EndPos="262" width="1" RecSegNo="1"/>
+      <labl>
+        Community Projects by business organisations
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V249" name="Q65" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="263" EndPos="263" width="1" RecSegNo="1"/>
+      <labl>
+        Community Projects by locally owned business/big business located elsewhe
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V250" name="Q66" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="264" EndPos="264" width="1" RecSegNo="1"/>
+      <labl>
+        Development projects by Community
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V251" name="Q67" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="265" EndPos="265" width="1" RecSegNo="1"/>
+      <labl>
+        Community projects by government departments
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V252" name="Q68A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="266" EndPos="267" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="1" max="15"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V253" name="Q68B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="268" EndPos="269" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="15"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V254" name="Q69A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="270" EndPos="270" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V255" name="Q69B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="271" EndPos="271" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V256" name="Q69C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="272" EndPos="272" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V257" name="Q69D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="273" EndPos="273" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V258" name="Q69E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="274" EndPos="274" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V259" name="Q70A" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="275" EndPos="275" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V260" name="Q70B" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="276" EndPos="276" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V261" name="Q70C" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="277" EndPos="277" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V262" name="Q70D" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="278" EndPos="278" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V263" name="Q70E" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="279" EndPos="279" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V264" name="Q71" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="280" EndPos="280" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V265" name="Q73" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="281" EndPos="281" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V266" name="Q74" files="F1" dcml="0" intrvl="contin">
+      <location StartPos="282" EndPos="283" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="32"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V267" name="Q75" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="284" EndPos="285" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="13"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V268" name="Q76" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="286" EndPos="287" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="14"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V269" name="Q77" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="288" EndPos="289" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="13"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V270" name="Q78" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="290" EndPos="290" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V271" name="Q79" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="291" EndPos="291" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V272" name="Q80" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="292" EndPos="293" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="11"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V273" name="Q81" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="294" EndPos="294" width="1" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V274" name="Q82" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="295" EndPos="296" width="2" RecSegNo="1"/>
+      <labl/>
+      <valrng>
+        <range UNITS="REAL" min="0" max="17"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+  </dataDscr>
+</codeBook>

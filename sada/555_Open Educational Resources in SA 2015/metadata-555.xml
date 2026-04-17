@@ -1,0 +1,7820 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="zaf-roer4d-oersa-2015-v1.1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          zaf-roer4d-oersa-2015-v1.1
+        </titl>
+      </titlStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata producer">
+          DataFirst
+        </producer>
+        <prodDate date="2018-07-25">
+          2018-07-25
+        </prodDate>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 3
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Open Educational Resources in SA 2015
+        </titl>
+        <altTitl>
+          OERSA 2015
+        </altTitl>
+        <IDNo>
+          zaf-roer4d-oersa-2015-v1.1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="University of Cape Town">
+          Research on Open Educational Resources for Development (ROER4D)
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer/>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+        <fundAg abbr="IDRC" role="Funder">
+          International Development Research Centre
+        </fundAg>
+        <grantNo>
+          107311-001
+        </grantNo>
+      </prodStmt>
+      <distStmt>
+        <contact URI="support.data1st.org" email="support@data1st.org">
+          DataFirst Support
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Other Survey
+        </serName>
+      </serStmt>
+      <verStmt>
+        <version date="2015">
+          v1.1: Edited, anonymised dataset for public distribution
+        </version>
+        <notes>
+          Version 1 of the dataset was deposited with DataFirst on 16 September 2015. Version 1.1 has been anonymised further.
+        </notes>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword>
+          Open Access
+        </keyword>
+        <keyword>
+          Open Data
+        </keyword>
+        <keyword>
+          Open Educational Resources
+        </keyword>
+        <keyword>
+          Open Scholarship
+        </keyword>
+      </subject>
+      <abstract>
+        The Research on Open Educational Resources for Development (ROER4D) project is based at the Centre for Innovation in Learning and Teaching, University of Cape Town, South Africa. Glenda Cox and Henry Trotter of the Centre for Innovation in Learning and Teaching at the University of Cape Town undertook Sub-project 4 of ROER4D. The project, Research into the Social and Cultural Acceptability of Open Educational Resources in South Africa, aims to describe and explain the barriers to and enablers of Open Educational Resources (OER) contribution at institutions in South Africa. The key objective of the research was to understand why scholars contribute or refuse to contribute their teaching materials as OER. The project utilised a mixed methods approach. Surveys of and interviews with academics at three South African institutions were conducted in March 2015 to understand the conditions under which the contribution and/or use of OER would be considered socially and culturally acceptable. Focusing on academics’ teaching practices at the University of Cape Town (UCT) (urban, contact), the University of South Africa (UNISA) (distance, online/ correspondence), and University of Fort Hare University (rural, contact). The resultant dataset includes the survey (quantitative) and interview (qualitative) data.
+      </abstract>
+      <sumDscr>
+        <collDate date="2015-03" event="start"/>
+        <collDate date="2015-03" event="end"/>
+        <nation>
+          South Africa
+        </nation>
+        <geogCover>
+          The surveys were conducted at three universities in South Africa and the data is not representative of South Africa as a whole.
+        </geogCover>
+        <geogUnit>
+          The lowest level of geographic aggregation of the data is individual university.
+        </geogUnit>
+        <anlyUnit>
+          Units of analysis were individuals
+        </anlyUnit>
+        <universe>
+          The survey covered academicand support staff at the three universities in the study.
+        </universe>
+        <dataKind>
+          Sample survey data [ssd]
+        </dataKind>
+      </sumDscr>
+      <notes>
+        The research collected data on why academics contribute or refuse to contribute their teaching materials as Open Educational Resources.
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <collMode>
+          Face-to-face [f2f]
+        </collMode>
+        <sources/>
+        <collSitu>
+          The interviews were conducted with 18 people (6 per university), and comprised 50-56 questions and lasted between 30 minutes and 1 hour. The online survey collected quantitative data while open-ended interviews were undertaken at the workshops.
+        </collSitu>
+      </dataColl>
+      <anlyInfo>
+        <dataAppr>
+          Age data was collected for age groups. However, there was an overlap between age groups 56-60 and 60-65 in the survey instrument. Respondents for these groups were therefore combined into a 56-65 age group.
+        </dataAppr>
+      </anlyInfo>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Research on Open Educational Resources for Development. Open Educational Resources in South Africa 2015. (ROER4D Sub-project 4) [dataset]. Version 1.1. Cape Town: ROER4D [producer], 2015. Cape Town: DataFirst [distributor], 2015. 10.25828/b9a8-yv68
+        </citReq>
+        <conditions>
+          Public use data, available to all
+        </conditions>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F1" URI="zaf-roer4d-oersa-2015-v1.1.Nesstar?Index=0&amp;Name=rscaoersa-2015-v1.1">
+    <fileTxt>
+      <fileName>
+        rscaoersa-2015-v1.1.NSDstat
+      </fileName>
+      <dimensns>
+        <caseQnty>
+          32
+        </caseQnty>
+        <varQnty>
+          109
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    <var ID="V1" name="resp_id" files="F1" intrvl="discrete">
+      <location StartPos="1" EndPos="4" width="4" RecSegNo="1"/>
+      <labl>
+        Respondent identifier
+      </labl>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          SR01
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR02
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR03
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR04
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR05
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR06
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR07
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR08
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR09
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR10
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR11
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR12
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR13
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR14
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR15
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR16
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR17
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR18
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR19
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR20
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR21
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR22
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR23
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR24
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR25
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR26
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR27
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR28
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR29
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR30
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR31
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          SR32
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V2" name="q1_insti" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="5" EndPos="5" width="1" RecSegNo="1"/>
+      <labl>
+        Institution
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="3"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          UCT
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          UFH
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          UNISA
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V3" name="q2_gender" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="6" EndPos="7" width="2" RecSegNo="1"/>
+      <labl>
+        Gender
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Male
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Female
+        </labl>
+        <catStat type="freq">
+          24
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V4" name="q3_age" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="8" EndPos="9" width="2" RecSegNo="1"/>
+      <labl>
+        Age
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="10"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          &lt; 25
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          26-30
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          31-35
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          36-40
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          41-45
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          46-50
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          51-55
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          56-65
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          61-65
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          65+
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V5" name="q4_desig" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="10" EndPos="10" width="1" RecSegNo="1"/>
+      <labl>
+        Designation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        27
+      </sumStat>
+      <sumStat type="invd">
+        5
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Student
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Lecturer/ Asst. Prof.
+        </labl>
+        <catStat type="freq">
+          19
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Reader/ Associate Prof.
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Professor
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Other
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V6" name="q4_desig_o" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="11" EndPos="11" width="1" RecSegNo="1"/>
+      <labl>
+        Designation - other
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Admin and Management
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V7" name="q5_discip" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="12" EndPos="12" width="1" RecSegNo="1"/>
+      <labl>
+        Major discipline
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="8"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Humanities and Arts
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Social Sciences (including Education and Law )
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Management and Commerce
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Natural Sciences
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Engineering and Technology
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Agriculture and Veterinary Sciences
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Medical and Health Sciences
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Other
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V8" name="q6_educ" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="13" EndPos="14" width="2" RecSegNo="1"/>
+      <labl>
+        Highest educational qualification
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        30
+      </sumStat>
+      <sumStat type="invd">
+        2
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Bachelor's
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          B.A. Honours
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Master's (M.A. or M.Phil.)
+        </labl>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Ph.D.
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V9" name="q7_yrsteach" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="15" EndPos="16" width="2" RecSegNo="1"/>
+      <labl>
+        Years of teaching experience
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        28
+      </sumStat>
+      <sumStat type="invd">
+        4
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          0-5 Years
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          6-15 Years
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          16-25 Years
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          26- 35 Years
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          35+ Years
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V10" name="q8_jobface" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="17" EndPos="18" width="2" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - face-to-face teaching
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        17
+      </sumStat>
+      <sumStat type="invd">
+        15
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Face-to-face Teaching
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V11" name="q8_jobdist" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="19" EndPos="19" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - distance education
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        8
+      </sumStat>
+      <sumStat type="invd">
+        24
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Distance Education
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          24
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V12" name="q8_jobonline" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="20" EndPos="20" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - online teaching/facilitation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        2
+      </sumStat>
+      <sumStat type="invd">
+        30
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Online Teaching/ Facilitation
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          30
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V13" name="q8_jobblend" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="21" EndPos="21" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - blended/hybrid (face-to-face and distance/online)
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        6
+      </sumStat>
+      <sumStat type="invd">
+        26
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Blended/Hybrid (face-to-face and Distance/Online)
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          26
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V14" name="q8_jobworkbased" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="22" EndPos="22" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - work-based training
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Work-based Training
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V15" name="q8_jobresearch" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="23" EndPos="23" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - research
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        10
+      </sumStat>
+      <sumStat type="invd">
+        22
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Research
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          22
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V16" name="q8_jobmanage" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="24" EndPos="24" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - management
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        4
+      </sumStat>
+      <sumStat type="invd">
+        28
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Management
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          28
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V17" name="q8_jobother" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="25" EndPos="25" width="1" RecSegNo="1"/>
+      <labl>
+        Nature of your job includes - other
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        2
+      </sumStat>
+      <sumStat type="invd">
+        30
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Media support
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Publishing
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          30
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V18" name="q9_lang1" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="26" EndPos="26" width="1" RecSegNo="1"/>
+      <labl>
+        Most common language used in teaching
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        29
+      </sumStat>
+      <sumStat type="invd">
+        3
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          English
+        </labl>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Afrikaans
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Xhosa
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Zulu
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          SiSwati
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Spanish
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V19" name="q9_lang2" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="27" EndPos="27" width="1" RecSegNo="1"/>
+      <labl>
+        Most common language used in teaching
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        10
+      </sumStat>
+      <sumStat type="invd">
+        22
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          English
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Afrikaans
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Xhosa
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Zulu
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          SiSwati
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Spanish
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          22
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V20" name="q9_lang3" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="28" EndPos="28" width="1" RecSegNo="1"/>
+      <labl>
+        Most common language used in teaching
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="6"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          English
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Afrikaans
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Xhosa
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Zulu
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          SiSwati
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Spanish
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V21" name="q10_used" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="29" EndPos="30" width="2" RecSegNo="1"/>
+      <labl>
+        Used OER previously
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          21
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V22" name="q11_contr" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="31" EndPos="32" width="2" RecSegNo="1"/>
+      <labl>
+        Contributed OER previously
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V23" name="qb_attit1" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="33" EndPos="34" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing of educational resources improves my professional respect
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V24" name="qb_attit2" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="35" EndPos="36" width="2" RecSegNo="1"/>
+      <labl>
+        It gives me pleasure if someone adopts/adapts my educational resources
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V25" name="qb_attit3" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="37" EndPos="38" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing helps me to get feedback
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V26" name="qb_attit4" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="39" EndPos="40" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing enhances my personal and organizational reputation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V27" name="qb_attit5" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="41" EndPos="42" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing of educational resources increases my profile amongst peers and others
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V28" name="qb_attit6" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="43" EndPos="44" width="2" RecSegNo="1"/>
+      <labl>
+        OER increases my network and sphere of influence
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          17
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V29" name="qb_attit7" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="45" EndPos="46" width="2" RecSegNo="1"/>
+      <labl>
+        <![CDATA[As a teacher, it is my responsibility to share all educational  resources create]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V30" name="qb_attit8" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="47" EndPos="48" width="2" RecSegNo="1"/>
+      <labl>
+        <![CDATA[OER improves my chance of  recognition at a global level]]>
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V31" name="qb_attit9" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="49" EndPos="50" width="2" RecSegNo="1"/>
+      <labl>
+        I believe that sharing educational materials as OER will encourage others to do
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V32" name="qb_attit10" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="51" EndPos="52" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing enhances my confidence as I see myself in part of larger community
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          17
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V33" name="qb_attit11" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="53" EndPos="54" width="2" RecSegNo="1"/>
+      <labl>
+        When others use my OER, it improves my sense of achievement
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          17
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V34" name="qb_attit12" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="55" EndPos="56" width="2" RecSegNo="1"/>
+      <labl>
+        OER helps to disseminate my ideas
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V35" name="qb_attit13" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="57" EndPos="58" width="2" RecSegNo="1"/>
+      <labl>
+        OER promotes collaboration and consortia
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V36" name="qb_attit14" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="59" EndPos="60" width="2" RecSegNo="1"/>
+      <labl>
+        I have knowledge of Intellectual Property Rights to understand OER
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V37" name="qb_attit15" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="61" EndPos="62" width="2" RecSegNo="1"/>
+      <labl>
+        I am efficient in Information Communication Technology (ICT) skills to adopt and
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V38" name="qb_attit16" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="63" EndPos="64" width="2" RecSegNo="1"/>
+      <labl>
+        I adopt OER for my teaching as they fulfill academic requirement of my students
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V39" name="qb_attit17" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="65" EndPos="66" width="2" RecSegNo="1"/>
+      <labl>
+        My own competencies and knowledge towards OER help me to participate or adopt OE
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V40" name="qc_good" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="67" EndPos="68" width="2" RecSegNo="1"/>
+      <labl>
+        I believe that OER are â€˜goodâ€™ for people as it improves their learning.
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V41" name="qc_give" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="69" EndPos="70" width="2" RecSegNo="1"/>
+      <labl>
+        I try to contribute to OER to give back to society
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V42" name="qc_involved" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="71" EndPos="72" width="2" RecSegNo="1"/>
+      <labl>
+        I like to be involved in peer production of OER
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V43" name="qc_reach" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="73" EndPos="74" width="2" RecSegNo="1"/>
+      <labl>
+        Through OER, I can reach disadvantaged communities
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V44" name="qc_access" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="75" EndPos="76" width="2" RecSegNo="1"/>
+      <labl>
+        OER will help developing countries increase access to education
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V45" name="qc_basic" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="77" EndPos="78" width="2" RecSegNo="1"/>
+      <labl>
+        Sharing knowledge is a basic academic value
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V46" name="qc_innate" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="79" EndPos="80" width="2" RecSegNo="1"/>
+      <labl>
+        OER caters to innate desire to learn, improve and progress
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V47" name="qc_opportunities" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="81" EndPos="82" width="2" RecSegNo="1"/>
+      <labl>
+        OER gives me opportunities to learn new things
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          17
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V48" name="qc_saves" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="83" EndPos="84" width="2" RecSegNo="1"/>
+      <labl>
+        OER saves my time
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V49" name="qc_lessexp" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="85" EndPos="86" width="2" RecSegNo="1"/>
+      <labl>
+        OER is less expensive
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V50" name="qc_bestmaterial" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="87" EndPos="88" width="2" RecSegNo="1"/>
+      <labl>
+        OER provides access to best materials and teachers
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V51" name="qc_selfconf" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="89" EndPos="90" width="2" RecSegNo="1"/>
+      <labl>
+        OER increases my self-confidence
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V52" name="qc_recognition" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="91" EndPos="92" width="2" RecSegNo="1"/>
+      <labl>
+        Involvement in OER will give me recognition
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          15
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V53" name="qc_image" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="93" EndPos="94" width="2" RecSegNo="1"/>
+      <labl>
+        OER improves professional image
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V54" name="qc_credit" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="95" EndPos="96" width="2" RecSegNo="1"/>
+      <labl>
+        Receiving appropriate credit will help me uptake OER
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V55" name="qc_feedback" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="97" EndPos="98" width="2" RecSegNo="1"/>
+      <labl>
+        I like receiving comments and feedbacks from experts and seniors on OER created
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V56" name="qc_partnerships" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="99" EndPos="100" width="2" RecSegNo="1"/>
+      <labl>
+        OER provides us opportunities for establishing new partnerships
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V57" name="qc_easy" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="101" EndPos="102" width="2" RecSegNo="1"/>
+      <labl>
+        Technology associated with OER is easy
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V58" name="qc_ipr" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="103" EndPos="104" width="2" RecSegNo="1"/>
+      <labl>
+        I know about my Intellectual Property Rights under Creative Commons licenses
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V59" name="qd_saves" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="105" EndPos="106" width="2" RecSegNo="1"/>
+      <labl>
+        OER saves time of the teachers
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V60" name="qd_cost" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="107" EndPos="108" width="2" RecSegNo="1"/>
+      <labl>
+        OERs brings down the cost of learning materials
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V61" name="qd_free" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="109" EndPos="110" width="2" RecSegNo="1"/>
+      <labl>
+        OERs are free resources available in open license
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V62" name="qd_permission" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="111" EndPos="112" width="2" RecSegNo="1"/>
+      <labl>
+        I do not need permission to re-use OER
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V63" name="qd_fulfil" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="113" EndPos="114" width="2" RecSegNo="1"/>
+      <labl>
+        I often use OER which fulfill the pedagogical need of teachingâ€“learning proc
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V64" name="qd_appropriate" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="115" EndPos="116" width="2" RecSegNo="1"/>
+      <labl>
+        If OERs are appropriate in their content I prefer to use them
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V65" name="qd_trustworthy" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="117" EndPos="118" width="2" RecSegNo="1"/>
+      <labl>
+        I prefer to use OER from trustworthy sources
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V66" name="qd_quality" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="119" EndPos="120" width="2" RecSegNo="1"/>
+      <labl>
+        Open license of OER enables continuous quality improvement
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          11
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V67" name="qd_reputed" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="121" EndPos="122" width="2" RecSegNo="1"/>
+      <labl>
+        I use trustworthy OER from reputed institutions
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V68" name="qd_peer" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="123" EndPos="124" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of peer review of OERs make them susceptible to poor quality
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          13
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V69" name="qd_assist" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="125" EndPos="126" width="2" RecSegNo="1"/>
+      <labl>
+        OERs assist the developing countries to have quality materials
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V70" name="qd_questionnable" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="127" EndPos="128" width="2" RecSegNo="1"/>
+      <labl>
+        Quality of OER is questionable
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V71" name="qd_localization" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="129" EndPos="130" width="2" RecSegNo="1"/>
+      <labl>
+        OER needs localization
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        32
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Strongly Agree
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Agree
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Un-decided
+        </labl>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Disagree
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Strongly Disagree
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V72" name="qe_barrier_ipr" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="131" EndPos="132" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of understanding of Intellectual Property licenses, Copyrights and Creative
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        14
+      </sumStat>
+      <sumStat type="invd">
+        18
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V73" name="qe_rank_ipr" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="133" EndPos="133" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of understanding of Intellectual Property licenses, Copyrights and Creative
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        14
+      </sumStat>
+      <sumStat type="invd">
+        18
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V74" name="qe_barrier_knowledge" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="134" EndPos="135" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of knowledge for using OER in my teaching and learning process - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        10
+      </sumStat>
+      <sumStat type="invd">
+        22
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          22
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V75" name="qe_rank_knowledge" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="136" EndPos="136" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of knowledge for using OER in my teaching and learning process - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        10
+      </sumStat>
+      <sumStat type="invd">
+        22
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          22
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V76" name="qe_barrier_recogn" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="137" EndPos="138" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of recognition and rewards system for developing OER - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        10
+      </sumStat>
+      <sumStat type="invd">
+        22
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          10
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          22
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V77" name="qe_rank_recogn" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="139" EndPos="139" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of recognition and rewards system for developing OER - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        9
+      </sumStat>
+      <sumStat type="invd">
+        23
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          23
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V78" name="qe_barrier_financ" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="140" EndPos="141" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of financial resources by institution to invest in OER - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <sumStat type="invd">
+        25
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V79" name="qe_rank_financ" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="142" EndPos="142" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of financial resources by institution to invest in OER - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <sumStat type="invd">
+        25
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V80" name="qe_barrier_support" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="143" EndPos="144" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of technological support to resolve my problems - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        8
+      </sumStat>
+      <sumStat type="invd">
+        24
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          24
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V81" name="qe_rank_support" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="145" EndPos="145" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of technological support to resolve my problems - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        8
+      </sumStat>
+      <sumStat type="invd">
+        24
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          24
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V82" name="qe_barrier_ability" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="146" EndPos="147" width="2" RecSegNo="1"/>
+      <labl>
+        In-ability to find existing OER on topics of my interest - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        14
+      </sumStat>
+      <sumStat type="invd">
+        18
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V83" name="qe_rank_ability" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="148" EndPos="148" width="1" RecSegNo="1"/>
+      <labl>
+        In-ability to find existing OER on topics of my interest - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        14
+      </sumStat>
+      <sumStat type="invd">
+        18
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V84" name="qe_barrier_confi" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="149" EndPos="150" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of confidence about the quality of my work - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V85" name="qe_rank_confi" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="151" EndPos="151" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of confidence about the quality of my work - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V86" name="qe_barrier_incompat" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="152" EndPos="153" width="2" RecSegNo="1"/>
+      <labl>
+        Incompatibility of OER to my university Learning Management System (LMS) - Selec
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V87" name="qe_rank_incompat" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="154" EndPos="154" width="1" RecSegNo="1"/>
+      <labl>
+        Incompatibility of OER to my university Learning Management System (LMS) - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V88" name="qe_barrier_diff" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="155" EndPos="156" width="2" RecSegNo="1"/>
+      <labl>
+        Difficulty to remix OER for specific users - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          5
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V89" name="qe_rank_diff" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="157" EndPos="157" width="1" RecSegNo="1"/>
+      <labl>
+        Difficulty to remix OER for specific users - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V90" name="qe_barrier_availa" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="158" EndPos="159" width="2" RecSegNo="1"/>
+      <labl>
+        Unavailability of OER in native language - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V91" name="qe_rank_availa" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="160" EndPos="160" width="1" RecSegNo="1"/>
+      <labl>
+        Unavailability of OER in native language - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V92" name="qe_barrier_skills" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="161" EndPos="162" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of ICT skills required to create OER - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <sumStat type="invd">
+        25
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          7
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V93" name="qe_rank_skills" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="163" EndPos="163" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of ICT skills required to create OER - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <sumStat type="invd">
+        25
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V94" name="qe_barrier_policy" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="164" EndPos="165" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of Institutional policy on OER - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V95" name="qe_rank_policy" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="166" EndPos="166" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of Institutional policy on OER - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        4
+      </sumStat>
+      <sumStat type="invd">
+        28
+      </sumStat>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          28
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V96" name="qe_barrier_platform" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="167" EndPos="168" width="2" RecSegNo="1"/>
+      <labl>
+        Non-user friendly OER platforms - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        4
+      </sumStat>
+      <sumStat type="invd">
+        28
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          4
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          28
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V97" name="qe_rank_platform" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="169" EndPos="169" width="1" RecSegNo="1"/>
+      <labl>
+        Non-user friendly OER platforms - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="2" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V98" name="qe_barrier_infras" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="170" EndPos="171" width="2" RecSegNo="1"/>
+      <labl>
+        Poor technical infrastructure - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        8
+      </sumStat>
+      <sumStat type="invd">
+        24
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          8
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          24
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V99" name="qe_rank_infras" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="172" EndPos="172" width="1" RecSegNo="1"/>
+      <labl>
+        Poor technical infrastructure - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <sumStat type="invd">
+        25
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          25
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V100" name="qe_barrier_colla" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="173" EndPos="174" width="2" RecSegNo="1"/>
+      <labl>
+        Difficulty in collaboration - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V101" name="qe_rank_coll" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="175" EndPos="175" width="1" RecSegNo="1"/>
+      <labl>
+        Difficulty in collaboration - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        3
+      </sumStat>
+      <sumStat type="invd">
+        29
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          29
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V102" name="qe_barrier_bandw" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="176" EndPos="177" width="2" RecSegNo="1"/>
+      <labl>
+        Inadequate bandwidth - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        6
+      </sumStat>
+      <sumStat type="invd">
+        26
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          6
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          26
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V103" name="qe_rank_bandw" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="178" EndPos="178" width="1" RecSegNo="1"/>
+      <labl>
+        Inadequate bandwidth - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        5
+      </sumStat>
+      <sumStat type="invd">
+        27
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          27
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V104" name="qe_barrier_workl" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="179" EndPos="180" width="2" RecSegNo="1"/>
+      <labl>
+        Current workload - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        18
+      </sumStat>
+      <sumStat type="invd">
+        14
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          18
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V105" name="qe_rank_workl" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="181" EndPos="181" width="1" RecSegNo="1"/>
+      <labl>
+        Current workload - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        18
+      </sumStat>
+      <sumStat type="invd">
+        14
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          12
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          14
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V106" name="qe_barrier_time" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="182" EndPos="183" width="2" RecSegNo="1"/>
+      <labl>
+        Lack of time - Select
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        16
+      </sumStat>
+      <sumStat type="invd">
+        16
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Missing
+        </labl>
+        <catStat type="freq">
+          0
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V107" name="qe_rank_time" files="F1" dcml="0" intrvl="discrete">
+      <location StartPos="184" EndPos="184" width="1" RecSegNo="1"/>
+      <labl>
+        Lack of time - Rank
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="5"/>
+      </valrng>
+      <sumStat type="vald">
+        16
+      </sumStat>
+      <sumStat type="invd">
+        16
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <catStat type="freq">
+          9
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <catStat type="freq">
+          3
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <catStat type="freq">
+          2
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry missing="Y">
+        <catValu>
+          Sysmiss
+        </catValu>
+        <catStat type="freq">
+          16
+        </catStat>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V108" name="qe_barrier_o" files="F1" intrvl="discrete">
+      <location StartPos="185" EndPos="219" width="35" RecSegNo="1"/>
+      <labl>
+        Other barriers
+      </labl>
+      <sumStat type="vald">
+        1
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          Training on creation and use of OER
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V109" name="other" files="F1" intrvl="discrete">
+      <location StartPos="220" EndPos="463" width="244" RecSegNo="1"/>
+      <labl>
+        Other notes
+      </labl>
+      <sumStat type="vald">
+        7
+      </sumStat>
+      <catgry>
+        <catValu>
+          I am more interesting in creating rather than using for teaching, but I do share OERs I find with people I think may find these resources useful
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          My interest is as a UNISA Press publisher, resporting to the Research Department. High value is placed on commercial exploitation of, ie. journals (and ther is still a lot of fear around loss of income) for a puboisher. I am keen to develop a h
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          Questions of suitability for South African curricula.
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          The authenticity of the information provided.
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          The capability of using OER / personal attributes
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          The course was very good, thank you!
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <catgry>
+        <catValu>
+          These questions are hard to complete for a student
+        </catValu>
+        <catStat type="freq">
+          1
+        </catStat>
+      </catgry>
+      <varFormat type="character" schema="other"/>
+    </var>
+  </dataDscr>
+</codeBook>

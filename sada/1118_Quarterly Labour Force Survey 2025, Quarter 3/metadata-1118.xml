@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook version="2.5" ID="zaf-statssa-qlfs-2025-q3-v1" xml-lang="en" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ddi:codebook:2_5 https://ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd">
+<docDscr>
+  <citation>
+    <titlStmt>
+      <IDNo></IDNo>
+      <titl>zaf-statssa-qlfs-2025-q3-v1</titl>
+    </titlStmt>
+    <prodStmt>
+      <producer abbr="" affiliation="University of Cape Town" role="Metadata producer">DataFirst</producer>
+      <prodDate date="2025-12">2025-12</prodDate>
+      <software version="v5">NADA</software>
+    </prodStmt>
+    <verStmt>
+      <version>Version 1</version>
+    </verStmt>
+  </citation>
+</docDscr>
+<stdyDscr>
+  <citation>
+    <titlStmt>
+      <titl>Quarterly Labour Force Survey 2025, Quarter 3</titl>
+      <subTitl/>
+      <altTitl>QLFS 2025-3</altTitl>
+      <parTitl/>
+      <IDNo>zaf-statssa-qlfs-2025-q3-v1</IDNo>
+    </titlStmt>
+    <rspStmt>
+      <AuthEnty affiliation="Government of South Africa">Statistics South Africa</AuthEnty>
+    </rspStmt>
+    <prodStmt>
+      <copyright/>
+      <software version="beta" date="2026-01-22">MetadataEditor</software>
+      <prodDate>2025</prodDate>
+      <prodPlac/>
+    </prodStmt>
+    <distStmt>
+      <distrbtr abbr="" affiliation="University of Cape Town" URI="https://www.datafirst.uct.ac.za/">DataFirst</distrbtr>
+      <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">DataFirst Helpdesk</contact>
+      <depDate date=""/>
+      <distDate date=""/>
+    </distStmt>
+    <serStmt>
+      <serName>Labour Force Survey</serName>
+      <serInfo><![CDATA[]]></serInfo>
+    </serStmt>
+    <verStmt>
+      <version date="2025-12">v1: Edited, anonymised dataset for public distribution</version>
+      <verResp/>
+      <notes><![CDATA[This version was retrieved by DataFirst from StatsSA on 9th December 2025]]></notes>
+    </verStmt>
+    <biblCit format=""><![CDATA[]]></biblCit>
+    <notes><![CDATA[]]></notes>
+  </citation>
+  <studyAuthorization date="">
+    <authorizingAgency affiliation="Government of South Africa" abbr="StatsSA">Statistics South Africa</authorizingAgency>
+    <authorizationStatement><![CDATA[Data collection by organs of state in South Africa is authorised by the Statistics Act, 1999, and the Statistics Amendment Act, 2024]]></authorizationStatement>
+  </studyAuthorization>
+  <stdyInfo>
+    <studyBudget><![CDATA[]]></studyBudget>
+    <subject>
+                  
+                  
+    </subject>
+    <abstract><![CDATA[The Quarterly Labour Force Survey (QLFS) is a household-based sample survey conducted by Statistics South Africa (Stats SA). It collects data on the labour market activities of individuals aged 15 years or older who live in South Africa.]]></abstract>
+    <sumDscr>
+      <timePrd date="2025-07" event="start" cycle=""/>
+      <timePrd date="2025-09" event="end" cycle=""/>
+      <collDate date="2025-07" event="start" cycle=""/>
+      <collDate date="2025-09" event="end" cycle=""/>
+      <nation abbr="zaf">South Africa</nation>
+      <geogCover>The survey has national coverage</geogCover>
+      <geogCoverNote/>
+      <geogUnit>The data is at the provincial and metropolitan level, as well as by geographic type (urban/traditional/farms)</geogUnit>
+      <anlyUnit><![CDATA[Individuals]]></anlyUnit>
+      <universe><![CDATA[The QLFS sample covers the non-institutional population of South Africa with one exception. The only institutional subpopulation included in the QLFS sample are individuals in worker's hostels. Persons living in private dwelling units within institutions are also included in the enumeration. For example, within a school compound, one would enumerate the schoolmaster's house and the teachers' accommodation, as these are private dwellings. Students living in a dormitory on the school compound would, however, be excluded.]]></universe>
+      <dataKind>Sample survey data [ssd]</dataKind>
+    </sumDscr>
+    <qualityStatement>
+      <standardsCompliance>
+        <complianceDescription/>
+      </standardsCompliance>
+      <otherQualityStatement/>
+    </qualityStatement>
+    <notes><![CDATA[INDIVIDUALS: labour market activity, labour preferences, labour market history, demographic characteristics, marital status, employment status, education, grants, tax.
+
+From 2010 the income data collected by South Africa's Quarterly Labour Force Survey is no longer provided in the QLFS dataset (except for a brief return in QLFS 2010 Q3 which may be an error). Possibly because the data is unreliable at the level of the quarter, Statistics South Africa now provides the income data from the QLFS in an annualised dataset called Labour Market Dynamics in South Africa (LMDSA). The datasets for LMDSA are available from DataFirst's website.]]></notes>
+    <exPostEvaluation completionDate="" type="">
+      <evaluationProcess/>
+      <outcomes/>
+    </exPostEvaluation>
+  </stdyInfo>
+  <method>
+    <dataColl>
+      <timeMeth/>
+      <dataCollector abbr="StatsSA" role="" affiliation="Government of South Africa">Statistics South Africa</dataCollector>
+      <frequenc/>
+      <sampProc><![CDATA[The QLFS uses a master sampling frame that is used by several household surveys conducted by Statistics South Africa. This wave of the QLFS is based on the 2013 master frame, which was created based on the 2011 census. There are 3324 PSUs in the master frame and roughly 33 000 dwelling units. The sample for the QLFS is based on a stratified two-stage design with probability proportional to size (PPS) sampling of PSUs in the first stage, and sampling of dwelling units (DUs) with systematic sampling in the second stage. For each quarter of the QLFS, a quarter of the sampled dwellings are rotated out of the sample. These dwellings are replaced by new dwellings from the same PSU or the next PSU on the list. For more information see the statistical release.]]></sampProc>
+      <sampleFrame>
+        <sampleFrameName/>
+        <custodian/>
+        <universe/>
+        <frameUnit isPrimary="">
+          <unitType numberOfUnits=""/>
+        </frameUnit>
+        <updateProcedure/>
+      </sampleFrame>
+      <deviat/>
+      <collMode>Face-to-Face and Computer Assisted Personal and Telephone Interview</collMode>
+      <resInstru><![CDATA[]]></resInstru>
+      <instrumentDevelopment type=""/>
+      <collSitu><![CDATA[Data was collected using face-to-face interviewing with CAPI questionnaires]]></collSitu>
+      <actMin><![CDATA[]]></actMin>
+      <ConOps><![CDATA[]]></ConOps>
+      <weight><![CDATA[The sample weights were constructed to account for the following: the original selection probabilities (design weights); adjustments for PSUs that were sub-sampled or segmented; excluded population from the sampling frame (EAs with insufficient DUs); non-response; weight trimming; benchmarking to known population estimates from the Demographic Analysis Chief Directorate within Stats SA; and raking to bias-adjusted control estimates from a bias-adjustment procedure to compensate for the non-coverage bias in the sample due to only observing those households that can be contacted by telephone.]]></weight>
+      <cleanOps><![CDATA[]]></cleanOps>
+    </dataColl>
+    <notes><![CDATA[]]></notes>
+    <anlyInfo>
+      <respRate><![CDATA[]]></respRate>
+      <EstSmpErr><![CDATA[]]></EstSmpErr>
+      <dataAppr><![CDATA[]]></dataAppr>
+    </anlyInfo>
+    <stdyClas><![CDATA[]]></stdyClas>
+  </method>
+  <dataAccs>
+    <setAvail>
+      <accsPlac URI=""/>
+      <origArch/>
+      <avlStatus/>
+      <collSize/>
+      <complete/>
+      <fileQnty/>
+      <notes><![CDATA[]]></notes>
+    </setAvail>
+    <useStmt>
+      <restrctn>Public access</restrctn>
+      <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">DataFirst</contact>
+      <citReq><![CDATA[Statistics South Africa. Quarterly Labour Force Survey 2025: Quarter 3 [dataset]. Version 1. Pretoria: Statistics South Africa [producer], 2025. Cape Town: DataFirst [distributor], 2025. DOI: https://doi.org/10.25828/79SM-EM79]]></citReq>
+      <deposReq><![CDATA[Users of the data must send DataFirst a copy of or link to any publication based on the data]]></deposReq>
+      <conditions><![CDATA[Creative Commons Attribution only CC-BY license]]></conditions>
+      <disclaimer><![CDATA[]]></disclaimer>
+    </useStmt>
+    <notes><![CDATA[]]></notes>
+  </dataAccs>
+  <notes><![CDATA[]]></notes>
+</stdyDscr>
+<dataDscr>
+</dataDscr></codeBook>

@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="ner-lasdel-pnss-2013-2014-v1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Les problèmes négligés des systèmes de santé au NIGER (2012-2015)
+        </titl>
+        <IDNo>
+          IRDC106949
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="LASDEL">
+          DIARRA, AISSA
+        </AuthEnty>
+        <othId role="Project Manager" affiliation="IDRC">
+          <p>
+            Godt, Sue
+          </p>
+        </othId>
+      </rspStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata Producer">
+          DataFirst
+        </producer>
+        <copyright>
+          LASDEL
+        </copyright>
+        <prodDate date="2020-06-18">
+          2020-06-18
+        </prodDate>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 2
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Neglected Issues Relating to Niger Health Systems 2013-2014
+        </titl>
+        <altTitl>
+          PNSS 2013-2014
+        </altTitl>
+        <parTitl>
+          Les problèmes négligés des systèmes de santé au Niger 2013-2014
+        </parTitl>
+        <IDNo>
+          ner-lasdel-pnss-2013-2014-v1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty>
+          Laboratoire d'Etudes et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL)
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer affiliation="LASDEL" role="Communicateur">
+          Ali Bako
+        </producer>
+        <producer affiliation="LASDEL" role="Responsable du projet Open Data">
+          Aissa Diarra
+        </producer>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+        <fundAg abbr="IDRC" role="funding agency">
+          International Development Research Centre
+        </fundAg>
+        <grantNo>
+          IRDC106949
+        </grantNo>
+      </prodStmt>
+      <distStmt>
+        <distrbtr abbr="LASDEL" affiliation="LASDEL">
+          LASDEL
+        </distrbtr>
+        <contact affiliation="University of Cape Town" URI="http://support.data1st.org/" email="support@data1st.org">
+          DataFirst Helpdesk
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Health Survey [hs]
+        </serName>
+        <serInfo>
+          Laboratoire d'Etudes et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL). Neglected Issues Relating to Niger Health Systems 2013-2014 [dataset]. Version 1. Niamey: LASDEL [producer], 2016. Cape Town: DataFirst [distributor], 2017. DOI: https://doi.org/10.25828/c8hm-0g81
+        </serInfo>
+      </serStmt>
+      <verStmt>
+        <version date="2016">
+          Version 1: Edited, anonymised data for public distribution
+        </version>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword>
+          Niger
+        </keyword>
+        <keyword>
+          public health
+        </keyword>
+      </subject>
+      <abstract>
+        <![CDATA[Neglected Issues Relating to African Health Systems: An Incentive for Reform
+
+Inequalities in access to and quality of health services result in poorer health for disadvantaged groups. In West Africa, poor access to health care has been linked to increased mortality of children under five. Several issues that affect access to and quality of health care for the poor and vulnerable in West Africa are neglected because of systemic "blind spots" - issues that are not covered by regular investigative protocols, are not questioned because they are part of well-established routines, or conflict with other interests. They include practices that don't comply with official standards, bottlenecks within healthcare organizations, and shortcomings in implementing healthcare policies in the field.Even when these issues are discussed, the lack of reliable data makes it difficult to propose and implement workable solutions. These neglected issues need to be properly documented, shared, and discussed publicly to foster reform that will improve the quality of health care, especially for the most vulnerable.
+
+This project includes six sub-projects on issues concerning the health care system that affect access to and quality of care in Niger. Results will then link to reform efforts. Researchers will tackle key issues that have direct implications on the quality of care available to vulnerable populations, including daily service delivery, women's health, decentralization, and sustainability. Research undertaken in Niger will  build a comprehensive picture of what is needed to reform a national health system. Local health professionals and public health officials will participate in studies and provide an insider's perspective on how the system is actually functioning. The project will strengthen the skills of West African researchers in the social anthropology of health, promote mentoring of young African researchers, and improve the quality of empirical social sciences research conducted in Africa. It will also provide researchers, health care professionals, and community activists with a forum for discussion and will bring these issues to the attention of public health officials and health professionals. Several training activities involving students, PhD students and health care workers will be incorporated in the ongoing work. Conferences will be held at local, district and national levels to share the results of the six research projects. Results will also be released internationally to francophone and anglophone scientific and academic communities, and to the media through reports, articles, and other publications. 
+
+Les problèmes négligés des systèmes de santé en Afrique : une incitation aux réformes
+
+Texte diffusé sur le site de l'IDRC <https://www.idrc.ca/fr/project/les-problemes-negliges-des-systemes-de-sante-en-afrique-une-incitation-aux-reformes>
+Les inégalités dans l'accès aux services de santé et les disparités dans leur qualité se répercutent sur la santé des groupes défavorisés. En Afrique de l'Ouest, on a établi des liens entre la difficulté d'accès aux services de santé et l'augmentation de la mortalité chez les enfants de moins de cinq ans.
+En raison de lacunes systémiques, on néglige plusieurs problèmes - qui échappent aux protocoles d'enquêtes habituels, qui ne sont pas remis en question parce qu'ils relèvent de routines bien établies ou qui entrent en conflit avec d'autres intérêts établis - influant sur l'accès des populations pauvres et vulnérables aux services de santé en Afrique de l'Ouest ainsi que la qualité des services. Ces problèmes comprennent notamment des pratiques non conformes aux normes officielles, des goulots d'étranglement au sein des organismes de santé et des lacunes dans la mise en oeuvre des politiques de santé sur le terrain.
+Lorsqu'on en vient à discuter de ces problèmes, il est difficile de proposer et de mettre en place des solutions réalistes en raison du manque de données fiables. Il importe donc de bien documenter ces problèmes négligés, de les communiquer et d'en discuter publiquement pour susciter des réformes susceptibles d'améliorer la qualité des services de santé, surtout pour les groupes les plus vulnérables.
+
+Ce financement soutiendra six projets de recherche qui étudieront les problèmes d'un système de santé influant sur l'accès aux services et leur qualité. On s'appliquera ensuite à traduire les résultats en tentatives de réforme. Les chercheurs examineront les principales questions qui se répercutent directement sur la qualité des services offerts aux populations vulnérables : prestation de services au quotidien, santé des femmes, décentralisation, durabilité, etc. La recherche sera entreprise au Niger afin d'obtenir une image complète des éléments nécessaires à la réforme d'un système national de santé. Les professionnels de la santé et les responsables de la santé publique participeront aux études et expliqueront le fonctionnement réel du système.
+
+Le projet viendra renforcer les capacités des chercheurs d'Afrique de l'Ouest en socio-anthropologie de la santé, favoriser le mentorat de jeunes chercheurs africains et améliorer la qualité des recherches empiriques en sciences sociales menées en Afrique. Il constituera aussi une plateforme d'échanges pour les chercheurs, les professionnels de la santé et les militants associatifs, et permettra d'attirer l'attention des responsables de la santé publique et des professionnels de la santé sur ces questions.
+Les travaux comprendront plusieurs activités de formation destinées aux étudiants, aux doctorants et aux professionnels de la santé. On organisera des conférences à l'échelle locale, des districts et nationale pour communiquer les résultats des six projets de recherche. Les résultats seront également diffusés aux milieux scientifiques et universitaires anglophones et francophones ainsi qu'aux médias sous forme de rapports, d'articles et d'autres publications.]]>
+      </abstract>
+      <sumDscr>
+        <collDate date="2013-05" event="start"/>
+        <collDate date="2014-05" event="end"/>
+        <nation abbr="ner">
+          Niger
+        </nation>
+        <geogCover>
+          The survey has national coverage
+        </geogCover>
+        <geogUnit>
+          The lowest level of geographic aggregation covered by the data is village
+        </geogUnit>
+        <anlyUnit>
+          Individuals and establishments
+        </anlyUnit>
+        <universe>
+          The survey targeted health professionals and patients (professionnels de santé, usages)
+        </universe>
+        <dataKind>
+          Qualitative data
+        </dataKind>
+      </sumDscr>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <collMode>
+          Face-to-face [f2f]
+        </collMode>
+        <sources/>
+      </dataColl>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="www.support.data1st.org" email="support@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Laboratoire d'Etudes et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL). Neglected Issues Relating to Niger Health Systems 2013-2014 [dataset]. Version 1. Niamey: LASDEL [producer], 2016. Cape Town: DataFirst [distributor], 2017. DOI: https://doi.org/10.25828/c8hm-0g81
+        </citReq>
+        <conditions>
+          Public use files, available to all
+        </conditions>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <dataDscr/>
+  <otherMat level="study" URI="http://www.lasdel.net/index.php/nos-activites/etudes-travaux/70-n-13-l-enquete-socio-anthropologique-de-terrain-synthese-methodologique-et-recommandations-a-usage-des-etudiants-par-j-p-olivier-de-sardan-2003">
+    <labl>
+      <![CDATA[L’enquête socio-anthropologique de terrain : synthèse méthodologique et recommandations à usage des étudiants  par JP Olivier de Sardan publié en 2013 dans la série Etudes et Travaux n° 13 du Lasdel]]>
+    </labl>
+    <txt>
+      <![CDATA[enquête_socio_anthropologique_de_terrain_LASDEL_2013.pdf
+]]>
+    </txt>
+  </otherMat>
+  <otherMat level="study" URI="canevas_enquete_approfondie_AD_20140407.rtf">
+    <labl>
+      CANEVAS D’ENQUETE APPROFONDIE
+    </labl>
+    <txt>
+      Enquêtes approfondies sur les écoles de formation et investiguer d'avantage la thématique des stagiaires selon la typologie connue.
+    </txt>
+  </otherMat>
+  <otherMat level="study" URI="Guide_entretiens_ECRIS_AD_20131405.rtf">
+    <labl>
+      grille d'analyse d'entretien de la méthode ECRIS
+    </labl>
+    <txt>
+      <![CDATA[Un grille d'analyse d'entretien de la méthode ECRIS (enquête collective multi-site) fichier Guide_entretiens_ECRIS_AD_20131405.rtf 2 p.
+]]>
+    </txt>
+  </otherMat>
+  <otherMat level="study" URI="Test_EntretienObservationCanevasdenquete_V2-AD_20161030.rtf ">
+    <labl>
+      <![CDATA[Un entretien anonymisé -  Diffusion restreinte]]>
+    </labl>
+    <txt>
+      <![CDATA[Un entretien anonymisé ,  Test_EntretienObservationCanevasdenquete_V2-AD_20161030.rtf 39 p.
+]]>
+    </txt>
+    <notes>
+      diffusion restreinte aux chercheurs du LASDEL
+    </notes>
+  </otherMat>
+  <otherMat level="study" URI="Compte_Rendu_observation_entretien_AD_20140108.rtf">
+    <labl>
+      Compte-rendu d'observation et d'entretien anonymisé Diffusion restreinte
+    </labl>
+    <txt>
+      <![CDATA[Un compte rendu d'observation et d'entretien anonymisé
+Compte_Rendu_observation_entretien_AD_20140108.rtf 14 p.
+]]>
+    </txt>
+    <notes>
+      diffusion restreinte aux chercheurs du LASDEL
+    </notes>
+  </otherMat>
+  <otherMat level="study" URI="PNSS_introduction_FR_EN_2014.rtf">
+    <labl>
+      introduction au projet PNSS
+    </labl>
+  </otherMat>
+</codeBook>

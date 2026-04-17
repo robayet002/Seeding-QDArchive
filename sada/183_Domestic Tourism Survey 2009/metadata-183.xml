@@ -1,0 +1,8840 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="zaf-statssa-dts-2009-v1.1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Domestic Tourism Survey 2009
+        </titl>
+        <IDNo>
+          ddi-zaf-datafirst-dts-2009-v1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <othId>
+          <p>
+            Statistics South Africa (Stats SA)
+          </p>
+        </othId>
+      </rspStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata producer">
+          DataFirst
+        </producer>
+        <prodDate date="2020-03-28">
+          2020-03-28
+        </prodDate>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 3
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Domestic Tourism Survey 2009
+        </titl>
+        <altTitl>
+          DTS 2009
+        </altTitl>
+        <IDNo>
+          zaf-statssa-dts-2009-v1.1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty>
+          Statistics South Africa
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <copyright>
+          (c) 2010 , Statistics South Africa
+        </copyright>
+        <software version="4.0.10" date="2018-05-02">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <distStmt>
+        <contact affiliation="University of Cape Town" URI="http://support.data1st.org/" email="support@data1st.org">
+          DataFirst Helpdesk
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Other Household Survey [hh/oth]
+        </serName>
+        <serInfo>
+          Statistics South Africa. Domestic Tourism Survey 2009 [dataset]. Pretoria. Statistics South Africa [producer], 2010. Cape Town. DataFirst [distributor], 2012. DOI: https://doi.org/10.25828/rztp-1047
+        </serInfo>
+      </serStmt>
+      <verStmt>
+        <version date="2010">
+          v1.1: Edited, anonymised dataset for licensed distribution
+        </version>
+        <notes>
+          <![CDATA[Version 1 of the Domestic Tourism Survey 2009 downloaded from Statistics South Africa's website on 18 November 2011 did not have value labels.
+This version, version 1.1, values labels have been added by DataFirst on 29 May 2012.]]>
+        </notes>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <topcClas vocab="CESSDA" vocabURI="http://www.nesstar.org/rdf/common">
+          leisure, tourism and sport [13.4]
+        </topcClas>
+      </subject>
+      <abstract>
+        Statistics South Africa collects data on foreign tourism from the South African Department of Home Affairs. Data on domestic tourism is also needed to measure its contribution to the national economy. The Domestic Tourism Survey (DTS) is aimed at addressing this need by collecting data on the travel behaviour and expenditure of South African residents travelling within and outside the borders of South Africa.
+      </abstract>
+      <sumDscr>
+        <collDate date="2009-05-11" event="start"/>
+        <collDate date="2009-05-22" event="end"/>
+        <nation>
+          South Africa
+        </nation>
+        <geogCover>
+          National coverage
+        </geogCover>
+        <geogUnit>
+          The lowest level of geographic aggregation covered by the data is province.
+        </geogUnit>
+        <anlyUnit>
+          <![CDATA[The units of analysis in the Domestic Tourism Survey are households and  individuals]]>
+        </anlyUnit>
+        <universe>
+          The target population of the survey consists of all private households and residents in workers’ hostels in the nine provinces of South Africa. The survey does not cover other collective living quarters such as students’ hostels, oldage homes, hospitals, prisons and military barracks and is therefore only representative of non-institutionalised and non-military persons in South Africa.
+        </universe>
+        <dataKind>
+          Sample survey data [ssd]
+        </dataKind>
+      </sumDscr>
+      <notes>
+        The scope of the Domestic Tourism Survey 2012 includes: household characteristcs, education of household members, tourism employment, and day/overnight trips by the respondent and/or other household members. These include travel for business, recreation, entertainment, sports and nature based travel, religious and medical travel, type of transport used and expenditure on this type of travel.
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <sampProc>
+          For the Domestic Tourism Survey SSA used a household survey master sample of 3 080 primary sampling units from the 80 787 enumeration areas (EAs) created for the 2001 Population Census. The master sample used a two-stage, stratified design with probability-proportional-to-size (PPS) sampling of PSUs from within strata, and systematic sampling of dwelling units (DUs) from the sampled primary sampling units (PSUs). A self-weighting design at provincial level was used and MS stratification was divided into two levels, primary and secondary stratification. Primary stratification was defined by metropolitan and non-metropolitan geographic area type. During secondary stratification, the Census 2001 data were summarised at PSU level. The following variables were used for secondary stratification; household size, education, occupancy status, gender, industry and income.
+        </sampProc>
+        <collMode>
+          Face-to-face [f2f]
+        </collMode>
+        <resInstru>
+          <![CDATA[Household Questionnaire: This includes sections on: 
+Household characteristcs, household listing, education, tourism employment, trips taken, day trips, overnight trips, barriers to taking trips, business and professional trips, recreation entertainment, sports trips, nature based trips, religious trips, medical trips, type of transport, expenditure on trips, social activites]]>
+        </resInstru>
+        <sources/>
+        <collSitu>
+          <![CDATA[For the Domestic Tourism Survey 2009 survey officers employed and trained by Statistics SA visited the sampled dwelling units in each of the nine provinces.  During the first phase of the survey, sampled dwelling units were visited and informed about the coming survey as part of the publicity campaign, which took place from 5-10 May 2009. Four hundred and thirty seven enumerators, 127 supervisors and 59 district coordinators participated in the survey. An additional 37 quality assurors were responsible for monitoring and ensuring questionnaire quality. National training took place over a period of three days and district training was done one week later for eight days in all nine provinces.]]>
+        </collSitu>
+        <weight>
+          <![CDATA[Sampling weights for the data collected from the sampled households are constructed so that responses can be expanded appropriately to represent the entire population of South Africa. The weights are the result of calculations involving several factors, including design weights, adjustment for non-response, and benchmarking to known population estimates from the Demographic Analysis division of Stats SA. The final survey weights are constructed by calibrating the adjusted base weight to the known population counts at  national and provincial levels (which are supplied by the Demographic Analysis division of Statistics SA), cross-classified by 5-year age groups (0-4, 5-9, 10-14, 55-59, 60-64, and 65 and over), gender and race. The provincial population estimates are cross-classifiedby broad age groups (0–14, 15–34, 35–64, and 65 years and over). The calibrated weights are constructed to ensure that all persons in a household have the same final weight (integrated weighting).]]>
+        </weight>
+      </dataColl>
+      <anlyInfo>
+        <respRate>
+          <![CDATA[The eligible households in the sampled dwellings can be divided into two response categories: respondents and non-respondents.
+
+a) Respondents: This category consists of eligible households in the sampled dwellings that completed the survey questionnaire and provided usable survey responses.
+b) Non-respondents: These are the eligible households in the sampled dwellings that did not complete the questionnaire, e.g. refusal, no contact, temporarily absent.
+
+In general, the non-response adjustment was applied at PSU level and only in those cases where the nonresponse at the PSU level was too large, the non-response adjustment was applied at the stratum level.]]>
+        </respRate>
+      </anlyInfo>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="http://www.datafirst.uct.ac.za" email="info@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Statistics South Africa. Domestic Tourism Survey 2009 [dataset]. Pretoria. Statistics South Africa [producer], 2010. Cape Town. DataFirst [distributor], 2012. DOI: https://doi.org/10.25828/rztp-1047
+        </citReq>
+        <conditions>
+          Public use files, available to all
+        </conditions>
+        <disclaimer>
+          The user of the data acknowledges that the original collector of the data, the authorized distributor of the data, and the relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.
+        </disclaimer>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F1" URI="zaf-statssa-dts-2009-v1.1.Nesstar?Index=0&amp;Name=DTS Daytrip 2009_v1.1">
+    <fileTxt>
+      <fileName>
+        DTS Daytrip 2009_v1.1.NSDstat
+      </fileName>
+      <fileCont>
+        The DTS Daytrip 2009_v1.1 data file contains variables from section 2 in the survey questionnaire
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          85
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F2" URI="zaf-statssa-dts-2009-v1.1.Nesstar?Index=1&amp;Name=DTS Overnight 2009_v1.1">
+    <fileTxt>
+      <fileName>
+        DTS Overnight 2009_v1.1.NSDstat
+      </fileName>
+      <fileCont>
+        The DTS Overnight 2009_v1.1 data file contains variables from section 4 in the survey questionnaire
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          103
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F3" URI="zaf-statssa-dts-2009-v1.1.Nesstar?Index=2&amp;Name=DTS Person 2009_v1">
+    <fileTxt>
+      <fileName>
+        DTS Person 2009_v1.NSDstat
+      </fileName>
+      <fileCont>
+        The DTS Person 2009_v1 data file contains variables from the flap and all other sections in the survey questionnaire
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          21
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <fileDscr ID="F4" URI="zaf-statssa-dts-2009-v1.1.Nesstar?Index=3&amp;Name=DTS Section1 2009_1.1">
+    <fileTxt>
+      <fileName>
+        DTS Section1 2009_1.1.NSDstat
+      </fileName>
+      <fileCont>
+        The DTS Section1 2009_1.1 data file contains variables from section 1 in the survey questionnaire
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          0
+        </caseQnty>
+        <varQnty>
+          14
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    <var ID="V1" name="UQNO" files="F1" intrvl="discrete">
+      <location width="18" RecSegNo="1"/>
+      <labl>
+        Unique number
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V2" name="PERSONNO" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Person number
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="11"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V3" name="PSUNO" files="F1" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Primary sampling unit
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V4" name="PROV" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Province
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V5" name="Q21mnth1" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        December
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V6" name="Q21mnth2" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        January
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V7" name="Q21mnth3" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        February
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V8" name="Q21total" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total day trips
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V9" name="Q22provv" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Province destination
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V10" name="Q24total" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total on the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V11" name="Q25housh" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Number of household members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V12" name="Q27mainp" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Purpose of trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Leisure/vacation/holiday
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Shopping- business
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Shopping - personal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Sporting - spectator
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Sporting - participant
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Visiting friends and/or family
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Funeral
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Business or professional trip
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Business conference
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          Study/educational trip
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          Medical
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          Wellness (e.g. spa, health farm)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          Religious
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Other
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V13" name="Q281rent" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V14" name="Q281Rtheme" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Theme parks
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V15" name="Q281Rcult" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Cultural, historical and heritage
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V16" name="Q281reat" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Eating out
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V17" name="Q281RNIGHT" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Night life
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V18" name="Q281RCASINO" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a casino
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V19" name="Q281RSHOP" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Shopping
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V20" name="Q281ROTHR" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other recreation, entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V21" name="Q282RMEET" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Meeting
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V22" name="Q282RCONF" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Business conference, convention
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V23" name="Q282RTRADN" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Trading
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V24" name="Q282ROTHR" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other business/ professional
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V25" name="Q283Rindv" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Individual sports
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V26" name="Q283Rwater" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Water sports
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V27" name="Q283Radvn" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Adventure activity
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V28" name="Q283Rspect" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Attended a sporting event as a spectator
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V29" name="Q283Rpart" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Participated in a sporting event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V30" name="Q283Rothr" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other sports
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V31" name="Q284Rrural" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a rural area
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V32" name="Q284Rwild" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Wildlife
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V33" name="Q284Rhunt" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Hunting
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V34" name="Q284Rbeach" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Beach
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V35" name="Q284Rgard" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited parks/ gardens
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V36" name="Q284Rsight" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Sightseeing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V37" name="Q284Rmount" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a mountain area
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V38" name="Q284Rothr" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other outdoors/ nature based
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V39" name="Q285Rvisit" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visiting friends/ family
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V40" name="Q285Rwedd" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Weddings/ funerals/ christenings/ initiation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V41" name="Q285Rothr" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other social activity
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V42" name="Q286Rconf" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Religious conference
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V43" name="Q286Rwrshp" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Place of worship
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V44" name="Q286Rothr" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other religious
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V45" name="Q287Rmedi" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Medical e.g treatment in clinic/hospital
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V46" name="Q287Rhlth" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Health/wellness
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V47" name="Q287Rothr" files="F1" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other medical
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V48" name="Q29transp" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Long distance transport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V49" name="Q2101Packq" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Trip package
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V50" name="Q2102COST" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Package amount
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="999999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          888888
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          999999
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V51" name="Q2103AIRF" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Airfare Package_item1
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V52" name="Q2103LANDT" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Land transport Package_item2
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V53" name="Q2103FOOD" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food and beverages Package_item3
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V54" name="Q2103RECRE" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Recreation and entertainment Package_item4
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V55" name="Q2103TRAVIN" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Travel insurance Package_item5
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V56" name="Q2103SHOP" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Shopping Package_item6
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V57" name="Q2103OTHR" files="F1" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other Package_item7
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V58" name="Q211AIRFC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Airfare
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V59" name="Q211Train" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Train
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V60" name="Q211LANDC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Land transport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V61" name="Q211CARC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Car hire
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2350"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V62" name="Q211FOODC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food and beverages
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5056"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V63" name="Q211RECREC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Recreation / entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V64" name="Q211CULTC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Cultural services
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="350"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V65" name="Q211MEDIC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Medical expenses
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="24000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V66" name="Q211SHOPC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Shopping
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="35000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V67" name="Q211TOURC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Tour guide
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4900"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V68" name="Q211OTHRC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other items while on the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V69" name="Q211TOTC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total spent while on the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="35270"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V70" name="Q212FOODC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food for the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V71" name="Q212GIFTC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Gifts
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V72" name="Q212TRAVINC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Travel insurance
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="370"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V73" name="Q212FINC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other financial services
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="900"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V74" name="Q212VEHC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Servicing the vehicle
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V75" name="Q212ALARMC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Checking/ servicing alarm systems
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="900"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V76" name="Q212SECUC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Hiring security
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="250"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V77" name="Q212SITC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Hiring house sitter
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V78" name="Q212CLOTHC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Clothing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V79" name="Q212TOILC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Toiletries
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V80" name="Q212LUGGC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Luggage
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V81" name="Q212MEDIC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Medical supplies / inoculations
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V82" name="Q212ELECC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Electrical appliances e.g adapters
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V83" name="Q212OTHRC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other items before the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="600"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V84" name="Q212TOTC" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total spent before the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V85" name="WEIGHT" files="F1" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Weight
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="50.00000027" max="7000.43314534"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V86" name="UQNO" files="F2" intrvl="discrete">
+      <location width="18" RecSegNo="1"/>
+      <labl>
+        Unique number
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V87" name="PERSONNO" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Person number
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="21"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V88" name="PSUNO" files="F2" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Primary sampling unit
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V89" name="PROV" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Province
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V90" name="q41mnth1" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        December
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V91" name="q41mnth2" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        January
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V92" name="q41mnth3" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        February
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V93" name="Q41TOTAL" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total overnight trips
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V94" name="Q42PROVV" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Province of destination
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V95" name="Q44NIGHTS" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Number of overnights
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V96" name="Q45TOTAL" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total on trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V97" name="Q46HH" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Household members
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V98" name="Q48MAINP" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Main purpose of trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Leisure/vacation/holiday
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Shopping – business
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Shopping - personal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Sporting – spectator
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Sporting - participant
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Visiting friends and/or family
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Funeral
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Business or professional trip
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Business conference
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          Study/educational trip
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          Medical
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          Wellness
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          Religious
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Other
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V99" name="Q491RENT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V100" name="Q491RTHEME" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Theme parks
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V101" name="Q491RCULT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Cultural, historical and heritage
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V102" name="Q491REAT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Eating out
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V103" name="Q491RNIGHT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Night life
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V104" name="Q491RCASINO" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a casino
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V105" name="Q491RSHOP" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Shopping
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V106" name="Q491ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other recreation, entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V107" name="Q492RMEET" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Meeting
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V108" name="Q492RCONF" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Business conference, convention
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V109" name="Q492RTRADN" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Trading
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V110" name="Q492ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other business/ professional
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V111" name="Q493RINDV" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Individual sport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V112" name="Q493RWATER" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Water sports
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V113" name="Q493RADVN" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Adventure activity
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V114" name="Q493RSPECT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Attended a sporting event as a spectator
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V115" name="Q493RPART" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Participated in a sporting event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V116" name="Q493ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other sports
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V117" name="Q494RRURAL" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a rural area
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V118" name="Q494RWILD" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Wildlife
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V119" name="Q494RHUNT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Hunting
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V120" name="Q494RBEACH" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Beach
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V121" name="Q494RGARD" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited parks/ gardens
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V122" name="Q494RSIGHT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Sightseeing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V123" name="Q494RMOUNT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited a mountain area
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V124" name="Q494ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other outdoors/ nature based
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V125" name="Q495RVISIT" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Visited friends/ family
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V126" name="Q495RWEDD" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Weddings funerals/ christening/ initiation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V127" name="Q495ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other social activity
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V128" name="Q496RCONF" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Religious conference
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V129" name="Q496RWRSHP" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Place of worship
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V130" name="Q496ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other religious
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V131" name="Q497RMEDI" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Medical
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V132" name="Q497RHLTH" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Health/ wellness
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V133" name="Q497ROTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Other medical
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V134" name="Q410Transp" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Main Transport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V135" name="Q411Accom" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Main accomodation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V136" name="Q412FAME" files="F2" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Family event/ occasion
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V137" name="Q412AIRF" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Cheap airfares
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V138" name="Q412ACCP" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Accommodation promotion
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V139" name="Q412SPORTP" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Participation in sport event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V140" name="Q412SPORTS" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Spectator of a sport event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V141" name="Q412CULTE" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Music/ cultural event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V142" name="Q412BUSN" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Business/ exhibition/ conference
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V143" name="Q412FOOD" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Wine/ food festival
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V144" name="Q412CLUB" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Club meeting/ reunion
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V145" name="Q412RELG" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Religious event
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V146" name="Q412OTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other events
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V147" name="Q413BOOK" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Trip bookings
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Tour operator
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Travel agent
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Booked independently
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          No booking necessary
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Did not make booking myself
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V148" name="Q414METHD" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Method of booking
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Personal visit to travel shop
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Entirely by telephone
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          On the internet
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          through fax/ post
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Don’t know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V149" name="Q415LENGTH" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Period of booking
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V150" name="Q4161PACK" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Package trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V151" name="Q4162COST" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Cost of package trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="999999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          999999
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V152" name="Q4163AIRF" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Airfare Package_item1
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V153" name="Q4163LANDT" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Land transport Package_item2
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V154" name="Q4163ACCM" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Accommodation Package_item3
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V155" name="Q4163FOOD" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food and beverages Package_item4
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V156" name="Q4163RECRE" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Recreation and entertainment Package_item5
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V157" name="Q4163TRAVIN" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Travel insurance Package_item6
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V158" name="Q4163SHOP" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Shopping Package_item7
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V159" name="Q4163OTHR" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other Package_item8
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Don't know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V160" name="Q417AIRFC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Airfare
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V161" name="Q417TRAIN" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Train
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2400"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V162" name="Q417CARC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Car hire
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V163" name="Q417LANDTC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Land transport
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="8000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V164" name="Q417ACCOMC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Accommodation
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="9000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V165" name="Q417FOODC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food and beverages
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="7000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V166" name="Q417RECRC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Recreation/ entertainment
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V167" name="Q417CULTC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Cultural services
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V168" name="Q417MEDIC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Medical expenses
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="3000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V169" name="Q417SHOPC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Shopping
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="13000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V170" name="Q417TOURC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Tour guide
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V171" name="Q417OTHRC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other items while on the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="12667"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V172" name="Q417TOTAL" files="F2" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total spent while on the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          R1- R250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          R251-R500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          R501-R750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          R751-R1000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          R1001-R1250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          R1251-R1500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          R1501-R1750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          R1751-R2000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          R2001-R2250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          R2251-R2500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          R2501-R2750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          R2751- R3000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          R3001-R3250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          R3251-R3500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          R3501-R3750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          R3751-R4000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          R4001-R4250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          R4251-R4500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          19
+        </catValu>
+        <labl>
+          R4501-R4750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          20
+        </catValu>
+        <labl>
+          R4751-R5000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          21
+        </catValu>
+        <labl>
+          R5001-R5250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          22
+        </catValu>
+        <labl>
+          R5251-R5500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          23
+        </catValu>
+        <labl>
+          R5501-R5750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          24
+        </catValu>
+        <labl>
+          R5751-R6000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          25
+        </catValu>
+        <labl>
+          R6001-R6250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          26
+        </catValu>
+        <labl>
+          R6251-R6500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          27
+        </catValu>
+        <labl>
+          R6501-R6750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          28
+        </catValu>
+        <labl>
+          R6751-R7000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          29
+        </catValu>
+        <labl>
+          R7001-R7250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          30
+        </catValu>
+        <labl>
+          R7251-R7500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          31
+        </catValu>
+        <labl>
+          R7501-R7750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          32
+        </catValu>
+        <labl>
+          R7751-R8000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          33
+        </catValu>
+        <labl>
+          R8001-R8250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          34
+        </catValu>
+        <labl>
+          R8251-R8500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          35
+        </catValu>
+        <labl>
+          R8501-R8750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          36
+        </catValu>
+        <labl>
+          R8751-R9000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          37
+        </catValu>
+        <labl>
+          R9001-R9250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          38
+        </catValu>
+        <labl>
+          R9251-R9500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          39
+        </catValu>
+        <labl>
+          R9501-R9750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          40
+        </catValu>
+        <labl>
+          R9751-R10000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          41
+        </catValu>
+        <labl>
+          R10001-R10250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          42
+        </catValu>
+        <labl>
+          R10251-R10500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          43
+        </catValu>
+        <labl>
+          R10501-R10750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          44
+        </catValu>
+        <labl>
+          R10751-R11000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          45
+        </catValu>
+        <labl>
+          R11001-R11250
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          46
+        </catValu>
+        <labl>
+          R11251-R11500
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          47
+        </catValu>
+        <labl>
+          R11501-R11750
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          48
+        </catValu>
+        <labl>
+          R11751-R12000
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          49
+        </catValu>
+        <labl>
+          R12001 or more
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V173" name="Q418FOODC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Food for the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V174" name="Q418GIFTC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Gifts
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V175" name="Q418TRAVIN" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Travel insurance
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V176" name="Q418FINC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other financial services
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="5000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V177" name="Q418VEHC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Servicing the vehicle
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="6000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V178" name="Q418ALARMC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Checking/ servicing alarm systems
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V179" name="Q418SECUC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Hiring security
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="950"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V180" name="Q418SITC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Hiring house sitter
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="1200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V181" name="Q418CLOTHC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Clothing
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="13750"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V182" name="Q418TOILC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Toiletries
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="2200"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V183" name="Q418LUGC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Luggage
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="950"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V184" name="Q418MEDIC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Medical supplies/ inoculations
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="500"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V185" name="Q418ELECC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Electrical appliances
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="10000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V186" name="Q418OTHRC" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Other items before the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="4000"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V187" name="Q418TOTAL" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Total spent before the trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="13975"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V188" name="WEIGHT" files="F2" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Weight
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="50" max="11499"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V189" name="uqno" files="F3" intrvl="discrete">
+      <location width="18" RecSegNo="1"/>
+      <labl>
+        Unique number
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V190" name="personno" files="F3" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Person number
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="26"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V191" name="psuno" files="F3" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Primary sampling unit
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V192" name="prov" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Province
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V193" name="b_nights" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Stayed Nights
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="1"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V194" name="gender" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Gender
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="2"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Male
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Female
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V195" name="d_day" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Day of Birth
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V196" name="d_month" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Month of birth
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V197" name="d_year" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Year of birth
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1900" max="9999"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          9999
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V198" name="d_age" files="F3" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Age
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="109"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V199" name="agegrp" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Age group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="16"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          00-04 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          05-09 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          10-14 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          15-19 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          20-24 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          25-29 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          30-34 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          35-39 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          40-44 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          45-49 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          50-54 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          55-59 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          60-64 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          65-69 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          70-74 years
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          75+ years
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V200" name="race" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Population group
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="4"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          African/Black
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Coloured
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Indian/Asian
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          White
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V201" name="F1_Maritalstatus" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Marital status
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Married
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Living together like husband and wife
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Widow/Widower
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Divorce or separated
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Never married
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V202" name="F2_SPOUSEINHH" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Partner
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V203" name="F3_WHICHSPOUSE" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Spouse number
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V204" name="G_EDUCATION" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Highest Education
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="0" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          0
+        </catValu>
+        <labl>
+          Grade R/00
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Grade 1/ Sub A/Class 1
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Grade 2 / Sub B/Class 2
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Grade 3/Standard 1/ ABET 1(Kha Ri Gude, Sanli)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Grade 4/ Standard 2
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Grade 5/ Standard 3/ ABET 2
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Grade 6/Standard 4
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Grade 7/Standard 5/ ABET 3
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Grade 8/Standard 6/Form 1
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Grade 9/Standard 7/Form 2/ ABET 4
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          Grade 10/ Standard 8/ Form 3
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          Grade 11/ Standard 9/ Form 4
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          Grade 12/Standard 10/Form 5/Matric (No Exemption)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          Grade 12/Standard 10/Form 5/Matric (Exemption *)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          NTC 1/ N1/NC (V) Level 2
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          NTC 2/ N2/ NC (V) Level 3
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          NTC 3/ N3/NC (V)/Level 4
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          N4/NTC 4
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          N5/NTC 5
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          19
+        </catValu>
+        <labl>
+          N6/NTC 6
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          20
+        </catValu>
+        <labl>
+          Certificate with less than Grade 12/Std 10
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          21
+        </catValu>
+        <labl>
+          Diploma with less than Grade 12/Std 10
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          22
+        </catValu>
+        <labl>
+          Certificate with Grade 12/Std 10
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          23
+        </catValu>
+        <labl>
+          Diploma with Grade 12/Std 10
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          24
+        </catValu>
+        <labl>
+          Higher Diploma (Technikon)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          25
+        </catValu>
+        <labl>
+          Post Higher Diploma (Technikon Masters, Doctoral)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          26
+        </catValu>
+        <labl>
+          Bachelors Degree
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          27
+        </catValu>
+        <labl>
+          Bachelors Degree and post-graduate diploma
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          28
+        </catValu>
+        <labl>
+          Honours Degree
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          29
+        </catValu>
+        <labl>
+          Higher degree (Masters, Doctorate)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          30
+        </catValu>
+        <labl>
+          Other
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          31
+        </catValu>
+        <labl>
+          Do not know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          98
+        </catValu>
+        <labl>
+          No schooling
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V205" name="H1_WRKTOURFML" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Formal tourism
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes, full time
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Yes, part time
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V206" name="H2_Areadescrr" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Work description
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Accommodation
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Restaurants and bars
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Passenger transport (e.g. road, rail, air)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Travel agents, tour operators
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Tour guides
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Recreation and entertainment
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Cultural services
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Trading (e.g. ebony and curios)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Other tourism industries
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not Applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V207" name="H3_WRKTOURINFML" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Formal Industry
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes, full time
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Yes, part time
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V208" name="H4_areadescrr" files="F3" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Description
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Accommodation
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Restaurants and bars
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Passenger transport (e.g. road, rail, air)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Travel agents, tour operators
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Tour guides
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          Recreation and entertainment
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Cultural services
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Trading (e.g. ebony and curios)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Other tourism industries
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V209" name="weight" files="F3" dcml="8" intrvl="contin">
+      <location width="14" RecSegNo="1"/>
+      <labl>
+        Weight
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="50" max="11499.6046953"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V210" name="uqno" files="F4" intrvl="discrete">
+      <location width="18" RecSegNo="1"/>
+      <labl>
+        Unique number
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V211" name="psuno" files="F4" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Primary sampling unit
+      </labl>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="character" schema="other"/>
+    </var>
+    <var ID="V212" name="prov" files="F4" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        South African province
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Western Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Eastern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Northern Cape
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Free State
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          KwaZulu-Natal
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          North West
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          Gauteng
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Mpumalanga
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Limpopo
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V213" name="Q11ADAYSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Day trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V214" name="Q11BDAYSAA" files="F4" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Number of trips taken
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V215" name="Q12AOVERNSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Overnight Trips
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V216" name="Q12BOVERNSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Overnight trips inside
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V217" name="Q13WHYNODAY" files="F4" dcml="0" intrvl="discrete">
+      <location width="59" RecSegNo="1"/>
+      <labl>
+        Why not take day trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Financial reasons (not enough money)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Recently made a major purchase e.g bought a car
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Too expensive/ I would rather spend money on something else
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Not enough time to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Too busy at work/ school
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          No transport
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          No family/friends to visit somewhere else
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Nobody to travel with
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Language difficulties/don’t speak the language
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          Too much hassle to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          Sick
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          Disabled
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          Too old to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Worried about health issues at the destination
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          Worried about safety/security/crime
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          Have young children
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          No longer wish to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          No interest/nothing to see or do that appeals to me
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          19
+        </catValu>
+        <labl>
+          No particular reason
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          20
+        </catValu>
+        <labl>
+          Other
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V218" name="Q14WHYNOOVN" files="F4" dcml="0" intrvl="discrete">
+      <location width="59" RecSegNo="1"/>
+      <labl>
+        Why not take overnight trip
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Financial reasons (not enough money)
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          Recently made a major purchase e.g bought a car
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Too expensive/ I would rather spend money on something else
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          4
+        </catValu>
+        <labl>
+          Not enough time to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          5
+        </catValu>
+        <labl>
+          Too busy at work/ school
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          6
+        </catValu>
+        <labl>
+          No transport
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          7
+        </catValu>
+        <labl>
+          No family/friends to visit somewhere else
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          8
+        </catValu>
+        <labl>
+          Nobody to travel with
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Language difficulties/don’t speak the language
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          10
+        </catValu>
+        <labl>
+          Too much hassle to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          11
+        </catValu>
+        <labl>
+          Sick
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          12
+        </catValu>
+        <labl>
+          Disabled
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          13
+        </catValu>
+        <labl>
+          Too old to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          14
+        </catValu>
+        <labl>
+          Worried about health issues at the destination
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          15
+        </catValu>
+        <labl>
+          Worried about safety/security/crime
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          16
+        </catValu>
+        <labl>
+          Have young children
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          17
+        </catValu>
+        <labl>
+          No longer wish to travel
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          18
+        </catValu>
+        <labl>
+          No interest/nothing to see or do that appeals to me
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          19
+        </catValu>
+        <labl>
+          Do not like sleeping in other places
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          20
+        </catValu>
+        <labl>
+          No particular reason
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          21
+        </catValu>
+        <labl>
+          Other
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V219" name="Q15ATRIP" files="F4" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Daytrips
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Do not know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V220" name="Q15BINSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="14" RecSegNo="1"/>
+      <labl>
+        Number of days spent
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V221" name="Q16ADAYNSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="11" RecSegNo="1"/>
+      <labl>
+        Trip inside country
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="9"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          1
+        </catValu>
+        <labl>
+          Yes
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          2
+        </catValu>
+        <labl>
+          No
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          3
+        </catValu>
+        <labl>
+          Do not know
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          9
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V222" name="Q16BDAYNSA" files="F4" dcml="0" intrvl="discrete">
+      <location width="14" RecSegNo="1"/>
+      <labl>
+        Overnight trip inside
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="1" max="99"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <catgry>
+        <catValu>
+          88
+        </catValu>
+        <labl>
+          Not applicable
+        </labl>
+      </catgry>
+      <catgry>
+        <catValu>
+          99
+        </catValu>
+        <labl>
+          Unspecified
+        </labl>
+      </catgry>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+    <var ID="V223" name="WEIGHT" files="F4" dcml="0" intrvl="contin">
+      <location width="8" RecSegNo="1"/>
+      <labl>
+        Weight
+      </labl>
+      <valrng>
+        <range UNITS="REAL" min="50" max="11499"/>
+      </valrng>
+      <sumStat type="vald">
+        0
+      </sumStat>
+      <sumStat type="invd">
+        0
+      </sumStat>
+      <varFormat type="numeric" schema="other"/>
+    </var>
+  </dataDscr>
+</codeBook>

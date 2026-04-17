@@ -1,0 +1,6725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codeBook version="1.2.2" ID="zaf-statssa-cs-2007-v1.2" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+<docDscr>
+  <citation>
+    <titlStmt>
+      <IDNo></IDNo>
+    </titlStmt>
+    <prodStmt>
+      <producer abbr="" affiliation="" role="Metadata producer ">DataFirst</producer>
+      <producer abbr="" affiliation="" role=""></producer>
+      <prodDate date="2020-04-01">2020-04-01</prodDate>
+      <software version="v5">NADA</software>
+    </prodStmt>
+    <verStmt>
+      <version>Version 4</version>
+    </verStmt>
+  </citation>
+</docDscr>
+<stdyDscr>
+  <citation>
+    <titlStmt>
+      <titl>Community Survey 2007</titl>
+      <subTitl/>
+      <altTitl>CS 2007</altTitl>
+      <parTitl/>
+      <IDNo>zaf-statssa-cs-2007-v1.2</IDNo>
+    </titlStmt>
+    <rspStmt>
+      <AuthEnty affiliation="Government of South Africa">Statistics South Africa</AuthEnty>
+    </rspStmt>
+    <prodStmt>
+      <copyright/>
+      <software version="5.0" date="2021-07-18">NADA</software>
+      <fundAg abbr="" role="">The Government of South Africa</fundAg>
+      <grantNo/>
+    </prodStmt>
+    <distStmt>
+      <contact affiliation="University of Cape Town" URI="http://support.data1st.org/" email="support@data1st.org">DataFirst Helpdesk</contact>
+      <depDate date=""/>
+      <distDate date=""/>
+    </distStmt>
+    <serStmt>
+      <serName/>
+      <serInfo>Statistics South Africa. Community Survey 2007 [dataset]. Version 1.2. Pretoria: Statistics South Africa [producer], 2008. Cape Town: DataFirst [distributor], 2010. DOI: https://doi.org/10.25828/0nqv-ns26</serInfo>
+    </serStmt>
+    <verStmt>
+      <version date="2011">v1.2: Edited, anonymised dataset for licensed distribution.</version>
+      <verResp/>
+      <notes>Version 1 of the Community Survey 2007 dataset did not include fertility and mortality data (from sections F and I of the questionnaire respectively).
+This version, version 1.1, downloaded from Statistics South Africa's website on 17 october 2011, includes fertility and mortality data. The metadata file provided with this version is the metadata supplied with version 1 and therefore does not cover the fertility and mortality data.
+
+Geography variables, provided in a separate data file in version 1 of the dataset, but were included in the "Person", "Household"  and "Mortality" files of version 1.1 of the dataset. 
+
+This version, version 1.2 includesthe changes made in version 1.1. However, the variables in version 1.1 were strings and in version 1.2 these have now been converted to numeric variables for ease of use.</notes>
+    </verStmt>
+    <biblCit format=""/>
+    <notes/>
+  </citation>
+  <stdyInfo>
+    <studyBudget/>
+    <subject>
+      <keyword vocab="" vocabURI="">demography</keyword>
+      <keyword vocab="" vocabURI="">marriage</keyword>
+      <keyword vocab="" vocabURI="">migration</keyword>
+      <keyword vocab="" vocabURI="">disability</keyword>
+      <keyword vocab="" vocabURI="">social grant</keyword>
+      <keyword vocab="" vocabURI="">schooling</keyword>
+      <keyword vocab="" vocabURI="">education</keyword>
+      <keyword vocab="" vocabURI="">employment</keyword>
+      <keyword vocab="" vocabURI="">unemployment</keyword>
+      <keyword vocab="" vocabURI="">business</keyword>
+      <keyword vocab="" vocabURI="">informal sector</keyword>
+      <keyword vocab="" vocabURI="">job search</keyword>
+      <keyword vocab="" vocabURI="">occupation</keyword>
+      <keyword vocab="" vocabURI="">industry</keyword>
+      <keyword vocab="" vocabURI="">childbirth</keyword>
+      <keyword vocab="" vocabURI="">fertility</keyword>
+      <keyword vocab="" vocabURI="">mortality</keyword>
+      <keyword vocab="" vocabURI="">income</keyword>
+      <keyword vocab="" vocabURI="">sanitation</keyword>
+      <keyword vocab="" vocabURI="">energy</keyword>
+      <keyword vocab="" vocabURI="">tenure</keyword>
+      <keyword vocab="" vocabURI="">services</keyword>
+      <keyword vocab="" vocabURI="">household</keyword>
+    </subject>
+    <abstract>The Community Survey (CS) is a nationally representative, large-scale household survey which was conducted from February to March 2007. The Community Survey is designed to provide information on  the extent of poor households in South Africa, and their access to services, and  levels of unemployment, at national, provincial and municipal levels. 
+
+The main objectives of the survey were: 
+1. To fill data gaps from the absence of a national population census in 2006
+2. To provide estimates at lower geographical levels than existing household surveys
+3. To build capacities for conducting Census 2011
+4. To provide inputs to the mid-year population projections.</abstract>
+    <sumDscr>
+      <collDate date="2007-02" event="start" cycle=""/>
+      <collDate date="2007-03" event="end" cycle=""/>
+      <nation abbr="">South Africa</nation>
+      <geogCover>The survey covered the whole of South Africa, including all nine provinces as well as the four settlement types - urban-formal, urban-informal, rural-formal (commercial farms) and rural-informal (tribal areas).</geogCover>
+      <geogUnit>The lowest level of geographic aggregation of the data is local municipality</geogUnit>
+      <anlyUnit>Households</anlyUnit>
+      <universe>The Community Survey covered all de jure household members (usual residents) in South Africa.  The survey excluded collective living quarters (institutions) and some households in EAs classified as recreational areas or institutions. However, an approximation of the out-of-scope population was made from the 2001 Census and added to the final estimates of the CS 2007 results.</universe>
+      <dataKind>Sample survey data</dataKind>
+    </sumDscr>
+    <!-- qualityStatement - ddi2.5 - complex type
+     
+     This structure consists of two parts, standardsCompliance and otherQualityStatements. 
+     In standardsCompliance list all specific standards complied with during the execution of this 
+     study. Note the standard name and producer and how the study complied with the standard. 
+     Enter any additional quality statements in otherQualityStatements.
+     
+     -->
+    <qualityStatement>
+      <standardsCompliance>
+        <standard>
+          <standardName/>
+          <producer/>
+        </standard>
+        <complianceDescription/>
+      </standardsCompliance>
+      <otherQualityStatement/>
+    </qualityStatement>
+    <notes>The scope of the Community Survey (CS) includes:
+
+Demographic characteristics (age and sex, population group, fertility, mortality), migration, economic activity, geographical distribution, marital status, disability, education, household good, access to services (social security services, housing, water, energy, sanitation, communication services, refuse removal)</notes>
+    <!-- exPostEvaluation ddi2.5
+      Use this section to describe evaluation procedures not address in data evaluation processes. 
+      These may include issues such as timing of the study, sequencing issues, cost/budget issues, 
+      relevance, instituional or legal arrangments etc. of the study. 
+      
+      The completionDate attribute holds the date the evaluation was completed. 
+      The type attribute is an optional type to identify the type of evaluation with or without 
+      the use of a controlled vocabulary.
+    -->
+    <exPostEvaluation completionDate="" type="">
+      <evaluationProcess/>
+      <outcomes/>
+    </exPostEvaluation>
+  </stdyInfo>
+  <method>
+    <dataColl>
+      <timeMeth/>
+      <dataCollector abbr="SSA" affiliation="">Statistics South Africa</dataCollector>
+      <!-- collectorTraining - DDI2.5
+        
+        Collector Training
+
+        Describes the training provided to data collectors including internviewer training, process testing, 
+        compliance with standards etc. This is repeatable for language and to capture different aspects of the 
+        training process. The type attribute allows specification of the type of training being described.
+        
+        -->
+      <collectorTraining type=""/>
+      <frequenc/>
+      <sampProc>Sample Design
+
+The sampling procedure that was adopted for the CS was a two-stage stratified random sampling process.  Stage one involved the selection of enumeration areas, and stage tw0 was the selection of dwelling units. Since the data are required for each local municipality, each municipality was considered as an explicit stratum. The stratification is done for those municipalities classified as category B municipalities (local municipalities) and category A municipalities (metropolitan areas) as proclaimed at the time of Census 2001. However, the newly proclaimed boundaries as well as any other higher level of geography such as province or district municipality, were considered as any other domain variable based on their link to the smallest geographic unit - the enumeration area.
+
+ The Frame
+ 
+The Census 2001 enumeration areas were used because they give a full geographic coverage of the country without any overlap. Although changes in settlement type, growth or movement of people have occurred, the enumeration areas assisted in getting a spatial comparison over time. Out of 80 787 enumeration areas countrywide, 79 466 were considered in the frame. A total of 1 321 enumeration areas were excluded (919 covering institutions and 402 recreational areas).
+On the second level, the listing exercise yielded the dwelling frame which facilitated the selection of dwellings to be visited. The dwelling unit is a structure or part of a structure or group of structures occupied or meant to be occupied by one or more households. Some of these structures may be vacant and/or under construction, but can be lived in at the time of the survey. A dwelling unit may also be within collective
+living quarters where applicable (examples of each are a house, a group of huts, a flat, hostels, etc.).   
+The Community Survey universe at the second-level frame is dependent on whether the different structures are classified as dwelling units (DUs) or not. Structures where people stay/live were listed and classified as dwelling units. However, there are special cases of collective living quarters that were also included in the CS frame. These are religious institutions such as convents or monasteries, and guesthouses where people stay for an extended period (more than a month). Student residences - based on how long people have stayed (more than a month) - and old-age homes not similar to hospitals (where people are living in a communal set-up) were treated the same as hostels, thereby listing either the bed or room. In addition, any other family staying in separate quarters within the premises of an institution (like wardens' quarters, military family quarters, teachers' quarters and medical staff quarters) were considered as part of the CS frame. The inclusion of such group quarters in the frame is based on the living circumstances within these structures. Members are independent of each other with the exception that they sleep under one roof. 
+The remaining group quarters were excluded from the CS frame because they are difficult to access and have no stable composition. Excluded dwelling types were prisons, hotels, hospitals, military barracks, etc. This is in addition to the exclusion on first level of the enumeration areas (EAs) classified as institutions (military bases) or recreational areas (national parks).
+
+
+The Selection of Enumeration Areas (EAs)
+
+The EAs within each municipality were ordered by geographic type and EA type. The selection was done by using systematic random sampling. The criteria used were as follows:
+In municipalities with fewer than 30 EAs, all EAs were automatically selected.
+In municipalities with 30 or more EAs, the sample selection used a fixed proportion of 19% of all sampled EAs. However, if the selected EAs in a municipality were less than 30 EAs, the sample in the municipality was increased to 30 EAs.
+
+
+The Selection of Dwelling Units
+
+The second level of the frame required a full re-listing of dwelling units. The listing exercise was undertaken before the selection of DUs. The adopted listing methodology ensured that the listing route was determined by the lister. Thisapproach facilitated the serpentine selection of dwelling units. The listing exercise provided a complete list of dwelling units in the selected EAs. Only those structures that were classified as dwelling units were considered for selection, whether vacant or occupied. This exercise yielded a total of 2 511 314 dwelling units. The selection of the dwelling units was also based on a fixed proportion of 10% of the total listed dwellings in an EA. A constraint was imposed on small-size EAs where, if the listed dwelling units were less than 10 dwellings, the selection was increased to 10 dwelling units. All households within the selected dwelling units were covered. There was no replacement of refusals, vacant dwellings or non-contacts owing to
+their impact on the probability of selection.</sampProc>
+      <sampleFrame>
+        <sampleFrameName/>
+        <custodian/>
+        <universe/>
+        <frameUnit isPrimary="">
+          <unitType numberOfUnits=""/>
+        </frameUnit>
+        <updateProcedure/>
+      </sampleFrame>
+      <deviat/>
+      <collMode>Face-to-face [f2f]</collMode>
+      <resInstru>Questionnaire Design
+The design of the CS questionnaire was household-based and intended to collect information on 10 people. It was developed in line with the household-based survey questionnaires conducted by Stats SA. The questions were based on the data items generated out of the consultation process described above. Both the design and questionnaire layout were pre-tested in October 2005 and adjustments were made
+for the pilot in February 2006. Further adjustments were done after the pilot results had been finalised.</resInstru>
+      <!-- instrumentDevelopment - DDI2.5             
+        Describe any development work on the data collection instrument. Type attribute allows for the optional use of a defined development type with or without use of a controlled vocabulary.
+        -->
+      <instrumentDevelopment type=""/>
+      <collSitu>The main objective of enumeration is to collect and document particulars of all individuals and housing units with the selected respondent(s).
+The adopted enumeration method for CS 2007 was canvassing, whereby the enumerator conducts a face-to-face interview with the respondent while simultaneously completing the questionnaire. The Community Survey adopted both the de jure and de facto approach in order to compare with other Stats SA social statistics definitions as well as to give a comparison over time between the censuses with the ultimate objective of having two estimates of the population – the de jure population estimates are mostly useful for long-term planning, and the de facto
+population estimates are mostly used for demographic estimations. 
+
+Enumerators visited the selected sampled dwelling units to interview households and ensure that the information required from them was captured on the questionnaires. Self-enumeration was not allowed. The enumeration was carried out over a three week period with a non-response follow-up period of one week as planned, that is on 7 February 2007. The mop-up exercise was carried out from 1 to 7 March. This
+included follow-up on non-contacts, vacant dwellings, and unoccupied dwellings. However, due to the high number of dwelling units that were being mapped for the non- response follow-up period, the contracts of enumerators were extended beyond 28 February to assist the supervisors during that period. 
+
+Quality Assurance
+
+The FWS and FWC conducted 100% quality checks for accuracy and completeness on all completed questionnaires. In addition, the DSCs, PSCs and Monitors also did quality checks on randomly selected questionnaires and DUs and addressed problematic questions as they came up. In addition, the FWC did 2% spot checks of selected dwelling units within their assigned fieldwork coordination unit to minimise
+bogus enumeration. Training played a big role in ensuring good quality data from the field. At district level, retraining was done in areas where fieldwork monitors felt that the work was not of the expected quality. A close watch was also kept on individual enumerators, and Fieldwork Supervisors and Fieldwork Coordinators who had problems performing according to expectations were retrained where necessary. Their work was also checked more frequently.
+
+FWS were required to package questionnaires in their EA boxes and hand them over to the FWCs soon after the completion of the EA. The FWCs were required to sign for the receipt of the boxes after verifying the contents of the boxes. They were in turn required to hand over the completed boxes to the DLOs for reverse logistics. DLOs were also required to sign for the receipt of the boxes after verifying the contents of the boxes. The boxes were then stored in designed storage areas awaiting shipping back to the data processing centre in Pretoria.
+
+Progress reporting for data collection was done on a daily basis. Provinces were provided with procedures and timelines for progress reporting and were able to report progress on a daily basis though at the initial stages, there were problems as outlined below.
+
+The Pilot Survey
+
+A pilot survey was conducted in February 2006. The purpose of the pilot was to test all the developed strategies, methodologies, systems, and the questionnaire. A total of 782 EAs were covered in the pilot survey.  During the pilot survey the effectiveness of instruments, processes and methods used within the scope of the CS were tested. A range of lessons were learnt which led to the refinement of processes, methods and systems towards the main survey.</collSitu>
+      <actMin/>
+      <ConOps/>
+      <weight>The Community Survey sample has equal probabilities for all elements in the cluster which make it a self-weighting systematic random sample. Since the sample is stratified by municipalities as demarcated at the time of Census 2001, the inclusion probability of selection of an EA at the first level of selection, and the dwelling unit at the second level of selection, is the product of first and second-level probabilities. Also, since all households within the dwelling unit are considered, their probability of being in the dwelling unit is always one.</weight>
+      <cleanOps/>
+    </dataColl>
+    <notes/>
+    <anlyInfo>
+      <respRate/>
+      <EstSmpErr/>
+      <dataAppr>The Community Survey results were released on 24 October 2007. After the evaluation of the data by the Stats Council, the Community Survey was found to be comparable in many aspects with other Stats SA surveys, censuses and other external sources. However, there are some areas of concern where Statistics South Africa is urging users to be more cautious when using the Community Survey data. 
+
+The main concerns are:
+
+·The institutional population is merely an approximation to 2001 numbers and it is not new data.
+·The measure of unemployment in the Community Survey is higher and less reliable due to the differences in questions asked relative to the normal Labour Force Surveys.
+·The income includes unreasonably high income for children due to presumably misinterpretation of the question, e.g. listing parent's income for the child.
+·The distribution of households by province has very little congruence with the General Household Survey or Census 2001.
+·The interpretation of grants or those receiving grants need to be done with caution.
+·Since the Community Survey is based on random sample and not a Census, any interpretation should be understood to have some random fluctuation in data, particularly concerning the small population for some cells. The user should understand that the figures are within a certain interval of confidence.
+
+Users should be aware of these statements as part of the cautionary notes:
+
+·The household estimates at municipal level differ slightly from the national and provincial estimates in terms of the household variables profile;
+·The Community Survey has considered as an add-on an approximation of population in areas not covered by the survey, such as institutions and recreational areas. This approximation of people could not provide the number of those households (i.e. institutions). Thus, there is no household record for those people approximated as living out of CS scope;
+·Any cross-tabulation giving small numbers at municipal level should be interpreted with caution such as taking small value in given table's cell as likely over or under estimation of the true population; 
+·No reliance should be placed on numbers for variables broken down at municipal level (i.e. age, population group etc.). However, the aggregated total number per municipality provides more reliable estimates;
+
+·Usually a zero total figure (excluding those in institutions) reflects the fact that no sample was realised and in such cases this is likely to be a significant underestimate of the true population.
+·As an extension from the above statement, in a number of instances the number realised in the sample, though not zero, was very small (maybe as low as a single individual) and in some cases had to be re-weighted by a very large factor (maximum nearly 800 for housing weight and over 1000 for person weight).
+·As a further consequence, small sub-populations are likely to be heavily over- or under-represented at a household level in the data.
+·It should be noted that the estimates were done with the use of the de-facto population and not the de-jure population. The final presentation of results is presented on the de-jure population.</dataAppr>
+    </anlyInfo>
+    <stdyClas/>
+    <dataProcessing type=""/>
+    <codingInstructions relatedProcesses="" type="">
+      <txt/>
+      <command formalLanguage=""/>
+    </codingInstructions>
+  </method>
+  <dataAccs>
+    <setAvail>
+      <accsPlac URI=""/>
+      <origArch/>
+      <avlStatus/>
+      <collSize/>
+      <complete/>
+      <fileQnty/>
+      <notes/>
+    </setAvail>
+    <useStmt>
+      <restrctn/>
+      <contact affiliation="" URI="http://www.datafirst.uct.ac.za" email="">DataFirst</contact>
+      <citReq>Statistics South Africa. Community Survey 2007 [dataset]. Version 1.2. Pretoria: Statistics South Africa [producer], 2008. Cape Town: DataFirst [distributor], 2010. DOI: https://doi.org/10.25828/0nqv-ns26</citReq>
+      <deposReq/>
+      <conditions>Public use files, available to all</conditions>
+      <disclaimer/>
+    </useStmt>
+    <notes/>
+  </dataAccs>
+  <notes/>
+</stdyDscr>
+<fileDscr ID="F1">
+  <fileTxt>
+    <fileName>CS 2007 Housing Imputation Flags_v1</fileName>
+    <fileCont>Imputation flags for the Housing file</fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>21</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<fileDscr ID="F2">
+  <fileTxt>
+    <fileName>CS 2007 Person Imputation Flags_v1</fileName>
+    <fileCont>Imputation flags for the Person file</fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>27</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<fileDscr ID="F3">
+  <fileTxt>
+    <fileName>CS 2007 Housing_v1.2_20111206</fileName>
+    <fileCont>The housing file contains data related to section H of the questionnaire, dealing with housing and household services</fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>29</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<fileDscr ID="F4">
+  <fileTxt>
+    <fileName>CS 2007_Mortality_v1.2_20111206</fileName>
+    <fileCont>The Mortality file contains data related to section I of the questionnaire.</fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>15</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<fileDscr ID="F5">
+  <fileTxt>
+    <fileName>CS 2007_Persons_v1.2_20111206</fileName>
+    <fileCont>The Persons file contains data related to section A, B, C, D, E, F and G of the questionnaire.  This includes data on demographics, migration, disability and social grants, education, employment and economic activities and parental survival and income.</fileCont>
+    <dimensns>
+      <caseQnty>0</caseQnty>
+      <varQnty>57</varQnty>
+    </dimensns>
+    <dataChck></dataChck>
+    <dataMsng></dataMsng>
+    <verStmt>
+      <version></version>
+    </verStmt>
+  </fileTxt>
+  <notes></notes>
+</fileDscr>
+<dataDscr>
+<var ID="V1" name="sn" files="F1" intrvl="contin">
+  <labl>Unique household identifier</labl>
+  <imputation>Unique household identifier</imputation>
+  <security>Unique household identifier</security>
+  <embargo>Unique household identifier</embargo>
+  <respUnit>Unique household identifier</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V2" name="scope_status" files="F1" intrvl="discrete">
+  <labl>Scope status of survey</labl>
+  <imputation>Scope status of survey</imputation>
+  <security>Scope status of survey</security>
+  <embargo>Scope status of survey</embargo>
+  <respUnit>Scope status of survey</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>Out of scope</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Information collected by sample</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V3" name="fh01" files="F1" intrvl="discrete">
+  <labl>Type of main dwelling</labl>
+  <imputation>Type of main dwelling</imputation>
+  <security>Type of main dwelling</security>
+  <embargo>Type of main dwelling</embargo>
+  <respUnit>Type of main dwelling</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V4" name="fh02" files="F1" intrvl="discrete">
+  <labl>Rooms</labl>
+  <imputation>Rooms</imputation>
+  <security>Rooms</security>
+  <embargo>Rooms</embargo>
+  <respUnit>Rooms</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V5" name="fh03" files="F1" intrvl="discrete">
+  <labl>Access to water</labl>
+  <imputation>Access to water</imputation>
+  <security>Access to water</security>
+  <embargo>Access to water</embargo>
+  <respUnit>Access to water</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V6" name="fh04" files="F1" intrvl="discrete">
+  <labl>Service provider</labl>
+  <imputation>Service provider</imputation>
+  <security>Service provider</security>
+  <embargo>Service provider</embargo>
+  <respUnit>Service provider</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V7" name="fh05" files="F1" intrvl="discrete">
+  <labl>Distance from water access point</labl>
+  <imputation>Distance from water access point</imputation>
+  <security>Distance from water access point</security>
+  <embargo>Distance from water access point</embargo>
+  <respUnit>Distance from water access point</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V8" name="fh06" files="F1" intrvl="discrete">
+  <labl>Toilet facilities</labl>
+  <imputation>Toilet facilities</imputation>
+  <security>Toilet facilities</security>
+  <embargo>Toilet facilities</embargo>
+  <respUnit>Toilet facilities</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V9" name="fh07" files="F1" intrvl="discrete">
+  <labl>Energy/Fuel used for cooking</labl>
+  <imputation>Energy/Fuel used for cooking</imputation>
+  <security>Energy/Fuel used for cooking</security>
+  <embargo>Energy/Fuel used for cooking</embargo>
+  <respUnit>Energy/Fuel used for cooking</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V10" name="fh08" files="F1" intrvl="discrete">
+  <labl>Energy/Fuel used for heating</labl>
+  <imputation>Energy/Fuel used for heating</imputation>
+  <security>Energy/Fuel used for heating</security>
+  <embargo>Energy/Fuel used for heating</embargo>
+  <respUnit>Energy/Fuel used for heating</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V11" name="fh09" files="F1" intrvl="discrete">
+  <labl>Energy/Fuel used for lighting</labl>
+  <imputation>Energy/Fuel used for lighting</imputation>
+  <security>Energy/Fuel used for lighting</security>
+  <embargo>Energy/Fuel used for lighting</embargo>
+  <respUnit>Energy/Fuel used for lighting</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V12" name="fh10a" files="F1" intrvl="discrete">
+  <labl>Household goods: Refrigerator</labl>
+  <imputation>Household goods: Refrigerator</imputation>
+  <security>Household goods: Refrigerator</security>
+  <embargo>Household goods: Refrigerator</embargo>
+  <respUnit>Household goods: Refrigerator</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V13" name="fh10b" files="F1" intrvl="discrete">
+  <labl>Household goods: Radio</labl>
+  <imputation>Household goods: Radio</imputation>
+  <security>Household goods: Radio</security>
+  <embargo>Household goods: Radio</embargo>
+  <respUnit>Household goods: Radio</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V14" name="fh10d" files="F1" intrvl="discrete">
+  <labl>Household goods: Television</labl>
+  <imputation>Household goods: Television</imputation>
+  <security>Household goods: Television</security>
+  <embargo>Household goods: Television</embargo>
+  <respUnit>Household goods: Television</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V15" name="fh10c" files="F1" intrvl="discrete">
+  <labl>Household goods: Computer</labl>
+  <imputation>Household goods: Computer</imputation>
+  <security>Household goods: Computer</security>
+  <embargo>Household goods: Computer</embargo>
+  <respUnit>Household goods: Computer</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V16" name="fh10e" files="F1" intrvl="discrete">
+  <labl>Household goods: Telephone</labl>
+  <imputation>Household goods: Telephone</imputation>
+  <security>Household goods: Telephone</security>
+  <embargo>Household goods: Telephone</embargo>
+  <respUnit>Household goods: Telephone</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V17" name="fh10f" files="F1" intrvl="discrete">
+  <labl>Household goods: Internet facilities</labl>
+  <imputation>Household goods: Internet facilities</imputation>
+  <security>Household goods: Internet facilities</security>
+  <embargo>Household goods: Internet facilities</embargo>
+  <respUnit>Household goods: Internet facilities</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V18" name="fh10g" files="F1" intrvl="discrete">
+  <labl>Household goods: Post facilities</labl>
+  <imputation>Household goods: Post facilities</imputation>
+  <security>Household goods: Post facilities</security>
+  <embargo>Household goods: Post facilities</embargo>
+  <respUnit>Household goods: Post facilities</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V19" name="fh10h" files="F1" intrvl="discrete">
+  <labl>Household goods: Cell phone</labl>
+  <imputation>Household goods: Cell phone</imputation>
+  <security>Household goods: Cell phone</security>
+  <embargo>Household goods: Cell phone</embargo>
+  <respUnit>Household goods: Cell phone</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V20" name="fh11" files="F1" intrvl="discrete">
+  <labl>Tenure status</labl>
+  <imputation>Tenure status</imputation>
+  <security>Tenure status</security>
+  <embargo>Tenure status</embargo>
+  <respUnit>Tenure status</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V21" name="fh12" files="F1" intrvl="discrete">
+  <labl>Refuse disposal</labl>
+  <imputation>Refuse disposal</imputation>
+  <security>Refuse disposal</security>
+  <embargo>Refuse disposal</embargo>
+  <respUnit>Refuse disposal</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V22" name="sn" files="F2" intrvl="contin">
+  <labl>Unique household identifier</labl>
+  <imputation>Unique household identifier</imputation>
+  <security>Unique household identifier</security>
+  <embargo>Unique household identifier</embargo>
+  <respUnit>Unique household identifier</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V23" name="scope_status" files="F2" intrvl="discrete">
+  <labl>Scope status of survey</labl>
+  <imputation>Scope status of survey</imputation>
+  <security>Scope status of survey</security>
+  <embargo>Scope status of survey</embargo>
+  <respUnit>Scope status of survey</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>Out of scope</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Information collected by sample</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V24" name="p01_pers_num" files="F2" intrvl="contin">
+  <labl>Person number</labl>
+  <imputation>Person number</imputation>
+  <security>Person number</security>
+  <embargo>Person number</embargo>
+  <respUnit>Person number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V25" name="fp03" files="F2" intrvl="discrete">
+  <labl>Age</labl>
+  <imputation>Age</imputation>
+  <security>Age</security>
+  <embargo>Age</embargo>
+  <respUnit>Age</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V26" name="fp04" files="F2" intrvl="discrete">
+  <labl>Sex</labl>
+  <imputation>Sex</imputation>
+  <security>Sex</security>
+  <embargo>Sex</embargo>
+  <respUnit>Sex</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V27" name="fp05" files="F2" intrvl="discrete">
+  <labl>Usually Stay</labl>
+  <imputation>Usually Stay</imputation>
+  <security>Usually Stay</security>
+  <embargo>Usually Stay</embargo>
+  <respUnit>Usually Stay</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V28" name="fp06" files="F2" intrvl="discrete">
+  <labl>Last Night Stay</labl>
+  <imputation>Last Night Stay</imputation>
+  <security>Last Night Stay</security>
+  <embargo>Last Night Stay</embargo>
+  <respUnit>Last Night Stay</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V29" name="fp07" files="F2" intrvl="discrete">
+  <labl>Relationship</labl>
+  <imputation>Relationship</imputation>
+  <security>Relationship</security>
+  <embargo>Relationship</embargo>
+  <respUnit>Relationship</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V30" name="fp08" files="F2" intrvl="discrete">
+  <labl>Marital Status</labl>
+  <imputation>Marital Status</imputation>
+  <security>Marital Status</security>
+  <embargo>Marital Status</embargo>
+  <respUnit>Marital Status</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V31" name="fp10" files="F2" intrvl="discrete">
+  <labl>Population group</labl>
+  <imputation>Population group</imputation>
+  <security>Population group</security>
+  <embargo>Population group</embargo>
+  <respUnit>Population group</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V32" name="fp11" files="F2" intrvl="discrete">
+  <labl>Province of birth</labl>
+  <imputation>Province of birth</imputation>
+  <security>Province of birth</security>
+  <embargo>Province of birth</embargo>
+  <respUnit>Province of birth</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V33" name="fp16" files="F2" intrvl="discrete">
+  <labl>Five years ago</labl>
+  <imputation>Five years ago</imputation>
+  <security>Five years ago</security>
+  <embargo>Five years ago</embargo>
+  <respUnit>Five years ago</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V34" name="fp17b" files="F2" intrvl="discrete">
+  <labl>Period of movement</labl>
+  <imputation>Period of movement</imputation>
+  <security>Period of movement</security>
+  <embargo>Period of movement</embargo>
+  <respUnit>Period of movement</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V35" name="fp18" files="F2" intrvl="discrete">
+  <labl>Province of previous residence</labl>
+  <imputation>Province of previous residence</imputation>
+  <security>Province of previous residence</security>
+  <embargo>Province of previous residence</embargo>
+  <respUnit>Province of previous residence</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V36" name="fp23" files="F2" intrvl="discrete">
+  <labl>Disability Intensity</labl>
+  <imputation>Disability Intensity</imputation>
+  <security>Disability Intensity</security>
+  <embargo>Disability Intensity</embargo>
+  <respUnit>Disability Intensity</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V37" name="fp24" files="F2" intrvl="discrete">
+  <labl>Social grant</labl>
+  <imputation>Social grant</imputation>
+  <security>Social grant</security>
+  <embargo>Social grant</embargo>
+  <respUnit>Social grant</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V38" name="fp26" files="F2" intrvl="discrete">
+  <labl>School Attendance</labl>
+  <imputation>School Attendance</imputation>
+  <security>School Attendance</security>
+  <embargo>School Attendance</embargo>
+  <respUnit>School Attendance</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V39" name="fp27" files="F2" intrvl="discrete">
+  <labl>Educational Institution</labl>
+  <imputation>Educational Institution</imputation>
+  <security>Educational Institution</security>
+  <embargo>Educational Institution</embargo>
+  <respUnit>Educational Institution</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V40" name="fp28" files="F2" intrvl="discrete">
+  <labl>Public or Independent Institution</labl>
+  <imputation>Public or Independent Institution</imputation>
+  <security>Public or Independent Institution</security>
+  <embargo>Public or Independent Institution</embargo>
+  <respUnit>Public or Independent Institution</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V41" name="fp29" files="F2" intrvl="discrete">
+  <labl>Level of Education</labl>
+  <imputation>Level of Education</imputation>
+  <security>Level of Education</security>
+  <embargo>Level of Education</embargo>
+  <respUnit>Level of Education</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V42" name="fp32" files="F2" intrvl="discrete">
+  <labl>Reasons for not working</labl>
+  <imputation>Reasons for not working</imputation>
+  <security>Reasons for not working</security>
+  <embargo>Reasons for not working</embargo>
+  <respUnit>Reasons for not working</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V43" name="fp33" files="F2" intrvl="discrete">
+  <labl>Availability for work</labl>
+  <imputation>Availability for work</imputation>
+  <security>Availability for work</security>
+  <embargo>Availability for work</embargo>
+  <respUnit>Availability for work</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V44" name="fp36" files="F2" intrvl="discrete">
+  <labl>Work Status</labl>
+  <imputation>Work Status</imputation>
+  <security>Work Status</security>
+  <embargo>Work Status</embargo>
+  <respUnit>Work Status</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V45" name="fp37" files="F2" intrvl="discrete">
+  <labl>Business type</labl>
+  <imputation>Business type</imputation>
+  <security>Business type</security>
+  <embargo>Business type</embargo>
+  <respUnit>Business type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V46" name="fp48" files="F2" intrvl="discrete">
+  <labl>Mother alive</labl>
+  <imputation>Mother alive</imputation>
+  <security>Mother alive</security>
+  <embargo>Mother alive</embargo>
+  <respUnit>Mother alive</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V47" name="fp50" files="F2" intrvl="discrete">
+  <labl>Father alive</labl>
+  <imputation>Father alive</imputation>
+  <security>Father alive</security>
+  <embargo>Father alive</embargo>
+  <respUnit>Father alive</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V48" name="fp52" files="F2" intrvl="discrete">
+  <labl>Income category</labl>
+  <imputation>Income category</imputation>
+  <security>Income category</security>
+  <embargo>Income category</embargo>
+  <respUnit>Income category</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>No imputation</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Logical imputation (from blank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Logical imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dynamic imputation (from blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Dynamic imputation (non-blank)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Institutions</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V49" name="SN" files="F3" intrvl="discrete">
+  <labl>Serial number</labl>
+  <imputation>Serial number</imputation>
+  <security>Serial number</security>
+  <embargo>Serial number</embargo>
+  <respUnit>Serial number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V50" name="Scope_Status" files="F3" intrvl="discrete">
+  <labl>Scope status of survey</labl>
+  <imputation>Scope status of survey</imputation>
+  <security>Scope status of survey</security>
+  <embargo>Scope status of survey</embargo>
+  <respUnit>Scope status of survey</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Information collected by sample</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V51" name="H01_Hu" files="F3" intrvl="discrete">
+  <labl>Type of main dwelling</labl>
+  <imputation>Type of main dwelling</imputation>
+  <security>Type of main dwelling</security>
+  <embargo>Type of main dwelling</embargo>
+  <respUnit>Type of main dwelling</respUnit>
+  <qstn>
+    <qstnLit>H-01. Which of the following types best describes the main dwelling unit that this household occupies?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>House or brick structure on a separate stand or yard</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Traditional dwelling/hut/structure made of traditional material</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Flat in block of flats</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Town/cluster/semi-detached house (simplex, duplex, triplex)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>House/flat/room in backyard</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Informal dwelling/shack in backyard</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Informal dwelling/shack NOT in backyard, e.g. in an informal/squatter settlement</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Room/flatlet NOT in backyard but on a shared property</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Caravan or tent</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>Private ship/boat</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>Workers' hostel (bed/room)</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V52" name="H02_Rooms" files="F3" intrvl="discrete">
+  <labl>Number of rooms</labl>
+  <imputation>Number of rooms</imputation>
+  <security>Number of rooms</security>
+  <embargo>Number of rooms</embargo>
+  <respUnit>Number of rooms</respUnit>
+  <qstn>
+    <qstnLit>H-02. How many rooms, including kitchens, are there for this household?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V53" name="H03_Water_Access" files="F3" intrvl="discrete">
+  <labl>Access to water</labl>
+  <imputation>Access to water</imputation>
+  <security>Access to water</security>
+  <embargo>Access to water</embargo>
+  <respUnit>Access to water</respUnit>
+  <qstn>
+    <qstnLit>H-03. In which way does this household obtain WATER for domestic use?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <labl>Other</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Piped water inside the dwelling</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Piped water inside the yard</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Piped water from access point outside the yard</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Borehole</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Spring</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Dam/pool</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>River/stream</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Water vendor</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Rain water tank</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V54" name="H04_Serv_Prov" files="F3" intrvl="discrete">
+  <labl>Service provider for water</labl>
+  <imputation>Service provider for water</imputation>
+  <security>Service provider for water</security>
+  <embargo>Service provider for water</embargo>
+  <respUnit>Service provider for water</respUnit>
+  <qstn>
+    <qstnLit>H-04. Does the household get water from the Municipality (Regional/Local water scheme)?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Do not know</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V55" name="H05_Water_Distance" files="F3" intrvl="discrete">
+  <labl>Distance from water access point</labl>
+  <imputation>Distance from water access point</imputation>
+  <security>Distance from water access point</security>
+  <embargo>Distance from water access point</embargo>
+  <respUnit>Distance from water access point</respUnit>
+  <qstn>
+    <qstnLit>H-05. What is the distance from water access point?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Less than 200m</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Between 200m and 500m</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Between 500m and 1km</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>More than 1km</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V56" name="H06_Toilet_Facil" files="F3" intrvl="discrete">
+  <labl>Toilet facilities</labl>
+  <imputation>Toilet facilities</imputation>
+  <security>Toilet facilities</security>
+  <embargo>Toilet facilities</embargo>
+  <respUnit>Toilet facilities</respUnit>
+  <qstn>
+    <qstnLit>H-06. What is the MAIN type of TOILET facility available for use by this household?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Flush toilet (connected to sewerage system)</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Flush toilet (with septic tank)</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Dry toilet facility</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Pit toilet with ventilation (VIP)</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Pit toilet without ventilation</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Chemical toilet</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Bucket toilet system</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>None</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V57" name="H07_Cooking" files="F3" intrvl="discrete">
+  <labl>Energy/fuel used for cooking</labl>
+  <imputation>Energy/fuel used for cooking</imputation>
+  <security>Energy/fuel used for cooking</security>
+  <embargo>Energy/fuel used for cooking</embargo>
+  <respUnit>Energy/fuel used for cooking</respUnit>
+  <qstn>
+    <qstnLit>H-07. What type of energy/fuel does this household MAINLY use for cooking?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Electricity</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Gas</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Paraffin</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Wood</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Coal</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Animal dung</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Solar</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V58" name="H08_Heating" files="F3" intrvl="discrete">
+  <labl>Energy/fuel used for heating</labl>
+  <imputation>Energy/fuel used for heating</imputation>
+  <security>Energy/fuel used for heating</security>
+  <embargo>Energy/fuel used for heating</embargo>
+  <respUnit>Energy/fuel used for heating</respUnit>
+  <qstn>
+    <qstnLit>H-08. What type of energy/fuel does this household MAINLY use for heating?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Electricity</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Gas</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Paraffin</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Wood</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Coal</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Animal dung</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Solar</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V59" name="H09_Lighting" files="F3" intrvl="discrete">
+  <labl>Energy/fuel used for lighting</labl>
+  <imputation>Energy/fuel used for lighting</imputation>
+  <security>Energy/fuel used for lighting</security>
+  <embargo>Energy/fuel used for lighting</embargo>
+  <respUnit>Energy/fuel used for lighting</respUnit>
+  <qstn>
+    <qstnLit>H-09. What type of energy/fuel does this household MAINLY use for lighting?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Electricity</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Gas</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Paraffin</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Candles</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Solar</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V60" name="H10A_Fridge" files="F3" intrvl="discrete">
+  <labl>Household goods: Refrigerator</labl>
+  <imputation>Household goods: Refrigerator</imputation>
+  <security>Household goods: Refrigerator</security>
+  <embargo>Household goods: Refrigerator</embargo>
+  <respUnit>Household goods: Refrigerator</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+a. Refrigerator</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V61" name="H10B_Radio" files="F3" intrvl="discrete">
+  <labl>Household goods: Radio</labl>
+  <imputation>Household goods: Radio</imputation>
+  <security>Household goods: Radio</security>
+  <embargo>Household goods: Radio</embargo>
+  <respUnit>Household goods: Radio</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+b. Radio</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V62" name="H10D_Computer" files="F3" intrvl="discrete">
+  <labl>Household goods: Computer</labl>
+  <imputation>Household goods: Computer</imputation>
+  <security>Household goods: Computer</security>
+  <embargo>Household goods: Computer</embargo>
+  <respUnit>Household goods: Computer</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+d. Computer</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V63" name="H10C_Television" files="F3" intrvl="discrete">
+  <labl>Household goods: Television</labl>
+  <imputation>Household goods: Television</imputation>
+  <security>Household goods: Television</security>
+  <embargo>Household goods: Television</embargo>
+  <respUnit>Household goods: Television</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+c. Television</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V64" name="H10E_Telephone" files="F3" intrvl="discrete">
+  <labl>Household goods: Telephone</labl>
+  <imputation>Household goods: Telephone</imputation>
+  <security>Household goods: Telephone</security>
+  <embargo>Household goods: Telephone</embargo>
+  <respUnit>Household goods: Telephone</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+e. Landline telephone</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V65" name="H10F_Internet" files="F3" intrvl="discrete">
+  <labl>Household goods: Internet facilities</labl>
+  <imputation>Household goods: Internet facilities</imputation>
+  <security>Household goods: Internet facilities</security>
+  <embargo>Household goods: Internet facilities</embargo>
+  <respUnit>Household goods: Internet facilities</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+f. Internet facilities at home</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V66" name="H10G_Postfacil" files="F3" intrvl="discrete">
+  <labl>Household goods: Post facilities</labl>
+  <imputation>Household goods: Post facilities</imputation>
+  <security>Household goods: Post facilities</security>
+  <embargo>Household goods: Post facilities</embargo>
+  <respUnit>Household goods: Post facilities</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+g. Post facilities (Mail postbox)</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V67" name="H10H_Cell" files="F3" intrvl="discrete">
+  <labl>Household goods: Cell phone</labl>
+  <imputation>Household goods: Cell phone</imputation>
+  <security>Household goods: Cell phone</security>
+  <embargo>Household goods: Cell phone</embargo>
+  <respUnit>Household goods: Cell phone</respUnit>
+  <qstn>
+    <qstnLit>H-10. Does the household have any of the following?
+h. Cellphone</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unspecified</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V68" name="H11_Tenure" files="F3" intrvl="discrete">
+  <labl>Tenure status</labl>
+  <imputation>Tenure status</imputation>
+  <security>Tenure status</security>
+  <embargo>Tenure status</embargo>
+  <respUnit>Tenure status</respUnit>
+  <qstn>
+    <qstnLit>H-11. What is the tenure status of this household?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Owned and fully paid off</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Owned but not yet paid off</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Rented</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Occupied rent-free</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V69" name="H12_Refuse" files="F3" intrvl="discrete">
+  <labl>Refuse disposal</labl>
+  <imputation>Refuse disposal</imputation>
+  <security>Refuse disposal</security>
+  <embargo>Refuse disposal</embargo>
+  <respUnit>Refuse disposal</respUnit>
+  <qstn>
+    <qstnLit>H-12. How is the refuse or rubbish from this household MAINLY disposed of?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Removed by local authority/private company at least once a week</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Removed by local authority/private company less often</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Communal refuse dump</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Own refuse dump</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>No rubbish disposal</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>Other</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V70" name="HHIncome" files="F3" intrvl="discrete">
+  <labl>Annual household income</labl>
+  <imputation>Annual household income</imputation>
+  <security>Annual household income</security>
+  <embargo>Annual household income</embargo>
+  <respUnit>Annual household income</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>No income</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>R1-R4 800</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>R4 801-R9 600</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>R9 601-R19 200</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>R19 201-R38 400</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>R38 401-R76 800</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>R76 801-R153 600</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>R153 601-R307 200</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>R307 201-R614 400</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>R614 401-R1 228 800</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>R1 228 801-R2 457 600</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>R2 457 601 or more</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>Response not given</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V71" name="Weight" files="F3" dcml="6" intrvl="contin">
+  <labl>Weight</labl>
+  <imputation>Weight</imputation>
+  <security>Weight</security>
+  <embargo>Weight</embargo>
+  <respUnit>Weight</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V72" name="Prv2001_Code" files="F3" intrvl="discrete">
+  <labl>Province code: 2001</labl>
+  <imputation>Province code: 2001</imputation>
+  <security>Province code: 2001</security>
+  <embargo>Province code: 2001</embargo>
+  <respUnit>Province code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Western Cape</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Eastern Cape</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Northern Cape</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Free State</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>KwaZulu-Natal</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>North West</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Gauteng</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Mpumalanga</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Limpopo</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V73" name="Prv2005_Code" files="F3" intrvl="discrete">
+  <labl>Province code: 2005</labl>
+  <imputation>Province code: 2005</imputation>
+  <security>Province code: 2005</security>
+  <embargo>Province code: 2005</embargo>
+  <respUnit>Province code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Western Cape</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Eastern Cape</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Northern Cape</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Free State</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>KwaZulu-Natal</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>North West</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>Gauteng</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Mpumalanga</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Limpopo</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V74" name="DC2001_Code" files="F3" intrvl="discrete">
+  <labl>DC code: 2001</labl>
+  <imputation>DC code: 2001</imputation>
+  <security>DC code: 2001</security>
+  <embargo>DC code: 2001</embargo>
+  <respUnit>DC code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>DC1: West Coast District Municipality</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>DC2: Boland District Municipality</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>DC3: Overberg District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>DC4: Eden District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>DC5: Central Karoo District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>DC6: NAMAKWA District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>DC7: KAROO District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>DC8: SIYANDA District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>DC9: FRANCES BAARD District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>DC10: Cacadu District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>DC12: Amatole</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>DC13: Chris Hani District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>14</catValu>
+    <labl>DC14: Ukhahlamba District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>15</catValu>
+    <labl>DC15: O.R.Tambo</labl>
+  </catgry>
+  <catgry>
+    <catValu>16</catValu>
+    <labl>DC16: Xhariep District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>17</catValu>
+    <labl>DC17: Motheo District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>18</catValu>
+    <labl>DC18: Lejweleputswa District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>19</catValu>
+    <labl>DC19: Thabo Mofutsanyane District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>20</catValu>
+    <labl>DC20: Northern Free State District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>21</catValu>
+    <labl>DC21: Ugu District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>22</catValu>
+    <labl>DC22: UMgungundlovu District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>23</catValu>
+    <labl>DC23: Uthukela District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>24</catValu>
+    <labl>DC24: Umzinyathi District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>25</catValu>
+    <labl>DC25: Amajuba District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>26</catValu>
+    <labl>DC26: Zululand District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>27</catValu>
+    <labl>DC27: Umkhanyakude District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>28</catValu>
+    <labl>DC28: Uthungulu District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>29</catValu>
+    <labl>DC29: iLembe District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>30</catValu>
+    <labl>DC30: Govan Mbeki Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>31</catValu>
+    <labl>DC31: Nkangala</labl>
+  </catgry>
+  <catgry>
+    <catValu>32</catValu>
+    <labl>DC32: Ehlanzeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>33</catValu>
+    <labl>DC33: Mopani District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>34</catValu>
+    <labl>DC34: Vhembe District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>35</catValu>
+    <labl>DC35: Capricorn District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>36</catValu>
+    <labl>DC36: Waterberg District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>37</catValu>
+    <labl>DC37: Bojanala District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>38</catValu>
+    <labl>DC38: Central District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>39</catValu>
+    <labl>DC39: Bophirima District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>40</catValu>
+    <labl>DC40: Southern District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>42</catValu>
+    <labl>DC42: Sedibeng District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>43</catValu>
+    <labl>DC43: Sisonke District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>44</catValu>
+    <labl>DC44: Alfred Nzo District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>81</catValu>
+    <labl>CBDC1: KGALAGADI District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>82</catValu>
+    <labl>CBDC2: Metsweding District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>83</catValu>
+    <labl>CBDC3: Sekhukhune Cross Boundary District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>84</catValu>
+    <labl>CBDC4: Bohlabela District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>88</catValu>
+    <labl>CBDC8: West Rand District Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>171</catValu>
+    <labl>Cape Town: City of Cape Town</labl>
+  </catgry>
+  <catgry>
+    <catValu>275</catValu>
+    <labl>Port Elizabeth: Nelson Mandela</labl>
+  </catgry>
+  <catgry>
+    <catValu>572</catValu>
+    <labl>Durban: Ethekwini Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>773</catValu>
+    <labl>East Rand: Ekurhuleni Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>774</catValu>
+    <labl>Johannesburg: City of Johannesburg Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>776</catValu>
+    <labl>Pretoria: City of Tshwane Metropolitan Municipality</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V75" name="DC2005_Code" files="F3" intrvl="discrete">
+  <labl>DC code: 2005</labl>
+  <imputation>DC code: 2005</imputation>
+  <security>DC code: 2005</security>
+  <embargo>DC code: 2005</embargo>
+  <respUnit>DC code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>DC1: West Coast</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>DC2: Cape Winelands</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>DC3: Overberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>DC4: Eden</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>DC5: Central Karoo</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>DC6: Namakwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>DC7: Pixley ka Seme</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>DC8: Siyanda</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>DC9: Frances Baard</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>DC10: Cacadu</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>DC12: Amatole</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>DC13: Chris Hani</labl>
+  </catgry>
+  <catgry>
+    <catValu>14</catValu>
+    <labl>DC14: Ukhahlamba</labl>
+  </catgry>
+  <catgry>
+    <catValu>15</catValu>
+    <labl>DC15: O.R.Tambo</labl>
+  </catgry>
+  <catgry>
+    <catValu>16</catValu>
+    <labl>DC16: Xhariep</labl>
+  </catgry>
+  <catgry>
+    <catValu>17</catValu>
+    <labl>DC17: Motheo</labl>
+  </catgry>
+  <catgry>
+    <catValu>18</catValu>
+    <labl>DC18: Lejweleputswa</labl>
+  </catgry>
+  <catgry>
+    <catValu>19</catValu>
+    <labl>DC19: Thabo Mofutsanyane</labl>
+  </catgry>
+  <catgry>
+    <catValu>20</catValu>
+    <labl>DC20: Fezile Dabi</labl>
+  </catgry>
+  <catgry>
+    <catValu>21</catValu>
+    <labl>DC21: Ugu</labl>
+  </catgry>
+  <catgry>
+    <catValu>22</catValu>
+    <labl>DC22: UMgungundlovu</labl>
+  </catgry>
+  <catgry>
+    <catValu>23</catValu>
+    <labl>DC23: Uthukela</labl>
+  </catgry>
+  <catgry>
+    <catValu>24</catValu>
+    <labl>DC24: Umzinyathi</labl>
+  </catgry>
+  <catgry>
+    <catValu>25</catValu>
+    <labl>DC25: Amajuba</labl>
+  </catgry>
+  <catgry>
+    <catValu>26</catValu>
+    <labl>DC26: Zululand</labl>
+  </catgry>
+  <catgry>
+    <catValu>27</catValu>
+    <labl>DC27: Umkhanyakude</labl>
+  </catgry>
+  <catgry>
+    <catValu>28</catValu>
+    <labl>DC28: Uthungulu</labl>
+  </catgry>
+  <catgry>
+    <catValu>29</catValu>
+    <labl>DC29: iLembe</labl>
+  </catgry>
+  <catgry>
+    <catValu>30</catValu>
+    <labl>DC30: Gert Sibande</labl>
+  </catgry>
+  <catgry>
+    <catValu>31</catValu>
+    <labl>DC31: Nkangala</labl>
+  </catgry>
+  <catgry>
+    <catValu>32</catValu>
+    <labl>DC32: Ehlanzeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>33</catValu>
+    <labl>DC33: Mopani</labl>
+  </catgry>
+  <catgry>
+    <catValu>34</catValu>
+    <labl>DC34: Vhembe</labl>
+  </catgry>
+  <catgry>
+    <catValu>35</catValu>
+    <labl>DC35: Capricorn</labl>
+  </catgry>
+  <catgry>
+    <catValu>36</catValu>
+    <labl>DC36: Waterberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>37</catValu>
+    <labl>DC37: Bojanala</labl>
+  </catgry>
+  <catgry>
+    <catValu>38</catValu>
+    <labl>DC38: Central</labl>
+  </catgry>
+  <catgry>
+    <catValu>39</catValu>
+    <labl>DC39: Bophirima</labl>
+  </catgry>
+  <catgry>
+    <catValu>40</catValu>
+    <labl>DC40: Southern</labl>
+  </catgry>
+  <catgry>
+    <catValu>42</catValu>
+    <labl>DC42: Sedibeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>43</catValu>
+    <labl>DC43: Sisonke</labl>
+  </catgry>
+  <catgry>
+    <catValu>44</catValu>
+    <labl>DC44: Alfred Nzo</labl>
+  </catgry>
+  <catgry>
+    <catValu>45</catValu>
+    <labl>DC45: Kgalagadi</labl>
+  </catgry>
+  <catgry>
+    <catValu>46</catValu>
+    <labl>DC46: Metsweding</labl>
+  </catgry>
+  <catgry>
+    <catValu>47</catValu>
+    <labl>DC47: Greater Sekhukhune</labl>
+  </catgry>
+  <catgry>
+    <catValu>48</catValu>
+    <labl>DC48: West Rand</labl>
+  </catgry>
+  <catgry>
+    <catValu>171</catValu>
+    <labl>CPT: City of Cape Town</labl>
+  </catgry>
+  <catgry>
+    <catValu>275</catValu>
+    <labl>NMA: Nelson Mandela Bay Metro</labl>
+  </catgry>
+  <catgry>
+    <catValu>572</catValu>
+    <labl>ETH: eThekwini</labl>
+  </catgry>
+  <catgry>
+    <catValu>773</catValu>
+    <labl>EKU: Ekurhuleni</labl>
+  </catgry>
+  <catgry>
+    <catValu>774</catValu>
+    <labl>JHB: City of Johannesburg</labl>
+  </catgry>
+  <catgry>
+    <catValu>776</catValu>
+    <labl>TSH: City of Tshwane</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V76" name="Mun2001_Code" files="F3" intrvl="discrete">
+  <labl>Municipality code: 2001</labl>
+  <imputation>Municipality code: 2001</imputation>
+  <security>Municipality code: 2001</security>
+  <embargo>Municipality code: 2001</embargo>
+  <respUnit>Municipality code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>81</catValu>
+    <labl>CBLC1: Ga-Segonyana</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>82</catValu>
+    <labl>CBLC2: Kungwini</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>83</catValu>
+    <labl>CBLC3: Greater Marble Hall</labl>
+  </catgry>
+  <catgry>
+    <catValu>84</catValu>
+    <labl>CBLC4: Greater Groblersdal</labl>
+  </catgry>
+  <catgry>
+    <catValu>85</catValu>
+    <labl>CBLC5: Greater Tubatse</labl>
+  </catgry>
+  <catgry>
+    <catValu>86</catValu>
+    <labl>CBLC6: Bushbuckridge</labl>
+  </catgry>
+  <catgry>
+    <catValu>87</catValu>
+    <labl>CBLC7: Phokwane</labl>
+  </catgry>
+  <catgry>
+    <catValu>88</catValu>
+    <labl>CBLC8: Merafong City</labl>
+  </catgry>
+  <catgry>
+    <catValu>101</catValu>
+    <labl>WC011: Matzikama</labl>
+  </catgry>
+  <catgry>
+    <catValu>102</catValu>
+    <labl>WC012: Cederberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>103</catValu>
+    <labl>WC013: Bergrivier</labl>
+  </catgry>
+  <catgry>
+    <catValu>104</catValu>
+    <labl>WC014: Saldanha Bay</labl>
+  </catgry>
+  <catgry>
+    <catValu>105</catValu>
+    <labl>WC015: Swartland</labl>
+  </catgry>
+  <catgry>
+    <catValu>106</catValu>
+    <labl>WC022: Witzenberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>107</catValu>
+    <labl>WC023: Drakenstein</labl>
+  </catgry>
+  <catgry>
+    <catValu>108</catValu>
+    <labl>WC024: Stellenbosch</labl>
+  </catgry>
+  <catgry>
+    <catValu>109</catValu>
+    <labl>WC025: Breede Valley</labl>
+  </catgry>
+  <catgry>
+    <catValu>110</catValu>
+    <labl>WC026: Breede River/Winelands</labl>
+  </catgry>
+  <catgry>
+    <catValu>111</catValu>
+    <labl>WC031: Theewaterskloof</labl>
+  </catgry>
+  <catgry>
+    <catValu>112</catValu>
+    <labl>WC032: Overstrand</labl>
+  </catgry>
+  <catgry>
+    <catValu>113</catValu>
+    <labl>WC033: Cape Agulhas</labl>
+  </catgry>
+  <catgry>
+    <catValu>114</catValu>
+    <labl>WC034: Swellendam</labl>
+  </catgry>
+  <catgry>
+    <catValu>115</catValu>
+    <labl>WC041: Kannaland</labl>
+  </catgry>
+  <catgry>
+    <catValu>116</catValu>
+    <labl>WC042: Langeberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>117</catValu>
+    <labl>WC043: Mossel Bay</labl>
+  </catgry>
+  <catgry>
+    <catValu>118</catValu>
+    <labl>WC044: George</labl>
+  </catgry>
+  <catgry>
+    <catValu>119</catValu>
+    <labl>WC045: Oudtshoorn</labl>
+  </catgry>
+  <catgry>
+    <catValu>120</catValu>
+    <labl>WC047: Plettenberg Bay</labl>
+  </catgry>
+  <catgry>
+    <catValu>121</catValu>
+    <labl>WC048: Knysna</labl>
+  </catgry>
+  <catgry>
+    <catValu>122</catValu>
+    <labl>WC051: Laingsburg</labl>
+  </catgry>
+  <catgry>
+    <catValu>123</catValu>
+    <labl>WC052: Prince Albert</labl>
+  </catgry>
+  <catgry>
+    <catValu>124</catValu>
+    <labl>WC053: Beaufort West</labl>
+  </catgry>
+  <catgry>
+    <catValu>171</catValu>
+    <labl>Cape Town: City of Cape Town</labl>
+  </catgry>
+  <catgry>
+    <catValu>191</catValu>
+    <labl>WCDMA01: West Coast</labl>
+  </catgry>
+  <catgry>
+    <catValu>192</catValu>
+    <labl>WCDMA02: Breede River</labl>
+  </catgry>
+  <catgry>
+    <catValu>193</catValu>
+    <labl>WCDMA03: Overberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>194</catValu>
+    <labl>WCDMA04: South Cape</labl>
+  </catgry>
+  <catgry>
+    <catValu>195</catValu>
+    <labl>WCDMA05: Central Karoo</labl>
+  </catgry>
+  <catgry>
+    <catValu>201</catValu>
+    <labl>EC101: Camdeboo</labl>
+  </catgry>
+  <catgry>
+    <catValu>202</catValu>
+    <labl>EC102: Blue Crane Route</labl>
+  </catgry>
+  <catgry>
+    <catValu>203</catValu>
+    <labl>EC103: Ikwezi</labl>
+  </catgry>
+  <catgry>
+    <catValu>204</catValu>
+    <labl>EC104: Makana</labl>
+  </catgry>
+  <catgry>
+    <catValu>205</catValu>
+    <labl>EC105: Ndlambe</labl>
+  </catgry>
+  <catgry>
+    <catValu>206</catValu>
+    <labl>EC106: Sunday's River Valley</labl>
+  </catgry>
+  <catgry>
+    <catValu>207</catValu>
+    <labl>EC107: Baviaans</labl>
+  </catgry>
+  <catgry>
+    <catValu>208</catValu>
+    <labl>EC108: Kouga</labl>
+  </catgry>
+  <catgry>
+    <catValu>209</catValu>
+    <labl>EC109: Kou-Kamma</labl>
+  </catgry>
+  <catgry>
+    <catValu>210</catValu>
+    <labl>EC121: Mbhashe</labl>
+  </catgry>
+  <catgry>
+    <catValu>211</catValu>
+    <labl>EC122: Mnquma</labl>
+  </catgry>
+  <catgry>
+    <catValu>212</catValu>
+    <labl>EC123: Great Kei</labl>
+  </catgry>
+  <catgry>
+    <catValu>213</catValu>
+    <labl>EC124: Amahlathi</labl>
+  </catgry>
+  <catgry>
+    <catValu>214</catValu>
+    <labl>EC125: Buffalo City</labl>
+  </catgry>
+  <catgry>
+    <catValu>215</catValu>
+    <labl>EC126: Ngqushwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>216</catValu>
+    <labl>EC127: Nkonkobe</labl>
+  </catgry>
+  <catgry>
+    <catValu>217</catValu>
+    <labl>EC128: Nxuba</labl>
+  </catgry>
+  <catgry>
+    <catValu>218</catValu>
+    <labl>EC131: Inxuba Yethemba</labl>
+  </catgry>
+  <catgry>
+    <catValu>219</catValu>
+    <labl>EC132: Tsolwana</labl>
+  </catgry>
+  <catgry>
+    <catValu>220</catValu>
+    <labl>EC133: Inkwanca</labl>
+  </catgry>
+  <catgry>
+    <catValu>221</catValu>
+    <labl>EC134: Lukanji</labl>
+  </catgry>
+  <catgry>
+    <catValu>222</catValu>
+    <labl>EC135: Intsika Yethu</labl>
+  </catgry>
+  <catgry>
+    <catValu>223</catValu>
+    <labl>EC136: Emalahleni</labl>
+  </catgry>
+  <catgry>
+    <catValu>224</catValu>
+    <labl>EC137: Engcobo</labl>
+  </catgry>
+  <catgry>
+    <catValu>225</catValu>
+    <labl>EC138: Sakhisizwe</labl>
+  </catgry>
+  <catgry>
+    <catValu>226</catValu>
+    <labl>EC141: Elundini</labl>
+  </catgry>
+  <catgry>
+    <catValu>227</catValu>
+    <labl>EC142: Senqu</labl>
+  </catgry>
+  <catgry>
+    <catValu>228</catValu>
+    <labl>EC143: Maletswai</labl>
+  </catgry>
+  <catgry>
+    <catValu>229</catValu>
+    <labl>EC144: Gariep</labl>
+  </catgry>
+  <catgry>
+    <catValu>230</catValu>
+    <labl>EC151: Mbizana</labl>
+  </catgry>
+  <catgry>
+    <catValu>231</catValu>
+    <labl>EC152: Ntabankulu</labl>
+  </catgry>
+  <catgry>
+    <catValu>232</catValu>
+    <labl>EC153: Qaukeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>233</catValu>
+    <labl>EC154: Port St Johns</labl>
+  </catgry>
+  <catgry>
+    <catValu>234</catValu>
+    <labl>EC155: Nyandeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>235</catValu>
+    <labl>EC156: Mhlontlo</labl>
+  </catgry>
+  <catgry>
+    <catValu>236</catValu>
+    <labl>EC157: King Sabata Dalindyebo</labl>
+  </catgry>
+  <catgry>
+    <catValu>237</catValu>
+    <labl>EC05b1: Umzimkhulu</labl>
+  </catgry>
+  <catgry>
+    <catValu>238</catValu>
+    <labl>EC05b2: Umzimvubu</labl>
+  </catgry>
+  <catgry>
+    <catValu>275</catValu>
+    <labl>Port Elizabeth: Nelson Mandela</labl>
+  </catgry>
+  <catgry>
+    <catValu>291</catValu>
+    <labl>ECDMA10: Aberdeen Plain</labl>
+  </catgry>
+  <catgry>
+    <catValu>292</catValu>
+    <labl>ECDMA13: Mountain Zebra National Park</labl>
+  </catgry>
+  <catgry>
+    <catValu>301</catValu>
+    <labl>NC061: Richtersveld</labl>
+  </catgry>
+  <catgry>
+    <catValu>302</catValu>
+    <labl>NC062: Nama Khoi</labl>
+  </catgry>
+  <catgry>
+    <catValu>303</catValu>
+    <labl>NC064: Kamiesberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>304</catValu>
+    <labl>NC065: Hantam</labl>
+  </catgry>
+  <catgry>
+    <catValu>305</catValu>
+    <labl>NC066: Karoo Hoogland</labl>
+  </catgry>
+  <catgry>
+    <catValu>306</catValu>
+    <labl>NC067: Khâi-Ma</labl>
+  </catgry>
+  <catgry>
+    <catValu>307</catValu>
+    <labl>NC071: Ubuntu</labl>
+  </catgry>
+  <catgry>
+    <catValu>308</catValu>
+    <labl>NC072: Umsombomvu</labl>
+  </catgry>
+  <catgry>
+    <catValu>309</catValu>
+    <labl>NC073: Emthanjeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>310</catValu>
+    <labl>NC074: Kareeberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>311</catValu>
+    <labl>NC075: Renosterberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>312</catValu>
+    <labl>NC076: Thembelihle</labl>
+  </catgry>
+  <catgry>
+    <catValu>313</catValu>
+    <labl>NC077: Siyathemba</labl>
+  </catgry>
+  <catgry>
+    <catValu>314</catValu>
+    <labl>NC078: Siyancuma</labl>
+  </catgry>
+  <catgry>
+    <catValu>315</catValu>
+    <labl>NC081: Mier</labl>
+  </catgry>
+  <catgry>
+    <catValu>316</catValu>
+    <labl>NC082: Kai !Garib</labl>
+  </catgry>
+  <catgry>
+    <catValu>317</catValu>
+    <labl>NC083: ||Khara Hais</labl>
+  </catgry>
+  <catgry>
+    <catValu>318</catValu>
+    <labl>NC084: !Kheis</labl>
+  </catgry>
+  <catgry>
+    <catValu>319</catValu>
+    <labl>NC085: Tsantsabane</labl>
+  </catgry>
+  <catgry>
+    <catValu>320</catValu>
+    <labl>NC086: Kgatelopele</labl>
+  </catgry>
+  <catgry>
+    <catValu>321</catValu>
+    <labl>NC091: Sol Plaatje</labl>
+  </catgry>
+  <catgry>
+    <catValu>322</catValu>
+    <labl>NC092: Dikgatlong</labl>
+  </catgry>
+  <catgry>
+    <catValu>323</catValu>
+    <labl>NC093: Magareng</labl>
+  </catgry>
+  <catgry>
+    <catValu>324</catValu>
+    <labl>NC01B1: Gamagara</labl>
+  </catgry>
+  <catgry>
+    <catValu>391</catValu>
+    <labl>NCDMA06: Namaqualand</labl>
+  </catgry>
+  <catgry>
+    <catValu>392</catValu>
+    <labl>NCDMA07: Bo Karoo</labl>
+  </catgry>
+  <catgry>
+    <catValu>393</catValu>
+    <labl>NCDMA08: Benede Oranje</labl>
+  </catgry>
+  <catgry>
+    <catValu>394</catValu>
+    <labl>NCDMA09: Diamondfields</labl>
+  </catgry>
+  <catgry>
+    <catValu>395</catValu>
+    <labl>NCDMACB1: Kalahari</labl>
+  </catgry>
+  <catgry>
+    <catValu>401</catValu>
+    <labl>FS161: Letsemeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>402</catValu>
+    <labl>FS162: Kopanong</labl>
+  </catgry>
+  <catgry>
+    <catValu>403</catValu>
+    <labl>FS163: Mohokare</labl>
+  </catgry>
+  <catgry>
+    <catValu>404</catValu>
+    <labl>FS171: Naledi</labl>
+  </catgry>
+  <catgry>
+    <catValu>405</catValu>
+    <labl>FS172: Mangaung</labl>
+  </catgry>
+  <catgry>
+    <catValu>406</catValu>
+    <labl>FS173: Mantsopa</labl>
+  </catgry>
+  <catgry>
+    <catValu>407</catValu>
+    <labl>FS181: Masilonyana</labl>
+  </catgry>
+  <catgry>
+    <catValu>408</catValu>
+    <labl>FS182: Tokologo</labl>
+  </catgry>
+  <catgry>
+    <catValu>409</catValu>
+    <labl>FS183: Tswelopele</labl>
+  </catgry>
+  <catgry>
+    <catValu>410</catValu>
+    <labl>FS184: Matjhabeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>411</catValu>
+    <labl>FS185: Nala</labl>
+  </catgry>
+  <catgry>
+    <catValu>412</catValu>
+    <labl>FS191: Setsoto</labl>
+  </catgry>
+  <catgry>
+    <catValu>413</catValu>
+    <labl>FS192: Dihlabeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>414</catValu>
+    <labl>FS193: Nketoana</labl>
+  </catgry>
+  <catgry>
+    <catValu>415</catValu>
+    <labl>FS194: Maluti a Phofung</labl>
+  </catgry>
+  <catgry>
+    <catValu>416</catValu>
+    <labl>FS195: Phumelela</labl>
+  </catgry>
+  <catgry>
+    <catValu>417</catValu>
+    <labl>FS201: Moqhaka</labl>
+  </catgry>
+  <catgry>
+    <catValu>418</catValu>
+    <labl>FS203: Ngwathe</labl>
+  </catgry>
+  <catgry>
+    <catValu>419</catValu>
+    <labl>FS204: Metsimaholo</labl>
+  </catgry>
+  <catgry>
+    <catValu>420</catValu>
+    <labl>FS205: Mafube</labl>
+  </catgry>
+  <catgry>
+    <catValu>491</catValu>
+    <labl>FSDMA19: Golden Gate Highlands National Park</labl>
+  </catgry>
+  <catgry>
+    <catValu>501</catValu>
+    <labl>KZ211: Vulamehlo</labl>
+  </catgry>
+  <catgry>
+    <catValu>502</catValu>
+    <labl>KZ212: Umdoni</labl>
+  </catgry>
+  <catgry>
+    <catValu>503</catValu>
+    <labl>KZ213: Umzumbe</labl>
+  </catgry>
+  <catgry>
+    <catValu>504</catValu>
+    <labl>KZ214: uMuziwabantu</labl>
+  </catgry>
+  <catgry>
+    <catValu>505</catValu>
+    <labl>KZ215: Ezingoleni</labl>
+  </catgry>
+  <catgry>
+    <catValu>506</catValu>
+    <labl>KZ216: Hibiscus Coast</labl>
+  </catgry>
+  <catgry>
+    <catValu>507</catValu>
+    <labl>KZ221: uMshwathi</labl>
+  </catgry>
+  <catgry>
+    <catValu>508</catValu>
+    <labl>KZ222: uMngeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>509</catValu>
+    <labl>KZ223: Mooi Mpofana</labl>
+  </catgry>
+  <catgry>
+    <catValu>510</catValu>
+    <labl>KZ224: Impendle</labl>
+  </catgry>
+  <catgry>
+    <catValu>511</catValu>
+    <labl>KZ225: Msunduzi</labl>
+  </catgry>
+  <catgry>
+    <catValu>512</catValu>
+    <labl>KZ226: Mkhambathini</labl>
+  </catgry>
+  <catgry>
+    <catValu>513</catValu>
+    <labl>KZ227: Richmond</labl>
+  </catgry>
+  <catgry>
+    <catValu>514</catValu>
+    <labl>KZ232: Emnambithi/Ladysmith</labl>
+  </catgry>
+  <catgry>
+    <catValu>515</catValu>
+    <labl>KZ233: Indaka</labl>
+  </catgry>
+  <catgry>
+    <catValu>516</catValu>
+    <labl>KZ234: Umtshezi</labl>
+  </catgry>
+  <catgry>
+    <catValu>517</catValu>
+    <labl>KZ235: Okhahlamba</labl>
+  </catgry>
+  <catgry>
+    <catValu>518</catValu>
+    <labl>KZ236: Imbabazane</labl>
+  </catgry>
+  <catgry>
+    <catValu>519</catValu>
+    <labl>KZ241: Endumeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>520</catValu>
+    <labl>KZ242: Nqutu</labl>
+  </catgry>
+  <catgry>
+    <catValu>522</catValu>
+    <labl>KZ244: Msinga</labl>
+  </catgry>
+  <catgry>
+    <catValu>523</catValu>
+    <labl>KZ245: Umvoti</labl>
+  </catgry>
+  <catgry>
+    <catValu>524</catValu>
+    <labl>KZ252: Newcastle</labl>
+  </catgry>
+  <catgry>
+    <catValu>525</catValu>
+    <labl>KZ253: Utrecht</labl>
+  </catgry>
+  <catgry>
+    <catValu>526</catValu>
+    <labl>KZ254: Dannhauser</labl>
+  </catgry>
+  <catgry>
+    <catValu>527</catValu>
+    <labl>KZ261: eDumbe</labl>
+  </catgry>
+  <catgry>
+    <catValu>528</catValu>
+    <labl>KZ262: uPhongolo</labl>
+  </catgry>
+  <catgry>
+    <catValu>529</catValu>
+    <labl>KZ263: Abaqulusi</labl>
+  </catgry>
+  <catgry>
+    <catValu>530</catValu>
+    <labl>KZ265: Nongoma</labl>
+  </catgry>
+  <catgry>
+    <catValu>531</catValu>
+    <labl>KZ266: Ulundi</labl>
+  </catgry>
+  <catgry>
+    <catValu>532</catValu>
+    <labl>KZ271: Umhlabuyalingana</labl>
+  </catgry>
+  <catgry>
+    <catValu>533</catValu>
+    <labl>KZ272: Jozini</labl>
+  </catgry>
+  <catgry>
+    <catValu>534</catValu>
+    <labl>KZ273: The Big 5 False Bay</labl>
+  </catgry>
+  <catgry>
+    <catValu>535</catValu>
+    <labl>KZ274: Hlabisa</labl>
+  </catgry>
+  <catgry>
+    <catValu>536</catValu>
+    <labl>KZ275: Mtubatuba</labl>
+  </catgry>
+  <catgry>
+    <catValu>537</catValu>
+    <labl>KZ281: Mbonambi</labl>
+  </catgry>
+  <catgry>
+    <catValu>538</catValu>
+    <labl>KZ282: uMhlathuze</labl>
+  </catgry>
+  <catgry>
+    <catValu>539</catValu>
+    <labl>KZ283: Ntambanana</labl>
+  </catgry>
+  <catgry>
+    <catValu>540</catValu>
+    <labl>KZ284: uMlalazi</labl>
+  </catgry>
+  <catgry>
+    <catValu>541</catValu>
+    <labl>KZ285: Mthonjaneni</labl>
+  </catgry>
+  <catgry>
+    <catValu>542</catValu>
+    <labl>KZ286: Nkandla</labl>
+  </catgry>
+  <catgry>
+    <catValu>543</catValu>
+    <labl>KZ291: eNdondakusuka</labl>
+  </catgry>
+  <catgry>
+    <catValu>544</catValu>
+    <labl>KZ292: KwaDukuza</labl>
+  </catgry>
+  <catgry>
+    <catValu>545</catValu>
+    <labl>KZ293: Ndwedwe</labl>
+  </catgry>
+  <catgry>
+    <catValu>546</catValu>
+    <labl>KZ294: Maphumulo</labl>
+  </catgry>
+  <catgry>
+    <catValu>547</catValu>
+    <labl>KZ5a1: Ingwe</labl>
+  </catgry>
+  <catgry>
+    <catValu>548</catValu>
+    <labl>KZ5a2: Kwa Sani</labl>
+  </catgry>
+  <catgry>
+    <catValu>549</catValu>
+    <labl>KZ5a3: Matatiele</labl>
+  </catgry>
+  <catgry>
+    <catValu>550</catValu>
+    <labl>KZ5a4: Greater Kokstad</labl>
+  </catgry>
+  <catgry>
+    <catValu>551</catValu>
+    <labl>KZ5a5: Ubuhlebezwe</labl>
+  </catgry>
+  <catgry>
+    <catValu>572</catValu>
+    <labl>Durban: Ethekwini</labl>
+  </catgry>
+  <catgry>
+    <catValu>591</catValu>
+    <labl>KZDMA22: Highmoor/Kamberg Park</labl>
+  </catgry>
+  <catgry>
+    <catValu>592</catValu>
+    <labl>KZDMA23: Gaints Castle Game Reserve</labl>
+  </catgry>
+  <catgry>
+    <catValu>593</catValu>
+    <labl>KZDMA27: St Lucia Park</labl>
+  </catgry>
+  <catgry>
+    <catValu>594</catValu>
+    <labl>KZDMA43: Mkhomazi Wilderness Area</labl>
+  </catgry>
+  <catgry>
+    <catValu>601</catValu>
+    <labl>NW371: Moretele</labl>
+  </catgry>
+  <catgry>
+    <catValu>602</catValu>
+    <labl>NW372: Madibeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>603</catValu>
+    <labl>NW373: Rustenburg</labl>
+  </catgry>
+  <catgry>
+    <catValu>604</catValu>
+    <labl>NW374: Kgetlengrivier</labl>
+  </catgry>
+  <catgry>
+    <catValu>605</catValu>
+    <labl>NW375: Moses Kotane</labl>
+  </catgry>
+  <catgry>
+    <catValu>606</catValu>
+    <labl>NW381: Setla-Kgobi</labl>
+  </catgry>
+  <catgry>
+    <catValu>607</catValu>
+    <labl>NW382: Tswaing</labl>
+  </catgry>
+  <catgry>
+    <catValu>608</catValu>
+    <labl>NW383: Mafikeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>609</catValu>
+    <labl>NW384: Ditsobotla</labl>
+  </catgry>
+  <catgry>
+    <catValu>610</catValu>
+    <labl>NW385: Zeerust</labl>
+  </catgry>
+  <catgry>
+    <catValu>611</catValu>
+    <labl>NW391: Kagisano</labl>
+  </catgry>
+  <catgry>
+    <catValu>612</catValu>
+    <labl>NW392: Naledi</labl>
+  </catgry>
+  <catgry>
+    <catValu>613</catValu>
+    <labl>NW393: Mamusa</labl>
+  </catgry>
+  <catgry>
+    <catValu>614</catValu>
+    <labl>NW394: Greater Taung</labl>
+  </catgry>
+  <catgry>
+    <catValu>615</catValu>
+    <labl>NW395: Molopo</labl>
+  </catgry>
+  <catgry>
+    <catValu>616</catValu>
+    <labl>NW396: Lekwa-Teemane</labl>
+  </catgry>
+  <catgry>
+    <catValu>617</catValu>
+    <labl>NW401: Ventersdorp</labl>
+  </catgry>
+  <catgry>
+    <catValu>618</catValu>
+    <labl>NW402: Potchefstroom</labl>
+  </catgry>
+  <catgry>
+    <catValu>619</catValu>
+    <labl>NW403: City Council of Klerksdorp</labl>
+  </catgry>
+  <catgry>
+    <catValu>620</catValu>
+    <labl>NW404: Maquassi Hills</labl>
+  </catgry>
+  <catgry>
+    <catValu>621</catValu>
+    <labl>NW1a1: Moshaweng</labl>
+  </catgry>
+  <catgry>
+    <catValu>701</catValu>
+    <labl>GT411: Mogale City</labl>
+  </catgry>
+  <catgry>
+    <catValu>702</catValu>
+    <labl>GT412: Randfontein</labl>
+  </catgry>
+  <catgry>
+    <catValu>703</catValu>
+    <labl>GT414: Westonaria</labl>
+  </catgry>
+  <catgry>
+    <catValu>704</catValu>
+    <labl>GT421: Emfuleni</labl>
+  </catgry>
+  <catgry>
+    <catValu>705</catValu>
+    <labl>GT422: Midvaal</labl>
+  </catgry>
+  <catgry>
+    <catValu>706</catValu>
+    <labl>GT423: Lesedi</labl>
+  </catgry>
+  <catgry>
+    <catValu>707</catValu>
+    <labl>GT02b1: Nokeng tsa Taemane</labl>
+  </catgry>
+  <catgry>
+    <catValu>773</catValu>
+    <labl>East Rand: Ekurhuleni Metro</labl>
+  </catgry>
+  <catgry>
+    <catValu>774</catValu>
+    <labl>Johannesburg: City of Johannesburg Metro</labl>
+  </catgry>
+  <catgry>
+    <catValu>776</catValu>
+    <labl>Pretoria: City of Tshwane Metro</labl>
+  </catgry>
+  <catgry>
+    <catValu>791</catValu>
+    <labl>GTDMA41: West Rand</labl>
+  </catgry>
+  <catgry>
+    <catValu>801</catValu>
+    <labl>MP301: Albert Luthuli</labl>
+  </catgry>
+  <catgry>
+    <catValu>802</catValu>
+    <labl>MP302: Msukaligwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>803</catValu>
+    <labl>MP303: Mkhondo</labl>
+  </catgry>
+  <catgry>
+    <catValu>804</catValu>
+    <labl>MP304: Seme</labl>
+  </catgry>
+  <catgry>
+    <catValu>805</catValu>
+    <labl>MP305: Lekwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>806</catValu>
+    <labl>MP306: Dipaleseng</labl>
+  </catgry>
+  <catgry>
+    <catValu>807</catValu>
+    <labl>MP307: Highveld East</labl>
+  </catgry>
+  <catgry>
+    <catValu>808</catValu>
+    <labl>MP311: Delmas</labl>
+  </catgry>
+  <catgry>
+    <catValu>809</catValu>
+    <labl>MP312: Emalahleni</labl>
+  </catgry>
+  <catgry>
+    <catValu>810</catValu>
+    <labl>MP313: Middelburg</labl>
+  </catgry>
+  <catgry>
+    <catValu>811</catValu>
+    <labl>MP314: Highlands</labl>
+  </catgry>
+  <catgry>
+    <catValu>812</catValu>
+    <labl>MP315: Thembisile</labl>
+  </catgry>
+  <catgry>
+    <catValu>813</catValu>
+    <labl>MP316: Dr JS Moroka</labl>
+  </catgry>
+  <catgry>
+    <catValu>814</catValu>
+    <labl>MP321: Thaba Chweu</labl>
+  </catgry>
+  <catgry>
+    <catValu>815</catValu>
+    <labl>MP322: Mbombela</labl>
+  </catgry>
+  <catgry>
+    <catValu>816</catValu>
+    <labl>MP323: Umjindi</labl>
+  </catgry>
+  <catgry>
+    <catValu>817</catValu>
+    <labl>MP324: Nkomazi</labl>
+  </catgry>
+  <catgry>
+    <catValu>891</catValu>
+    <labl>CBDMA3: Schuinsdraai Nature Reserve</labl>
+  </catgry>
+  <catgry>
+    <catValu>892</catValu>
+    <labl>MPDMA31: Mdala Nature Reserve</labl>
+  </catgry>
+  <catgry>
+    <catValu>893</catValu>
+    <labl>MPDMA32: Lowveld</labl>
+  </catgry>
+  <catgry>
+    <catValu>901</catValu>
+    <labl>NP331: Greater Giyani</labl>
+  </catgry>
+  <catgry>
+    <catValu>902</catValu>
+    <labl>NP332: Greater Letaba</labl>
+  </catgry>
+  <catgry>
+    <catValu>903</catValu>
+    <labl>NP333: Greater Tzaneen</labl>
+  </catgry>
+  <catgry>
+    <catValu>904</catValu>
+    <labl>NP334: Ba-Phalaborwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>905</catValu>
+    <labl>NP341: Musina</labl>
+  </catgry>
+  <catgry>
+    <catValu>906</catValu>
+    <labl>NP342: Mutale</labl>
+  </catgry>
+  <catgry>
+    <catValu>907</catValu>
+    <labl>NP343: Thulamela</labl>
+  </catgry>
+  <catgry>
+    <catValu>908</catValu>
+    <labl>NP344: Makhado</labl>
+  </catgry>
+  <catgry>
+    <catValu>909</catValu>
+    <labl>NP351: Blouberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>910</catValu>
+    <labl>NP352: Aganang</labl>
+  </catgry>
+  <catgry>
+    <catValu>911</catValu>
+    <labl>NP353: Molemole</labl>
+  </catgry>
+  <catgry>
+    <catValu>912</catValu>
+    <labl>NP354: Polokwane</labl>
+  </catgry>
+  <catgry>
+    <catValu>913</catValu>
+    <labl>NP355: Lepele-Nkumpi</labl>
+  </catgry>
+  <catgry>
+    <catValu>914</catValu>
+    <labl>NP361: Thabazimbi</labl>
+  </catgry>
+  <catgry>
+    <catValu>915</catValu>
+    <labl>NP362: Lephalale</labl>
+  </catgry>
+  <catgry>
+    <catValu>916</catValu>
+    <labl>NP364: Mookgopong</labl>
+  </catgry>
+  <catgry>
+    <catValu>917</catValu>
+    <labl>NP365: Modimolle</labl>
+  </catgry>
+  <catgry>
+    <catValu>918</catValu>
+    <labl>NP366: Bela-Bela</labl>
+  </catgry>
+  <catgry>
+    <catValu>919</catValu>
+    <labl>NP367: Mogalakwena</labl>
+  </catgry>
+  <catgry>
+    <catValu>920</catValu>
+    <labl>NP03A2: Makhuduthamaga</labl>
+  </catgry>
+  <catgry>
+    <catValu>921</catValu>
+    <labl>NP03A3: Fetakgomo</labl>
+  </catgry>
+  <catgry>
+    <catValu>922</catValu>
+    <labl>NP04A1: Maruleng</labl>
+  </catgry>
+  <catgry>
+    <catValu>996</catValu>
+    <labl>CBDMA4: Kruger Park</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V77" name="Mun2005_Code" files="F3" intrvl="discrete">
+  <labl>Municipality code: 2005</labl>
+  <imputation>Municipality code: 2005</imputation>
+  <security>Municipality code: 2005</security>
+  <embargo>Municipality code: 2005</embargo>
+  <respUnit>Municipality code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>101</catValu>
+    <labl>WC011: Matzikama Local Municipality</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>102</catValu>
+    <labl>WC012: Cederberg Local Municipality</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>103</catValu>
+    <labl>WC013: Bergrivier Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>104</catValu>
+    <labl>WC014: Saldanha Bay Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>105</catValu>
+    <labl>WC015: Swartland Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>106</catValu>
+    <labl>WC022: Witzenberg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>107</catValu>
+    <labl>WC023: Drakenstein Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>108</catValu>
+    <labl>WC024: Stellenbosch Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>109</catValu>
+    <labl>WC025: Breede Valley Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>110</catValu>
+    <labl>WC026: Breede River/Winelands Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>111</catValu>
+    <labl>WC031: Theewaterskloof Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>112</catValu>
+    <labl>WC032: Overstrand Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>113</catValu>
+    <labl>WC033: Cape Agulhas Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>114</catValu>
+    <labl>WC034: Swellendam Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>115</catValu>
+    <labl>WC041: Kannaland Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>116</catValu>
+    <labl>WC042: Hessequa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>117</catValu>
+    <labl>WC043: Mossel Bay Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>118</catValu>
+    <labl>WC044: George Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>119</catValu>
+    <labl>WC045: Oudtshoorn Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>120</catValu>
+    <labl>WC047: Bitou Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>121</catValu>
+    <labl>WC048: Knysna Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>122</catValu>
+    <labl>WC051: Laingsburg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>123</catValu>
+    <labl>WC052: Prince Albert Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>124</catValu>
+    <labl>WC053: Beaufort West Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>171</catValu>
+    <labl>CPT: City of Cape Town Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>191</catValu>
+    <labl>WCDMA01: West Coast</labl>
+  </catgry>
+  <catgry>
+    <catValu>192</catValu>
+    <labl>WCDMA02: Cape Winelands</labl>
+  </catgry>
+  <catgry>
+    <catValu>193</catValu>
+    <labl>WCDMA03: Overberg</labl>
+  </catgry>
+  <catgry>
+    <catValu>194</catValu>
+    <labl>WCDMA04: Eden</labl>
+  </catgry>
+  <catgry>
+    <catValu>195</catValu>
+    <labl>WCDMA05: Central Karoo</labl>
+  </catgry>
+  <catgry>
+    <catValu>201</catValu>
+    <labl>EC101: Camdeboo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>202</catValu>
+    <labl>EC102: Blue Crane Route Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>203</catValu>
+    <labl>EC103: Ikwezi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>204</catValu>
+    <labl>EC104: Makana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>205</catValu>
+    <labl>EC105: Ndlambe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>206</catValu>
+    <labl>EC106: Sunday's River Valley Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>207</catValu>
+    <labl>EC107: Baviaans Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>208</catValu>
+    <labl>EC108: Kouga Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>209</catValu>
+    <labl>EC109: Kou-Kamma Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>210</catValu>
+    <labl>EC121: Mbhashe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>211</catValu>
+    <labl>EC122: Mnquma Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>212</catValu>
+    <labl>EC123: Great Kei Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>213</catValu>
+    <labl>EC124: Amahlathi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>214</catValu>
+    <labl>EC125: Buffalo City Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>215</catValu>
+    <labl>EC126: Ngqushwa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>216</catValu>
+    <labl>EC127: Nkonkobe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>217</catValu>
+    <labl>EC128: Nxuba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>218</catValu>
+    <labl>EC131: Inxuba Yethemba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>219</catValu>
+    <labl>EC132: Tsolwana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>220</catValu>
+    <labl>EC133: Inkwanca Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>221</catValu>
+    <labl>EC134: Lukanji Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>222</catValu>
+    <labl>EC135: Intsika Yethu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>223</catValu>
+    <labl>EC136: Emalahleni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>224</catValu>
+    <labl>EC137: Engcobo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>225</catValu>
+    <labl>EC138: Sakhisizwe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>226</catValu>
+    <labl>EC141: Elundini Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>227</catValu>
+    <labl>EC142: Senqu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>228</catValu>
+    <labl>EC143: Maletswai Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>229</catValu>
+    <labl>EC144: Gariep Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>230</catValu>
+    <labl>EC151: Mbizana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>231</catValu>
+    <labl>EC152: Ntabankulu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>232</catValu>
+    <labl>EC153: Qaukeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>233</catValu>
+    <labl>EC154: Port St Johns Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>234</catValu>
+    <labl>EC155: Nyandeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>235</catValu>
+    <labl>EC156: Mhlontlo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>236</catValu>
+    <labl>EC157: King Sabata Dalindyebo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>238</catValu>
+    <labl>EC442: Umzimvubu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>249</catValu>
+    <labl>EC441: Matatiele Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>275</catValu>
+    <labl>NMA: Nelson Mandela Bay Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>291</catValu>
+    <labl>ECDMA10: Cacadu</labl>
+  </catgry>
+  <catgry>
+    <catValu>292</catValu>
+    <labl>ECDMA13: Chris Hani</labl>
+  </catgry>
+  <catgry>
+    <catValu>301</catValu>
+    <labl>NC061: Richtersveld Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>302</catValu>
+    <labl>NC062: Nama Khoi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>303</catValu>
+    <labl>NC064: Kamiesberg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>304</catValu>
+    <labl>NC065: Hantam Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>305</catValu>
+    <labl>NC066: Karoo Hoogland Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>306</catValu>
+    <labl>NC067: Khâi-Ma Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>307</catValu>
+    <labl>NC071: Ubuntu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>308</catValu>
+    <labl>NC072: Umsobomvu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>309</catValu>
+    <labl>NC073: Emthanjeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>310</catValu>
+    <labl>NC074: Kareeberg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>311</catValu>
+    <labl>NC075: Renosterberg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>312</catValu>
+    <labl>NC076: Thembelihle Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>313</catValu>
+    <labl>NC077: Siyathemba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>314</catValu>
+    <labl>NC078: Siyancuma Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>315</catValu>
+    <labl>NC081: Mier Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>316</catValu>
+    <labl>NC082: Kai !Garib Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>317</catValu>
+    <labl>NC083: //Khara Hais Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>318</catValu>
+    <labl>NC084: !Kheis Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>319</catValu>
+    <labl>NC085: Tsantsabane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>320</catValu>
+    <labl>NC086: Kgatelopele Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>321</catValu>
+    <labl>NC091: Sol Plaatjie Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>322</catValu>
+    <labl>NC092: Dikgatlong Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>323</catValu>
+    <labl>NC093: Magareng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>324</catValu>
+    <labl>NC453: Gamagara Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>325</catValu>
+    <labl>NC451: Moshaweng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>326</catValu>
+    <labl>NC094: Phokwane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>352</catValu>
+    <labl>NC452: Ga-Segonyana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>391</catValu>
+    <labl>NCDMA06: Namakwa</labl>
+  </catgry>
+  <catgry>
+    <catValu>392</catValu>
+    <labl>NCDMA07: Pixley ka Seme</labl>
+  </catgry>
+  <catgry>
+    <catValu>393</catValu>
+    <labl>NCDMA08: Siyanda</labl>
+  </catgry>
+  <catgry>
+    <catValu>394</catValu>
+    <labl>NCDMA09: Frances Baard</labl>
+  </catgry>
+  <catgry>
+    <catValu>395</catValu>
+    <labl>NCDMA45: Kgalagadi</labl>
+  </catgry>
+  <catgry>
+    <catValu>401</catValu>
+    <labl>FS161: Letsemeng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>402</catValu>
+    <labl>FS162: Kopanong Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>403</catValu>
+    <labl>FS163: Mohokare Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>404</catValu>
+    <labl>FS171: Naledi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>405</catValu>
+    <labl>FS172: Mangaung Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>406</catValu>
+    <labl>FS173: Mantsopa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>407</catValu>
+    <labl>FS181: Masilonyana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>408</catValu>
+    <labl>FS182: Tokologo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>409</catValu>
+    <labl>FS183: Tswelopele Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>410</catValu>
+    <labl>FS184: Matjhabeng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>411</catValu>
+    <labl>FS185: Nala Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>412</catValu>
+    <labl>FS191: Setsoto Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>413</catValu>
+    <labl>FS192: Dihlabeng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>414</catValu>
+    <labl>FS193: Nketoana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>415</catValu>
+    <labl>FS194: Maluti a Phofung Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>416</catValu>
+    <labl>FS195: Phumelela Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>417</catValu>
+    <labl>FS201: Moqhaka Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>418</catValu>
+    <labl>FS203: Ngwathe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>419</catValu>
+    <labl>FS204: Metsimaholo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>420</catValu>
+    <labl>FS205: Mafube Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>491</catValu>
+    <labl>FSDMA19: Thabo Mofutsanyane</labl>
+  </catgry>
+  <catgry>
+    <catValu>501</catValu>
+    <labl>KZN211: Vulamehlo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>502</catValu>
+    <labl>KZN212: Umdoni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>503</catValu>
+    <labl>KZN213: Umzumbe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>504</catValu>
+    <labl>KZN214: UMuziwabantu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>505</catValu>
+    <labl>KZN215: Ezingoleni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>506</catValu>
+    <labl>KZN216: Hibiscus Coast Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>507</catValu>
+    <labl>KZN221: uMshwathi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>508</catValu>
+    <labl>KZN222: uMngeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>509</catValu>
+    <labl>KZN223: Mpofana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>510</catValu>
+    <labl>KZN224: Impendle Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>511</catValu>
+    <labl>KZN225: The Msunduzi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>512</catValu>
+    <labl>KZN226: Mkhambathini Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>513</catValu>
+    <labl>KZN227: Richmond Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>514</catValu>
+    <labl>KZN232: Emnambithi-Ladysmith Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>515</catValu>
+    <labl>KZN233: Indaka Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>516</catValu>
+    <labl>KZN234: Umtshezi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>517</catValu>
+    <labl>KZN235: Okhahlamba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>518</catValu>
+    <labl>KZN236: Imbabazane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>519</catValu>
+    <labl>KZN241: Endumeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>520</catValu>
+    <labl>KZN242: Nquthu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>522</catValu>
+    <labl>KZN244: Msinga Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>523</catValu>
+    <labl>KZN245: Umvoti Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>524</catValu>
+    <labl>KZN252: Newcastle Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>525</catValu>
+    <labl>KZN253: Emadlangeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>526</catValu>
+    <labl>KZN254: Dannhauser Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>527</catValu>
+    <labl>KZN261: eDumbe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>528</catValu>
+    <labl>KZN262: UPhongolo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>529</catValu>
+    <labl>KZN263: Abaqulusi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>530</catValu>
+    <labl>KZN265: Nongoma Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>531</catValu>
+    <labl>KZN266: Ulundi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>532</catValu>
+    <labl>KZN271: Umhlabuyalingana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>533</catValu>
+    <labl>KZN272: Jozini Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>534</catValu>
+    <labl>KZN273: The Big Five False Bay Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>535</catValu>
+    <labl>KZN274: Hlabisa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>536</catValu>
+    <labl>KZN275: Mtubatuba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>537</catValu>
+    <labl>KZN281: Mbonambi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>538</catValu>
+    <labl>KZN282: uMhlathuze Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>539</catValu>
+    <labl>KZN283: Ntambanana Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>540</catValu>
+    <labl>KZN284: uMlalazi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>541</catValu>
+    <labl>KZN285: Mthonjaneni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>542</catValu>
+    <labl>KZN286: Nkandla Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>543</catValu>
+    <labl>KZN291: Mandeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>544</catValu>
+    <labl>KZN292: KwaDukuza Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>545</catValu>
+    <labl>KZN293: Ndwedwe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>546</catValu>
+    <labl>KZN294: Maphumulo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>547</catValu>
+    <labl>KZN431: Ingwe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>548</catValu>
+    <labl>KZN432: Kwa Sani Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>550</catValu>
+    <labl>KZN433: Greater Kokstad Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>551</catValu>
+    <labl>KZN434: Ubuhlebezwe Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>552</catValu>
+    <labl>KZN435: Umzimkhulu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>572</catValu>
+    <labl>ETH: eThekwini Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>591</catValu>
+    <labl>KZDMA22: UMgungundlovu</labl>
+  </catgry>
+  <catgry>
+    <catValu>592</catValu>
+    <labl>KZDMA23: Uthukela</labl>
+  </catgry>
+  <catgry>
+    <catValu>593</catValu>
+    <labl>KZDMA27: Umkhanyakude</labl>
+  </catgry>
+  <catgry>
+    <catValu>594</catValu>
+    <labl>KZDMA43: Sisonke</labl>
+  </catgry>
+  <catgry>
+    <catValu>601</catValu>
+    <labl>NW371: Moretele Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>602</catValu>
+    <labl>NW372: Local Municipality of Madibeng</labl>
+  </catgry>
+  <catgry>
+    <catValu>603</catValu>
+    <labl>NW373: Rustenburg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>604</catValu>
+    <labl>NW374: Kgetlengrivier Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>605</catValu>
+    <labl>NW375: Moses Kotane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>606</catValu>
+    <labl>NW381: Ratlou Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>607</catValu>
+    <labl>NW382: Tswaing Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>608</catValu>
+    <labl>NW383: Mafikeng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>609</catValu>
+    <labl>NW384: Ditsobotla Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>610</catValu>
+    <labl>NW385: Ramotshere Moiloa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>611</catValu>
+    <labl>NW391: Kagisano Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>612</catValu>
+    <labl>NW392: Naledi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>613</catValu>
+    <labl>NW393: Mamusa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>614</catValu>
+    <labl>NW394: Greater Taung Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>615</catValu>
+    <labl>NW395: Molopo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>616</catValu>
+    <labl>NW396: Lekwa-Teemane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>617</catValu>
+    <labl>NW401: Ventersdorp Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>618</catValu>
+    <labl>NW402: Potchefstroom Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>619</catValu>
+    <labl>NW403: City of Matlosana</labl>
+  </catgry>
+  <catgry>
+    <catValu>620</catValu>
+    <labl>NW404: Maquassi Hills Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>622</catValu>
+    <labl>NW405: Merafong City Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>701</catValu>
+    <labl>GT481: Mogale City Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>702</catValu>
+    <labl>GT482: Randfontein Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>703</catValu>
+    <labl>GT483: Westonaria Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>704</catValu>
+    <labl>GT421: Emfuleni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>705</catValu>
+    <labl>GT422: Midvaal Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>706</catValu>
+    <labl>GT423: Lesedi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>707</catValu>
+    <labl>GT461: Nokeng tsa Taemane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>762</catValu>
+    <labl>GT462: Kungwini Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>773</catValu>
+    <labl>EKU: Ekurhuleni Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>774</catValu>
+    <labl>JHB: City of Johannesburg Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>776</catValu>
+    <labl>TSH: City of Tshwane Metropolitan Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>791</catValu>
+    <labl>GTDMA48: West Rand</labl>
+  </catgry>
+  <catgry>
+    <catValu>801</catValu>
+    <labl>MP301: Albert Luthuli Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>802</catValu>
+    <labl>MP302: Msukaligwa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>803</catValu>
+    <labl>MP303: Mkhondo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>804</catValu>
+    <labl>MP304: Seme Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>805</catValu>
+    <labl>MP305: Lekwa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>806</catValu>
+    <labl>MP306: Dipaleseng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>807</catValu>
+    <labl>MP307: Govan Mbeki Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>808</catValu>
+    <labl>MP311: Delmas Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>809</catValu>
+    <labl>MP312: Emalahleni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>810</catValu>
+    <labl>MP313: Steve Tshwete Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>811</catValu>
+    <labl>MP314: Emakhazeni Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>812</catValu>
+    <labl>MP315: Thembisile Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>813</catValu>
+    <labl>MP316: Dr JS Moroka Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>814</catValu>
+    <labl>MP321: Thaba Chweu Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>815</catValu>
+    <labl>MP322: Mbombela Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>816</catValu>
+    <labl>MP323: Umjindi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>817</catValu>
+    <labl>MP324: Nkomazi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>825</catValu>
+    <labl>MP325: Bushbuckridge Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>893</catValu>
+    <labl>MPDMA32: Ehlanzeni</labl>
+  </catgry>
+  <catgry>
+    <catValu>901</catValu>
+    <labl>LIM331: Greater Giyani Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>902</catValu>
+    <labl>LIM332: Greater Letaba Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>903</catValu>
+    <labl>LIM333: Greater Tzaneen Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>904</catValu>
+    <labl>LIM334: Ba-Phalaborwa Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>905</catValu>
+    <labl>LIM341: Musina Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>906</catValu>
+    <labl>LIM342: Mutale Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>907</catValu>
+    <labl>LIM343: Thulamela Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>908</catValu>
+    <labl>LIM344: Makhado Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>909</catValu>
+    <labl>LIM351: Blouberg Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>910</catValu>
+    <labl>LIM352: Aganang Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>911</catValu>
+    <labl>LIM353: Molemole Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>912</catValu>
+    <labl>LIM354: Polokwane Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>913</catValu>
+    <labl>LIM355: Lepele-Nkumpi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>914</catValu>
+    <labl>LIM361: Thabazimbi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>915</catValu>
+    <labl>LIM362: Lephalale Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>916</catValu>
+    <labl>LIM364: Mookgopong Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>917</catValu>
+    <labl>LIM365: Modimolle Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>918</catValu>
+    <labl>LIM366: Bela-Bela Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>919</catValu>
+    <labl>LIM367: Mogalakwena Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>920</catValu>
+    <labl>LIM473: Makhuduthamaga Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>921</catValu>
+    <labl>LIM474: Fetakgomo Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>922</catValu>
+    <labl>LIM335: Maruleng Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>971</catValu>
+    <labl>LIM471: Greater Marble Hall Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>972</catValu>
+    <labl>LIM472: Elias Motsoaledi Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>975</catValu>
+    <labl>LIM475: Greater Tubatse Local Municipality</labl>
+  </catgry>
+  <catgry>
+    <catValu>996</catValu>
+    <labl>LIMDMA33: Mopani</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V78" name="SN" files="F4" intrvl="discrete">
+  <labl>Serial number</labl>
+  <imputation>Serial number</imputation>
+  <security>Serial number</security>
+  <embargo>Serial number</embargo>
+  <respUnit>Serial number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V79" name="Scope_Status" files="F4" intrvl="discrete">
+  <labl>Scope status of survey</labl>
+  <imputation>Scope status of survey</imputation>
+  <security>Scope status of survey</security>
+  <embargo>Scope status of survey</embargo>
+  <respUnit>Scope status of survey</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Information collected by sample</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V80" name="M04_MO" files="F4" intrvl="discrete">
+  <labl>Month of death</labl>
+  <imputation>Month of death</imputation>
+  <security>Month of death</security>
+  <embargo>Month of death</embargo>
+  <respUnit>Month of death</respUnit>
+  <qstn>
+    <qstnLit>M-04. What was the month and year of (the deceased)’s death?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>January</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>February</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>March</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>April</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>May</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>June</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>July</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>August</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>September</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>October</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>November</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>December</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V81" name="M04_YR" files="F4" intrvl="discrete">
+  <labl>Year of death</labl>
+  <imputation>Year of death</imputation>
+  <security>Year of death</security>
+  <embargo>Year of death</embargo>
+  <respUnit>Year of death</respUnit>
+  <qstn>
+    <qstnLit>M-04. What was the month and year of (the deceased)'s death?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>2006</catValu>
+    <labl>2006</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2007</catValu>
+    <labl>2007</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V82" name="M05_SEX" files="F4" intrvl="discrete">
+  <labl>Sex of deceased</labl>
+  <imputation>Sex of deceased</imputation>
+  <security>Sex of deceased</security>
+  <embargo>Sex of deceased</embargo>
+  <respUnit>Sex of deceased</respUnit>
+  <qstn>
+    <qstnLit>M-05. Was the (deceased) male or female?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V83" name="M06_AGE" files="F4" intrvl="discrete">
+  <labl>Age of deceased</labl>
+  <imputation>Age of deceased</imputation>
+  <security>Age of deceased</security>
+  <embargo>Age of deceased</embargo>
+  <respUnit>Age of deceased</respUnit>
+  <qstn>
+    <qstnLit>M-06. What was the (the deceased)’s age in completed years at the time of death?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>1</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>2</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>3</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>4</labl>
+  </catgry>
+  <catgry>
+    <catValu>5</catValu>
+    <labl>5</labl>
+  </catgry>
+  <catgry>
+    <catValu>6</catValu>
+    <labl>6</labl>
+  </catgry>
+  <catgry>
+    <catValu>7</catValu>
+    <labl>7</labl>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>8</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>9</labl>
+  </catgry>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>10</labl>
+  </catgry>
+  <catgry>
+    <catValu>11</catValu>
+    <labl>11</labl>
+  </catgry>
+  <catgry>
+    <catValu>12</catValu>
+    <labl>12</labl>
+  </catgry>
+  <catgry>
+    <catValu>13</catValu>
+    <labl>13</labl>
+  </catgry>
+  <catgry>
+    <catValu>14</catValu>
+    <labl>14</labl>
+  </catgry>
+  <catgry>
+    <catValu>15</catValu>
+    <labl>15</labl>
+  </catgry>
+  <catgry>
+    <catValu>16</catValu>
+    <labl>16</labl>
+  </catgry>
+  <catgry>
+    <catValu>17</catValu>
+    <labl>17</labl>
+  </catgry>
+  <catgry>
+    <catValu>18</catValu>
+    <labl>18</labl>
+  </catgry>
+  <catgry>
+    <catValu>19</catValu>
+    <labl>19</labl>
+  </catgry>
+  <catgry>
+    <catValu>20</catValu>
+    <labl>20</labl>
+  </catgry>
+  <catgry>
+    <catValu>21</catValu>
+    <labl>21</labl>
+  </catgry>
+  <catgry>
+    <catValu>22</catValu>
+    <labl>22</labl>
+  </catgry>
+  <catgry>
+    <catValu>23</catValu>
+    <labl>23</labl>
+  </catgry>
+  <catgry>
+    <catValu>24</catValu>
+    <labl>24</labl>
+  </catgry>
+  <catgry>
+    <catValu>25</catValu>
+    <labl>25</labl>
+  </catgry>
+  <catgry>
+    <catValu>26</catValu>
+    <labl>26</labl>
+  </catgry>
+  <catgry>
+    <catValu>27</catValu>
+    <labl>27</labl>
+  </catgry>
+  <catgry>
+    <catValu>28</catValu>
+    <labl>28</labl>
+  </catgry>
+  <catgry>
+    <catValu>29</catValu>
+    <labl>29</labl>
+  </catgry>
+  <catgry>
+    <catValu>30</catValu>
+    <labl>30</labl>
+  </catgry>
+  <catgry>
+    <catValu>31</catValu>
+    <labl>31</labl>
+  </catgry>
+  <catgry>
+    <catValu>32</catValu>
+    <labl>32</labl>
+  </catgry>
+  <catgry>
+    <catValu>33</catValu>
+    <labl>33</labl>
+  </catgry>
+  <catgry>
+    <catValu>34</catValu>
+    <labl>34</labl>
+  </catgry>
+  <catgry>
+    <catValu>35</catValu>
+    <labl>35</labl>
+  </catgry>
+  <catgry>
+    <catValu>36</catValu>
+    <labl>36</labl>
+  </catgry>
+  <catgry>
+    <catValu>37</catValu>
+    <labl>37</labl>
+  </catgry>
+  <catgry>
+    <catValu>38</catValu>
+    <labl>38</labl>
+  </catgry>
+  <catgry>
+    <catValu>39</catValu>
+    <labl>39</labl>
+  </catgry>
+  <catgry>
+    <catValu>40</catValu>
+    <labl>40</labl>
+  </catgry>
+  <catgry>
+    <catValu>41</catValu>
+    <labl>41</labl>
+  </catgry>
+  <catgry>
+    <catValu>42</catValu>
+    <labl>42</labl>
+  </catgry>
+  <catgry>
+    <catValu>43</catValu>
+    <labl>43</labl>
+  </catgry>
+  <catgry>
+    <catValu>44</catValu>
+    <labl>44</labl>
+  </catgry>
+  <catgry>
+    <catValu>45</catValu>
+    <labl>45</labl>
+  </catgry>
+  <catgry>
+    <catValu>46</catValu>
+    <labl>46</labl>
+  </catgry>
+  <catgry>
+    <catValu>47</catValu>
+    <labl>47</labl>
+  </catgry>
+  <catgry>
+    <catValu>48</catValu>
+    <labl>48</labl>
+  </catgry>
+  <catgry>
+    <catValu>49</catValu>
+    <labl>49</labl>
+  </catgry>
+  <catgry>
+    <catValu>50</catValu>
+    <labl>50</labl>
+  </catgry>
+  <catgry>
+    <catValu>51</catValu>
+    <labl>51</labl>
+  </catgry>
+  <catgry>
+    <catValu>52</catValu>
+    <labl>52</labl>
+  </catgry>
+  <catgry>
+    <catValu>53</catValu>
+    <labl>53</labl>
+  </catgry>
+  <catgry>
+    <catValu>54</catValu>
+    <labl>54</labl>
+  </catgry>
+  <catgry>
+    <catValu>55</catValu>
+    <labl>55</labl>
+  </catgry>
+  <catgry>
+    <catValu>56</catValu>
+    <labl>56</labl>
+  </catgry>
+  <catgry>
+    <catValu>57</catValu>
+    <labl>57</labl>
+  </catgry>
+  <catgry>
+    <catValu>58</catValu>
+    <labl>58</labl>
+  </catgry>
+  <catgry>
+    <catValu>59</catValu>
+    <labl>59</labl>
+  </catgry>
+  <catgry>
+    <catValu>60</catValu>
+    <labl>60</labl>
+  </catgry>
+  <catgry>
+    <catValu>61</catValu>
+    <labl>61</labl>
+  </catgry>
+  <catgry>
+    <catValu>62</catValu>
+    <labl>62</labl>
+  </catgry>
+  <catgry>
+    <catValu>63</catValu>
+    <labl>63</labl>
+  </catgry>
+  <catgry>
+    <catValu>64</catValu>
+    <labl>64</labl>
+  </catgry>
+  <catgry>
+    <catValu>65</catValu>
+    <labl>65</labl>
+  </catgry>
+  <catgry>
+    <catValu>66</catValu>
+    <labl>66</labl>
+  </catgry>
+  <catgry>
+    <catValu>67</catValu>
+    <labl>67</labl>
+  </catgry>
+  <catgry>
+    <catValu>68</catValu>
+    <labl>68</labl>
+  </catgry>
+  <catgry>
+    <catValu>69</catValu>
+    <labl>69</labl>
+  </catgry>
+  <catgry>
+    <catValu>70</catValu>
+    <labl>70</labl>
+  </catgry>
+  <catgry>
+    <catValu>71</catValu>
+    <labl>71</labl>
+  </catgry>
+  <catgry>
+    <catValu>72</catValu>
+    <labl>72</labl>
+  </catgry>
+  <catgry>
+    <catValu>73</catValu>
+    <labl>73</labl>
+  </catgry>
+  <catgry>
+    <catValu>74</catValu>
+    <labl>74</labl>
+  </catgry>
+  <catgry>
+    <catValu>75</catValu>
+    <labl>75</labl>
+  </catgry>
+  <catgry>
+    <catValu>76</catValu>
+    <labl>76</labl>
+  </catgry>
+  <catgry>
+    <catValu>77</catValu>
+    <labl>77</labl>
+  </catgry>
+  <catgry>
+    <catValu>78</catValu>
+    <labl>78</labl>
+  </catgry>
+  <catgry>
+    <catValu>79</catValu>
+    <labl>79</labl>
+  </catgry>
+  <catgry>
+    <catValu>80</catValu>
+    <labl>80</labl>
+  </catgry>
+  <catgry>
+    <catValu>81</catValu>
+    <labl>81</labl>
+  </catgry>
+  <catgry>
+    <catValu>82</catValu>
+    <labl>82</labl>
+  </catgry>
+  <catgry>
+    <catValu>83</catValu>
+    <labl>83</labl>
+  </catgry>
+  <catgry>
+    <catValu>84</catValu>
+    <labl>84</labl>
+  </catgry>
+  <catgry>
+    <catValu>85</catValu>
+    <labl>85</labl>
+  </catgry>
+  <catgry>
+    <catValu>86</catValu>
+    <labl>86</labl>
+  </catgry>
+  <catgry>
+    <catValu>87</catValu>
+    <labl>87</labl>
+  </catgry>
+  <catgry>
+    <catValu>88</catValu>
+    <labl>88</labl>
+  </catgry>
+  <catgry>
+    <catValu>89</catValu>
+    <labl>89</labl>
+  </catgry>
+  <catgry>
+    <catValu>90</catValu>
+    <labl>90</labl>
+  </catgry>
+  <catgry>
+    <catValu>91</catValu>
+    <labl>91</labl>
+  </catgry>
+  <catgry>
+    <catValu>92</catValu>
+    <labl>92</labl>
+  </catgry>
+  <catgry>
+    <catValu>93</catValu>
+    <labl>93</labl>
+  </catgry>
+  <catgry>
+    <catValu>94</catValu>
+    <labl>94</labl>
+  </catgry>
+  <catgry>
+    <catValu>95</catValu>
+    <labl>95</labl>
+  </catgry>
+  <catgry>
+    <catValu>96</catValu>
+    <labl>96</labl>
+  </catgry>
+  <catgry>
+    <catValu>97</catValu>
+    <labl>97</labl>
+  </catgry>
+  <catgry>
+    <catValu>98</catValu>
+    <labl>98</labl>
+  </catgry>
+  <catgry>
+    <catValu>99</catValu>
+    <labl>99</labl>
+  </catgry>
+  <catgry>
+    <catValu>100</catValu>
+    <labl>100</labl>
+  </catgry>
+  <catgry>
+    <catValu>101</catValu>
+    <labl>101</labl>
+  </catgry>
+  <catgry>
+    <catValu>102</catValu>
+    <labl>102</labl>
+  </catgry>
+  <catgry>
+    <catValu>103</catValu>
+    <labl>103</labl>
+  </catgry>
+  <catgry>
+    <catValu>104</catValu>
+    <labl>104</labl>
+  </catgry>
+  <catgry>
+    <catValu>105</catValu>
+    <labl>105</labl>
+  </catgry>
+  <catgry>
+    <catValu>106</catValu>
+    <labl>106</labl>
+  </catgry>
+  <catgry>
+    <catValu>107</catValu>
+    <labl>107</labl>
+  </catgry>
+  <catgry>
+    <catValu>108</catValu>
+    <labl>108</labl>
+  </catgry>
+  <catgry>
+    <catValu>109</catValu>
+    <labl>109</labl>
+  </catgry>
+  <catgry>
+    <catValu>110</catValu>
+    <labl>110</labl>
+  </catgry>
+  <catgry>
+    <catValu>116</catValu>
+    <labl>116</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V84" name="M07_CAUSE" files="F4" intrvl="discrete">
+  <labl>Cause of death</labl>
+  <imputation>Cause of death</imputation>
+  <security>Cause of death</security>
+  <embargo>Cause of death</embargo>
+  <respUnit>Cause of death</respUnit>
+  <qstn>
+    <qstnLit>M-07. What caused the death of (the deceased)?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Unnatural</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Natural</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V85" name="M08_PREGNANT" files="F4" intrvl="discrete">
+  <labl>Pregnant at time of death</labl>
+  <imputation>Pregnant at time of death</imputation>
+  <security>Pregnant at time of death</security>
+  <embargo>Pregnant at time of death</embargo>
+  <respUnit>Pregnant at time of death</respUnit>
+  <qstn>
+    <qstnLit>M-08. Was (the deceased) pregnant at time of death or died within six weeks after delivery?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>Yes</labl>
+    <catStat type="vald"/>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>No</labl>
+    <catStat type="invd"/>
+  </catgry>
+  <catgry>
+    <catValu>8</catValu>
+    <labl>Not applicable</labl>
+  </catgry>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V86" name="Weight" files="F4" dcml="6" intrvl="contin">
+  <labl>Mortality weight</labl>
+  <imputation>Mortality weight</imputation>
+  <security>Mortality weight</security>
+  <embargo>Mortality weight</embargo>
+  <respUnit>Mortality weight</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V87" name="Prv2001_Code" files="F4" intrvl="discrete">
+  <labl>Province code: 2001</labl>
+  <imputation>Province code: 2001</imputation>
+  <security>Province code: 2001</security>
+  <embargo>Province code: 2001</embargo>
+  <respUnit>Province code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V88" name="Prv2005_Code" files="F4" intrvl="discrete">
+  <labl>Province code: 2005</labl>
+  <imputation>Province code: 2005</imputation>
+  <security>Province code: 2005</security>
+  <embargo>Province code: 2005</embargo>
+  <respUnit>Province code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V89" name="DC2001_Code" files="F4" intrvl="discrete">
+  <labl>DC code: 2001</labl>
+  <imputation>DC code: 2001</imputation>
+  <security>DC code: 2001</security>
+  <embargo>DC code: 2001</embargo>
+  <respUnit>DC code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V90" name="DC2005_Code" files="F4" intrvl="discrete">
+  <labl>DC code: 2005</labl>
+  <imputation>DC code: 2005</imputation>
+  <security>DC code: 2005</security>
+  <embargo>DC code: 2005</embargo>
+  <respUnit>DC code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V91" name="Mun2001_Code" files="F4" intrvl="discrete">
+  <labl>Municipality code: 2001</labl>
+  <imputation>Municipality code: 2001</imputation>
+  <security>Municipality code: 2001</security>
+  <embargo>Municipality code: 2001</embargo>
+  <respUnit>Municipality code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V92" name="Mun2005_Code" files="F4" intrvl="discrete">
+  <labl>Municipality code: 2005</labl>
+  <imputation>Municipality code: 2005</imputation>
+  <security>Municipality code: 2005</security>
+  <embargo>Municipality code: 2005</embargo>
+  <respUnit>Municipality code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V93" name="SN" files="F5" intrvl="discrete">
+  <labl>Serial number</labl>
+  <imputation>Serial number</imputation>
+  <security>Serial number</security>
+  <embargo>Serial number</embargo>
+  <respUnit>Serial number</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V94" name="Scope_Status" files="F5" intrvl="discrete">
+  <labl>Scope status of survey</labl>
+  <imputation>Scope status of survey</imputation>
+  <security>Scope status of survey</security>
+  <embargo>Scope status of survey</embargo>
+  <respUnit>Scope status of survey</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V95" name="P01_Pers_Num" files="F5" intrvl="discrete">
+  <labl>Person number</labl>
+  <imputation>Person number</imputation>
+  <security>Person number</security>
+  <embargo>Person number</embargo>
+  <respUnit>Person number</respUnit>
+  <qstn>
+    <qstnLit>P-01 Person number</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V96" name="P03_Age" files="F5" intrvl="discrete">
+  <labl>Age</labl>
+  <imputation>Age</imputation>
+  <security>Age</security>
+  <embargo>Age</embargo>
+  <respUnit>Age</respUnit>
+  <qstn>
+    <qstnLit>P-01. Age</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V97" name="P04_Sex" files="F5" intrvl="discrete">
+  <labl>Sex</labl>
+  <imputation>Sex</imputation>
+  <security>Sex</security>
+  <embargo>Sex</embargo>
+  <respUnit>Sex</respUnit>
+  <qstn>
+    <qstnLit>P-01. Sex</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V98" name="P05_Usual_Stay" files="F5" intrvl="discrete">
+  <labl>Usually stay</labl>
+  <imputation>Usually stay</imputation>
+  <security>Usually stay</security>
+  <embargo>Usually stay</embargo>
+  <respUnit>Usually stay</respUnit>
+  <qstn>
+    <qstnLit>P-05. Does (the person) usually live in this household for at least four nights a week and has done so over the last four weeks?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V99" name="P06_Lastnight_Stay" files="F5" intrvl="discrete">
+  <labl>Last night stay</labl>
+  <imputation>Last night stay</imputation>
+  <security>Last night stay</security>
+  <embargo>Last night stay</embargo>
+  <respUnit>Last night stay</respUnit>
+  <qstn>
+    <qstnLit>P-06. Did (the person) stay in this household last night?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V100" name="P07_Relation" files="F5" intrvl="discrete">
+  <labl>Relationship</labl>
+  <imputation>Relationship</imputation>
+  <security>Relationship</security>
+  <embargo>Relationship</embargo>
+  <respUnit>Relationship</respUnit>
+  <qstn>
+    <qstnLit>P-07. What is (the person)’s relationship to the head or acting head of the household?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V101" name="P08_Marital_St" files="F5" intrvl="discrete">
+  <labl>Marital status</labl>
+  <imputation>Marital status</imputation>
+  <security>Marital status</security>
+  <embargo>Marital status</embargo>
+  <respUnit>Marital status</respUnit>
+  <qstn>
+    <qstnLit>P-08. What is (the person)’s PRESENT marital status?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V102" name="P10_Pop_Group" files="F5" intrvl="discrete">
+  <labl>Population group</labl>
+  <imputation>Population group</imputation>
+  <security>Population group</security>
+  <embargo>Population group</embargo>
+  <respUnit>Population group</respUnit>
+  <qstn>
+    <qstnLit>P-10. How would (the person) describe himself/herself in terms of propulation group?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V103" name="P11_Born_Prov" files="F5" intrvl="discrete">
+  <labl>Province of birth</labl>
+  <imputation>Province of birth</imputation>
+  <security>Province of birth</security>
+  <embargo>Province of birth</embargo>
+  <respUnit>Province of birth</respUnit>
+  <qstn>
+    <qstnLit>P-11. In which province in South Africa was (the person) born?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V104" name="P16_Fiveyears_Ago" files="F5" intrvl="discrete">
+  <labl>Five years ago</labl>
+  <imputation>Five years ago</imputation>
+  <security>Five years ago</security>
+  <embargo>Five years ago</embargo>
+  <respUnit>Five years ago</respUnit>
+  <qstn>
+    <qstnLit>P-16. Was (the person) living in this dwelling in October 2001?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V105" name="P17B_Year_Move" files="F5" intrvl="discrete">
+  <labl>Period of movement</labl>
+  <imputation>Period of movement</imputation>
+  <security>Period of movement</security>
+  <embargo>Period of movement</embargo>
+  <respUnit>Period of movement</respUnit>
+  <qstn>
+    <qstnLit>P-17. In which year and month did (the person) move to this dwelling?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V106" name="P18_PrevProv_Res" files="F5" intrvl="discrete">
+  <labl>Province of previous residence</labl>
+  <imputation>Province of previous residence</imputation>
+  <security>Province of previous residence</security>
+  <embargo>Province of previous residence</embargo>
+  <respUnit>Province of previous residence</respUnit>
+  <qstn>
+    <qstnLit>P-18. In which province did (the person) live before moving to this dwelling?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V107" name="DER03_Disability" files="F5" intrvl="discrete">
+  <labl>Disability type</labl>
+  <imputation>Disability type</imputation>
+  <security>Disability type</security>
+  <embargo>Disability type</embargo>
+  <respUnit>Disability type</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V108" name="P23_Disa_Prevent" files="F5" intrvl="discrete">
+  <labl>Disability intensity</labl>
+  <imputation>Disability intensity</imputation>
+  <security>Disability intensity</security>
+  <embargo>Disability intensity</embargo>
+  <respUnit>Disability intensity</respUnit>
+  <qstn>
+    <qstnLit>P-23. Does the disability seriously prevent (the person) from full participation in life activities (such as education, work, social life, etc.)?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V109" name="P24_Any_Grant" files="F5" intrvl="discrete">
+  <labl>Social grant</labl>
+  <imputation>Social grant</imputation>
+  <security>Social grant</security>
+  <embargo>Social grant</embargo>
+  <respUnit>Social grant</respUnit>
+  <qstn>
+    <qstnLit>P-24. Does (the person) receive any social / government grant?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V110" name="DER04_Social" files="F5" intrvl="discrete">
+  <labl>Type of social grant</labl>
+  <imputation>Type of social grant</imputation>
+  <security>Type of social grant</security>
+  <embargo>Type of social grant</embargo>
+  <respUnit>Type of social grant</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V111" name="P26_Attendance" files="F5" intrvl="discrete">
+  <labl>School attendance</labl>
+  <imputation>School attendance</imputation>
+  <security>School attendance</security>
+  <embargo>School attendance</embargo>
+  <respUnit>School attendance</respUnit>
+  <qstn>
+    <qstnLit>P-26. Does (the person) presently attend an educational institution?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V112" name="P27_Institution" files="F5" intrvl="discrete">
+  <labl>Educational institution</labl>
+  <imputation>Educational institution</imputation>
+  <security>Educational institution</security>
+  <embargo>Educational institution</embargo>
+  <respUnit>Educational institution</respUnit>
+  <qstn>
+    <qstnLit>P-27. Which of the following educational institutions does (the person) attend?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V113" name="P28_Pub_Priv" files="F5" intrvl="discrete">
+  <labl>Public or independent institution</labl>
+  <imputation>Public or independent institution</imputation>
+  <security>Public or independent institution</security>
+  <embargo>Public or independent institution</embargo>
+  <respUnit>Public or independent institution</respUnit>
+  <qstn>
+    <qstnLit>P-28. Is the institution (the person) attends public (government) or independent (private)?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V114" name="P29_Level_Educ" files="F5" intrvl="discrete">
+  <labl>Level of education</labl>
+  <imputation>Level of education</imputation>
+  <security>Level of education</security>
+  <embargo>Level of education</embargo>
+  <respUnit>Level of education</respUnit>
+  <qstn>
+    <qstnLit>P-29. What is the highest level of education that (the person) has completed?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V115" name="DER01_Veso" files="F5" intrvl="discrete">
+  <labl>Employment status</labl>
+  <imputation>Employment status</imputation>
+  <security>Employment status</security>
+  <embargo>Employment status</embargo>
+  <respUnit>Employment status</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V116" name="P32_Why_Not" files="F5" intrvl="discrete">
+  <labl>Reasons for not working</labl>
+  <imputation>Reasons for not working</imputation>
+  <security>Reasons for not working</security>
+  <embargo>Reasons for not working</embargo>
+  <respUnit>Reasons for not working</respUnit>
+  <qstn>
+    <qstnLit>P-32. Why did (the person) not work during the past seven days?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V117" name="P33_Availability" files="F5" intrvl="discrete">
+  <labl>Availability for work</labl>
+  <imputation>Availability for work</imputation>
+  <security>Availability for work</security>
+  <embargo>Availability for work</embargo>
+  <respUnit>Availability for work</respUnit>
+  <qstn>
+    <qstnLit>P-33. If a suitable job is offered, how soon can (the person) start work?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V118" name="P36_Work_Status" files="F5" intrvl="discrete">
+  <labl>Work status</labl>
+  <imputation>Work status</imputation>
+  <security>Work status</security>
+  <embargo>Work status</embargo>
+  <respUnit>Work status</respUnit>
+  <qstn>
+    <preQTxt>If YES to any of P-30a to P-30g or P-31</preQTxt>
+    <qstnLit>P-36. How can one describe (the person)’s main activity or work status best?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V119" name="P37_Sector" files="F5" intrvl="discrete">
+  <labl>Business type</labl>
+  <imputation>Business type</imputation>
+  <security>Business type</security>
+  <embargo>Business type</embargo>
+  <respUnit>Business type</respUnit>
+  <qstn>
+    <qstnLit>P-37. Is the organisation/company/business/enterprise/branch where (the person) works, in the formal or informal sector?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V120" name="Occupation" files="F5" intrvl="discrete">
+  <labl>Occupation</labl>
+  <imputation>Occupation</imputation>
+  <security>Occupation</security>
+  <embargo>Occupation</embargo>
+  <respUnit>Occupation</respUnit>
+  <qstn>
+    <qstnLit>P-38. What is the main occupation of (the person) in this workplace?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V121" name="Industry" files="F5" intrvl="discrete">
+  <labl>Industry</labl>
+  <imputation>Industry</imputation>
+  <security>Industry</security>
+  <embargo>Industry</embargo>
+  <respUnit>Industry</respUnit>
+  <qstn>
+    <qstnLit>P-39b. What is the main business/function of the company that (the person) works (main economic activity) for?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V122" name="P48_Mother" files="F5" intrvl="discrete">
+  <labl>Mother alive</labl>
+  <imputation>Mother alive</imputation>
+  <security>Mother alive</security>
+  <embargo>Mother alive</embargo>
+  <respUnit>Mother alive</respUnit>
+  <qstn>
+    <qstnLit>P-48. Is (the person)’s own biological mother still alive?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V123" name="P50_Father" files="F5" intrvl="discrete">
+  <labl>Father alive</labl>
+  <imputation>Father alive</imputation>
+  <security>Father alive</security>
+  <embargo>Father alive</embargo>
+  <respUnit>Father alive</respUnit>
+  <qstn>
+    <qstnLit>P-50. Is (the person)’s own biological father still alive?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V124" name="P52_Income_Category" files="F5" intrvl="discrete">
+  <labl>Monthly income category</labl>
+  <imputation>Monthly income category</imputation>
+  <security>Monthly income category</security>
+  <embargo>Monthly income category</embargo>
+  <respUnit>Monthly income category</respUnit>
+  <qstn>
+    <qstnLit>P-52. What is the income category that best describes the gross monthly or annual income of (the person) before deductions and including all sources of income?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V125" name="P40_LIVECHILD" files="F5" intrvl="discrete">
+  <labl>Total births</labl>
+  <imputation>Total births</imputation>
+  <security>Total births</security>
+  <embargo>Total births</embargo>
+  <respUnit>Total births</respUnit>
+  <qstn>
+    <qstnLit>P-40. Has (the person) ever given birth to a live child even if the child died soon after birth?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V126" name="P41TCEB" files="F5" intrvl="discrete">
+  <labl>Total children ever born</labl>
+  <imputation>Total children ever born</imputation>
+  <security>Total children ever born</security>
+  <embargo>Total children ever born</embargo>
+  <respUnit>Total children ever born</respUnit>
+  <qstn>
+    <qstnLit>P-41. a. How many children has (the person) ever had that were born alive, even if they died soon after birth</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V127" name="P41MCEB" files="F5" intrvl="discrete">
+  <labl>Male children ever born</labl>
+  <imputation>Male children ever born</imputation>
+  <security>Male children ever born</security>
+  <embargo>Male children ever born</embargo>
+  <respUnit>Male children ever born</respUnit>
+  <qstn>
+    <qstnLit>P-41. b. How many are boys?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V128" name="P41FCEB" files="F5" intrvl="discrete">
+  <labl>Female children ever born</labl>
+  <imputation>Female children ever born</imputation>
+  <security>Female children ever born</security>
+  <embargo>Female children ever born</embargo>
+  <respUnit>Female children ever born</respUnit>
+  <qstn>
+    <qstnLit>P-41. c. How many are girls?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V129" name="P42TCS" files="F5" intrvl="discrete">
+  <labl>Total children surviving and living in this household</labl>
+  <imputation>Total children surviving and living in this household</imputation>
+  <security>Total children surviving and living in this household</security>
+  <embargo>Total children surviving and living in this household</embargo>
+  <respUnit>Total children surviving and living in this household</respUnit>
+  <qstn>
+    <qstnLit>P-42. a. How many of (the person)’s children are still alive and living with her in this household, including grown-ups?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V130" name="P42MCS" files="F5" intrvl="discrete">
+  <labl>Male children surviving and living in this household</labl>
+  <imputation>Male children surviving and living in this household</imputation>
+  <security>Male children surviving and living in this household</security>
+  <embargo>Male children surviving and living in this household</embargo>
+  <respUnit>Male children surviving and living in this household</respUnit>
+  <qstn>
+    <qstnLit>P-42.b. How many are boys?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V131" name="P42FCS" files="F5" intrvl="discrete">
+  <labl>Female children surviving and living in this household</labl>
+  <imputation>Female children surviving and living in this household</imputation>
+  <security>Female children surviving and living in this household</security>
+  <embargo>Female children surviving and living in this household</embargo>
+  <respUnit>Female children surviving and living in this household</respUnit>
+  <qstn>
+    <qstnLit>P-42.c. How many are girls?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V132" name="P43TCS" files="F5" intrvl="discrete">
+  <labl>Total children surviving and living elsewhere</labl>
+  <imputation>Total children surviving and living elsewhere</imputation>
+  <security>Total children surviving and living elsewhere</security>
+  <embargo>Total children surviving and living elsewhere</embargo>
+  <respUnit>Total children surviving and living elsewhere</respUnit>
+  <qstn>
+    <qstnLit>P-43. a. How many of (the person)’s children are still alive and living elsewhere, including grown-ups?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V133" name="P43MCS" files="F5" intrvl="discrete">
+  <labl>Male children surviving and living elsewhere</labl>
+  <imputation>Male children surviving and living elsewhere</imputation>
+  <security>Male children surviving and living elsewhere</security>
+  <embargo>Male children surviving and living elsewhere</embargo>
+  <respUnit>Male children surviving and living elsewhere</respUnit>
+  <qstn>
+    <qstnLit>P-43. b. How many are boys?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V134" name="P43FCS" files="F5" intrvl="discrete">
+  <labl>Female children surviving and living elsewhere</labl>
+  <imputation>Female children surviving and living elsewhere</imputation>
+  <security>Female children surviving and living elsewhere</security>
+  <embargo>Female children surviving and living elsewhere</embargo>
+  <respUnit>Female children surviving and living elsewhere</respUnit>
+  <qstn>
+    <qstnLit>P-43. c. How many are girls?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V135" name="P44TCD" files="F5" intrvl="discrete">
+  <labl>Total children no longer alive</labl>
+  <imputation>Total children no longer alive</imputation>
+  <security>Total children no longer alive</security>
+  <embargo>Total children no longer alive</embargo>
+  <respUnit>Total children no longer alive</respUnit>
+  <qstn>
+    <qstnLit>P-44. a. How many of (the person)’s children are no longer alive?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V136" name="P44MCD" files="F5" intrvl="discrete">
+  <labl>Males no longer alive</labl>
+  <imputation>Males no longer alive</imputation>
+  <security>Males no longer alive</security>
+  <embargo>Males no longer alive</embargo>
+  <respUnit>Males no longer alive</respUnit>
+  <qstn>
+    <qstnLit>P-44. b. How many were boys?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V137" name="P44FCD" files="F5" intrvl="discrete">
+  <labl>Females no longer alive</labl>
+  <imputation>Females no longer alive</imputation>
+  <security>Females no longer alive</security>
+  <embargo>Females no longer alive</embargo>
+  <respUnit>Females no longer alive</respUnit>
+  <qstn>
+    <qstnLit>P-44. c. How many were girls?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V138" name="P45LASTDAY" files="F5" intrvl="discrete">
+  <labl>Last child born day</labl>
+  <imputation>Last child born day</imputation>
+  <security>Last child born day</security>
+  <embargo>Last child born day</embargo>
+  <respUnit>Last child born day</respUnit>
+  <qstn>
+    <qstnLit>P-45. If the person has ever given live birth: When was (the person)’s last child born, even if the child died soon after birth?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V139" name="P45LASTMO" files="F5" intrvl="discrete">
+  <labl>Last child born month</labl>
+  <imputation>Last child born month</imputation>
+  <security>Last child born month</security>
+  <embargo>Last child born month</embargo>
+  <respUnit>Last child born month</respUnit>
+  <qstn>
+    <qstnLit>P-45. If the person has ever given live birth: When was (the person)'s last child born, even if the child died soon after birth?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V140" name="P45LASTYR" files="F5" intrvl="discrete">
+  <labl>Last child born year</labl>
+  <imputation>Last child born year</imputation>
+  <security>Last child born year</security>
+  <embargo>Last child born year</embargo>
+  <respUnit>Last child born year</respUnit>
+  <qstn>
+    <qstnLit>P-45. If the person has ever given live birth: When was (the person)'s last child born, even if the child died soon after birth?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V141" name="P46LASTSX" files="F5" intrvl="discrete">
+  <labl>Last child born sex</labl>
+  <imputation>Last child born sex</imputation>
+  <security>Last child born sex</security>
+  <embargo>Last child born sex</embargo>
+  <respUnit>Last child born sex</respUnit>
+  <qstn>
+    <qstnLit>P-46. Is (the person)’s last born child male or female?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V142" name="P47lASTVS" files="F5" intrvl="discrete">
+  <labl>Last born child alive</labl>
+  <imputation>Last born child alive</imputation>
+  <security>Last born child alive</security>
+  <embargo>Last born child alive</embargo>
+  <respUnit>Last born child alive</respUnit>
+  <qstn>
+    <qstnLit>P-47. Is (the person)’s last born child still alive?</qstnLit>
+  </qstn>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V143" name="Weight" files="F5" dcml="6" intrvl="contin">
+  <labl>Weight</labl>
+  <imputation>Weight</imputation>
+  <security>Weight</security>
+  <embargo>Weight</embargo>
+  <respUnit>Weight</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="numeric"/>
+</var>
+<var ID="V144" name="Prv2001_Code" files="F5" intrvl="discrete">
+  <labl>Province code: 2001</labl>
+  <imputation>Province code: 2001</imputation>
+  <security>Province code: 2001</security>
+  <embargo>Province code: 2001</embargo>
+  <respUnit>Province code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V145" name="Prv2005_Code" files="F5" intrvl="discrete">
+  <labl>Province code: 2005</labl>
+  <imputation>Province code: 2005</imputation>
+  <security>Province code: 2005</security>
+  <embargo>Province code: 2005</embargo>
+  <respUnit>Province code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V146" name="DC2001_Code" files="F5" intrvl="discrete">
+  <labl>DC code: 2001</labl>
+  <imputation>DC code: 2001</imputation>
+  <security>DC code: 2001</security>
+  <embargo>DC code: 2001</embargo>
+  <respUnit>DC code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V147" name="DC2005_Code" files="F5" intrvl="discrete">
+  <labl>DC code: 2005</labl>
+  <imputation>DC code: 2005</imputation>
+  <security>DC code: 2005</security>
+  <embargo>DC code: 2005</embargo>
+  <respUnit>DC code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V148" name="Mun2001_Code" files="F5" intrvl="discrete">
+  <labl>Municipality code: 2001</labl>
+  <imputation>Municipality code: 2001</imputation>
+  <security>Municipality code: 2001</security>
+  <embargo>Municipality code: 2001</embargo>
+  <respUnit>Municipality code: 2001</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+<var ID="V149" name="Mun2005_Code" files="F5" intrvl="discrete">
+  <labl>Municipality code: 2005</labl>
+  <imputation>Municipality code: 2005</imputation>
+  <security>Municipality code: 2005</security>
+  <embargo>Municipality code: 2005</embargo>
+  <respUnit>Municipality code: 2005</respUnit>
+  <sumStat type="vald"/>
+  <sumStat type="invd"/>
+  <varFormat type="character"/>
+</var>
+</dataDscr></codeBook>

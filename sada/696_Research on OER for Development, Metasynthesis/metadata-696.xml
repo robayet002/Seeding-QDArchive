@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="zaf-roer4d-md-2017-v1" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          zaf-roer4d-md-2017-v1
+        </titl>
+      </titlStmt>
+      <prodStmt>
+        <producer affiliation="University of Cape Town" role="Metadata producer">
+          DataFirst
+        </producer>
+        <prodDate date="2020-04-28">
+          2020-04-28
+        </prodDate>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+      </prodStmt>
+      <verStmt>
+        <version>
+          Version 5
+        </version>
+      </verStmt>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>
+          Research on OER for Development
+        </titl>
+        <subTitl>
+          Metasynthesis
+        </subTitl>
+        <altTitl>
+          ROER4DMD 2017
+        </altTitl>
+        <IDNo>
+          zaf-roer4d-md-2017-v1
+        </IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty affiliation="University of Cape Town">
+          Research on Open Educational Resources for Development
+        </AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <software version="4.0.9" date="2013-04-23">
+          Nesstar Publisher
+        </software>
+        <fundAg abbr="IDRC" role="Funder">
+          International Development Research Centre
+        </fundAg>
+      </prodStmt>
+      <distStmt>
+        <contact affiliation="University of Cape Town" URI="www.support.data1st.org" email="support@data1st.org">
+          DataFirst support
+        </contact>
+      </distStmt>
+      <serStmt>
+        <serName>
+          Education Survey [es]
+        </serName>
+        <serInfo>
+          Research on Open Educational Resources for Development. Research on Open Educational Resources for Development Metasynthesis Dataset 2017 [dataset]. Version 1. Cape Town: ROER4D [producer], 2018. Cape Town: DataFirst [distributor], 2018. DOI: https://doi.org/10.25828/x84z-q777
+        </serInfo>
+      </serStmt>
+      <verStmt>
+        <version date="2018">
+          Version 1
+        </version>
+      </verStmt>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword>
+          Education
+        </keyword>
+        <keyword>
+          South Asia
+        </keyword>
+        <keyword>
+          Open educational practices
+        </keyword>
+        <keyword>
+          Global South
+        </keyword>
+        <keyword>
+          Open educational resources
+        </keyword>
+        <keyword>
+          Metasynthesis
+        </keyword>
+        <keyword>
+          South America
+        </keyword>
+        <keyword>
+          Sub-Saharan Africa
+        </keyword>
+        <keyword>
+          Southeast Asia
+        </keyword>
+      </subject>
+      <abstract>
+        <![CDATA[The Research on Open Educational Resources for Development (ROER4D) project was a four-year (2013-2017), large-scale networked project which set out to contribute to the body of research on how Open Educational Resources (OER) and address the primary research question: Whether, how, for whom and under what circumstances can engagement with open educational practices and OER provide equitable access to relevant, high-quality, affordable and sustainable education in the Global South. The project engaged a total of 103 research team members in 18 sub-projects in 21 countries across South America, Sub-Saharan Africa and South and Southeast Asia, coordinated by a central Network Hub. The research work culminated in an edited volume, Adoption and Impact of OER in the Global South. 
+A primary contribution of the edited volume was the metasynthesis of sub-project findings, published as Factors influencing Open Educational Practices and OER in the Global South: Meta-synthesis of the ROER4D project. The aim of this synthesis was to distill key themes emerging from sub-project research and to identify (a) Educational challenges pertinent in the Global South context (b) Claims about OER as a mechanism to address these challenges (c) OER and related open educational practices observed in the sub-projects, as well as the structural, cultural and agential factors influencing those practices (d) Any impact that could be attributed to OER adoption in addressing educational challenges. The 13 sub-project chapters from the edited volume comprised the primary data source for the synthesis, with final research reports being utilised in two instances where there were no associated sub-project chapters.]]>
+      </abstract>
+      <sumDscr>
+        <collDate date="2017-02" event="start"/>
+        <collDate date="2017-10" event="end"/>
+        <nation>
+          Global South
+        </nation>
+        <geogCover>
+          <![CDATA[Africa (Ghana, Kenya, Mauritius, South Africa, Somalia, Tanzania, Uganda, Zambia, Zimbabwe), Asia (Afghanistan,  India, Indonesia, Malaysia, Mongolia, Pakistan, Sri Lanka, The Philippines), South America (Brazil, Chile, Colombia, Uruguay)]]>
+        </geogCover>
+        <geogUnit>
+          The data is at the level of the individual educational institution.
+        </geogUnit>
+        <anlyUnit>
+          Other
+        </anlyUnit>
+        <universe>
+          The study covered students and educators at secondary and tertiary institutions across the Global South.
+        </universe>
+        <dataKind>
+          Qualitative and quantitative data
+        </dataKind>
+      </sumDscr>
+      <notes>
+        The metasynthesis used sub-project reports and chapters from the edited volume Adoption and Impact of OER in the Global South of the ROER4D sub-projects as its data, coded according to the analytical framework.
+      </notes>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <dataCollector abbr="ROER4D" affiliation="University of Cape Town">
+          Research on Open Educational Resources for Development
+        </dataCollector>
+        <collMode>
+          Other [oth]
+        </collMode>
+        <sources/>
+        <collSitu>
+          This data was collected from the pre-peer reviewed chapters and reports produced by ROER4D sub-projects. Subsequent to coding, the chapters underwent a production process by edited volume publishers; therefore quoted excerpts in the edited volume may differ from the coded excerpts in this dataset.
+        </collSitu>
+      </dataColl>
+    </method>
+    <dataAccs>
+      <useStmt>
+        <contact affiliation="University of Cape Town" URI="support.data1st.org" email="support@data1st.org">
+          DataFirst
+        </contact>
+        <citReq>
+          Research on Open Educational Resources for Development. Research on Open Educational Resources for Development Metasynthesis Dataset 2017 [dataset]. Version 1. Cape Town: ROER4D [producer], 2018. Cape Town: DataFirst [distributor], 2018. DOI: https://doi.org/10.25828/x84z-q777
+        </citReq>
+        <conditions>
+          Public use files, available to all
+        </conditions>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <dataDscr/>
+</codeBook>
