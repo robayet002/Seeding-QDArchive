@@ -71,20 +71,6 @@ pip install requests beautifulsoup4 openpyxl matplotlib
 
 ## Configuration
 
-All paths and constants live in `src/config.py`. The `data/` directory tree is created automatically on first run — no manual setup needed.
-
-| Constant | Default | Description |
-|----------|---------|-------------|
-| `DOWNLOAD_DIR` | `data/downloads/` | Root folder for downloaded files |
-| `DATABASE_DIR` | `data/database/` | Folder containing the SQLite database |
-| `EXPORT_DIR` | `data/database/exports/` | Folder for CSV / XLSX exports |
-| `DB_PATH` | `data/database/qdarchive_part1.db` | Working SQLite database file path |
-| `QDA_EXTENSIONS` | `.qdpx` `.qpdx` `.qda` `.atlproj` `.nvp` `.nvpx` | Extensions treated as QDA project files |
-| `PROJECT_TYPES` | see *Classification* | Allowed values for `projects.type` |
-| `PRIMARY_DATA_EXTENSIONS` | tabular, text, audio/video, image formats | Extensions treated as primary data |
-| `VALID_DATA_EXTENSIONS` | `.pdf`, archives, HTML, slides, … | Other valid data files |
-| `OPEN_LICENSE_KEYWORDS` | `cc-by`, `cc0`, `creative commons`, … | Keywords used to identify open licenses |
-
 To change which search terms each scraper uses, edit the `SEARCH_QUERIES` list at the top of each scraper file:
 
 ```python
