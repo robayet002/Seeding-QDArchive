@@ -1,0 +1,762 @@
+id,project_id,name,role
+1,1,Study authorization,AUTHOR
+2,1,Primary investigators Name Affiliation Admissions Office University of Cape Town,AUTHOR
+3,1,Authorization Date 2014,AUTHOR
+4,1,Agency Agency name Affiliation Abbreviation Admissions Office University of Cape Town UCT,AUTHOR
+5,1,Authorization Statement Permissions were granted to DataFirst to make UCT Student Admissions Data available to accredited researchers through our secure data service in 2014 and 2019. Permissions to share the data in the secure Remote Access Data Enclave was granted by the Admissions Office on the 25th November 2024.,AUTHOR
+6,2,Study authorization,AUTHOR
+7,2,Primary investigators Name Affiliation Admissions Office University of Cape Town,AUTHOR
+8,2,Authorization Date 2014,AUTHOR
+9,2,Agency Agency name Affiliation Abbreviation Admissions Office University of Cape Town UCT,AUTHOR
+10,2,Authorization Statement Permissions were granted to DataFirst to make UCT Student Admissions Data available to accredited researchers through our secure data service in 2014 and 2019. Permissions to share the data in the secure Remote Access Data Enclave was granted by the Admissions Office on the 25th November 2024.,AUTHOR
+11,3,Study authorization,AUTHOR
+12,3,Primary investigators Name Affiliation Admissions Office University of Cape Town,AUTHOR
+13,3,Authorization Date 2014,AUTHOR
+14,3,Agency Agency name Affiliation Abbreviation Admissions Office University of Cape Town UCT,AUTHOR
+15,3,Authorization Statement Permissions were granted to DataFirst to make UCT Student Admissions Data available to accredited researchers through our secure data service in 2014 and 2019. Permissions to share the data in the secure Remote Access Data Enclave was granted by the Admissions Office on the 25th November 2024.,AUTHOR
+16,4,Primary investigators Name Affiliation TIMSS & PIRLS International Study Center Boston College,AUTHOR
+17,5,Primary investigators Name Affiliation TIMSS and PIRLS International Study Center Boston College,AUTHOR
+18,6,Primary investigators Name Affiliation TIMSS International Study Center Boston College,AUTHOR
+19,7,Primary investigators Name Affiliation TIMSS International Study Center Boston College,AUTHOR
+20,8,Primary investigators Name Affiliation TIMSS & PIRLS International Study Center Boston College,AUTHOR
+21,9,Primary investigators Name Affiliation TIMSS & PIRLS International Study Center Boston College,AUTHOR
+22,10,Primary investigators Name Affiliation TIMSS & PIRLS International Study Center Boston College,AUTHOR
+23,11,Primary investigators Name Affiliation TIMSS and PIRLS International Study Center Boston College,AUTHOR
+24,12,Primary investigators Name Affiliation TIMSS and PIRLS International Study Center Boston College,AUTHOR
+25,13,Study authorization,AUTHOR
+26,13,Primary investigators Name Affiliation TIMSS & PIRLS International Study Center Boston College,AUTHOR
+27,13,"Authorization Date 1999, 2024",AUTHOR
+28,13,Agency Agency name Affiliation Abbreviation Department of Education Government of South Africa DOE Statistics South Africa Government of South Africa StatsSA,AUTHOR
+29,13,"Authorization Statement The collection of learner and school data in South Africa is authorised by the Statistics Act of 1999 and the Statistics Amendment Act of 2024, which govern the collection of data by government bodies within the national statistical service",AUTHOR
+30,14,Primary investigators Name Affiliation Research on Open Educational Resources for Development (ROER4D) University of Cape Town,AUTHOR
+31,15,Primary investigators Name Affiliation Research on Socio-Economic Policy (RESEP) Stellenbosch University,AUTHOR
+32,16,"Primary investigators Name Affiliation School of Population and Poverty Studies University of Natal, Durban Horizons Project Policy Research Division, Population Council Focus on Young Adults MEASURE/Evaluation Project Tulane University, New Orleans, Louisiana, United States",AUTHOR
+33,17,Primary investigators Name Affiliation Kaplan Centre for Jewish Studies and Research University of Cape Town,AUTHOR
+34,18,Primary investigators Name Human Sciences Research Council,AUTHOR
+35,19,Primary investigators Name Affiliation Research on Open Educational Resources for Development (ROER4D) University of Cape Town,AUTHOR
+36,20,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+37,21,Primary investigators Name University of Cape Town University of Michigan,AUTHOR
+38,22,Primary investigators Name Statistics South Africa,AUTHOR
+39,23,Primary investigators Name Department of Social Development,AUTHOR
+40,24,Primary investigators Name Statistics South Africa,AUTHOR
+41,25,Primary investigators Name Affiliation International Food Policy Research Institute School of Development Studies University of Natal (now University of Kwazulu-Natal) University of Wisconsin-Madison BASIS/CRSP project,AUTHOR
+42,26,Primary investigators Name Affiliation Research on Open Educational Resources for Development (ROER4D) University of Cape Town,AUTHOR
+43,27,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+44,28,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+45,29,Primary investigators Name Statistics South Africa,AUTHOR
+46,30,Primary investigators Name Statistics South Africa,AUTHOR
+47,31,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+48,32,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+49,33,Primary investigators Name Statistics South Africa,AUTHOR
+50,34,Primary investigators Name Cape Higher Education Consortium,AUTHOR
+51,35,Primary investigators Name Affiliation National Economic Development and Labour Council (NEDLAC) Government of South Africa,AUTHOR
+52,36,Primary investigators Name Statistics South Africa,AUTHOR
+53,37,Primary investigators Name Statistics South Africa,AUTHOR
+54,38,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+55,39,Primary investigators Name Affiliation Centre for Civil Society (CCS) University of KwaZulu-Natal (UKZN) Southern African Grantmakers’ Association (SAGA) National Development Agency (NDA),AUTHOR
+56,40,Primary investigators Name University of Cape Town University of Michigan Princeton University,AUTHOR
+57,41,Primary investigators Name Affiliation Research on Open Educational Resources for Development (ROER4D) University of Cape Town,AUTHOR
+58,42,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+59,43,Primary investigators Name Research ICT Africa,AUTHOR
+60,44,Primary investigators Name Statistics South Africa,AUTHOR
+61,45,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+62,46,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+63,47,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+64,48,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+65,49,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+66,50,Primary investigators Name Statistics South Africa,AUTHOR
+67,51,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+68,52,Primary investigators Name Affiliation Institute for Jewish Policy Research Kaplan Centre for Jewish Studies and Research University of Cape Town,AUTHOR
+69,53,Primary investigators Name World Values Survey Association,AUTHOR
+70,54,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+71,55,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+72,56,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+73,57,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+74,58,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+75,59,Primary investigators Name Affiliation Stephen Taylor Department of Basic Education Brahm Fleisch University of the Witwatersrand,AUTHOR
+76,60,Primary investigators Name Affiliation Stephen Taylor Department of Basic Education Brahm Fleisch University of the Witwatersrand,AUTHOR
+77,61,Primary investigators Name Affiliation Kenya National Bureau of Statistics Ministry Of Devolution & National Planning,AUTHOR
+78,62,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+79,63,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+80,64,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+81,65,Primary investigators Name South African Audience Research Foundation (SAARF),AUTHOR
+82,66,"Primary investigators Name Affiliation Hungry Cities Partnership, African Centre for Cities University of Cape Town",AUTHOR
+83,67,"Primary investigators Name International Food Policy Research Institute (IFPRI) Centre for the study of African Economies (CSAE) Department of Economics, Addis Ababa University (AAU)",AUTHOR
+84,68,Primary investigators Name Affiliation Lara Kruger University of Cape Town,AUTHOR
+85,69,Primary investigators Name World Health Organization Centers for Disease Control and Prevention,AUTHOR
+86,70,Primary investigators Name World Health Organization Centers for Disease Control and Prevention,AUTHOR
+87,71,Primary investigators Name World Health Organization Centers for Disease Control and Prevention,AUTHOR
+88,72,Primary investigators Name JET Education Services,AUTHOR
+89,73,Primary investigators Name Affiliation Research Unit on the Economics of Excisable Products University of Cape Town,AUTHOR
+90,74,Study authorization,AUTHOR
+91,74,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+92,74,Authorization Date 1999,AUTHOR
+93,74,Agency Agency name Affiliation Abbreviation Statistics South Africa Government of South Africa StatsSA,AUTHOR
+94,74,Authorization Statement Statistics SA is authorised to collect data by the Statistics Act 1999,AUTHOR
+95,75,Study authorization,AUTHOR
+96,75,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+97,75,Authorization Date 1999,AUTHOR
+98,75,Agency Agency name Affiliation Abbreviation Statistics South Africa Government of South Africa StatsSA,AUTHOR
+99,75,"Authorization Statement Data collection by organs of state in South Africa is authorised by the Statistics Act, 1999",AUTHOR
+100,76,Primary investigators Name Statistics South Africa,AUTHOR
+101,77,Primary investigators Name Laboratoire d'Etudes et de Recherche sur les Dynamiques Sociales et le Développement Local (LASDEL),AUTHOR
+102,78,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+103,79,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+104,80,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+105,81,Primary investigators Name Statistics South Africa,AUTHOR
+106,82,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+107,83,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+108,84,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+109,85,Primary investigators Name Affiliation Research on Open Educational Resources for Development University of Cape Town,AUTHOR
+110,86,Primary investigators Name Statistics South Africa,AUTHOR
+111,87,Primary investigators Name Statistics South Africa,AUTHOR
+112,88,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+113,89,Study authorization,AUTHOR
+114,89,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+115,89,Agency Agency name Affiliation Abbreviation Statistics South Africa Government of South Africa StatsSA,AUTHOR
+116,89,"Authorization Statement Data collection by organs of state in South Africa is authorised by the Statistics Act, 1999, and the Statistics Amendment Act, 2024",AUTHOR
+117,90,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+118,91,Primary investigators Name Affiliation Research on Open Educational Resources for Development University of Cape Town,AUTHOR
+119,92,Primary investigators Name Statistics South Africa,AUTHOR
+120,93,Primary investigators Name Statistics South Africa,AUTHOR
+121,94,Primary investigators Name Statistics South Africa,AUTHOR
+122,95,Primary investigators Name Statistics South Africa,AUTHOR
+123,96,Primary investigators Name Statistics South Africa,AUTHOR
+124,97,Primary investigators Name Statistics South Africa,AUTHOR
+125,98,Primary investigators Name Statistics South Africa,AUTHOR
+126,99,Primary investigators Name Statistics South Africa,AUTHOR
+127,100,Primary investigators Name Statistics South Africa,AUTHOR
+128,101,Primary investigators Name Statistics South Africa,AUTHOR
+129,102,Primary investigators Name Statistics South Africa,AUTHOR
+130,103,Primary investigators Name Statistics South Africa,AUTHOR
+131,104,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+132,105,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+133,106,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+134,107,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+135,108,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+136,109,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+137,110,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+138,111,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+139,112,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+140,113,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+141,114,Primary investigators Name Statistics South Africa,AUTHOR
+142,115,Primary investigators Name Statistics South Africa,AUTHOR
+143,116,Primary investigators Name Statistics South Africa,AUTHOR
+144,117,Primary investigators Name Statistics South Africa,AUTHOR
+145,118,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+146,119,Primary investigators Name Statistics South Africa,AUTHOR
+147,120,Primary investigators Name Statistics South Africa,AUTHOR
+148,121,Primary investigators Name Statistics South Africa,AUTHOR
+149,122,Primary investigators Name Statistics South Africa,AUTHOR
+150,123,Primary investigators Name Statistics South Africa,AUTHOR
+151,124,Primary investigators Name Statistics South Africa,AUTHOR
+152,125,Primary investigators Name Statistics South Africa,AUTHOR
+153,126,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+154,127,Primary investigators Name Statistics South Africa,AUTHOR
+155,128,Primary investigators Name Statistics South Africa,AUTHOR
+156,129,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+157,130,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+158,131,Primary investigators Name Statistics South Africa,AUTHOR
+159,132,Primary investigators Name Statistics South Africa,AUTHOR
+160,133,Primary investigators Name Statistics South Africa,AUTHOR
+161,134,Primary investigators Name Statistics South Africa,AUTHOR
+162,135,Primary investigators Name Statistics South Africa,AUTHOR
+163,136,Primary investigators Name Statistics South Africa,AUTHOR
+164,137,Primary investigators Name Statistics South Africa,AUTHOR
+165,138,Primary investigators Name Statistics South Africa,AUTHOR
+166,139,Primary investigators Name Statistics South Africa,AUTHOR
+167,140,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+168,141,Primary investigators Name Statistics South Africa,AUTHOR
+169,142,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+170,143,Primary investigators Name Statistics South Africa,AUTHOR
+171,144,Primary investigators Name Statistics South Africa,AUTHOR
+172,145,Primary investigators Name Statistics South Africa,AUTHOR
+173,146,Primary investigators Name Statistics South Africa,AUTHOR
+174,147,Primary investigators Name Statistics South Africa,AUTHOR
+175,148,Primary investigators Name Statistics South Africa,AUTHOR
+176,149,Primary investigators Name Statistics South Africa,AUTHOR
+177,150,Primary investigators Name Statistics South Africa,AUTHOR
+178,151,Primary investigators Name Statistics South Africa,AUTHOR
+179,152,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+180,153,Primary investigators Name Statistics South Africa,AUTHOR
+181,154,Primary investigators Name Statistics South Africa,AUTHOR
+182,155,Primary investigators Name Statistics South Africa,AUTHOR
+183,156,Primary investigators Name Statistics South Africa,AUTHOR
+184,157,Primary investigators Name Statistics South Africa,AUTHOR
+185,158,Primary investigators Name Statistics South Africa,AUTHOR
+186,159,Primary investigators Name Statistics South Africa,AUTHOR
+187,160,Primary investigators Name Statistics South Africa,AUTHOR
+188,161,Primary investigators Name Statistics South Africa,AUTHOR
+189,162,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+190,163,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+191,164,Primary investigators Name Statistics South Africa,AUTHOR
+192,165,Primary investigators Name Statistics South Africa,AUTHOR
+193,166,Primary investigators Name Statistics South Africa,AUTHOR
+194,167,Primary investigators Name Statistics South Africa,AUTHOR
+195,168,Primary investigators Name Statistics South Africa,AUTHOR
+196,169,Primary investigators Name Statistics South Africa,AUTHOR
+197,170,Primary investigators Name Statistics South Africa,AUTHOR
+198,171,Primary investigators Name Statistics South Africa,AUTHOR
+199,172,Primary investigators Name Statistics South Africa,AUTHOR
+200,173,Primary investigators Name Statistics South Africa,AUTHOR
+201,174,Primary investigators Name Statistics South Africa,AUTHOR
+202,175,Primary investigators Name Statistics South Africa,AUTHOR
+203,176,Primary investigators Name Statistics South Africa,AUTHOR
+204,177,Primary investigators Name Statistics South Africa,AUTHOR
+205,178,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+206,179,Primary investigators Name Statistics South Africa,AUTHOR
+207,180,Primary investigators Name Statistics South Africa,AUTHOR
+208,181,Primary investigators Name Statistics South Africa,AUTHOR
+209,182,Primary investigators Name Statistics South Africa,AUTHOR
+210,183,Primary investigators Name Statistics South Africa,AUTHOR
+211,184,Primary investigators Name Statistics South Africa,AUTHOR
+212,185,Primary investigators Name Statistics South Africa,AUTHOR
+213,186,Primary investigators Name Statistics South Africa,AUTHOR
+214,187,Primary investigators Name Statistics South Africa,AUTHOR
+215,188,Primary investigators Name Statistics South Africa,AUTHOR
+216,189,Primary investigators Name Statistics South Africa,AUTHOR
+217,190,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+218,191,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+219,192,Primary investigators Name Statistics South Africa,AUTHOR
+220,193,Primary investigators Name Statistics South Africa,AUTHOR
+221,194,Primary investigators Name Statistics South Africa,AUTHOR
+222,195,Primary investigators Name Statistics South Africa,AUTHOR
+223,196,Primary investigators Name Statistics South Africa,AUTHOR
+224,197,Primary investigators Name Statistics South Africa,AUTHOR
+225,198,Primary investigators Name Statistics South Africa,AUTHOR
+226,199,Primary investigators Name Statistics South Africa,AUTHOR
+227,200,Primary investigators Name Statistics South Africa,AUTHOR
+228,201,Primary investigators Name Statistics South Africa,AUTHOR
+229,202,Primary investigators Name Statistics South Africa (http://www.statssa.gov.za),AUTHOR
+230,203,Primary investigators Name Statistics South Africa,AUTHOR
+231,204,Primary investigators Name Statistics South Africa,AUTHOR
+232,205,Primary investigators Name Statistics South Africa,AUTHOR
+233,206,Primary investigators Name Statistics South Africa,AUTHOR
+234,207,Primary investigators Name Statistics South Africa,AUTHOR
+235,208,Primary investigators Name Statistics South Africa,AUTHOR
+236,209,Primary investigators Name Statistics South Africa,AUTHOR
+237,210,Primary investigators Name Statistics South Africa,AUTHOR
+238,211,Primary investigators Name Statistics South Africa,AUTHOR
+239,212,Primary investigators Name Statistics South Africa,AUTHOR
+240,213,Primary investigators Name Statistics South Africa,AUTHOR
+241,214,Primary investigators Name Statistics South Africa,AUTHOR
+242,215,Primary investigators Name Statistics South Africa,AUTHOR
+243,216,Primary investigators Name Statistics South Africa,AUTHOR
+244,217,Primary investigators Name Statistics South Africa,AUTHOR
+245,218,Primary investigators Name Statistics South Africa,AUTHOR
+246,219,Primary investigators Name Statistics South Africa,AUTHOR
+247,220,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+248,221,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+249,222,Primary investigators Name Statistics South Africa,AUTHOR
+250,223,Primary investigators Name Affiliation Statistics South Africa Government of South Africa,AUTHOR
+251,224,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+252,225,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+253,226,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+254,227,Primary investigators Name Human Sciences Research Council,AUTHOR
+255,228,Primary investigators Name Affiliation Department of Political Science of Political Science Michigan State University,AUTHOR
+256,229,Primary investigators Name Affiliation Centre for Social Science Research University of Cape Town,AUTHOR
+257,230,Primary investigators Name Human Sciences Research Council,AUTHOR
+258,231,Primary investigators Name Human Sciences Research Council,AUTHOR
+259,232,Primary investigators Name Human Sciences Research Council,AUTHOR
+260,233,Primary investigators Name Human Sciences Research Council,AUTHOR
+261,234,Primary investigators Name Human Sciences Research Council,AUTHOR
+262,235,Primary investigators Name Human Sciences Research Council,AUTHOR
+263,236,Primary investigators Name Human Sciences Research Council,AUTHOR
+264,237,Primary investigators Name Affiliation Human Sciences Research Council Government of South Africa,AUTHOR
+265,238,Primary investigators Name Human Sciences Research Council (HSRC),AUTHOR
+266,239,Primary investigators Name Human Sciences Research Council (HSRC),AUTHOR
+267,240,Primary investigators Name Affiliation Centre for Social Science Research University of Cape Town Institute for Communities and Wildlife University of Cape Town,AUTHOR
+268,241,Primary investigators Name Affiliation Nic Rhoodie Human Sciences Research Council Chris de Kock Human Sciences Research Council,AUTHOR
+269,242,Primary investigators Name Norwegian Institute for Applied Social Science (Fafo) South African Department of Labour,AUTHOR
+270,243,"Primary investigators Name Affiliation Professor Donald Treiman University of California Los Angeles Sylvia N. Moano Strategic Planning Group, ESKOM Lawrence Schlemmer Centre for Policy Studies, School of Business, University of theWitwatersrand",AUTHOR
+271,244,Primary investigators Name Central Statistical Service (now Statistics South Africa),AUTHOR
+272,245,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+273,246,Primary investigators Name Affiliation Southern Africa Labour and Development Research Unit University of Cape Town,AUTHOR
+274,247,Primary investigators Name Affiliation Africa Health Research Institute Network for Analysing Longitudinal Population HIV/ AIDS data on Africa London School of Hygiene and Tropical Medicine,AUTHOR
+275,248,Primary investigators Name Affiliation Central Statistical Service Government of South Africa,AUTHOR
+276,249,"Primary investigators Name Affiliation Centre for Population Studies (CENPOPS) University of Pretoria Population Studies and Training Center (PSTC) Brown University, USA",AUTHOR
+277,250,Primary investigators Name Affiliation James L. Gibson Washington University in St. Louis. Department of Political Science,AUTHOR
+278,251,Primary investigators Name Affiliation Eskom Government of South Africa Stellenbosch University University of Cape Town,AUTHOR
+279,252,Primary investigators Name Affiliation South African Department of Labour Government of South Africa Central Statistical Service (CSS) (now Statistics South Africa) Government of South Africa,AUTHOR
+280,253,Primary investigators Name Affiliation Eskom Government of South Africa University of Cape Town University of Stellenbosch,AUTHOR
+281,254,"Ghassim, Babak UiT The Arctic University of Norway ORCID 0000-0003-3491-0910",AUTHOR
+282,255,"Ghassim, Babak UiT The Arctic University of Norway ORCID 0000-0003-3491-0910",AUTHOR
+283,256,"Ghassim, Babak UiT The Arctic University of Norway ORCID 0000-0003-3491-0910",AUTHOR
+284,257,"Aalerud, Atle University of Agder ORCID 0000-0001-6462-235X",AUTHOR
+285,258,"Aalerud, Atle University of Agder ORCID 0000-0001-6462-235X",AUTHOR
+286,259,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+287,260,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+288,261,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+289,262,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+290,263,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0009-0009-4095-9535 Sletteberg Storli, Kathrine NTNU – Norwegian University of Science and Technology Skogøy, Hanna Marie NTNU – Norwegian University of Science and Technology Kubowicz, Stephan SINTEF Industry Svenum, Ingeborg-Helene SINTEF Industry Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+291,264,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0009-0009-4095-9535 Sletteberg Storli, Kathrine NTNU – Norwegian University of Science and Technology Skogøy, Hanna Marie NTNU – Norwegian University of Science and Technology Kubowicz, Stephan SINTEF Industry Svenum, Ingeborg-Helene SINTEF Industry Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+292,265,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0009-0009-4095-9535 Sletteberg Storli, Kathrine NTNU – Norwegian University of Science and Technology Skogøy, Hanna Marie NTNU – Norwegian University of Science and Technology Kubowicz, Stephan SINTEF Industry Svenum, Ingeborg-Helene SINTEF Industry Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+293,266,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+294,267,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+295,268,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+296,269,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+297,270,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+298,271,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+299,272,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+300,273,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+301,274,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+302,275,"Sednev-Lugovets, Anton University of Oslo ORCID 0000-0003-3316-7766 Lu, Yang University of Oslo Vistad, Ørnulv Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-8331-6558 Carvalho, Patricia Sintef industry, Oslo, Norway ORCID https://orcid.org/0000-0002-5447-0409 Missyul, Alexander Sincrotrón ALBA: Barcelona, Spain ORCID https://orcid.org/0000-0002-0577-4481 Austrheim, Håkon University of Oslo ORCID https://orcid.org/0000-0002-8521-4547 Friis, Henrik University of Oslo ORCID https://orcid.org/0000-0001-5700-8730 Guzik, Matylda University of Oslo ORCID https://orcid.org/0000-0001-6349-4659",AUTHOR
+303,276,"Vadakkepuliyambatta, Sunil UiT The Arctic University of Norway ORCID 0000-0003-1118-1321",AUTHOR
+304,277,"Vadakkepuliyambatta, Sunil UiT The Arctic University of Norway ORCID 0000-0003-1118-1321",AUTHOR
+305,278,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+306,279,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+307,280,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+308,281,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+309,282,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+310,283,"Blanco Gonzalez, Enrique UiT The Arctic University of Norway ORCID 0000-0002-2631-2331 Espeland, Sigurd Heiberg Norwegian Institute of Marine Research Jentoft, Sissel University of Oslo ORCID 0000-0001-8707-531X Hansen, Michael Møller Aarhus University ORCID 0000-0001-5372-4828 Robalo, Joana Isabel ISPA Instituto Universitário de Ciências Psicológicas, Sociais e da Vida ORCID 0000-0002-7470-0574 Stenseth, Nils Christian University of Oslo ORCID 0000-0002-1591-5399 Jorde, Per Erik Norwegian Institute of Marine Research ORCID 0000-0001-5515-7257",AUTHOR
+311,284,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology Storli, Kathrine Sletteberg NTNU – Norwegian University of Science and Technology Kjørsvik, Eline NTNU – Norwegian University of Science and Technology Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+312,285,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology Storli, Kathrine Sletteberg NTNU – Norwegian University of Science and Technology Kjørsvik, Eline NTNU – Norwegian University of Science and Technology Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+313,286,"Mysliu, Erlind NTNU – Norwegian University of Science and Technology Storli, Kathrine Sletteberg NTNU – Norwegian University of Science and Technology Kjørsvik, Eline NTNU – Norwegian University of Science and Technology Lunder, Otto SINTEF Industry Erbe, Andreas NTNU – Norwegian University of Science and Technology",AUTHOR
+314,287,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+315,288,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+316,289,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+317,290,"Brimsholm, Malin Norwegian University of Life Sciences (NMBU) ORCID 0009-0002-2724-3822",AUTHOR
+318,291,"Brimsholm, Malin Norwegian University of Life Sciences (NMBU) ORCID 0009-0002-2724-3822",AUTHOR
+319,292,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+320,293,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+321,294,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+322,295,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+323,296,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+324,297,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+325,298,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+326,299,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+327,300,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+328,301,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+329,302,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+330,303,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+331,304,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+332,305,"Gnanasekaran, Vahiny NTNU – Norwegian University of Science and Technology ORCID 0009-0003-2865-2115 Fatima, Urooj NTNU – Norwegian University of Science and Technology ORCID 0009-0009-7635-1601 Heegaard, Poul Einar NTNU – Norwegian University of Science and Technology ORCID 0000-0003-0083-5860",AUTHOR
+333,306,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+334,307,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+335,308,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+336,309,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+337,310,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+338,311,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+339,312,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+340,313,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+341,314,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+342,315,"Mastani Joybari, Mahmood NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Vingelsgård, Erling SINTEF Ocean Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+343,316,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+344,317,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+345,318,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+346,319,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+347,320,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+348,321,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+349,322,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+350,323,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+351,324,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+352,325,"Ajasa, Afees Nofima ORCID https://orcid.org/0000-0002-4513-522X Boison, Solomon MOWI Aslam, Muhammad Nofima ORCID https://orcid.org/0000-0001-8812-6887 Lillehammer, Marie Nofima ORCID https://orcid.org/0000-0001-5092-1105 Gjøen, Hans Magnus Norwegian University of life sciences ORCID https://orcid.org/0000-0002-5209-0779",AUTHOR
+353,326,"Ishtiaque, Tausif Ahmed NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0000-0002-3041-9748",AUTHOR
+354,327,"Ishtiaque, Tausif Ahmed NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0000-0002-3041-9748",AUTHOR
+355,328,"Ishtiaque, Tausif Ahmed NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0000-0002-3041-9748",AUTHOR
+356,329,"Ishtiaque, Tausif Ahmed NTNU – Norwegian University of Science and Technology ORCID https://orcid.org/0000-0002-3041-9748",AUTHOR
+357,330,"Blanchet, Marie-Anne UiT The Arctic University of Norway ORCID 0000-0001-6704-8568",AUTHOR
+358,331,"Blanchet, Marie-Anne UiT The Arctic University of Norway ORCID 0000-0001-6704-8568",AUTHOR
+359,332,"Blanchet, Marie-Anne UiT The Arctic University of Norway ORCID 0000-0001-6704-8568",AUTHOR
+360,333,"Desidera, Francesca Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0009-0007-0272-4458 Skeie, Siv Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0003-1928-4085 Devold, Tove Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0001-6824-2397 Inglingstad, Ragnhild TINE SA ORCID https://orcid.org/0000-0001-6413-7557 Porcellato, Davide Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0002-7460-534X",AUTHOR
+361,334,"Desidera, Francesca Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0009-0007-0272-4458 Skeie, Siv Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0003-1928-4085 Devold, Tove Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0001-6824-2397 Inglingstad, Ragnhild TINE SA ORCID https://orcid.org/0000-0001-6413-7557 Porcellato, Davide Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0002-7460-534X",AUTHOR
+362,335,"Desidera, Francesca Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0009-0007-0272-4458 Skeie, Siv Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0003-1928-4085 Devold, Tove Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0001-6824-2397 Inglingstad, Ragnhild TINE SA ORCID https://orcid.org/0000-0001-6413-7557 Porcellato, Davide Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0002-7460-534X",AUTHOR
+363,336,"Desidera, Francesca Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0009-0007-0272-4458 Skeie, Siv Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0003-1928-4085 Devold, Tove Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0001-6824-2397 Inglingstad, Ragnhild TINE SA ORCID https://orcid.org/0000-0001-6413-7557 Porcellato, Davide Norwegian University of Life Sciences (NMBU) ORCID https://orcid.org/0000-0002-7460-534X",AUTHOR
+364,337,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+365,338,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+366,339,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+367,340,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+368,341,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+369,342,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+370,343,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+371,344,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+372,345,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+373,346,"Mysliu, Erlind SINTEF ORCID 0009-0009-4095-9535 Lein, John Erik SINTEF Vullum, Per Erik SINTEF ORCID https://orcid.org/0000-0001-7968-4879 Buvik Gundersen, Jan Tore Hydro Chojak Halseid, Malgorzata Hydro ORCID https://orcid.org/0000-0001-8743-9697 Lunder, Otto SINTEF ORCID https://orcid.org/0000-0002-9288-1508 Erbe, Andreas https://ror.org/05xg72x27 ScopusID 16401738800",AUTHOR
+374,347,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+375,348,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+376,349,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+377,350,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+378,351,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+379,352,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+380,353,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+381,354,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+382,355,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+383,356,"Abelson, Filip Gornitzka TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-2084-9111 Dybvik, Henrikke TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0003-1076-9684 Steinert, Martin TrollLABS, Department of Mechanical and Industrial Engineering, Norwegian University of Science and Technology (NTNU) ORCID 0000-0002-8366-0201",AUTHOR
+384,357,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+385,358,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+386,359,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+387,360,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+388,361,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+389,362,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+390,363,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+391,364,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+392,365,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+393,366,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816",AUTHOR
+394,367,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+395,368,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+396,369,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+397,370,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+398,371,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+399,372,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+400,373,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+401,374,"Strand, Andreas NTNU – Norwegian University of Science and Technology ORCID 0000-0002-7679-7816 Kjølaas, Jørn SINTEF Bergstrøm, Trond H. SINTEF Steinsland, Ingelin NTNU – Norwegian University of Science and Technology Hellevik, Leif R. NTNU – Norwegian University of Science and Technology",AUTHOR
+402,375,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+403,376,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+404,377,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+405,378,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+406,379,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+407,380,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+408,381,"Joybari, Mahmood Mastani NTNU – Norwegian University of Science and Technology ScopusID 55625024800 Selvnes, Håkon SINTEF Energy Research ScopusID 57202922975 Sevault, Alexis SINTEF Energy Research ScopusID 55317838900 Hafner, Armin NTNU – Norwegian University of Science and Technology ScopusID 7005421633",AUTHOR
+409,382,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+410,383,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+411,384,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+412,385,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+413,386,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+414,387,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+415,388,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+416,389,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+417,390,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+418,391,"Kianpoor, Nasrin UiT The Arctic University of Norway ORCID 0000-0003-2376-759X Hoff, Bjarte UiT The Arctic University of Norway ORCID 0000-0001-7328-3505",AUTHOR
+419,392,"Elumalai, Vijayagavan NTNU – Norwegian University of Science and Technology ORCID 0000-0002-8423-1759 Eigner, Vaclav Czech Academy of Sciences ORCID 0000-0003-1014-3980 Janjua, Nicholas NTNU – Norwegian University of Science and Technology 0009-0005-7626-3821 Åstrand, Per-Olof NTNU – Norwegian University of Science ORCID 0000-0003-3384-7585 Visnes, Torkild SINTEF Industry ORCID 0000-0003-1047-988X Sundby, Eirik NTNU – Norwegian University of Science and Technology ORCID 0000-0002-4598-0239 Hoff, Bård Helge NTNU – Norwegian University of Science and Technology ORCID 0000-0001-7859-7810",AUTHOR
+420,393,"Elumalai, Vijayagavan NTNU – Norwegian University of Science and Technology ORCID 0000-0002-8423-1759 Eigner, Vaclav Czech Academy of Sciences ORCID 0000-0003-1014-3980 Janjua, Nicholas NTNU – Norwegian University of Science and Technology 0009-0005-7626-3821 Åstrand, Per-Olof NTNU – Norwegian University of Science ORCID 0000-0003-3384-7585 Visnes, Torkild SINTEF Industry ORCID 0000-0003-1047-988X Sundby, Eirik NTNU – Norwegian University of Science and Technology ORCID 0000-0002-4598-0239 Hoff, Bård Helge NTNU – Norwegian University of Science and Technology ORCID 0000-0001-7859-7810",AUTHOR
+421,394,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+422,395,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+423,396,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+424,397,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+425,398,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+426,399,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+427,400,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+428,401,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+429,402,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+430,403,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+431,404,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+432,405,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+433,406,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+434,407,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+435,408,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+436,409,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+437,410,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+438,411,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+439,412,"Langdal, Andreas UiT The Arctic University of Norway ORCID 0000-0003-0296-5722",AUTHOR
+440,413,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+441,414,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+442,415,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+443,416,"Aanesen, Margrethe UiT The Arctic University of Norway ORCID 0000-0002-8521-4029",AUTHOR
+444,417,"Hafner, Armin NTNU – Norwegian University of Science and Technology Hazarika, Mihir Mouchum NTNU – Norwegian University of Science and Technology Lechi, Federico Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Zorzin, Alvaro Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Pardiñas, Ángel Álvarez Thermal Energy, SINTEF Energy Research, Trondheim Banasiak, Krzysztof NTNU – Norwegian University of Science and Technology",AUTHOR
+445,418,"Hafner, Armin NTNU – Norwegian University of Science and Technology Hazarika, Mihir Mouchum NTNU – Norwegian University of Science and Technology Lechi, Federico Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Zorzin, Alvaro Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Pardiñas, Ángel Álvarez Thermal Energy, SINTEF Energy Research, Trondheim Banasiak, Krzysztof NTNU – Norwegian University of Science and Technology",AUTHOR
+446,419,"Hafner, Armin NTNU – Norwegian University of Science and Technology Hazarika, Mihir Mouchum NTNU – Norwegian University of Science and Technology Lechi, Federico Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Zorzin, Alvaro Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Pardiñas, Ángel Álvarez Thermal Energy, SINTEF Energy Research, Trondheim Banasiak, Krzysztof NTNU – Norwegian University of Science and Technology",AUTHOR
+447,420,"Hafner, Armin NTNU – Norwegian University of Science and Technology Hazarika, Mihir Mouchum NTNU – Norwegian University of Science and Technology Lechi, Federico Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Zorzin, Alvaro Business Unit Brazed & Fusion Bonded Heat Exchangers, Alfa Laval Spa, Italy Pardiñas, Ángel Álvarez Thermal Energy, SINTEF Energy Research, Trondheim Banasiak, Krzysztof NTNU – Norwegian University of Science and Technology",AUTHOR
+448,421,IndrebÃ¸ Thea Lucia Sauro University of South-Eastern Norway,AUTHOR
+449,422,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+450,423,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+451,424,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+452,425,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+453,426,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+454,427,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+455,428,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+456,429,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+457,430,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+458,431,Henriksen Mathias University of South-Eastern Norway ORCID 0000-0002-6021-6810 Fossum Hannibal E. University of South-Eastern Norway Åkervik Espen University of South-Eastern Norway Bjerketvedt Dag University of South-Eastern Norway,AUTHOR
+459,432,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+460,433,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+461,434,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+462,435,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+463,436,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+464,437,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+465,438,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+466,439,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+467,440,"Venås, Gizem Ateş Western Norway University of Applied Sciences ORCID https://orcid.org/0000-0003-1717-2944",AUTHOR
+468,441,"Nguyen-Hoang, Nam-Du University of Agder ORCID https://orcid.org/0000-0001-8104-7553 huynh, Van Khang University of Agder ORCID https://orcid.org/0000-0002-0480-6859 Robbersmyr, Kjell G. University of Agder ORCID https://orcid.org/0000-0001-9578-7325",AUTHOR
+469,442,"Nguyen-Hoang, Nam-Du University of Agder ORCID https://orcid.org/0000-0001-8104-7553 huynh, Van Khang University of Agder ORCID https://orcid.org/0000-0002-0480-6859 Robbersmyr, Kjell G. University of Agder ORCID https://orcid.org/0000-0001-9578-7325",AUTHOR
+470,443,"Nguyen-Hoang, Nam-Du University of Agder ORCID https://orcid.org/0000-0001-8104-7553 huynh, Van Khang University of Agder ORCID https://orcid.org/0000-0002-0480-6859 Robbersmyr, Kjell G. University of Agder ORCID https://orcid.org/0000-0001-9578-7325",AUTHOR
+471,444,"Nguyen-Hoang, Nam-Du University of Agder ORCID https://orcid.org/0000-0001-8104-7553 huynh, Van Khang University of Agder ORCID https://orcid.org/0000-0002-0480-6859 Robbersmyr, Kjell G. University of Agder ORCID https://orcid.org/0000-0001-9578-7325",AUTHOR
+472,445,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+473,446,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+474,447,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+475,448,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+476,449,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+477,450,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+478,451,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+479,452,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+480,453,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+481,454,"De Timmerman, Romeo Ghent University ORCID 0000-0003-4395-4755",AUTHOR
+482,455,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+483,456,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+484,457,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+485,458,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+486,459,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+487,460,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+488,461,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+489,462,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+490,463,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+491,464,Haugen Rune Andre University of South-Eastern Norway ORCID 0000-0002-5567-3179 Kokkula Satyanarayana (Satya) University of South-Eastern Norway Ghaderi Ali University of South-Eastern Norway Muller Gerrit J. University of South-Eastern Norway Syverud Elisabet University of South-Eastern Norway,AUTHOR
+492,465,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+493,466,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+494,467,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+495,468,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+496,469,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+497,470,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+498,471,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+499,472,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+500,473,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+501,474,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+502,475,"Krause, Jeffrey W. Dauphin Island Sea Lab ORCID 0000-0003-2479-6229",AUTHOR
+503,476,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+504,477,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+505,478,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+506,479,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+507,480,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+508,481,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+509,482,"Panieri, Giuliana UiT The Arctic University of Norway ORCID 0000-0001-9411-1729 Argentino, Claudio UiT The Arctic University of Norway ORCID 0000-0003-2680-4528 Savini, Alessandra University of Milano-Bicocca ORCID 0000-0002-5818-5947",AUTHOR
+510,483,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+511,484,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+512,485,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+513,486,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+514,487,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+515,488,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+516,489,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+517,490,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+518,491,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+519,492,"Lønøy, Bjarte NORCE Norwegian Research Centre ORCID 0000-0003-1900-9999 Tveranger, Jan NORCE Norwegian Research Centre ORCID 0000-0003-3645-7996 Pennos, Christos University of Bergen ORCID 0000-0001-9722-2766 Fikos, Ilias Aristotle University of Thessaloniki ORCID 0000-0002-8321-9117 Vargemezis, George Aristotle University of Thessaloniki ORCID 0000-0003-2572-3072 Lauritzen, Stein-Erik University of Bergen ORCID 0000-0002-6901-633X",AUTHOR
+520,493,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+521,494,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+522,495,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+523,496,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+524,497,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+525,498,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+526,499,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+527,500,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+528,501,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+529,502,"Skulberg, Arne Kristian NTNU ORCID 0000-0002-1735-4820 Dale, Ola NTNU",AUTHOR
+530,503,"Conti, Daniela CREDA Onlus - ORCID:",AUTHOR
+531,504,"Conti, Daniela CREDA Onlus - ORCID:",AUTHOR
+532,505,"Conti, Daniela CREDA Onlus - ORCID:",AUTHOR
+533,506,"Conti, Daniela CREDA Onlus - ORCID:",AUTHOR
+534,507,"Helle, Christine University of Agder ORCID 0000-0002-2113-9218 Hillesund, Elisabet R. University of Agder ORCID 0000-0003-0757-1861 Øverby, Nina C. University of Agder ORCID 0000-0002-1871-041X",AUTHOR
+535,508,Kulset Ellen Hiorth Marthinsen University of South-Eastern Norway,AUTHOR
+536,509,Kulset Ellen Hiorth Marthinsen University of South-Eastern Norway,AUTHOR
+537,510,"Wabakken Hognestad, Bente Norwegian University of Life Sciences (NMBU) ORCID 0009-0001-4954-9710",AUTHOR
+538,511,"Wabakken Hognestad, Bente Norwegian University of Life Sciences (NMBU) ORCID 0009-0001-4954-9710",AUTHOR
+539,512,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+540,513,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+541,514,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+542,515,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+543,516,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+544,517,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+545,518,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+546,519,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+547,520,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+548,521,"Koehl, Jean-Baptiste UiT The Arctic University of Norway ORCID 0000-0001-7189-1988",AUTHOR
+549,522,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+550,523,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+551,524,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+552,525,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+553,526,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+554,527,"Halse, Askill H. Institute of Transport Economics ORCID 0000-0002-0892-4158 Flügel, Stefan Institute of Transport Economics ORCID 0000-0002-3524-2865 Kouwenhoven, Marco Significance ORCID 0000-0001-7589-4924 de Jong, Gerard Significance ORCID 0000-0003-3405-6523 Sundfør, Hanne B. Institute of Transport Economics ORCID 0000-0003-1864-1917 Hulleberg, Nina Institute of Transport Economics ORCID 0000-0001-6042-7274 Jordbakke, Guri N. Institute of Transport Economics ORCID 0000-0003-1622-8395 Lindhjem, Henrik Menon Centre for Environmental and Resource Economics ORCID 0000-0003-2206-3603",AUTHOR
+555,528,"Jaber, Tahrir UiT The Arctic University of Norway ORCID 0000-0002-0428-1810 Oftedal, Elin Merethe UiT The Arctic University of Norway ORCID 0000-0002-1497-4194",AUTHOR
+556,529,"Jaber, Tahrir UiT The Arctic University of Norway ORCID 0000-0002-0428-1810 Oftedal, Elin Merethe UiT The Arctic University of Norway ORCID 0000-0002-1497-4194",AUTHOR
+557,530,"Jaber, Tahrir UiT The Arctic University of Norway ORCID 0000-0002-0428-1810 Oftedal, Elin Merethe UiT The Arctic University of Norway ORCID 0000-0002-1497-4194",AUTHOR
+558,531,"Jaber, Tahrir UiT The Arctic University of Norway ORCID 0000-0002-0428-1810 Oftedal, Elin Merethe UiT The Arctic University of Norway ORCID 0000-0002-1497-4194",AUTHOR
+559,532,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+560,533,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+561,534,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+562,535,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+563,536,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+564,537,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+565,538,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+566,539,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+567,540,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+568,541,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+569,542,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+570,543,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+571,544,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+572,545,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+573,546,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+574,547,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+575,548,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+576,549,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+577,550,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+578,551,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+579,552,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+580,553,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+581,554,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+582,555,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+583,556,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+584,557,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+585,558,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+586,559,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+587,560,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+588,561,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+589,562,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+590,563,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+591,564,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+592,565,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+593,566,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+594,567,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+595,568,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+596,569,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+597,570,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+598,571,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+599,572,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+600,573,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+601,574,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+602,575,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+603,576,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+604,577,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+605,578,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+606,579,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+607,580,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+608,581,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+609,582,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+610,583,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+611,584,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+612,585,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+613,586,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+614,587,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+615,588,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+616,589,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+617,590,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+618,591,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+619,592,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+620,593,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+621,594,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+622,595,"Hermann, Roberto Rivas Nord University ORCID 0000-0003-3970-5481",AUTHOR
+623,596,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+624,597,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+625,598,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+626,599,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+627,600,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+628,601,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+629,602,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+630,603,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+631,604,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+632,605,"Hermann, Roberto Rivas Nord University Jensen, Are Nordlandforskning",AUTHOR
+633,606,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+634,607,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+635,608,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+636,609,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+637,610,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+638,611,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+639,612,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+640,613,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+641,614,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+642,615,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+643,616,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+644,617,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+645,618,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+646,619,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+647,620,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+648,621,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+649,622,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+650,623,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+651,624,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+652,625,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+653,626,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+654,627,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+655,628,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+656,629,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+657,630,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+658,631,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+659,632,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+660,633,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+661,634,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+662,635,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+663,636,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+664,637,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+665,638,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+666,639,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+667,640,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+668,641,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+669,642,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+670,643,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+671,644,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+672,645,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+673,646,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+674,647,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+675,648,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+676,649,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+677,650,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+678,651,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+679,652,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+680,653,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+681,654,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+682,655,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+683,656,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+684,657,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+685,658,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+686,659,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+687,660,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+688,661,"Busterud, Guro University of Oslo ORCID 0000-0002-7847-8579 Dahl, Anne NTNU Norwegian University of Science and Technology ORCID 0000-0002-6413-4193 Kush, Dave University of Toronto ORCID 0000-0002-2567-6440 Listhaug, Kjersti Faldet NTNU Norwegian University of Science and Technology ORCID 0000-0002-5998-740",AUTHOR
+689,662,"Nesset, Tore UiT The Arctic University of Norway ORCID 0000-0003-1308-3506 Sokolova, Svetlana UiT The Arctic University of Norway ORCID 0000-0002-1353-0452 Björklund, Martina Åbo Akademi University",AUTHOR
+690,663,"Nesset, Tore UiT The Arctic University of Norway ORCID 0000-0003-1308-3506 Sokolova, Svetlana UiT The Arctic University of Norway ORCID 0000-0002-1353-0452 Björklund, Martina Åbo Akademi University",AUTHOR
+691,664,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+692,665,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+693,666,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+694,667,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+695,668,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+696,669,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+697,670,"Khatri, Shumaila University of Inland Norway ORCID 0009-0005-7552-599X Sjølie, Hanne K. University of Inland Norway ORCID 0000-0001-8099-3521 Nyrud, Anders Q. Norwegian University of Life Sciences ORCID 0000-0002-1135-8628",AUTHOR
+698,671,"Khatri, Shumaila University of Inland Norway ORCID 0009-0005-7552-599X Sjølie, Hanne K. University of Inland Norway ORCID 0000-0001-8099-3521 Nyrud, Anders Q. Norwegian University of Life Sciences ORCID 0000-0002-1135-8628",AUTHOR
+699,672,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+700,673,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+701,674,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+702,675,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+703,676,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+704,677,"Baten, Kristof Ghent University ORCID 0000-0003-2125-8011 Van Hiel, Silke ORCID 0000-0002-6616-3959 De Cuypere, Ludovic Vrije Universiteit Brussel, Ghent University ORCID 0000-0002-0050-1097",AUTHOR
+705,678,"Baten, Kristof Ghent University ORCID 0000-0003-2125-8011 Van Hiel, Silke ORCID 0000-0002-6616-3959 De Cuypere, Ludovic Vrije Universiteit Brussel, Ghent University ORCID 0000-0002-0050-1097",AUTHOR
+706,679,"Baten, Kristof Ghent University ORCID 0000-0003-2125-8011 Van Hiel, Silke ORCID 0000-0002-6616-3959 De Cuypere, Ludovic Vrije Universiteit Brussel, Ghent University ORCID 0000-0002-0050-1097",AUTHOR
+707,680,"Jørgensen, Erlend Kirkeng UiT The Arctic University of Norway ORCID 0000-0002-8573-4489",AUTHOR
+708,681,"Jørgensen, Erlend Kirkeng UiT The Arctic University of Norway ORCID 0000-0002-8573-4489",AUTHOR
+709,682,"Jørgensen, Erlend Kirkeng UiT The Arctic University of Norway ORCID 0000-0002-8573-4489",AUTHOR
+710,683,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+711,684,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+712,685,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+713,686,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+714,687,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+715,688,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+716,689,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+717,690,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X,AUTHOR
+718,691,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+719,692,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+720,693,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+721,694,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+722,695,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+723,696,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+724,697,Barahmand Zahir University of South-Eastern Norway ORCID 0000-0001-9031-596X Eikeland Marianne Sørflaten University of South-Eastern Norway,AUTHOR
+725,698,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+726,699,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+727,700,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+728,701,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+729,702,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+730,703,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+731,704,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+732,705,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+733,706,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+734,707,"Romasanta, Raquel P. University of Santiago de Compostela ORCID 0000-0001-7508-4745",AUTHOR
+735,708,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+736,709,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+737,710,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+738,711,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+739,712,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+740,713,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+741,714,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+742,715,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+743,716,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+744,717,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+745,718,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+746,719,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+747,720,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+748,721,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+749,722,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+750,723,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+751,724,"Lorenz, David University of Rostock ORCID 0000-0002-7451-099X Tizón-Couto, David University of Vigo ORCID 0000-0003-0788-7954",AUTHOR
+752,725,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+753,726,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+754,727,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+755,728,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+756,729,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+757,730,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+758,731,"Barahmand, Zahir https://ror.org/05ecg5h20 ORCID https://orcid.org/0000-0001-9031-596X",AUTHOR
+759,732,"Hanssen, Thor-Erik Sandberg Nord University ORCID 0000-0002-9592-0701 Jørgensen, Finn Nord University ScopusID 7102352630",AUTHOR
+760,733,"Hanssen, Thor-Erik Sandberg Nord University ORCID 0000-0002-9592-0701 Jørgensen, Finn Nord University ScopusID 7102352630",AUTHOR
+761,734,"Hanssen, Thor-Erik Sandberg Nord University ORCID 0000-0002-9592-0701 Jørgensen, Finn Nord University ScopusID 7102352630",AUTHOR
