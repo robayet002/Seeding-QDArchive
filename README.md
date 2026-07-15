@@ -85,17 +85,17 @@ SEARCH_QUERIES = ["industry", "economy"]
 
 ## Project Structure
 
-| File | Status | Purpose |
-|------|--------|---------|
-| `config.py` | updated | Adds `PROJECT_TYPES`, `PRIMARY_DATA_EXTENSIONS`, `VALID_DATA_EXTENSIONS`, classification DB name/path, report/XLSX output paths |
-| `database.py` | updated | `projects.type` documented + CHECK-constrained to `PROJECT_TYPE` values; new tables `project_classification`, `file_classification`, `tags` (+ indexes) |
-| `taxonomy_isic.py` | **new** | UN ISIC taxonomy from <https://unstats.un.org/unsd/classifications/Econ/> — two levels: sections (A–U) and divisions (01–99), each division with a keyword lexicon |
-| `classifier.py` | **new** | `derive_project_type()` (file-type rules) and the keyword classifier `classify_text()` over base data + metadata; emits search tags |
-| `run_classification.py` | **new** | Pipeline: derive `PROJECT_TYPE` → classify `QDA_PROJECT`s then `QD_PROJECT`s (project + each primary data file), by repository → copy DB to the deliverable DB → print per-repository statistics |
-| `export_xlsx.py` | **new** | XLSX table: `repository_id, project_type, project_title, primary_class, secondary_class, no_project_files` |
-| `report_pdf.py` | **new** | PDF report per repository: vector histogram of primary classes (full class names as bin labels, counts atop bars), rank-ordered top-20 class table, comments |
-| `export_csv.py` | — | Exports all five core tables to CSV |
-| `main.py` | updated | Newly inserted projects default to `NOT_A_PROJECT`; classification + exports run automatically after harvesting |
+| File |  Purpose |
+|------|---------|
+| `config.py` | Adds `PROJECT_TYPES`, `PRIMARY_DATA_EXTENSIONS`, `VALID_DATA_EXTENSIONS`, classification DB name/path, report/XLSX output paths |
+| `database.py` | `projects.type` documented + CHECK-constrained to `PROJECT_TYPE` values; new tables `project_classification`, `file_classification`, `tags` (+ indexes) |
+| `taxonomy_isic.py` | UN ISIC taxonomy from <https://unstats.un.org/unsd/classifications/Econ/> — two levels: sections (A–U) and divisions (01–99), each division with a keyword lexicon |
+| `classifier.py` | `derive_project_type()` (file-type rules) and the keyword classifier `classify_text()` over base data + metadata; emits search tags |
+| `run_classification.py` | Pipeline: derive `PROJECT_TYPE` → classify `QDA_PROJECT`s then `QD_PROJECT`s (project + each primary data file), by repository → copy DB to the deliverable DB → print per-repository statistics |
+| `export_xlsx.py` | XLSX table: `repository_id, project_type, project_title, primary_class, secondary_class, no_project_files` |
+| `report_pdf.py` | PDF report per repository: vector histogram of primary classes (full class names as bin labels, counts atop bars), rank-ordered top-20 class table, comments |
+| `export_csv.py` | Exports all five core tables to CSV |
+| `main.py` | Newly inserted projects default to `NOT_A_PROJECT`; classification + exports run automatically after harvesting |
 
 ---
 
