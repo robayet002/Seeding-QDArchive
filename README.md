@@ -75,10 +75,10 @@ To change which search terms each scraper uses, edit the `SEARCH_QUERIES` list a
 
 ```python
 # scraper_sada.py
-SEARCH_QUERIES = ["science", "qualitative"]
+SEARCH_QUERIES = ["student", "science"]
 
 # scraper_dataverse.py
-SEARCH_QUERIES = ["student", "interview"]
+SEARCH_QUERIES = ["industry", "economy"]
 ```
 
 ---
